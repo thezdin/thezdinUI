@@ -1,0 +1,234 @@
+
+ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
+	["ChatEditHistory"] = {
+		"/elvui", -- [1]
+		"/plater", -- [2]
+		"/kiss", -- [3]
+		"/invite Amplifi", -- [4]
+		"/p we should watch this with him, he's being clingy", -- [5]
+		"/p i'm gonna log off", -- [6]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"Interrupted Grim Inquisitor's |cff71d5ff|Hspell:209263:0|h[Burning Gaze]|h|r!", -- [1]
+			"Úlfhédnar-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Úlfhédnar-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			675, -- [11]
+			"Player-3661-091D2FD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcÚlfhédnar|r",
+			[51] = 1660108987,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [1]
+		{
+			"Interrupted Eredar Supplicant's |cff71d5ff|Hspell:185299:0|h[Incinerate]|h|r!", -- [1]
+			"Úlfhédnar-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Úlfhédnar-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			694, -- [11]
+			"Player-3661-091D2FD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcÚlfhédnar|r",
+			[51] = 1660109043,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [2]
+		{
+			"Interrupted Eredar Supplicant's |cff71d5ff|Hspell:185299:0|h[Incinerate]|h|r!", -- [1]
+			"Úlfhédnar-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Úlfhédnar-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			702, -- [11]
+			"Player-3661-091D2FD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcÚlfhédnar|r",
+			[51] = 1660109055,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [3]
+		{
+			"Interrupted Valiyaka the Stormbringer's |cff71d5ff|Hspell:9672:0|h[Frostbolt]|h|r!", -- [1]
+			"Úlfhédnar-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Úlfhédnar-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			768, -- [11]
+			"Player-3661-091D2FD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcÚlfhédnar|r",
+			[51] = 1660109447,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [4]
+		{
+			"Interrupted Valiyaka the Stormbringer's |cff71d5ff|Hspell:182333:0|h[Localized Storm]|h|r!", -- [1]
+			"Úlfhédnar-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Úlfhédnar-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			769, -- [11]
+			"Player-3661-091D2FD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcÚlfhédnar|r",
+			[51] = 1660109461,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [5]
+		{
+			"Interrupted Burrowing Leyworm's |cff71d5ff|Hspell:9591:0|h[Acid Spit]|h|r!", -- [1]
+			"Úlfhédnar-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Úlfhédnar-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			787, -- [11]
+			"Player-3661-091D2FD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcÚlfhédnar|r",
+			[51] = 1660109593,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [6]
+		{
+			"Interrupted Burrowing Leyworm's |cff71d5ff|Hspell:9591:0|h[Acid Spit]|h|r!", -- [1]
+			"Úlfhédnar-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Úlfhédnar-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			801, -- [11]
+			"Player-3661-091D2FD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcÚlfhédnar|r",
+			[51] = 1660109630,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [7]
+		{
+			"Interrupted Burrowing Leyworm's |cff71d5ff|Hspell:9591:0|h[Acid Spit]|h|r!", -- [1]
+			"Úlfhédnar-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Úlfhédnar-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			859, -- [11]
+			"Player-3661-091D2FD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcÚlfhédnar|r",
+			[51] = 1660109751,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [8]
+		{
+			"we should watch this with him, he's being clingy", -- [1]
+			"Úlfhédnar-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Úlfhédnar-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			931, -- [11]
+			"Player-3661-091D2FD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcÚlfhédnar|r",
+			[51] = 1660109988,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [9]
+		{
+			"i'm gonna log off", -- [1]
+			"Úlfhédnar-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Úlfhédnar-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			932, -- [11]
+			"Player-3661-091D2FD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcÚlfhédnar|r",
+			[51] = 1660109991,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [10]
+	},
+}

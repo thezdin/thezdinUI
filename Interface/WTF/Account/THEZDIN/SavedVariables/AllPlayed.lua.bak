@@ -1,0 +1,57 @@
+
+AllPlayedDB = {
+	["global"] = {
+		["data"] = {
+			["Alliance"] = {
+				["Hyjal"] = {
+					["Thezdin"] = {
+						["seconds_played"] = 43058165,
+						["subzone_text"] = "Bloodmaul Slag Mines",
+						["zone_text"] = "Frostfire Ridge",
+						["race_loc"] = "Human",
+						["race"] = "Human",
+						["ilevel"] = 385.8125,
+						["level"] = 70,
+						["xp"] = 0,
+						["last_update"] = 1673283688,
+						["class_loc"] = "Warrior",
+						["guild"] = "Sacrifice",
+						["max_rested_xp"] = 150000000,
+						["seconds_played_last_update"] = 1673283688,
+						["class"] = "WARRIOR",
+					},
+					["Thezidari"] = {
+						["guild"] = "Sacrifice",
+						["subzone_text"] = "Wild Preserve",
+						["zone_text"] = "The Waking Shores",
+						["race_loc"] = "Night Elf",
+						["race"] = "NightElf",
+						["ilevel"] = 260.9375,
+						["level"] = 61,
+						["class"] = "DEMONHUNTER",
+						["xp"] = 22459,
+						["last_update"] = 1673849597,
+						["class_loc"] = "Demon Hunter",
+						["rested_xp"] = 269472,
+						["max_rested_xp"] = 321810,
+						["seconds_played_last_update"] = 1673849597,
+						["seconds_played"] = 251914,
+					},
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Thezkin - Hyjal"] = "Default",
+		["Thezidari - Hyjal"] = "Default",
+		["Thezadin - Hyjal"] = "Default",
+		["Thezdin - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
+		["Thezfu - Hyjal"] = "Default",
+		["Sigurdsson - Hyjal"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

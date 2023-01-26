@@ -1,0 +1,29 @@
+
+MountFarmHelperDB = {
+	["profileKeys"] = {
+		["Úlfhédnar - Hyjal"] = "Default",
+		["Foulfellow - Hyjal"] = "Default",
+		["Thezdiran - Hyjal"] = "Default",
+		["Thezadin - Hyjal"] = "Default",
+		["Thezdinson - Hyjal"] = "Default",
+		["Sigurdsson - Hyjal"] = "Default",
+		["Thezfu - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
+		["Thezzlybear - Hyjal"] = "Default",
+		["Thezknight - Hyjal"] = "Default",
+		["Thezidari - Hyjal"] = "Default",
+		["Thezbear - Turalyon"] = "Default",
+		["Thezdin - Hyjal"] = "Default",
+		["Thezdemon - Hyjal"] = "Default",
+		["Úlfheðnar - Hyjal"] = "Default",
+		["Thezfu - Turalyon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimap"] = {
+				["minimapPos"] = 107.1456034308167,
+				["hide"] = true,
+			},
+		},
+	},
+}

@@ -1,0 +1,6 @@
+
+zoneMountSettings = {
+	["hideInfo"] = false,
+	["hideWarnings"] = false,
+	["favsOnly"] = false,
+}

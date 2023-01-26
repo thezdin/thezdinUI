@@ -1,0 +1,2 @@
+MountsJournal_ElvUI_Skin: enabled
+MountJournalEnhanced: enabled

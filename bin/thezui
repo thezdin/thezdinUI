@@ -1,0 +1,53 @@
+#!/usr/bin/env python
+from __future__ import annotations
+from dotenv import load_dotenv
+
+import argparse
+import os
+from collections.abc import Sequence
+
+load_dotenv()
+
+WOW_PATH = os.getenv('WOW_PATH')
+CHARACTER = os.getenv('CHARACTER')
+SERVER = os.getenv('SERVER')
+
+def main(argv: Sequence[str] | None = None) -> int:
+
+    parser = argparse.ArgumentParser()
+    # Add arguments here
+    args = parser.parse_args(argv)
+
+    dir = os.getcwd()
+    print("dir: " + dir)
+
+    # Implement behaviour here
+    print("Backing up Interface")
+    os.system('tar -zcvf /mnt/d/thezdinUI.tar.gz ' + WOW_PATH + '_retail_/WTF/')
+
+    print("Copying Interface Settings")    
+    os.system('cp -R ' + WOW_PATH + '_retail_/WTF/* Interface/WTF')
+
+    print("Fetching latest ElvUI")
+    os.system('git -C ~/code/ElvUI checkout main')
+    os.system('git -C ~/code/ElvUI reset --hard')
+    os.system('git -C ~/code/ElvUI pull')
+    
+    print("Updating World of Warcraft ElvUI version")
+    os.system('cp -R ~/code/ElvUI/* ' + WOW_PATH + '_retail_/Interface/Addons/')
+    
+    print("ElvUI Updated!")
+    
+    print("Clearing Errors Directory")
+    os.system('rm -rf ' + WOW_PATH + '_retail_/Errors/*')
+    
+    print("Clearing Cache")
+    os.system('rm -rf ' + WOW_PATH + '_retail_/Cache/*')
+    
+    print("Clearing Logs")
+    os.system('rm -rf ' + WOW_PATH + '_retail_/Logs/*')
+
+    return 0
+
+if __name__ == "__main__":
+    raise SystemExit(main())

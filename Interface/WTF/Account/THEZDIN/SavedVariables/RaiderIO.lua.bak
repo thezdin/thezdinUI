@@ -1,0 +1,53 @@
+
+RaiderIO_Config = {
+	["useEnglishAbbreviations"] = false,
+	["enableKeystoneTooltips"] = true,
+	["disableScoreColors"] = false,
+	["showMainBestScore"] = true,
+	["allowClientToControlCombatLog"] = true,
+	["inverseProfileModifier"] = false,
+	["showRaiderIOProfile"] = true,
+	["enableCombatLogTracking"] = false,
+	["showScoreInCombat"] = true,
+	["lockProfile"] = false,
+	["enableUnitTooltips"] = true,
+	["enableWhoTooltips"] = true,
+	["enableLFGDropdown"] = true,
+	["enableGuildTooltips"] = true,
+	["enableClientEnhancements"] = true,
+	["mplusHeadlineMode"] = 1,
+	["enableProfileModifier"] = true,
+	["positionProfileAuto"] = true,
+	["showMainsScore"] = true,
+	["enableFriendsTooltips"] = true,
+	["showRaidEncountersInProfile"] = true,
+	["showDropDownCopyURL"] = true,
+	["showAverageScore"] = true,
+	["enableLFGTooltips"] = true,
+	["showScoreModifier"] = false,
+	["showRoleIcons"] = true,
+	["enableWhoMessages"] = true,
+	["showSimpleScoreColors"] = false,
+	["hidePersonalRaiderIOProfile"] = false,
+	["showClientGuildBest"] = true,
+}
+RaiderIO_LastCharacter = "us-Thezidari-hyjal"
+RaiderIO_MissingCharacters = {
+	["us-Kannika-hyjal"] = true,
+	["us-Azenazen-hyjal"] = true,
+	["us-Thezidari-hyjal"] = true,
+	["us-Khelluus-hyjal"] = true,
+	["us-Veln-hyjal"] = true,
+	["us-Valerius-hyjal"] = true,
+	["us-Fimbulflit-hyjal"] = true,
+	["us-Krezkin-hyjal"] = true,
+	["us-Nonek-hyjal"] = true,
+	["us-Lunvalgosa-hyjal"] = true,
+	["us-Steezzy-hyjal"] = true,
+	["us-Bubblemenot-hyjal"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
