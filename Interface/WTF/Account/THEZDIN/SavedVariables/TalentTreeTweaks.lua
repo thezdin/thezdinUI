@@ -6,21 +6,21 @@ TalentTreeTweaksDB = {
 		["InspectDiff"] = {
 			["colorGreen"] = {
 				["a"] = 0.58,
-				["r"] = 0,
-				["g"] = 1,
 				["b"] = 0.3,
+				["g"] = 1,
+				["r"] = 0,
 			},
 			["colorYellow"] = {
 				["a"] = 0.75,
-				["r"] = 1,
-				["g"] = 0.67,
 				["b"] = 0,
+				["g"] = 0.67,
+				["r"] = 1,
 			},
 			["colorRed"] = {
 				["a"] = 0.5,
-				["r"] = 1,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 1,
 			},
 			["enableTalentTreeViewerDiff"] = true,
 		},
@@ -34,41 +34,6 @@ TalentTreeTweaksDB = {
 			["showAlphaInUI"] = true,
 			["alpha"] = 1,
 			["showAlphaInViewerUI"] = true,
-		},
-		["ImportIntoCurrentLoadout"] = {
-			["defaultCheckboxState"] = false,
-			["unlockImportButton"] = true,
-		},
-		["UnlockRestrictions"] = {
-			["unlockInCombatSpending"] = true,
-			["unlockShareButton"] = true,
-		},
-		["HighlightCascadeRepurchable"] = {
-			["color"] = {
-				["a"] = 0.5,
-				["r"] = 0,
-				["g"] = 0,
-				["b"] = 1,
-			},
-		},
-		["ScaleTalentFrame"] = {
-			["scale"] = 1,
-		},
-		["ReduceTaint"] = {
-		},
-		["DebugNodeInfo"] = {
-			["addButtonToTable"] = true,
-			["luaBrowser"] = true,
-			["slashDump"] = false,
-			["viragDevTool"] = true,
-			["tinspect"] = true,
-		},
-		["RespecButtons"] = {
-		},
-		["ExportInspectedBuild"] = {
-		},
-		["MiscFixes"] = {
-			["fixButtonMouseOver"] = true,
 		},
 		["TooltipIds"] = {
 			["professionTooltip"] = {
@@ -85,6 +50,41 @@ TalentTreeTweaksDB = {
 				["definitionId"] = false,
 				["entryId"] = true,
 			},
+		},
+		["HighlightCascadeRepurchable"] = {
+			["color"] = {
+				["a"] = 0.5,
+				["b"] = 1,
+				["g"] = 0,
+				["r"] = 0,
+			},
+		},
+		["UnlockRestrictions"] = {
+			["unlockShareButton"] = true,
+			["unlockInCombatSpending"] = true,
+		},
+		["ExportInspectedBuild"] = {
+		},
+		["DebugNodeInfo"] = {
+			["addButtonToTable"] = true,
+			["luaBrowser"] = true,
+			["slashDump"] = false,
+			["viragDevTool"] = true,
+			["tinspect"] = true,
+		},
+		["ReduceTaint"] = {
+		},
+		["RespecButtons"] = {
+		},
+		["ScaleTalentFrame"] = {
+			["scale"] = 1,
+		},
+		["MiscFixes"] = {
+			["fixButtonMouseOver"] = true,
+		},
+		["ImportIntoCurrentLoadout"] = {
+			["defaultCheckboxState"] = false,
+			["unlockImportButton"] = true,
 		},
 	},
 }

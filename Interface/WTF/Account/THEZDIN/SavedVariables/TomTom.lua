@@ -6,17 +6,17 @@ TomTomDB = {
 		["Thezdiran - Hyjal"] = "Default",
 		["Thezadin - Hyjal"] = "Default",
 		["Thezman - Hyjal"] = "Default",
-		["Thezdinson - Hyjal"] = "Default",
-		["Sigurdsson - Hyjal"] = "Default",
+		["Thezkin - Hyjal"] = "Default",
 		["Thez - Hyjal"] = "Default",
-		["Thezadin - Mannoroth"] = "Default",
-		["Thezdemon - Hyjal"] = "Default",
+		["Sigurdsson - Hyjal"] = "Default",
+		["Thezfu - Turalyon"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
+		["Thezdemon - Hyjal"] = "Default",
 		["Thezbear - Turalyon"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
-		["Thezfu - Turalyon"] = "Default",
+		["Thezadin - Mannoroth"] = "Default",
 		["Úlfheðnar - Hyjal"] = "Default",
-		["Thezkin - Hyjal"] = "Default",
+		["Thezdinson - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -52,17 +52,17 @@ TomTomWaypointsM = {
 		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
-		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
-		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thez - Hyjal"] = "Thez - Hyjal",
-		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
-		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
+		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
 		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
+		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
 		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 	},
 	["profiles"] = {
 		["Úlfhédnar - Hyjal"] = {
@@ -75,13 +75,15 @@ TomTomWaypointsM = {
 		},
 		["Thezman - Hyjal"] = {
 		},
-		["Thezdinson - Hyjal"] = {
-		},
-		["Sigurdsson - Hyjal"] = {
+		["Thezkin - Hyjal"] = {
 		},
 		["Thez - Hyjal"] = {
 		},
-		["Thezadin - Mannoroth"] = {
+		["Sigurdsson - Hyjal"] = {
+		},
+		["Thezfu - Turalyon"] = {
+		},
+		["Thezidari - Hyjal"] = {
 		},
 		["Thezdemon - Hyjal"] = {
 			[1970] = {
@@ -100,9 +102,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -123,9 +125,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -146,9 +148,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -169,9 +171,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -192,9 +194,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -215,101 +217,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
 						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1970:516000000:99000000:(Fallen Vault)"] = {
-					1970, -- [1]
-					0.516, -- [2]
-					0.099, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "(Fallen Vault)",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "(Fallen Vault)",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
 						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1970:568000000:642000000:(Crushed Supply Crate)"] = {
-					1970, -- [1]
-					0.568, -- [2]
-					0.642, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "(Crushed Supply Crate)",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "(Crushed Supply Crate)",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1970:383000000:372000000:(Damaged Jiro Stash)"] = {
-					1970, -- [1]
-					0.383, -- [2]
-					0.3720000000000001, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "(Damaged Jiro Stash)",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "(Damaged Jiro Stash)",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1970:605000000:305000000:(Mawsworn Cache)"] = {
-					1970, -- [1]
-					0.605, -- [2]
-					0.305, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "(Mawsworn Cache)",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "(Mawsworn Cache)",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -330,9 +240,101 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
+						["minimap"] = {
+						},
 						["world"] = {
 						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1970:568000000:642000000:(Crushed Supply Crate)"] = {
+					1970, -- [1]
+					0.568, -- [2]
+					0.642, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "(Crushed Supply Crate)",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "(Crushed Supply Crate)",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
 						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1970:383000000:372000000:(Damaged Jiro Stash)"] = {
+					1970, -- [1]
+					0.383, -- [2]
+					0.3720000000000001, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "(Damaged Jiro Stash)",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "(Damaged Jiro Stash)",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1970:605000000:305000000:(Mawsworn Cache)"] = {
+					1970, -- [1]
+					0.605, -- [2]
+					0.305, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "(Mawsworn Cache)",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "(Mawsworn Cache)",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1970:516000000:99000000:(Fallen Vault)"] = {
+					1970, -- [1]
+					0.516, -- [2]
+					0.099, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "(Fallen Vault)",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "(Fallen Vault)",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -353,9 +355,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -376,9 +378,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -386,23 +388,21 @@ TomTomWaypointsM = {
 				},
 			},
 		},
-		["Thezidari - Hyjal"] = {
-		},
 		["Thezbear - Turalyon"] = {
 		},
 		["Thezdin - Hyjal"] = {
-			[1543] = {
-				["1543:319000000:425000000:Gubbins 3"] = {
-					1543, -- [1]
-					0.319, -- [2]
-					0.425, -- [3]
+			[1533] = {
+				["1533:377000000:275000000:Darkened Wyrmling"] = {
+					1533, -- [1]
+					0.377, -- [2]
+					0.275, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Gubbins 3",
+					["desc"] = "Darkened Wyrmling",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Gubbins 3",
+					["title"] = "Darkened Wyrmling",
 					["from"] = "TomTom/way",
 					["callbacks"] = {
 						["distance"] = {
@@ -423,17 +423,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["1543:206000000:695000000:Exos, Herald of Domination"] = {
-					1543, -- [1]
-					0.206, -- [2]
-					0.695, -- [3]
+				["1533:480000000:778000000:Soulwing Flitter"] = {
+					1533, -- [1]
+					0.48, -- [2]
+					0.778, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Exos, Herald of Domination",
+					["desc"] = "Soulwing Flitter",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Exos, Herald of Domination",
+					["title"] = "Soulwing Flitter",
 					["from"] = "TomTom/way",
 					["callbacks"] = {
 						["distance"] = {
@@ -454,48 +454,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["1543:364000000:438000000:Forge 4"] = {
-					1543, -- [1]
-					0.364, -- [2]
-					0.4379999999999999, -- [3]
+				["1533:549000000:135000000:Dreadfur Kit"] = {
+					1533, -- [1]
+					0.5489999999999999, -- [2]
+					0.135, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Forge 4",
+					["desc"] = "Dreadfur Kit",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Forge 4",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1543:325000000:413000000:Forge 5"] = {
-					1543, -- [1]
-					0.325, -- [2]
-					0.413, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Forge 5",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Forge 5",
+					["title"] = "Dreadfur Kit",
 					["from"] = "TomTom/way",
 					["callbacks"] = {
 						["distance"] = {
@@ -550,50 +519,19 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
-			[1666] = {
-				["1666:362000000:228000000:Anima Shard"] = {
-					1666, -- [1]
-					0.362, -- [2]
-					0.228, -- [3]
+			[1960] = {
+				["1960:662500000:555800000:Deomen the Vortex"] = {
+					1960, -- [1]
+					0.6625, -- [2]
+					0.5558, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Anima Shard",
+					["desc"] = "Deomen the Vortex",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Anima Shard",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1666:525000000:886000000:Anima Shard"] = {
-					1666, -- [1]
-					0.525, -- [2]
-					0.886, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Anima Shard",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Anima Shard",
-					["from"] = "?",
+					["title"] = "Deomen the Vortex",
+					["from"] = "TomTom/way",
 					["callbacks"] = {
 						["distance"] = {
 							[10] = nil --[[ skipped inline function ]],
@@ -959,19 +897,19 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
-			[1533] = {
-				["1533:377000000:275000000:Darkened Wyrmling"] = {
-					1533, -- [1]
-					0.377, -- [2]
-					0.275, -- [3]
+			[1666] = {
+				["1666:362000000:228000000:Anima Shard"] = {
+					1666, -- [1]
+					0.362, -- [2]
+					0.228, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Darkened Wyrmling",
+					["desc"] = "Anima Shard",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Darkened Wyrmling",
-					["from"] = "TomTom/way",
+					["title"] = "Anima Shard",
+					["from"] = "?",
 					["callbacks"] = {
 						["distance"] = {
 							[10] = nil --[[ skipped inline function ]],
@@ -991,49 +929,18 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["1533:480000000:778000000:Soulwing Flitter"] = {
-					1533, -- [1]
-					0.48, -- [2]
-					0.778, -- [3]
+				["1666:525000000:886000000:Anima Shard"] = {
+					1666, -- [1]
+					0.525, -- [2]
+					0.886, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Soulwing Flitter",
+					["desc"] = "Anima Shard",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Soulwing Flitter",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1533:549000000:135000000:Dreadfur Kit"] = {
-					1533, -- [1]
-					0.5489999999999999, -- [2]
-					0.135, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Dreadfur Kit",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Dreadfur Kit",
-					["from"] = "TomTom/way",
+					["title"] = "Anima Shard",
+					["from"] = "?",
 					["callbacks"] = {
 						["distance"] = {
 							[10] = nil --[[ skipped inline function ]],
@@ -1087,18 +994,111 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
-			[1960] = {
-				["1960:662500000:555800000:Deomen the Vortex"] = {
-					1960, -- [1]
-					0.6625, -- [2]
-					0.5558, -- [3]
+			[1543] = {
+				["1543:364000000:438000000:Forge 4"] = {
+					1543, -- [1]
+					0.364, -- [2]
+					0.4379999999999999, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Deomen the Vortex",
+					["desc"] = "Forge 4",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Deomen the Vortex",
+					["title"] = "Forge 4",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1543:206000000:695000000:Exos, Herald of Domination"] = {
+					1543, -- [1]
+					0.206, -- [2]
+					0.695, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Exos, Herald of Domination",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Exos, Herald of Domination",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1543:319000000:425000000:Gubbins 3"] = {
+					1543, -- [1]
+					0.319, -- [2]
+					0.425, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Gubbins 3",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Gubbins 3",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1543:325000000:413000000:Forge 5"] = {
+					1543, -- [1]
+					0.325, -- [2]
+					0.413, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Forge 5",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Forge 5",
 					["from"] = "TomTom/way",
 					["callbacks"] = {
 						["distance"] = {
@@ -1121,11 +1121,11 @@ TomTomWaypointsM = {
 				},
 			},
 		},
-		["Thezfu - Turalyon"] = {
+		["Thezadin - Mannoroth"] = {
 		},
 		["Úlfheðnar - Hyjal"] = {
 		},
-		["Thezkin - Hyjal"] = {
+		["Thezdinson - Hyjal"] = {
 		},
 	},
 }

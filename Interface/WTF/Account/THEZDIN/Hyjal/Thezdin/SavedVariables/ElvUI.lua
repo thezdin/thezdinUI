@@ -2,2205 +2,2205 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p yes plz", -- [1]
-		"/p thx!", -- [2]
-		"/p hey!", -- [3]
-		"/p hey, np", -- [4]
-		"/p first boss plz don't drop bombs on inner circle :)", -- [5]
-		"/p sure", -- [6]
-		"/p need help interrupts too", -- [7]
-		"/p 7-8ish", -- [8]
-		"/p actually", -- [9]
-		"/p 6-7, i'm low ilvl :(", -- [10]
-		"/p wtf happened there lol", -- [11]
-		"/p lol not by me", -- [12]
-		"/p we got time hustle up", -- [13]
-		"/p 3 mins we can do it", -- [14]
-		"/p gj!", -- [15]
-		"/p anyone need neck?", -- [16]
-		"/p Thanks for the carry Manukka lol", -- [17]
-		"/p any time", -- [18]
-		"/reloadui", -- [19]
-		"/elvui", -- [20]
+		"/p yeah i'll get the big pat first, we'll lust on that", -- [1]
+		"/p 2 stack", -- [2]
+		"/p careful", -- [3]
+		"/p ow", -- [4]
+		"/p potato tank", -- [5]
+		"/p holy shit that scared me", -- [6]
+		"/p LUST P2", -- [7]
+		"/p we're short 1", -- [8]
+		"/p perfect", -- [9]
+		"/p sorry lol", -- [10]
+		"/p poly skull", -- [11]
+		"/p silence X", -- [12]
+		"/p clump on me in middle", -- [13]
+		"/p awesome", -- [14]
+		"/p I do need it, sorry", -- [15]
+		"/p you see my ilvl? I'm a noob", -- [16]
+		"/g |cffa335ee|Hitem:197921::::::::70:73:::::::::|h[Primal Infusion]|h|r", -- [17]
+		"/invite Seyka", -- [18]
+		"/p why :/", -- [19]
+		"/p Definitely was Heroic :P", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Yes chef!", -- [1]
-			"Tandraesse-Hyjal", -- [2]
+			"clump on me in middle", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tandraesse-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			412, -- [11]
-			"Player-3661-07CA3148", -- [12]
+			2644, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Tandraesse|r",
-			[51] = 1674694993,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717724,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [1]
 		{
-			"Yes chef!", -- [1]
-			"Brandargon-Hyjal", -- [2]
+			"just stay at it", -- [1]
+			"Holyshït-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Brandargon-Hyjal", -- [5]
+			"Holyshït-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			413, -- [11]
-			"Player-3661-0926CF51", -- [12]
+			2645, -- [11]
+			"Player-3684-0DCE473F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fBrandargon|r",
-			[51] = 1674694994,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffHolyshït-Mal'Ganis|r",
+			[51] = 1674717728,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [2]
 		{
-			"Yes chef!", -- [1]
-			"Xaphyre-Hyjal", -- [2]
+			"Iron Spear on Anambush", -- [1]
+			"Anambush-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Xaphyre-Hyjal", -- [5]
+			"Anambush-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			414, -- [11]
-			"Player-3661-06D7CED9", -- [12]
+			2648, -- [11]
+			"Player-57-0B4DB054", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebXaphyre|r",
-			[51] = 1674694996,
+			[52] = "|cfffff468Anambush-Illidan|r",
+			[51] = 1674717759,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"Yes chef!", -- [1]
-			"Smeatball-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Smeatball-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			418, -- [11]
-			"Player-3661-084E1E17", -- [12]
+			2657, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddSmeatball|r",
-			[51] = 1674695005,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717799,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"Yes chef!", -- [1]
-			"Herris-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Herris-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			421, -- [11]
-			"Player-3661-06DAC4D3", -- [12]
+			2658, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aHerris|r",
-			[51] = 1674695009,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674717799,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"Yes chef!", -- [1]
-			"Foofighter-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Anambush-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Foofighter-Hyjal", -- [5]
+			"Anambush-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			422, -- [11]
-			"Player-3661-07DE6823", -- [12]
+			2659, -- [11]
+			"Player-57-0B4DB054", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaFoofighter|r",
-			[51] = 1674695010,
+			[52] = "|cfffff468Anambush-Illidan|r",
+			[51] = 1674717799,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"Yes chef!", -- [1]
-			"Tanlathan-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tanlathan-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			424, -- [11]
-			"Player-3661-06DA81FE", -- [12]
+			2661, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTanlathan|r",
-			[51] = 1674695014,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717800,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"Yes chef!", -- [1]
-			"Kovaxxalyra-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kovaxxalyra-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			425, -- [11]
-			"Player-3661-09269CC8", -- [12]
+			2664, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fKovaxxalyra|r",
-			[51] = 1674695016,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717802,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"Yes chef!", -- [1]
-			"Gnari-Hyjal", -- [2]
+			"Interrupted Nokhud Stormcaster's |cff71d5ff|Hspell:376725:0|h[Storm Bolt]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gnari-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			427, -- [11]
-			"Player-3661-08B9384F", -- [12]
+			2665, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aGnari|r",
-			[51] = 1674695018,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717802,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [9]
 		{
-			"Yes chef!", -- [1]
-			"Lexilari-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lexilari-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			429, -- [11]
-			"Player-3661-0812D04D", -- [12]
+			2668, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLexilari|r",
-			[51] = 1674695021,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717803,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"Yes chef!", -- [1]
-			"Veghar-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Holyshït-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Veghar-Hyjal", -- [5]
+			"Holyshït-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			433, -- [11]
-			"Player-3661-092689A2", -- [12]
+			2669, -- [11]
+			"Player-3684-0DCE473F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVeghar|r",
-			[51] = 1674695025,
+			[52] = "|cffffffffHolyshït-Mal'Ganis|r",
+			[51] = 1674717803,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"Yes chef!", -- [1]
-			"Aapia-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Anambush-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Aapia-Hyjal", -- [5]
+			"Anambush-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			435, -- [11]
-			"Player-3661-07E51464", -- [12]
+			2670, -- [11]
+			"Player-57-0B4DB054", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeAapia|r",
-			[51] = 1674695027,
+			[52] = "|cfffff468Anambush-Illidan|r",
+			[51] = 1674717803,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"Yes chef!", -- [1]
-			"Jichne-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jichne-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			437, -- [11]
-			"Player-3661-07FC89A8", -- [12]
+			2672, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Jichne|r",
-			[51] = 1674695028,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717805,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"Yes chef!", -- [1]
-			"Beauiscute-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Beauiscute-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			440, -- [11]
-			"Player-3661-092D2347", -- [12]
+			2673, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Beauiscute|r",
-			[51] = 1674695032,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717806,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"Yes chef!", -- [1]
-			"Avgvstvs-Hyjal", -- [2]
+			"{rt7}5", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Avgvstvs-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			443, -- [11]
-			"Player-3661-06DB4386", -- [12]
+			2674, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffAvgvstvs|r",
-			[51] = 1674695096,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717809,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [15]
 		{
-			"Yes chef!", -- [1]
-			"Acaetroh-Hyjal", -- [2]
+			"{rt7}5", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Acaetroh-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			446, -- [11]
-			"Player-3661-08E6DA11", -- [12]
+			2675, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeAcaetroh|r",
-			[51] = 1674695097,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674717809,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [16]
 		{
-			"Yes chef!", -- [1]
-			"Jaraharts-Dragonmaw", -- [2]
+			"{rt7}4", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jaraharts-Dragonmaw", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			448, -- [11]
-			"Player-84-0513F3B7", -- [12]
+			2676, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Jaraharts-Dragonmaw|r",
-			[51] = 1674695041,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717810,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [17]
 		{
-			"Yes chef!", -- [1]
-			"Wyldpawz-Hyjal", -- [2]
+			"{rt7}4", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wyldpawz-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			449, -- [11]
-			"Player-3661-08E9FBC5", -- [12]
+			2677, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Wyldpawz|r",
-			[51] = 1674695041,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674717810,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [18]
 		{
-			"Yes chef!", -- [1]
-			"Truewitch-Hyjal", -- [2]
+			"{rt7}3", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Truewitch-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			450, -- [11]
-			"Player-3661-0921A345", -- [12]
+			2678, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeTruewitch|r",
-			[51] = 1674695042,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674717811,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [19]
 		{
-			"Yes chef!", -- [1]
-			"Balìan-Hyjal", -- [2]
+			"{rt7}3", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Balìan-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			451, -- [11]
-			"Player-3661-08764DCD", -- [12]
+			2679, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBalìan|r",
-			[51] = 1674695042,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717811,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [20]
 		{
-			"Yes chef!", -- [1]
-			"Astaril-Hyjal", -- [2]
+			"{rt7}2", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Astaril-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			452, -- [11]
-			"Player-3661-09076B57", -- [12]
+			2680, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffAstaril|r",
-			[51] = 1674695043,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717812,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [21]
 		{
-			"Yes chef!", -- [1]
-			"Kittycay-Hyjal", -- [2]
+			"{rt7}2", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kittycay-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			459, -- [11]
-			"Player-3661-092C5048", -- [12]
+			2681, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aKittycay|r",
-			[51] = 1674695058,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674717812,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [22]
 		{
-			"Yes chef!", -- [1]
-			"Mâttdaemon-Hyjal", -- [2]
+			"{rt7}1", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mâttdaemon-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			460, -- [11]
-			"Player-3661-09142239", -- [12]
+			2682, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Mâttdaemon|r",
-			[51] = 1674695060,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717813,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [23]
 		{
-			"Yes chef!", -- [1]
-			"Cruznic-Hyjal", -- [2]
+			"{rt7}1", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cruznic-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			462, -- [11]
-			"Player-3661-06D4078E", -- [12]
+			2683, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeCruznic|r",
-			[51] = 1674695062,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674717813,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [24]
 		{
-			"Yes chef!", -- [1]
-			"Kurwã-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kurwã-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			463, -- [11]
-			"Player-3661-08EA5727", -- [12]
+			2685, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffKurwã|r",
-			[51] = 1674695066,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674717814,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
-			"Yes chef!", -- [1]
-			"Ramblesdot-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ramblesdot-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			465, -- [11]
-			"Player-3661-09177B87", -- [12]
+			2686, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeRamblesdot|r",
-			[51] = 1674695070,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717814,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"Yes chef!", -- [1]
-			"Rorede-Dunemaul", -- [2]
+			"Static Spear on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rorede-Dunemaul", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			466, -- [11]
-			"Player-1185-0D6A0276", -- [12]
+			2689, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRorede-Dunemaul|r",
-			[51] = 1674695071,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674717840,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"Yes chef!", -- [1]
-			"Bursted-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bursted-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			468, -- [11]
-			"Player-3661-075F2692", -- [12]
+			2695, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBursted|r",
-			[51] = 1674695076,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717869,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"Yes chef!", -- [1]
-			"Slinkydink-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Anambush-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Slinkydink-Hyjal", -- [5]
+			"Anambush-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			469, -- [11]
-			"Player-3661-07A1BA97", -- [12]
+			2696, -- [11]
+			"Player-57-0B4DB054", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dSlinkydink|r",
-			[51] = 1674695077,
+			[52] = "|cfffff468Anambush-Illidan|r",
+			[51] = 1674717869,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"Yes chef!", -- [1]
-			"Molbilestd-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Holyshït-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Molbilestd-Hyjal", -- [5]
+			"Holyshït-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			470, -- [11]
-			"Player-3661-07FE562D", -- [12]
+			2697, -- [11]
+			"Player-3684-0DCE473F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMolbilestd|r",
-			[51] = 1674695082,
+			[52] = "|cffffffffHolyshït-Mal'Ganis|r",
+			[51] = 1674717869,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"Yes chef!", -- [1]
-			"Andrewh-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andrewh-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			472, -- [11]
-			"Player-3661-06CA593B", -- [12]
+			2699, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dAndrewh|r",
-			[51] = 1674695087,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717870,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"Yes chef!", -- [1]
-			"Glizolgia-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Glizolgia-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			474, -- [11]
-			"Player-3661-0926E5A5", -- [12]
+			2702, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fGlizolgia|r",
-			[51] = 1674695089,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717872,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [32]
 		{
-			"Yes chef!", -- [1]
-			"Daegger-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Daegger-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			476, -- [11]
-			"Player-3661-090E1290", -- [12]
+			2705, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Daegger|r",
-			[51] = 1674695092,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674717873,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [33]
 		{
-			"Yes chef!", -- [1]
-			"Humpy-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Humpy-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			477, -- [11]
-			"Player-3661-08069B04", -- [12]
+			2707, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dHumpy|r",
-			[51] = 1674695154,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717873,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"Yes chef!", -- [1]
-			"Yang-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yang-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			478, -- [11]
-			"Player-3661-0923B894", -- [12]
+			2711, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Yang|r",
-			[51] = 1674695155,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717875,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"Yes chef!", -- [1]
-			"Hansterdam-Tichondrius", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hansterdam-Tichondrius", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			480, -- [11]
-			"Player-11-0DB43C16", -- [12]
+			2713, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aHansterdam-Tichondrius|r",
-			[51] = 1674695100,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674717876,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
-			"Yes chef!", -- [1]
-			"Malóve-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Malóve-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			481, -- [11]
-			"Player-3661-08D177CC", -- [12]
+			2715, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMalóve|r",
-			[51] = 1674695101,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717876,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"Yes chef!", -- [1]
-			"Helmet-Hyjal", -- [2]
+			"{rt7}5", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Helmet-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			483, -- [11]
-			"Player-3661-07EA13B8", -- [12]
+			2717, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aHelmet|r",
-			[51] = 1674695102,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717879,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [38]
 		{
-			"Yes chef!", -- [1]
-			"Cïnn-Hyjal", -- [2]
+			"Static Spear on Anambush", -- [1]
+			"Anambush-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cïnn-Hyjal", -- [5]
+			"Anambush-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			484, -- [11]
-			"Player-3661-06D069A7", -- [12]
+			2718, -- [11]
+			"Player-57-0B4DB054", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddCïnn|r",
-			[51] = 1674695103,
+			[52] = "|cfffff468Anambush-Illidan|r",
+			[51] = 1674717879,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"Yes chef!", -- [1]
-			"Asteus-Hyjal", -- [2]
+			"{rt7}4", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asteus-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			485, -- [11]
-			"Player-3661-0853E259", -- [12]
+			2720, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAsteus|r",
-			[51] = 1674695105,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717880,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [40]
 		{
-			"Yes chef!", -- [1]
-			"Devoide-Hyjal", -- [2]
+			"{rt7}3", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Devoide-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			487, -- [11]
-			"Player-3661-06D6D436", -- [12]
+			2721, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Devoide|r",
-			[51] = 1674695107,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717881,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [41]
 		{
-			"Yes chef!", -- [1]
-			"Aralina-Rexxar", -- [2]
+			"Clear", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Aralina-Rexxar", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			488, -- [11]
-			"Player-1151-092341AB", -- [12]
+			2723, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aAralina-Rexxar|r",
-			[51] = 1674695110,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717881,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
 		{
-			"Yes chef!", -- [1]
-			"Cupcakebunny-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Anambush-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cupcakebunny-Hyjal", -- [5]
+			"Anambush-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			489, -- [11]
-			"Player-3661-06CFCFD6", -- [12]
+			2724, -- [11]
+			"Player-57-0B4DB054", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aCupcakebunny|r",
-			[51] = 1674695111,
+			[52] = "|cfffff468Anambush-Illidan|r",
+			[51] = 1674717881,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"Yes chef!", -- [1]
-			"Bellagrace-Hyjal", -- [2]
+			"wait did that happen", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bellagrace-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			491, -- [11]
-			"Player-3661-06DB70D0", -- [12]
+			2727, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBellagrace|r",
-			[51] = 1674695112,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674717949,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [44]
 		{
-			"Yes chef!", -- [1]
-			"Squidbonez-Hyjal", -- [2]
+			"ty all - gj", -- [1]
+			"Algowrath-Caelestrasz", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Squidbonez-Hyjal", -- [5]
+			"Algowrath-Caelestrasz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			493, -- [11]
-			"Player-3661-084BC857", -- [12]
+			2733, -- [11]
+			"Player-3721-09AE49D1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Squidbonez|r",
-			[51] = 1674695115,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc7ebAlgowrath-Caelestrasz|r",
+			[51] = 1674717958,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [45]
 		{
-			"Yes chef!", -- [1]
-			"Zaijie-Hyjal", -- [2]
+			"gg!", -- [1]
+			"Anambush-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zaijie-Hyjal", -- [5]
+			"Anambush-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			495, -- [11]
-			"Player-3661-06DAEB01", -- [12]
+			2738, -- [11]
+			"Player-57-0B4DB054", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddZaijie|r",
-			[51] = 1674695120,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Anambush-Illidan|r",
+			[51] = 1674717906,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [46]
 		{
-			"Yes chef!", -- [1]
-			"Nëizai-Hyjal", -- [2]
+			"need ring? need for os", -- [1]
+			"Holyshït-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nëizai-Hyjal", -- [5]
+			"Holyshït-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			496, -- [11]
-			"Player-3661-0762CA53", -- [12]
+			2739, -- [11]
+			"Player-3684-0DCE473F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNëizai|r",
-			[51] = 1674695121,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffHolyshït-Mal'Ganis|r",
+			[51] = 1674717909,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [47]
 		{
-			"Yes chef!", -- [1]
-			"Kenefin-Hyjal", -- [2]
+			"awesome", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kenefin-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			502, -- [11]
-			"Player-3661-092B3E67", -- [12]
+			2740, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaKenefin|r",
-			[51] = 1674695131,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717911,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [48]
 		{
-			"Yes chef!", -- [1]
-			"Raesan-Hyjal", -- [2]
+			"I do need it, sorry", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Raesan-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			503, -- [11]
-			"Player-3661-06C9A329", -- [12]
+			2742, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRaesan|r",
-			[51] = 1674695131,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717915,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [49]
 		{
-			"Yes chef!", -- [1]
-			"Rhythos-Hyjal", -- [2]
+			"can't trade :(", -- [1]
+			"Anambush-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rhythos-Hyjal", -- [5]
+			"Anambush-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			505, -- [11]
-			"Player-3661-07AE73A0", -- [12]
+			2743, -- [11]
+			"Player-57-0B4DB054", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRhythos|r",
-			[51] = 1674695132,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Anambush-Illidan|r",
+			[51] = 1674717916,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
 		{
-			"Yes chef!", -- [1]
-			"Dinomite-Perenolde", -- [2]
+			"sorry", -- [1]
+			"Anambush-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dinomite-Perenolde", -- [5]
+			"Anambush-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			506, -- [11]
-			"Player-1168-0A8A284A", -- [12]
+			2744, -- [11]
+			"Player-57-0B4DB054", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aDinomite-Perenolde|r",
-			[51] = 1674695133,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Anambush-Illidan|r",
+			[51] = 1674717916,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [51]
 		{
-			"Yes chef!", -- [1]
-			"Tay-Hyjal", -- [2]
+			"you see my ilvl? I'm a noob", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tay-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			507, -- [11]
-			"Player-3661-07B4493E", -- [12]
+			2745, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeTay|r",
-			[51] = 1674695135,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674717920,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [52]
 		{
-			"Yes chef!", -- [1]
-			"Locke-Hyjal", -- [2]
+			"np", -- [1]
+			"Holyshït-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Locke-Hyjal", -- [5]
+			"Holyshït-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			508, -- [11]
-			"Player-3661-08D195AD", -- [12]
+			2746, -- [11]
+			"Player-3684-0DCE473F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Locke|r",
-			[51] = 1674695136,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffHolyshït-Mal'Ganis|r",
+			[51] = 1674717925,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [53]
 		{
-			"Yes chef!", -- [1]
-			"Krezkin-Hyjal", -- [2]
+			"|cffffd000|Htrade:Player-3661-092B9280:25229:755|h[Jewelcrafting]|h|r|cffa335ee|Hitem:193001::::::::70:258::13:1:3524:2:40:260:38:8:::::|h[Elemental Lariat |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r|cffa335ee|Hitem:192999::::::::70:258::13:1:3524:2:40:258:38:8:::::|h[Signet of Titanic Insight |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r|cff0070dd|Hbattlepet:3347:1:3:149:11:13:0000000000000000:107457|h[Jeweled Emerald Whelpling]|h|rMAX RIng R5 always /Neck JC w/ Elemental Lariat 392, 402-405 34% recraft mgs for recraft fee", -- [1]
+			"Zeltia-Hyjal", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Krezkin-Hyjal", -- [5]
+			"2. Trade - City", -- [4]
+			"Zeltia-Hyjal", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			509, -- [11]
-			"Player-3661-092D1437", -- [12]
+			2801, -- [11]
+			"Player-3661-092B9280", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebKrezkin|r",
-			[51] = 1674695136,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffffffffZeltia|r",
+			[51] = 1674718188,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [54]
 		{
-			"Yes chef!", -- [1]
-			"Lionden-Hyjal", -- [2]
+			"Interrupted Lavacaller Primalist's |cff71d5ff|Hspell:378012:0|h[Primal Fire]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lionden-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			510, -- [11]
-			"Player-3661-06DA7ED2", -- [12]
+			2822, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLionden|r",
-			[51] = 1674695137,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674718362,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [55]
 		{
-			"Yes chef!", -- [1]
-			"Tandraesse-Hyjal", -- [2]
+			"|cffa335ee|Hitem:197921::::::::70:73:::::::::|h[Primal Infusion]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tandraesse-Hyjal", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			512, -- [11]
-			"Player-3661-07CA3148", -- [12]
+			2830, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Tandraesse|r",
-			[51] = 1674695137,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674718484,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [56]
 		{
-			"Yes chef!", -- [1]
-			"Aapia-Hyjal", -- [2]
+			"|cffa335ee|Hitem:190455::::::::70:65:::::::::|h[Concentrated Primal Focus]|h|r", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Aapia-Hyjal", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			514, -- [11]
-			"Player-3661-07E51464", -- [12]
+			2831, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeAapia|r",
-			[51] = 1674695141,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674718559,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [57]
 		{
-			"Yes chef!", -- [1]
-			"Hazx-Hyjal", -- [2]
+			"Interrupted Sundered Supplyhand's |cff71d5ff|Hspell:393439:0|h[Strong Gust]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hazx-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			515, -- [11]
-			"Player-3661-06DB1171", -- [12]
+			2916, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hazx|r",
-			[51] = 1674695141,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674719110,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [58]
 		{
-			"Yes chef!", -- [1]
-			"Jichne-Hyjal", -- [2]
+			"Interrupted Reclaimer Makko's |cff71d5ff|Hspell:387300:0|h[Arcane Barrage]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jichne-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			516, -- [11]
-			"Player-3661-07FC89A8", -- [12]
+			2989, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Jichne|r",
-			[51] = 1674695142,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674719883,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [59]
 		{
-			"Yes chef!", -- [1]
-			"Jubalah-Hyjal", -- [2]
+			"Interrupted Reclaimer Makko's |cff71d5ff|Hspell:387300:0|h[Arcane Barrage]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jubalah-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			517, -- [11]
-			"Player-3661-06DA7359", -- [12]
+			2991, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebJubalah|r",
-			[51] = 1674695142,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674719898,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [60]
 		{
-			"Yes chef!", -- [1]
-			"Beynetta-Hyjal", -- [2]
+			"LFW |cffa335ee|Hitem:192989::::::::70:104:::::::::|h[Resplendent Illimited Diamond |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r|cffa335ee|Hitem:192980::::::::70:104:::::::::|h[Inscribed Illimited Diamond |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r can guarentee r3 or proc.  also doing 418 |cffa335ee|Hitem:192999::::::::70:104:::::::::|h[Signet of Titanic Insight]|h|r|cffa335ee|Hitem:193449::::::::70:104:::::::::|h[Bow of the Dragon Hunters]|h|r|cffa335ee|Hitem:193494::::::::70:104:::::::::|h[Flaring Cowl]|h|rswords/glaives/some daggers", -- [1]
+			"Bankaxxie-Hyjal", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Beynetta-Hyjal", -- [5]
+			"2. Trade - City", -- [4]
+			"Bankaxxie-Hyjal", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			519, -- [11]
-			"Player-3661-08765F70", -- [12]
+			3057, -- [11]
+			"Player-3661-092C1AC0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Beynetta|r",
-			[51] = 1674695142,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffff7c0aBankaxxie|r",
+			[51] = 1674720284,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [61]
 		{
-			"Yes chef!", -- [1]
-			"Veghar-Hyjal", -- [2]
+			"Crafting Elemental Lariat r4 guaranteed, 36.3% chance at r5, 50k for guaranteed r5 |cffffd000|Htrade:Player-3661-09194D02:25229:755|h[Jewelcrafting]|h|r ", -- [1]
+			"Cyncarnation-Hyjal", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Veghar-Hyjal", -- [5]
+			"2. Trade - City", -- [4]
+			"Cyncarnation-Hyjal", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			521, -- [11]
-			"Player-3661-092689A2", -- [12]
+			3072, -- [11]
+			"Player-3661-09194D02", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fVeghar|r",
-			[51] = 1674695145,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffff7c0aCyncarnation|r",
+			[51] = 1674720311,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [62]
 		{
-			"Yes chef!", -- [1]
-			"Fairyprince-Hyjal", -- [2]
+			"Interrupted Primalist Geomancer's |cff71d5ff|Hspell:374066:0|h[Earth Shield]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fairyprince-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			522, -- [11]
-			"Player-3661-091BBCE5", -- [12]
+			31, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFairyprince|r",
-			[51] = 1674695146,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674792987,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [63]
 		{
-			"Yes chef!", -- [1]
-			"Foofighter-Hyjal", -- [2]
+			"why :/", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Foofighter-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			523, -- [11]
-			"Player-3661-07DE6823", -- [12]
+			32, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaFoofighter|r",
-			[51] = 1674695146,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793002,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [64]
 		{
-			"Yes chef!", -- [1]
-			"Senist-Area52", -- [2]
+			"Interrupted Primalist Geomancer's |cff71d5ff|Hspell:374066:0|h[Earth Shield]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Senist-Area52", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			524, -- [11]
-			"Player-3676-0E0A6B72", -- [12]
+			34, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dSenist-Area52|r",
-			[51] = 1674695147,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793024,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [65]
 		{
-			"Yes chef!", -- [1]
-			"Brandargon-Hyjal", -- [2]
+			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374020:0|h[Containment Beam]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Brandargon-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			526, -- [11]
-			"Player-3661-0926CF51", -- [12]
+			35, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fBrandargon|r",
-			[51] = 1674695151,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793042,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [66]
 		{
-			"Yes chef!", -- [1]
-			"Lexilari-Hyjal", -- [2]
+			"Interrupted Primalist Geomancer's |cff71d5ff|Hspell:374066:0|h[Earth Shield]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lexilari-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			530, -- [11]
-			"Player-3661-0812D04D", -- [12]
+			36, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLexilari|r",
-			[51] = 1674695216,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793065,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [67]
 		{
-			"Yes chef!", -- [1]
-			"Tanlathan-Hyjal", -- [2]
+			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374045:0|h[Expulse]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tanlathan-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			534, -- [11]
-			"Player-3661-06DA81FE", -- [12]
+			41, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTanlathan|r",
-			[51] = 1674695162,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793080,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [68]
 		{
-			"Yes chef!", -- [1]
-			"Herris-Hyjal", -- [2]
+			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Herris-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			535, -- [11]
-			"Player-3661-06DAC4D3", -- [12]
+			46, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aHerris|r",
-			[51] = 1674695162,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793104,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [69]
 		{
-			"Yes chef!", -- [1]
-			"Smeatball-Hyjal", -- [2]
+			"Power Overload on Thezdin", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Smeatball-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			536, -- [11]
-			"Player-3661-084E1E17", -- [12]
+			55, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddSmeatball|r",
-			[51] = 1674695164,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793189,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"Yes chef!", -- [1]
-			"Balaku-Hyjal", -- [2]
+			"kite orbs to boss, kill on top", -- [1]
+			"Soulfighter-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Balaku-Hyjal", -- [5]
+			"Soulfighter-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			538, -- [11]
-			"Player-3661-092F031E", -- [12]
+			59, -- [11]
+			"Player-60-0A85DF50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Balaku|r",
-			[51] = 1674695165,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aSoulfighter-Stormrage|r",
+			[51] = 1674793240,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		}, -- [71]
 		{
-			"Yes chef!", -- [1]
-			"Margrom-Hyjal", -- [2]
+			"Power Overload on Thezdin", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Margrom-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			539, -- [11]
-			"Player-3661-092C0837", -- [12]
+			63, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dMargrom|r",
-			[51] = 1674695167,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793263,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"gesh mu ka kazum", -- [1]
-			"Bursted-Hyjal", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Dazzling Dragonfly's |cff71d5ff|Hspell:374563:0|h[Dazzle]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Bursted-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			540, -- [11]
-			"Player-3661-075F2692", -- [12]
+			0, -- [10]
+			71, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBursted|r",
-			[51] = 1674695168,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793331,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [73]
 		{
-			"Yes chef!", -- [1]
-			"Acaetroh-Hyjal", -- [2]
+			"Interrupted Primalist Shocktrooper's |cff71d5ff|Hspell:395694:0|h[Elemental Focus]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Acaetroh-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			541, -- [11]
-			"Player-3661-08E6DA11", -- [12]
+			74, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeAcaetroh|r",
-			[51] = 1674695168,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793363,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [74]
 		{
-			"Yes chef!", -- [1]
-			"Kazthyr-Hyjal", -- [2]
+			"Interrupted Flamecaller Aymi's |cff71d5ff|Hspell:374706:0|h[Pyretic Burst]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kazthyr-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			546, -- [11]
-			"Player-3661-09269109", -- [12]
+			78, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fKazthyr|r",
-			[51] = 1674695185,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793401,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [75]
 		{
-			"Yes chef!", -- [1]
-			"Frito-Hyjal", -- [2]
+			"is this a normal?", -- [1]
+			"Reikastrasza-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Frito-Hyjal", -- [5]
+			"Reikastrasza-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			547, -- [11]
-			"Player-3661-092CB3E2", -- [12]
+			86, -- [11]
+			"Player-3675-0A63F484", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddFrito|r",
-			[51] = 1674695186,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fReikastrasza-MoonGuard|r",
+			[51] = 1674793482,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [76]
 		{
-			"Yes chef!", -- [1]
-			"Rorede-Dunemaul", -- [2]
+			"Interrupted Primalist Galesinger's |cff71d5ff|Hspell:385036:0|h[Wind Buffet]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rorede-Dunemaul", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			549, -- [11]
-			"Player-1185-0D6A0276", -- [12]
+			87, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRorede-Dunemaul|r",
-			[51] = 1674695187,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793485,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [77]
 		{
-			"Yes chef!", -- [1]
-			"Gnari-Hyjal", -- [2]
+			"heroic", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gnari-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			550, -- [11]
-			"Player-3661-08B9384F", -- [12]
+			88, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aGnari|r",
-			[51] = 1674695189,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674793504,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [78]
 		{
-			"Yes chef!", -- [1]
-			"Ramblesdot-Hyjal", -- [2]
+			"no heroic", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ramblesdot-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			551, -- [11]
-			"Player-3661-09177B87", -- [12]
+			91, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeRamblesdot|r",
-			[51] = 1674695189,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674793567,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [79]
 		{
-			"Yes chef!", -- [1]
-			"Jaraharts-Dragonmaw", -- [2]
+			"Interrupted Primalist Galesinger's |cff71d5ff|Hspell:385036:0|h[Wind Buffet]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jaraharts-Dragonmaw", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			552, -- [11]
-			"Player-84-0513F3B7", -- [12]
+			105, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Jaraharts-Dragonmaw|r",
-			[51] = 1674695191,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793593,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [80]
 		{
-			"Yes chef!", -- [1]
-			"Avgvstvs-Hyjal", -- [2]
+			"Interrupted Primalist Icecaller's |cff71d5ff|Hspell:375950:0|h[Ice Shards]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Avgvstvs-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			553, -- [11]
-			"Player-3661-06DB4386", -- [12]
+			120, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffAvgvstvs|r",
-			[51] = 1674695191,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793725,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [81]
 		{
-			"Yes chef!", -- [1]
-			"Wyldpawz-Hyjal", -- [2]
+			"Interrupted Aqua Rager's |cff71d5ff|Hspell:377384:0|h[Boiling Rage]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wyldpawz-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			555, -- [11]
-			"Player-3661-08E9FBC5", -- [12]
+			124, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Wyldpawz|r",
-			[51] = 1674695192,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793775,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [82]
 		{
-			"Yes chef!", -- [1]
-			"Truewitch-Hyjal", -- [2]
+			"Interrupted Infuser Sariya's |cff71d5ff|Hspell:377402:0|h[Aqueous Barrier]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Truewitch-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			558, -- [11]
-			"Player-3661-0921A345", -- [12]
+			130, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeTruewitch|r",
-			[51] = 1674695198,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793819,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [83]
 		{
-			"Yes chef!", -- [1]
-			"Lenehla-Hyjal", -- [2]
+			"Interrupted Aqua Rager's |cff71d5ff|Hspell:377384:0|h[Boiling Rage]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lenehla-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			561, -- [11]
-			"Player-3661-06D1BE7A", -- [12]
+			133, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLenehla|r",
-			[51] = 1674695202,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793835,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [84]
 		{
-			"Yes chef!", -- [1]
-			"Cïnn-Hyjal", -- [2]
+			"no way its heroic", -- [1]
+			"Reikastrasza-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cïnn-Hyjal", -- [5]
+			"Reikastrasza-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			565, -- [11]
-			"Player-3661-06D069A7", -- [12]
+			140, -- [11]
+			"Player-3675-0A63F484", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddCïnn|r",
-			[51] = 1674695208,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fReikastrasza-MoonGuard|r",
+			[51] = 1674793889,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [85]
 		{
-			"GRATS", -- [1]
-			"Xilolock-Hyjal", -- [2]
-			"Common", -- [3]
+			"gg", -- [1]
+			"Tropicana-Daggerspine", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Xilolock-Hyjal", -- [5]
+			"Tropicana-Daggerspine", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			566, -- [11]
-			"Player-3661-09197325", -- [12]
+			0, -- [10]
+			150, -- [11]
+			"Player-1136-05FFBF5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeXilolock|r",
-			[51] = 1674695208,
+			[52] = "|cfff48cbaTropicana-Daggerspine|r",
+			[51] = 1674793891,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [86]
 		{
-			"Yes chef!", -- [1]
-			"Hansterdam-Tichondrius", -- [2]
+			"thanks folks", -- [1]
+			"Soulfighter-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hansterdam-Tichondrius", -- [5]
+			"Soulfighter-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			567, -- [11]
-			"Player-11-0DB43C16", -- [12]
+			155, -- [11]
+			"Player-60-0A85DF50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aHansterdam-Tichondrius|r",
-			[51] = 1674695208,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aSoulfighter-Stormrage|r",
+			[51] = 1674793896,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		}, -- [87]
 		{
-			"Yes chef!", -- [1]
-			"Aralina-Rexxar", -- [2]
+			"Definitely was Heroic :P ", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Aralina-Rexxar", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			570, -- [11]
-			"Player-1151-092341AB", -- [12]
+			161, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aAralina-Rexxar|r",
-			[51] = 1674695211,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1674793937,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [88]
 		{
-			"Yes chef!", -- [1]
-			"Brynthe-Hyjal", -- [2]
+			"is it a good or bad thing that it was heroic", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Brynthe-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			571, -- [11]
-			"Player-3661-0806F95D", -- [12]
+			163, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrynthe|r",
-			[51] = 1674695211,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674793946,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [89]
 		{
-			"Yes chef!", -- [1]
-			"Thragor-Hyjal", -- [2]
+			"i have to know", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thragor-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			573, -- [11]
-			"Player-3661-07A8AF23", -- [12]
+			164, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeThragor|r",
-			[51] = 1674695212,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674793952,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [90]
 		{
-			"Yes chef!", -- [1]
-			"Bursted-Hyjal", -- [2]
+			"|cffa335ee|Hitem:194309::::::::70:65::3:4:7979:6652:1472:8767:1:28:2474:::::|h[Spiteful Storm]|h|r", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bursted-Hyjal", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			575, -- [11]
-			"Player-3661-075F2692", -- [12]
+			166, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBursted|r",
-			[51] = 1674695213,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674793968,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [91]
 		{
-			"Yes chef!", -- [1]
-			"Taurian-Hyjal", -- [2]
+			"it would be good but like", -- [1]
+			"Reikastrasza-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taurian-Hyjal", -- [5]
+			"Reikastrasza-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			577, -- [11]
-			"Player-3661-08F99C36", -- [12]
+			175, -- [11]
+			"Player-3675-0A63F484", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaurian|r",
-			[51] = 1674695276,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fReikastrasza-MoonGuard|r",
+			[51] = 1674793978,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [92]
 		{
-			"Yes chef!", -- [1]
-			"Moosebrew-Hyjal", -- [2]
+			"the first watcher boss?", -- [1]
+			"Reikastrasza-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Moosebrew-Hyjal", -- [5]
+			"Reikastrasza-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			578, -- [11]
-			"Player-3661-07F4E93B", -- [12]
+			176, -- [11]
+			"Player-3675-0A63F484", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Moosebrew|r",
-			[51] = 1674695277,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fReikastrasza-MoonGuard|r",
+			[51] = 1674793987,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [93]
 		{
-			"Yes chef!", -- [1]
-			"Asteus-Hyjal", -- [2]
+			"dps was slow", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asteus-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			580, -- [11]
-			"Player-3661-0853E259", -- [12]
+			177, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAsteus|r",
-			[51] = 1674695278,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674794001,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [94]
 		{
-			"Yes chef!", -- [1]
-			"Slinkydink-Hyjal", -- [2]
+			"last time i did heroic he started at 60% health. 30 in normal. he had 30 here", -- [1]
+			"Reikastrasza-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Slinkydink-Hyjal", -- [5]
+			"Reikastrasza-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			582, -- [11]
-			"Player-3661-07A1BA97", -- [12]
+			178, -- [11]
+			"Player-3675-0A63F484", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dSlinkydink|r",
-			[51] = 1674695220,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fReikastrasza-MoonGuard|r",
+			[51] = 1674794006,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [95]
 		{
-			"Yes chef!", -- [1]
-			"Sharrea-Exodar", -- [2]
+			"thats why he took a lifetime", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sharrea-Exodar", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			583, -- [11]
-			"Player-52-0CB3D36D", -- [12]
+			179, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Sharrea-Exodar|r",
-			[51] = 1674695221,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674794013,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [96]
 		{
-			"Yes chef!", -- [1]
-			"Nëizai-Hyjal", -- [2]
+			"i cant remember normal but i did heroic earlier and it was 30 ", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nëizai-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			588, -- [11]
-			"Player-3661-0762CA53", -- [12]
+			181, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNëizai|r",
-			[51] = 1674695237,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674794036,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [97]
 		{
-			"Yes chef!", -- [1]
-			"Aapia-Hyjal", -- [2]
+			"weird", -- [1]
+			"Reikastrasza-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Aapia-Hyjal", -- [5]
+			"Reikastrasza-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			590, -- [11]
-			"Player-3661-07E51464", -- [12]
+			183, -- [11]
+			"Player-3675-0A63F484", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeAapia|r",
-			[51] = 1674695237,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fReikastrasza-MoonGuard|r",
+			[51] = 1674794046,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [98]
 		{
-			"Yes chef!", -- [1]
-			"Mandolina-Exodar", -- [2]
+			"off to adventure gl ", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mandolina-Exodar", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			591, -- [11]
-			"Player-52-0CB3D21B", -- [12]
+			184, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMandolina-Exodar|r",
-			[51] = 1674695237,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1674794051,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [99]
 	},
 }
