@@ -6,23 +6,23 @@ HandyNotes_ShadowlandsTreasuresDB = {
 		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
+		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
-		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
-		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Wifehatesme - Hyjal"] = "Wifehatesme - Hyjal",
 		["Thezzlybear - Hyjal"] = "Thezzlybear - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
 		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
-		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
 		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
-		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 	},
 	["profiles"] = {
 		["Thezadin - Hyjal"] = {
@@ -38,11 +38,11 @@ HandyNotes_ShadowlandsTreasuresDB = {
 				[14339] = false,
 			},
 		},
-		["Foulfellow - Hyjal"] = {
+		["Thezbot - Azgalor"] = {
 		},
 		["Úlfhédnar - Hyjal"] = {
 		},
-		["Thezkin - Hyjal"] = {
+		["Foulfellow - Hyjal"] = {
 		},
 		["Thezdiran - Hyjal"] = {
 		},
@@ -50,9 +50,9 @@ HandyNotes_ShadowlandsTreasuresDB = {
 		},
 		["Thezman - Hyjal"] = {
 		},
-		["Thezadin - Mannoroth"] = {
+		["Thez - Hyjal"] = {
 		},
-		["Thezidari - Hyjal"] = {
+		["Thezdinson - Hyjal"] = {
 		},
 		["Wifehatesme - Hyjal"] = {
 		},
@@ -64,13 +64,13 @@ HandyNotes_ShadowlandsTreasuresDB = {
 		},
 		["Thezbear - Turalyon"] = {
 		},
-		["Thezdinson - Hyjal"] = {
+		["Thezidari - Hyjal"] = {
 		},
-		["Thez - Hyjal"] = {
+		["Thezadin - Mannoroth"] = {
 		},
 		["Úlfheðnar - Hyjal"] = {
 		},
-		["Thezbot - Azgalor"] = {
+		["Thezkin - Hyjal"] = {
 		},
 	},
 }

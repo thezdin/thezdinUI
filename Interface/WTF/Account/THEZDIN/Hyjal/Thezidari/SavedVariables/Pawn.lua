@@ -5,9 +5,9 @@ PawnOptions = {
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 194406,
-			["Level"] = 262,
-			["Link"] = "|cff1eff00|Hitem:194406::::::::64:581::25:1:8768:2:28:2437:9:64:::::|h[Stingerproof Helmet]|h|r",
+			["ID"] = 194349,
+			["Level"] = 282,
+			["Link"] = "|cff0070dd|Hitem:194349::::::::65:581::25:1:8776:2:28:2437:9:65:::::|h[Field Scout's Helmet]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 194369,
@@ -26,14 +26,14 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:193390::::::::61:581::13:4:8837:8838:4785:8802:5:28:2164:29:49:30:40:38:8:40:336:::::|h[Pioneer's Leather Tunic |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 190470,
-			["Level"] = 265,
-			["Link"] = "|cffff8000|Hitem:190470::::::::61:581::11:2:6652:7579:1:28:2057:::::|h[Cinch of Unity]|h|r",
+			["ID"] = 194361,
+			["Level"] = 266,
+			["Link"] = "|cff1eff00|Hitem:194361::::::::64:581::26:1:7963:2:28:2523:9:64:::::|h[Field Scout's Belt]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 180108,
-			["Level"] = 249,
-			["Link"] = "|cff0070dd|Hitem:180108::::::::61:581::2:5:8134:6806:6652:1563:4785:1:28:748:::::|h[Abyssal Disharmony Breeches]|h|r",
+			["ID"] = 194342,
+			["Level"] = 266,
+			["Link"] = "|cff1eff00|Hitem:194342::::::::64:581::26:1:7963:2:28:2523:9:64:::::|h[Field Scout's Pants]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 193386,
@@ -63,21 +63,21 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:194366::::::::63:581::26:1:7963:2:9:63:28:2523:::::|h[Carved Basalt Ring]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 184026,
-			["Level"] = 265,
+			["ID"] = 194399,
+			["Level"] = 272,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:184026::::::::61:581::90:4:8756:40:1537:6646::::::|h[Hateful Chain]|h|r",
+			["Link"] = "|cff1eff00|Hitem:194399::::::::65:581::25:1:8768:2:28:2437:9:65:::::|h[Lifegift Ruby]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 184026,
-			["Level"] = 265,
+			["ID"] = 194399,
+			["Level"] = 272,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:184026::::::::62:581::90:4:8756:40:1537:6646::::::|h[Hateful Chain]|h|r",
+			["Link"] = "|cff1eff00|Hitem:194399::::::::65:581::25:1:8768:2:9:65:28:2437:::::|h[Lifegift Ruby]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 199385,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199385::::::::61:581::26:2:6652:8936:2:9:60:28:2425:::::|h[Dust Devil Cloak]|h|r",
+			["ID"] = 194370,
+			["Level"] = 270,
+			["Link"] = "|cff1eff00|Hitem:194370::::::::64:581::27:1:8771:2:28:2524:9:64:::::|h[Drape of the Djaradin Slayer]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 189846,
