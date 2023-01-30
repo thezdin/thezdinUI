@@ -24,72 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"dont forget your |cff0070dd|Hitem:158149::::::::60:103:::::::::|h[Overtuned Corgi Goggles]|h|r", -- [1]
-			"Pincho-Hyjal", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pincho-Hyjal", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			505, -- [11]
-			"Player-3661-0919595D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aPincho|r",
-			[51] = 1669675902,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"u should spec into grammar ", -- [1]
-			"Noburai-Hyjal", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Noburai-Hyjal", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			506, -- [11]
-			"Player-3661-0928D793", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8788eeNoburai|r",
-			[51] = 1669675976,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"atleast trade chat active again theres that", -- [1]
-			"Avaritia-Hyjal", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Avaritia-Hyjal", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			514, -- [11]
-			"Player-3661-0926F156", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fAvaritia|r",
-			[51] = 1669675953,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
 			"IM ACTIVE", -- [1]
 			"Thorvaldir-Hyjal", -- [2]
 			"", -- [3]
@@ -110,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Thorvaldir|r",
 			[51] = 1669676026,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
+		}, -- [1]
 		{
 			"you are proactive", -- [1]
 			"Ev-Hyjal", -- [2]
@@ -132,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aEv|r",
 			[51] = 1669675985,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
+		}, -- [2]
 		{
 			"it keeps me regular", -- [1]
 			"Vallano-Hyjal", -- [2]
@@ -154,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vallano|r",
 			[51] = 1669675996,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
+		}, -- [3]
 		{
 			"wait that's activia", -- [1]
 			"Vallano-Hyjal", -- [2]
@@ -176,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vallano|r",
 			[51] = 1669676001,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
+		}, -- [4]
 		{
 			"rules of nature!", -- [1]
 			"Avaritia-Hyjal", -- [2]
@@ -198,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAvaritia|r",
 			[51] = 1669676008,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
+		}, -- [5]
 		{
 			"ah, broccoli. the broom of the lower intestines!", -- [1]
 			"Hutton-Hyjal", -- [2]
@@ -220,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hutton|r",
 			[51] = 1669676087,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
+		}, -- [6]
 		{
 			"i forgot the lyric", -- [1]
 			"Avaritia-Hyjal", -- [2]
@@ -242,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAvaritia|r",
 			[51] = 1669676099,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
+		}, -- [7]
 		{
 			"Kentucky Fried Chromie.", -- [1]
 			"Aéon-Hyjal", -- [2]
@@ -264,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAéon|r",
 			[51] = 1669676040,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
+		}, -- [8]
 		{
 			"no kidding, this is the most i've seen online in SW in ages", -- [1]
 			"Syannia-Hyjal", -- [2]
@@ -286,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Syannia|r",
 			[51] = 1669676041,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
+		}, -- [9]
 		{
 			"i check my alt server. frostmourne chat seem to be active", -- [1]
 			"Avaritia-Hyjal", -- [2]
@@ -308,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAvaritia|r",
 			[51] = 1669676056,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
+		}, -- [10]
 		{
 			"no lie there, broccoli does the job", -- [1]
 			"Matsunaga-Hyjal", -- [2]
@@ -330,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aMatsunaga|r",
 			[51] = 1669676063,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
+		}, -- [11]
 		{
 			"DRAGONS WHEN?", -- [1]
 			"Roughbobby-Hyjal", -- [2]
@@ -352,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRoughbobby|r",
 			[51] = 1669676065,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
+		}, -- [12]
 		{
 			"tomorrow", -- [1]
 			"Syannia-Hyjal", -- [2]
@@ -374,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Syannia|r",
 			[51] = 1669676071,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [13]
 		{
 			"you missed them", -- [1]
 			"Shinerai-Hyjal", -- [2]
@@ -396,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dShinerai|r",
 			[51] = 1669676075,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [14]
 		{
 			"THERE'S ONE ABOVE YOUR HOUSE RN", -- [1]
 			"Hutton-Hyjal", -- [2]
@@ -418,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hutton|r",
 			[51] = 1669676078,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [15]
 		{
 			"THANKS BOYS, TOO LATE", -- [1]
 			"Roughbobby-Hyjal", -- [2]
@@ -440,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRoughbobby|r",
 			[51] = 1669676148,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [16]
 		{
 			"Dragon X Horse", -- [1]
 			"Aéon-Hyjal", -- [2]
@@ -462,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAéon|r",
 			[51] = 1669676153,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [17]
 		{
 			"6 mins right?", -- [1]
 			"Rethül-Hyjal", -- [2]
@@ -484,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fRethül|r",
 			[51] = 1669676154,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [18]
 		{
 			"There will be blood (Shed)", -- [1]
 			"Avaritia-Hyjal", -- [2]
@@ -506,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAvaritia|r",
 			[51] = 1669676102,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [19]
 		{
 			"the man in the mirror nod his head", -- [1]
 			"Avaritia-Hyjal", -- [2]
@@ -528,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAvaritia|r",
 			[51] = 1669676140,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
+		}, -- [20]
 		{
 			"No boat in sight. lol", -- [1]
 			"Aéon-Hyjal", -- [2]
@@ -550,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAéon|r",
 			[51] = 1669676653,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [21]
 		{
 			"unkown arrival time lol", -- [1]
 			"Lysaon-Hyjal", -- [2]
@@ -572,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Lysaon|r",
 			[51] = 1669676670,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
+		}, -- [22]
 		{
 			"DAMN YOU JAILOR!", -- [1]
 			"Boleart-Hyjal", -- [2]
@@ -594,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebBoleart|r",
 			[51] = 1669676746,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [23]
 		{
 			"it must be because horde already got them boat", -- [1]
 			"Avaritia-Hyjal", -- [2]
@@ -616,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAvaritia|r",
 			[51] = 1669676754,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [24]
 		{
 			"i blame jailor", -- [1]
 			"Avaritia-Hyjal", -- [2]
@@ -638,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAvaritia|r",
 			[51] = 1669676757,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [25]
 		{
 			"top gnomes", -- [1]
 			"Helvarian-Hyjal", -- [2]
@@ -660,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebHelvarian|r",
 			[51] = 1669676711,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [26]
 		{
 			"No boat ... working as intended!", -- [1]
 			"Donovon-Hyjal", -- [2]
@@ -682,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDonovon|r",
 			[51] = 1669676727,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [27]
 		{
 			"good job placing alliance on a timer and then breaking the timer", -- [1]
 			"Lysaon-Hyjal", -- [2]
@@ -704,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Lysaon|r",
 			[51] = 1669676734,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [28]
 		{
 			"why can't dragons fly there", -- [1]
 			"Jills-Hyjal", -- [2]
@@ -726,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fJills|r",
 			[51] = 1669676914,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [29]
 		{
 			"Want To Sell what?", -- [1]
 			"Aéon-Hyjal", -- [2]
@@ -748,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAéon|r",
 			[51] = 1669676930,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [30]
 		{
 			"their arms would get tired", -- [1]
 			"Xerithlynza-Hyjal", -- [2]
@@ -770,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fXerithlynza|r",
 			[51] = 1669676935,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [31]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -792,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1669680983,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [32]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -814,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1669681045,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [33]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -836,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1669681581,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [34]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -858,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1669681646,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [35]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11609:Player-3661-091E66BD:1:11:28:22:4294967295:4294967295:4294967295:4294967295|h[Power Unbound]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -880,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669684272,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [39]
+		}, -- [36]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11214:Player-3661-091E66BD:1:11:28:22:4294967295:4294967295:4294967295:4294967295|h[Many Missions]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -902,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669685706,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [40]
+		}, -- [37]
 		{
 			"Toxic Wound on Thez", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -924,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669831219,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [38]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10780:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Eye of Azshara]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -946,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669831455,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [42]
+		}, -- [39]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10783:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Darkheart Thicket]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -968,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669832727,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [43]
+		}, -- [40]
 		{
 			"|cffffff00Cordana's Apex is under attack!|r", -- [1]
 			"", -- [2]
@@ -990,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1669839810,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [41]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10795:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Neltharion's Lair]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1012,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669840519,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [45]
+		}, -- [42]
 		{
 			"Crackle on Thez", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1034,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669841200,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [43]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10786:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Halls of Valor]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1056,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669841887,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [47]
+		}, -- [44]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10994:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[A Glorious Campaign]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1078,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669845723,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [48]
+		}, -- [45]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11220:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Roster of Champions]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1100,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669845727,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [49]
+		}, -- [46]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10746:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Forged for Battle]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1122,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846062,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [50]
+		}, -- [47]
 		{
 			"[IAT] Nightmare Ichors Counter (1/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1144,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846533,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [48]
 		{
 			"[IAT] Nightmare Ichors Counter (2/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1166,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846533,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [49]
 		{
 			"[IAT] Nightmare Ichors Counter (3/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1188,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846533,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [50]
 		{
 			"[IAT] Nightmare Ichors Counter (4/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1210,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846533,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [51]
 		{
 			"[IAT] Nightmare Ichors Counter (5/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1232,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846534,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [52]
 		{
 			"[IAT] Nightmare Ichors Counter (6/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1254,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846534,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [53]
 		{
 			"[IAT] Nightmare Ichors Counter (7/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1276,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846534,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [54]
 		{
 			"[IAT] Nightmare Ichors Counter (8/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1298,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846534,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [55]
 		{
 			"[IAT] Nightmare Ichors Counter (4/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1320,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846616,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [56]
 		{
 			"[IAT] Nightmare Ichors Counter (5/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1342,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846616,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [57]
 		{
 			"[IAT] Nightmare Ichors Counter (6/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1364,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846588,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [58]
 		{
 			"[IAT] Nightmare Ichors Counter (7/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1386,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846589,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [59]
 		{
 			"[IAT] Nightmare Ichors Counter (8/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1408,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846589,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [60]
 		{
 			"[IAT] Nightmare Ichors Counter (9/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1430,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846589,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [61]
 		{
 			"[IAT] Nightmare Ichors Counter (6/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1452,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846597,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [62]
 		{
 			"[IAT] Nightmare Ichors Counter (7/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1474,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846598,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [63]
 		{
 			"[IAT] Nightmare Ichors Counter (8/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1496,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846603,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [64]
 		{
 			"[IAT] Nightmare Ichors Counter (9/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1518,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846603,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [65]
 		{
 			"[IAT] Nightmare Ichors Counter (10/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1540,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846604,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [66]
 		{
 			"[IAT] Nightmare Ichors Counter (11/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1562,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846604,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [67]
 		{
 			"[IAT] Nightmare Ichors Counter (6/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1584,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846628,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [68]
 		{
 			"[IAT] Nightmare Ichors Counter (7/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1606,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846628,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [69]
 		{
 			"[IAT] Nightmare Ichors Counter (8/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1628,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [70]
 		{
 			"[IAT] Nightmare Ichors Counter (9/20)", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1650,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846632,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [71]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10818:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Darkbough]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1672,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669846832,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [75]
+		}, -- [72]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:1177:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Got My Mind On My Money]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1694,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669847100,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [76]
+		}, -- [73]
 		{
 			"[IAT] IAT cannot track any achievements for this encounter", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1716,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669847206,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [74]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10819:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Tormented Guardians]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1738,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669847273,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [78]
+		}, -- [75]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10772:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Use the Force(s)]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1760,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669847273,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [79]
+		}, -- [76]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10820:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Rift of Aln]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1782,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669847439,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [80]
+		}, -- [77]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10666:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Explore Val'sharah]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1804,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669848811,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [81]
+		}, -- [78]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10461:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Fighting with Style: Classic]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1826,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669849887,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [82]
+		}, -- [79]
 		{
 			"=ADMIT IT YER FRIENDS ARE LAZY   !!!-- FLY / CARRY a LAZY  Friend into BATTLE |cffa335ee|Hitem:65891::::::::46:64:::::::::|h[Vial of the Sands]|h|r --SUPER LOW  on AH ", -- [1]
 			"Spacepänts-Hyjal", -- [2]
@@ -1848,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebSpacepänts|r",
 			[51] = 1669852682,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [80]
 		{
 			"==GET TO THA CHOPPA== own a 2 seat Chopper!!!|cffa335ee|Hitem:44413::::::::46:64:::::::::|h[Mekgineer's Chopper]|h|r --Priced low on AH ", -- [1]
 			"Spacepänts-Hyjal", -- [2]
@@ -1870,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebSpacepänts|r",
 			[51] = 1669852689,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [81]
 		{
 			"man youve been posting that same message for like two months now", -- [1]
 			"Röket-Hyjal", -- [2]
@@ -1892,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Röket|r",
 			[51] = 1669852708,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [82]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11846:Player-3661-091E66BD:1:11:30:22:4294967295:4294967295:4294967295:4294967295|h[Champions of Legionfall]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1914,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1669853412,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [86]
+		}, -- [83]
 		{
 			"Its because you touch yourself at night ..", -- [1]
 			"Chargeit-Hyjal", -- [2]
@@ -1936,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dChargeit|r",
 			[51] = 1670434747,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [84]
 		{
 			"did I miss the assault?", -- [1]
 			"Röket-Hyjal", -- [2]
@@ -1958,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Röket|r",
 			[51] = 1670450316,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [85]
 		{
 			"All done! You should see your garrison correctly explored on your map when you next log in, and you should see your outpost fixed in Talador when you're next out there. Was there anything else I can check in to for you while we are here today?", -- [1]
 			"Staordyn", -- [2]
@@ -1980,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "Staordyn",
 			[51] = 1670699609,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [89]
+		}, -- [86]
 		{
 			"If there was nothing else I can look in to for you then I do hope you have a great rest of your day then and take care!", -- [1]
 			"Staordyn", -- [2]
@@ -2002,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "Staordyn",
 			[51] = 1670699874,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [90]
+		}, -- [87]
 		{
 			"Sorry I went to make a coffee, if that's all set then I'm all good. Only other thing is my wife's account is busted and never received the Fel Drake despite watching the stream, but that's her problem :P ", -- [1]
 			"Staordyn", -- [2]
@@ -2024,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "Staordyn",
 			[51] = 1670700191,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [91]
+		}, -- [88]
 		{
 			"This GM is unavailable for chat. If the Open Ticket icon is present, please do not close or edit your petition. If the icon is not present and you require additional assistance, please open a new ticket. Thank you.", -- [1]
 			"System", -- [2]
@@ -2046,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "System",
 			[51] = 1670700191,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [92]
+		}, -- [89]
 		{
 			"Shas'ith |cffffff00|Hworldmap:2022:2387:5723|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Litedragon-Hyjal", -- [2]
@@ -2068,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fLitedragon|r",
 			[51] = 1671076776,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [90]
 		{
 			"Rohzor Forgesmash |cffffff00|Hworldmap:2022:3145:6194|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Litedragon-Hyjal", -- [2]
@@ -2090,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fLitedragon|r",
 			[51] = 1671076776,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [91]
 		{
 			"|cffa335ee|Hitem:193001::192928:192919:192967::::70:577::13:8:8836:8840:8902:8960:8784:8782:8801:8790:6:28:2164:29:49:30:40:38:7:40:260:48:192552:::::|h[Elemental Lariat |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r LF JC to make this, will pay comission ", -- [1]
 			"Sauceey-Hyjal", -- [2]
@@ -2112,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Sauceey|r",
 			[51] = 1671330999,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [92]
 		{
 			"where is heirloom vendor in SW?", -- [1]
 			"Boomnbloom-Hyjal", -- [2]
@@ -2134,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aBoomnbloom|r",
 			[51] = 1671331735,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [93]
 		{
 			"Rath'is Regas MazA'thrakk Moth'Kazoroth Lok'tar", -- [1]
 			"Chasey-Hyjal", -- [2]
@@ -2156,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaChasey|r",
 			[51] = 1671331817,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [94]
 		{
 			"Thrakk Revash Tov'osh ka NUK ", -- [1]
 			"Chomat-Hyjal", -- [2]
@@ -2178,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeChomat|r",
 			[51] = 1674442913,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [98]
+		}, -- [95]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16291:Player-3661-091E66BD:1:1:28:23:4294967295:4294967295:4294967295:4294967295|h[An Ancient Awakening]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -2200,6 +2134,72 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1674963848,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [96]
+		{
+			"Max |cffa335ee|Hitem:193526::::::::70:266::13:6:8836:8840:8902:8960:8802:8846:4:28:2164:38:8:40:403:45:198046::::Player-3661-0919B914:|h[Amice of the Blue |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r  ilevel 418 100% 50k / 35% proc chance free", -- [1]
+			"Desscurses-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Desscurses-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8965, -- [11]
+			"Player-3661-0919B914", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8788eeDesscurses|r",
+			[51] = 1675065329,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"And many others |cffffd000|Htrade:Player-3661-0919B914:3908:197|h[Tailoring]|h|r! Head, Back, Chest, Shoulder Specializations!", -- [1]
+			"Desscurses-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Desscurses-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8966, -- [11]
+			"Player-3661-0919B914", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8788eeDesscurses|r",
+			[51] = 1675065330,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"Crafting Elemental Lariat r4 guaranteed, 36.3% chance at r5, 50k for guaranteed r5 |cffffd000|Htrade:Player-3661-09194D02:25229:755|h[Jewelcrafting]|h|r", -- [1]
+			"Cyncarnation-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Cyncarnation-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8985, -- [11]
+			"Player-3661-09194D02", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aCyncarnation|r",
+			[51] = 1675065373,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }
