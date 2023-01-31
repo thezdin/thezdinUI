@@ -42,13 +42,13 @@ PasteDB = {
 			["loaded"] = true,
 		},
 		["Thezdin - Hyjal"] = {
-			["whispertarget"] = "",
-			["where"] = "Default",
 			["loaded"] = true,
 			["trimwhitespace"] = true,
 			["minimap"] = {
 				["minimapPos"] = 70.2011550368028,
 			},
+			["where"] = "Default",
+			["whispertarget"] = "",
 			["pos"] = {
 				["height"] = 567.1112060546875,
 				["top"] = 1273.999877929688,

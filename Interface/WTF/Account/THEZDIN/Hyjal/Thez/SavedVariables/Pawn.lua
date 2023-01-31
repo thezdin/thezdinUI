@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0715,
+	["LastVersion"] = 2.0716,
 	["LastPlayerFullName"] = "Thez-Hyjal",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {

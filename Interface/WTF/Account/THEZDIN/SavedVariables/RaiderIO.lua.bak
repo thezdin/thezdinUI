@@ -33,23 +33,8 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Thezidari-hyjal"
 RaiderIO_MissingCharacters = {
-	["us-Tenzîn-hyjal"] = true,
-	["us-Narutouzmaki-hyjal"] = true,
-	["us-Dëz-hyjal"] = true,
-	["us-Diocleaten-hyjal"] = true,
-	["us-Phaeron-hyjal"] = true,
-	["us-Leéch-illidan"] = true,
-	["us-Unmaskedh-hyjal"] = true,
-	["us-Humulus-hyjal"] = true,
-	["us-Madfire-hyjal"] = true,
-	["us-Cpthindsight-hyjal"] = true,
-	["us-Wölfmessir-hyjal"] = true,
-	["us-Mortabella-hyjal"] = true,
 	["us-Thezidari-hyjal"] = true,
-	["us-Draykk-hyjal"] = true,
-	["us-Treetusks-hyjal"] = true,
-	["us-Umaropiate-hyjal"] = true,
-	["us-Optimu-hyjal"] = true,
+	["us-Behzsham-hyjal"] = true,
 }
 RaiderIO_MissingServers = {
 }

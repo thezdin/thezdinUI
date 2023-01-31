@@ -382,7 +382,7 @@ DBM_AllSavedOptions = {
 		["DontShowPTText"] = false,
 		["PullVoice"] = "Corsica",
 		["SpecialWarningVibrate4"] = true,
-		["SpecialWarningFontSize2"] = 43.20462036132813,
+		["SpecialWarningFontSize2"] = 28.38165283203125,
 		["SpecialWarningFlashCol5"] = {
 			0.2, -- [1]
 			1, -- [2]
@@ -472,7 +472,7 @@ DBM_AllSavedOptions = {
 		["ShortTimerText"] = true,
 		["WhisperStats"] = false,
 		["SilentMode"] = false,
-		["WarningFontSize"] = 43.37573623657227,
+		["WarningFontSize"] = 24.78185272216797,
 		["DontPlayPTCountdown"] = false,
 		["SpecialWarningFlashAlph5"] = 0.5,
 		["SpecialWarningDuration2"] = 1.5,
@@ -518,7 +518,7 @@ DBM_AllSavedOptions = {
 		["WarningDuration2"] = 1.5,
 		["RoleSpecAlert"] = true,
 		["InfoFrameShowSelf"] = true,
-		["SpecialWarningFont"] = "Interface\\AddOns\\ElvUI_AdditionalFonts\\Fonts\\Roboto\\Roboto-BoldCondensed.ttf",
+		["SpecialWarningFont"] = "Interface\\Addons\\SharedMedia\\fonts\\adventure\\Adventure.ttf",
 		["LogTrivialDungeons"] = false,
 		["DontShowInfoFrame"] = false,
 		["DontShowBossTimers"] = false,
