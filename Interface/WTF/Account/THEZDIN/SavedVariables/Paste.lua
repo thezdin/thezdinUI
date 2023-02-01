@@ -10,17 +10,17 @@ PasteDB = {
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
-		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
-		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Thezzlybear - Hyjal"] = "Thezzlybear - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
-		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
-		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
 		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
-		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
+		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
+		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
+		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
 	},
 	["profiles"] = {
 		["Thezadin - Hyjal"] = {
@@ -68,17 +68,13 @@ PasteDB = {
 		["Thezman - Hyjal"] = {
 			["loaded"] = true,
 		},
-		["Thezdemon - Hyjal"] = {
+		["Thezkin - Hyjal"] = {
 			["loaded"] = true,
-			["whispertarget"] = "",
-			["where"] = "Default",
-			["pos"] = {
-			},
 		},
 		["Sigurdsson - Hyjal"] = {
 			["loaded"] = true,
 		},
-		["Thezbot - Azgalor"] = {
+		["Thezdinson - Hyjal"] = {
 			["loaded"] = true,
 		},
 		["Thezzlybear - Hyjal"] = {
@@ -90,23 +86,27 @@ PasteDB = {
 				["minimapPos"] = 354.5075384204556,
 			},
 		},
-		["Thezfu - Turalyon"] = {
+		["Thezadin - Mannoroth"] = {
 			["loaded"] = true,
 		},
 		["Thezbear - Turalyon"] = {
 			["loaded"] = true,
 		},
-		["Thezadin - Mannoroth"] = {
+		["Thezfu - Turalyon"] = {
 			["loaded"] = true,
 		},
-		["Thezdinson - Hyjal"] = {
+		["Thezbot - Azgalor"] = {
 			["loaded"] = true,
 		},
 		["Úlfheðnar - Hyjal"] = {
 			["loaded"] = true,
 		},
-		["Thezkin - Hyjal"] = {
+		["Thezdemon - Hyjal"] = {
 			["loaded"] = true,
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["pos"] = {
+			},
 		},
 	},
 }

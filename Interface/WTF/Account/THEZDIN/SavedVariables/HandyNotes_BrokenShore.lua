@@ -9,8 +9,8 @@ HandyNotes_BrokenShoreDB = {
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 	},
 	["profiles"] = {
 		["Úlfhédnar - Hyjal"] = {
@@ -29,9 +29,9 @@ HandyNotes_BrokenShoreDB = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
-		["Thezkin - Hyjal"] = {
-		},
 		["Thez - Hyjal"] = {
+		},
+		["Thezkin - Hyjal"] = {
 		},
 	},
 }
