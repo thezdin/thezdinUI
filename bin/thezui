@@ -30,7 +30,7 @@ def main(argv: Sequence[str] | None = None) -> int:
     os.system('cp -R ' + WOW_PATH + '_retail_/WTF/* Interface/WTF')
     
     print("Removing the sensitive stuff")
-    os.system('find . -name "*Prat*"')
+    os.system('find . -name "*Prat*" -exec ls')
     os.system('find . -name "*Prat*" -exec /bin/rm {} \ ')
 
     print("Fetching latest ElvUI")
