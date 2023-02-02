@@ -10,7 +10,7 @@ RaiderIO_Config = {
 	["enableCombatLogTracking"] = false,
 	["showSimpleScoreColors"] = false,
 	["enableWhoMessages"] = true,
-	["showMainsScore"] = true,
+	["enableUnitTooltips"] = true,
 	["inverseProfileModifier"] = false,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
@@ -18,22 +18,22 @@ RaiderIO_Config = {
 	["mplusHeadlineMode"] = 1,
 	["enableLFGTooltips"] = true,
 	["enableFriendsTooltips"] = true,
-	["showRoleIcons"] = true,
+	["showMainsScore"] = true,
 	["positionProfileAuto"] = true,
 	["showRaidEncountersInProfile"] = true,
 	["showDropDownCopyURL"] = true,
 	["showAverageScore"] = true,
 	["enableProfileModifier"] = true,
 	["enableClientEnhancements"] = true,
-	["enableUnitTooltips"] = true,
+	["showRoleIcons"] = true,
 	["lockProfile"] = false,
 	["showScoreInCombat"] = true,
 	["enableWhoTooltips"] = true,
 	["showClientGuildBest"] = true,
 }
-RaiderIO_LastCharacter = "us-Thezidari-hyjal"
+RaiderIO_LastCharacter = "us-Thezadin-hyjal"
 RaiderIO_MissingCharacters = {
-	["us-Thezidari-hyjal"] = true,
+	["us-Thezadin-hyjal"] = true,
 }
 RaiderIO_MissingServers = {
 }

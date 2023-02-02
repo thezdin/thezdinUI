@@ -938,11 +938,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shriekwing",
 		},
-		[358612] = {
-			["school"] = 32,
+		[102173] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
+			["source"] = "Echo of Tyrande",
 		},
 		[358610] = {
 			["school"] = 1,
@@ -977,12 +978,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mordretha, the Endless Empress",
 		},
-		[102173] = {
-			["school"] = 64,
+		[351969] = {
+			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Echo of Tyrande",
+			["source"] = "Fatescribe Roh-Kalo",
 		},
 		[349030] = {
 			["school"] = 1,
@@ -1007,13 +1009,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fatescribe Roh-Kalo",
 		},
-		[351969] = {
+		[358612] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Fatescribe Roh-Kalo",
 		},
 		[348520] = {
 			["school"] = 4,
@@ -1218,13 +1218,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sathel the Accursed",
 		},
-		[372419] = {
-			["school"] = 106,
-			["type"] = "BUFF",
+		[334094] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Shriekwing",
+			["source"] = "General Grashaal",
 		},
 		[354479] = {
 			["school"] = 32,
@@ -1292,13 +1292,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sludgefist",
 		},
-		[334094] = {
-			["school"] = 8,
+		[354534] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "General Grashaal",
+			["source"] = "Remnant of Ner'zhul",
 		},
 		[350828] = {
 			["school"] = 1,
@@ -1340,14 +1341,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sindrel",
 		},
-		[354534] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[372419] = {
+			["school"] = 106,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Remnant of Ner'zhul",
+			["source"] = "Shriekwing",
 		},
 		[114942] = {
 			["school"] = 8,
@@ -1614,13 +1614,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Orb of Torment",
 		},
-		[101348] = {
+		[83463] = {
 			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Echo of Sylvanas",
+			["source"] = "Faceless Sapper",
 		},
 		[356459] = {
 			["school"] = 1,
@@ -1650,14 +1651,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dawg",
 		},
-		[355568] = {
+		[334106] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Painsmith Raznal",
+			["source"] = "Reverberating Leap Stalker",
 		},
 		[101809] = {
 			["school"] = 4,
@@ -1710,25 +1711,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fatescribe Roh-Kalo",
 		},
-		[350202] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[101348] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Kyra",
-		},
-		[334106] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Reverberating Leap Stalker",
+			["source"] = "Echo of Sylvanas",
 		},
 		[101412] = {
 			["school"] = 32,
@@ -1739,6 +1728,15 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Echo of Sylvanas",
+		},
+		[355568] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Painsmith Raznal",
 		},
 		[357740] = {
 			["school"] = 4,
@@ -2194,16 +2192,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Soul Shard",
 		},
-		[327481] = {
-			["school"] = 64,
-			["type"] = "DEBUFF",
+		[352520] = {
+			["school"] = 40,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Kin-Tara",
+			["source"] = "Kevin's Oozeling",
 		},
 		[350217] = {
 			["school"] = 32,
@@ -2332,15 +2326,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Echo of Tyrande",
 		},
-		[323393] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[327481] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Lord Chamberlain",
+			["source"] = "Kin-Tara",
 		},
 		[323010] = {
 			["school"] = 1,
@@ -2444,13 +2439,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fatescribe Roh-Kalo",
 		},
-		[338729] = {
+		[107550] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Oryphrion",
+			["source"] = "Murozond",
 		},
 		[354440] = {
 			["school"] = 1,
@@ -2461,12 +2457,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Remnant of Ner'zhul",
 		},
-		[348054] = {
+		[350098] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Deathseeker Eye",
+			["source"] = "Aradne",
 		},
 		[352141] = {
 			["school"] = 32,
@@ -2478,14 +2474,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Soul Reaver",
 		},
-		[107550] = {
+		[80467] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Murozond",
+			["source"] = "Ozruk",
 		},
 		[354441] = {
 			["school"] = 1,
@@ -2503,15 +2499,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "General Grashaal",
 		},
-		[82415] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[328125] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Corborus",
+			["source"] = "Undying Stonefiend",
 		},
 		[347671] = {
 			["school"] = 32,
@@ -2529,14 +2523,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fatescribe Roh-Kalo",
 		},
-		[80467] = {
+		[338729] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ozruk",
+			["source"] = "Oryphrion",
 		},
 		[102472] = {
 			["school"] = 64,
@@ -3316,13 +3309,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sinstone Statue",
 		},
-		[328125] = {
-			["school"] = 8,
+		[82415] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Undying Stonefiend",
+			["source"] = "Corborus",
 		},
 		[352933] = {
 			["school"] = 1,
@@ -3333,12 +3328,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Soulrender Dormazain",
 		},
-		[350098] = {
+		[348054] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aradne",
+			["source"] = "Deathseeker Eye",
 		},
 		[329172] = {
 			["school"] = 1,
@@ -3394,12 +3389,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Echelon",
 		},
-		[352520] = {
-			["school"] = 40,
+		[323393] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Kevin's Oozeling",
+			["source"] = "Lord Chamberlain",
 		},
 		[323392] = {
 			["school"] = 1,
@@ -3583,14 +3581,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shriekwing",
 		},
-		[83463] = {
-			["school"] = 32,
+		[350202] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Faceless Sapper",
+			["source"] = "Kyra",
 		},
 		[347518] = {
 			["school"] = 32,

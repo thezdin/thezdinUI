@@ -1,7 +1,6 @@
 
 DBMAffixes_AllSavedVars = {
 	["Thezdin-Hyjal"] = {
-		["talent3"] = "Protection",
 		["MPlusAffixes"] = {
 			[3] = {
 				["Yell396363repeaticon"] = true,
@@ -16,23 +15,24 @@ DBMAffixes_AllSavedVars = {
 				["Timer396369fades2TColor"] = 5,
 				["Timer396364fades2TColor"] = 5,
 				["Enabled"] = true,
-				["SpecWarn209862gtfoSWSound"] = 1,
+				["SpecWarn350209you"] = true,
 				["SpecWarn396364youSWSound"] = 1,
-				["SpecWarn209862gtfo"] = true,
-				["SpecWarn396369you"] = true,
+				["SpecWarn396364youSWNote"] = true,
+				["SpecWarn396364you"] = true,
 				["SpecWarn209862gtfoSWNote"] = true,
 				["Timer396364fades2CVoice"] = 1,
 				["Timer396364fades2"] = true,
 				["announce240446cast"] = true,
 				["SpecWarn240447moveawaySWSound"] = 1,
 				["announce396363fades"] = true,
-				["SpecWarn396364you"] = true,
-				["SpecWarn396364youSWNote"] = true,
-				["SpecWarn350209you"] = true,
+				["SpecWarn396369you"] = true,
+				["SpecWarn209862gtfo"] = true,
+				["SpecWarn209862gtfoSWSound"] = 1,
 				["SpecWarn350209youSWSound"] = 1,
 				["Yell396363iconfade"] = true,
 			},
 		},
+		["talent3"] = "Protection",
 		["FatedAffixes"] = {
 			[3] = {
 				["SpecWarn369505soakSWSound"] = 2,
@@ -46,7 +46,7 @@ DBMAffixes_AllSavedVars = {
 				["SpecWarn369505you"] = true,
 				["Enabled"] = true,
 				["Timer371447cdTColor"] = 5,
-				["Timer371447cd"] = true,
+				["Timer371254cd"] = true,
 				["Timer371447cdCVoice"] = 0,
 				["SpecWarn369505youSWSound"] = 1,
 				["announce372634spell"] = true,
@@ -59,7 +59,7 @@ DBMAffixes_AllSavedVars = {
 				["Timer371254cdCVoice"] = 0,
 				["announceother371447target"] = true,
 				["Timer372634cdTColor"] = 1,
-				["Timer371254cd"] = true,
+				["Timer371447cd"] = true,
 			},
 		},
 	},
