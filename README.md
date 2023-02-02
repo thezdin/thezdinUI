@@ -9,8 +9,7 @@
 
 ## Setup
 
-
-    pip install
+    pip install --user -r requirements.txt
     cp .env.example .env
 
 ## Config via  .env
