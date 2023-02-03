@@ -6,23 +6,23 @@ HandyNotesDB = {
 		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
-		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
+		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
-		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
-		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Wifehatesme - Hyjal"] = "Wifehatesme - Hyjal",
 		["Thezzlybear - Hyjal"] = "Thezzlybear - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
 		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
-		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
 		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
-		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 	},
 	["profiles"] = {
 		["Thezadin - Hyjal"] = {
@@ -36,11 +36,11 @@ HandyNotesDB = {
 		["Thezdin - Hyjal"] = {
 			["icon_scale"] = 1.2,
 		},
-		["Foulfellow - Hyjal"] = {
+		["Thezkin - Hyjal"] = {
 		},
 		["Úlfhédnar - Hyjal"] = {
 		},
-		["Thezkin - Hyjal"] = {
+		["Thezbot - Azgalor"] = {
 		},
 		["Thezdiran - Hyjal"] = {
 		},
@@ -48,9 +48,9 @@ HandyNotesDB = {
 		},
 		["Thezman - Hyjal"] = {
 		},
-		["Thezadin - Mannoroth"] = {
+		["Thez - Hyjal"] = {
 		},
-		["Thezidari - Hyjal"] = {
+		["Thezdinson - Hyjal"] = {
 		},
 		["Wifehatesme - Hyjal"] = {
 		},
@@ -62,13 +62,13 @@ HandyNotesDB = {
 		},
 		["Thezbear - Turalyon"] = {
 		},
-		["Thezdinson - Hyjal"] = {
+		["Thezidari - Hyjal"] = {
 		},
-		["Thez - Hyjal"] = {
+		["Thezadin - Mannoroth"] = {
 		},
 		["Úlfheðnar - Hyjal"] = {
 		},
-		["Thezbot - Azgalor"] = {
+		["Foulfellow - Hyjal"] = {
 		},
 	},
 }
@@ -79,23 +79,23 @@ HandyNotes_HandyNotesDB = {
 		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
-		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
+		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
-		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
-		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Wifehatesme - Hyjal"] = "Wifehatesme - Hyjal",
 		["Thezzlybear - Hyjal"] = "Thezzlybear - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
 		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
-		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
 		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
-		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 	},
 	["profiles"] = {
 		["Thezadin - Hyjal"] = {
@@ -108,11 +108,11 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
-		["Foulfellow - Hyjal"] = {
+		["Thezkin - Hyjal"] = {
 		},
 		["Úlfhédnar - Hyjal"] = {
 		},
-		["Thezkin - Hyjal"] = {
+		["Thezbot - Azgalor"] = {
 		},
 		["Thezdiran - Hyjal"] = {
 		},
@@ -120,9 +120,9 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Thezman - Hyjal"] = {
 		},
-		["Thezadin - Mannoroth"] = {
+		["Thez - Hyjal"] = {
 		},
-		["Thezidari - Hyjal"] = {
+		["Thezdinson - Hyjal"] = {
 		},
 		["Wifehatesme - Hyjal"] = {
 		},
@@ -134,13 +134,13 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Thezbear - Turalyon"] = {
 		},
-		["Thezdinson - Hyjal"] = {
+		["Thezidari - Hyjal"] = {
 		},
-		["Thez - Hyjal"] = {
+		["Thezadin - Mannoroth"] = {
 		},
 		["Úlfheðnar - Hyjal"] = {
 		},
-		["Thezbot - Azgalor"] = {
+		["Foulfellow - Hyjal"] = {
 		},
 	},
 }

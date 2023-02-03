@@ -18,10 +18,10 @@ ElvCharacterDB = {
 		"/way #641 67.4 56.2 Tyrande Whisperwind", -- [14]
 		"/run print(C_QuestLog.IsQuestFlaggedCompleted(44337))", -- [15]
 		"/plater", -- [16]
-		"/reloadui", -- [17]
-		"/ELVUI", -- [18]
-		"/elvui", -- [19]
-		"/wa", -- [20]
+		"/ELVUI", -- [17]
+		"/wa", -- [18]
+		"/reloadui", -- [19]
+		"/elvui", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{

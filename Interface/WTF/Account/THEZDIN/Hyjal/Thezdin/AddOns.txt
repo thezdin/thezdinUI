@@ -26,12 +26,12 @@ BigWigs_SanctumOfDomination: enabled
 BigWigs_SepulcherOfTheFirstOnes: enabled
 BigWigs_Shadowlands: enabled
 Details: enabled
-Details_EncounterDetails: enabled
-Details_RaidCheck: enabled
-Details_DataStorage: enabled
-Details_Streamer: enabled
-Details_TinyThreat: enabled
-Details_Vanguard: enabled
+Details_EncounterDetails: disabled
+Details_RaidCheck: disabled
+Details_DataStorage: disabled
+Details_Streamer: disabled
+Details_TinyThreat: disabled
+Details_Vanguard: disabled
 GTFO: enabled
 HandyNotes: enabled
 HandyNotes_Argus: enabled
@@ -98,7 +98,7 @@ LittleWigs_Shadowlands: enabled
 oRA3: enabled
 Postal: enabled
 ElvUI_Libraries: enabled
-Details_Compare2: enabled
+Details_Compare2: disabled
 HandyNotes_DragonflightTreasures: enabled
 HandyNotes_AncientShrines: enabled
 HandyNotes_Jetpacks: enabled
@@ -172,3 +172,5 @@ BetterCharacter&InspectFrames: disabled
 Pawn: disabled
 ElvUI_SLE: disabled
 ElvUI_SecondsToBuff: disabled
+Details_ChartViewer: disabled
+Details_DeathGraphs: disabled
