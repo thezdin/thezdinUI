@@ -22,6 +22,16 @@ BLIZZARD_CLIENT_ID = os.getenv('BLIZZARD_CLIENT_ID')
 BLIZZARD_CLIENT_SECRET = os.getenv('BLIZZARD_CLIENT_SECRET')
 BLIZZARD_OAUTH_ENDPOINT = os.getenv('BLIZZARD_OAUTH_ENDPOINT')
 BLIZZARD_API_ENDPOINT = os.getenv('BLIZZARD_API_ENDPOINT')
+LOCALE = os.getenv('LOCALE')
+DEBUG = os.getenv('DEBUG', True)
+
+def thezPrint(str):
+    if DEBUG:
+        print(str)
+
+def jsonthezPrint(str):
+    json_formatted_str = json.dumps(json.loads(str), indent=2)
+    thezPrint(json_formatted_str)
 
 
 def main(argv: Sequence[str] | None = None) -> int:
@@ -31,28 +41,32 @@ def main(argv: Sequence[str] | None = None) -> int:
     args = parser.parse_args(argv)
 
     dir = os.getcwd()
-    print("ThezdinUI Script: " + dir)
+    thezPrint("ThezdinUI Script: " + dir)
 
     payload = {'grant_type': 'client_credentials'}
 
     # API Connection
-    print("Getting Blizzard Access Token")
+    thezPrint("Getting Blizzard Access Token")
     response = requests.post(BLIZZARD_OAUTH_ENDPOINT, data=payload, auth=(
         BLIZZARD_CLIENT_ID, BLIZZARD_CLIENT_SECRET))
 
-    data = json.loads(response.text)
-
-    print(data)
-
     if response.status_code != 200:
-        print("Failed to obtain token from Blizzard: ",
+        thezPrint("Failed to obtain token from Blizzard: ",
               data['error_description'])
         sys.exit()
+
+    data = json.loads(response.text)
+    access_token = data["access_token"]
 
     # -------------------------------
     # Now fetch the good stuff..
     # -------------------------------
+    url = BLIZZARD_API_ENDPOINT + '/data/wow/mount/index?namespace=static-us&locale=' + LOCALE + '&access_token=' + access_token
+    thezPrint(url)
 
+    response = requests.get(url)
+
+    jsonthezPrint(response.text)
 
 if __name__ == "__main__":
     raise SystemExit(main())

@@ -20,10 +20,3 @@ X: 0
 Y: 0
 W: 365
 H: 239
-Frame: ElvUIMoverPopupWindow
-FrameLevel: 200
-Anchor: RIGHT
-X: -662
-Y: 244
-W: 370
-H: 189

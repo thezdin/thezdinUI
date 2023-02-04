@@ -35,14 +35,14 @@ _detalhes_database = {
 			["defensive-personal"] = false,
 		},
 		["width"] = 120,
+		["cooldowns"] = {
+		},
 		["framme_locked"] = false,
-		["height"] = 18,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
 		},
-		["cooldowns"] = {
-		},
+		["height"] = 18,
 		["filters"] = {
 			["defensive-raid"] = false,
 			["ofensive"] = true,
@@ -112,22 +112,22 @@ _detalhes_database = {
 		["frame"] = {
 		},
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["mythic_plus_log"] = {
-	},
-	["last_instance_time"] = 0,
-	["cached_roles"] = {
-	},
-	["last_realversion"] = 148,
-	["combat_counter"] = 22,
 	["nick_tag_cache"] = {
 		["nextreset"] = 1676583009,
 		["last_version"] = 15,
 	},
-	["last_day"] = "01",
+	["mythic_plus_log"] = {
+	},
+	["force_font_outline"] = "",
+	["cached_roles"] = {
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_instance_time"] = 0,
+	["combat_counter"] = 26,
+	["last_day"] = "03",
 	["ignore_nicktag"] = false,
 	["combat_id"] = 0,
 	["savedStyles"] = {
@@ -166,10 +166,7 @@ _detalhes_database = {
 				0.5, -- [4]
 			},
 			["scale"] = 1,
-			["main_frame_size"] = {
-				299.9997863769531, -- [1]
-				500.0000610351563, -- [2]
-			},
+			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 163.6956331208669,
 				["radius"] = 160,
@@ -190,6 +187,21 @@ _detalhes_database = {
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
+			["font_size"] = 10,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = true,
 				["point"] = "CENTER",
@@ -201,29 +213,17 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["author"] = "Terciob",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = 1.52587890625e-05,
-			["font_size"] = 10,
+			["use_spark"] = true,
 			["x"] = -0.00018310546875,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["use_spark"] = true,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["y"] = 1.52587890625e-05,
+			["author"] = "Terciob",
 			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["main_frame_size"] = {
+				299.9997863769531, -- [1]
+				500.0000610351563, -- [2]
+			},
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -470,9 +470,8 @@ _detalhes_database = {
 		},
 	},
 	["character_data"] = {
-		["logons"] = 11,
+		["logons"] = 13,
 	},
-	["force_font_outline"] = "",
 	["local_instances_config"] = {
 		{
 			["modo"] = 2,
@@ -496,10 +495,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -529.3333129882812,
-					["x"] = 1128.332763671875,
+					["y"] = -529.3333358764648,
+					["x"] = 1128.33154296875,
 					["w"] = 200.0000305175781,
-					["h"] = 177.3334350585938,
+					["h"] = 177.3334503173828,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -532,7 +531,7 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -529.3333358764648,
-					["x"] = 1376.7216796875,
+					["x"] = 1376.72021484375,
 					["w"] = 296.7776794433594,
 					["h"] = 177.3334503173828,
 				},
@@ -545,6 +544,7 @@ _detalhes_database = {
 			},
 		}, -- [2]
 	},
+	["last_realversion"] = 148,
 	["announce_cooldowns"] = {
 		["enabled"] = false,
 		["ignored_cooldowns"] = {
@@ -561,21 +561,6 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-3661-09155556"] = 265,
 		["Player-3661-091D3EB8"] = 66,
-		["Player-3661-0850145B"] = 252,
-		["Player-3661-0919E56A"] = 265,
-		["Player-3661-0900B177"] = 104,
-		["Player-3661-09277475"] = 267,
-		["Player-3661-08F74AC8"] = 261,
-		["Player-3661-06CF3548"] = 62,
-		["Player-3661-092CF030"] = 261,
-		["Player-3661-08D1C092"] = 254,
-		["Player-3661-06D57E58"] = 71,
-		["Player-3661-07FD6948"] = 71,
-		["Player-3661-06D8DC9E"] = 72,
-		["Player-3661-092DD493"] = 1467,
-		["Player-3661-080BA4E2"] = 267,
-		["Player-3661-07A2E564"] = 253,
 	},
 }

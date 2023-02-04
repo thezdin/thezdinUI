@@ -17,7 +17,7 @@ oRA3DB = {
 			["global"] = {
 				["spellsOnCooldown"] = {
 				},
-				["lastTime"] = 710099.927,
+				["lastTime"] = 884230.488,
 				["chargeSpellsOnCooldown"] = {
 				},
 			},
@@ -50,6 +50,10 @@ oRA3DB = {
 				},
 			},
 		},
+		["Tanks"] = {
+		},
+		["Consumables"] = {
+		},
 		["Difficulty"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -57,20 +61,16 @@ oRA3DB = {
 				},
 			},
 		},
-		["Consumables"] = {
-		},
-		["Tanks"] = {
-		},
 	},
 	["profileKeys"] = {
-		["Thez - Hyjal"] = "Default",
+		["Sigurdsson - Hyjal"] = "Default",
 		["Thezknight - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
 		["Thezadin - Hyjal"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
-		["Thezfu - Hyjal"] = "Default",
 		["Thezkin - Hyjal"] = "Default",
-		["Sigurdsson - Hyjal"] = "Default",
+		["Thezfu - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -81,15 +81,15 @@ oRA3DB = {
 				},
 				["oRA3BattleResMonitor"] = {
 					["Height"] = 30.00000381469727,
-					["Width"] = 139.9998931884766,
-					["PosY"] = 91.7339849684231,
 					["PosX"] = 1384.533453453914,
+					["PosY"] = 91.7339849684231,
+					["Width"] = 139.9998931884766,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 387.4442138671875,
-					["Width"] = 244.5556030273438,
+					["PosX"] = 12.70218365598453,
 					["PosY"] = 371.398403429921,
-					["PosX"] = 12.7021825115753,
+					["Width"] = 244.5556030273438,
 				},
 			},
 			["lastSelectedPanel"] = "Cooldowns",
