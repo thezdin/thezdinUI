@@ -17,7 +17,7 @@ load_dotenv()
 
 WOW_PATH = os.getenv('WOW_PATH')
 CHARACTER = os.getenv('CHARACTER')
-SERVER = os.getenv('SERVER')
+SERVER = os.getenv('SERVER')ii
 BLIZZARD_CLIENT_ID = os.getenv('BLIZZARD_CLIENT_ID')
 BLIZZARD_CLIENT_SECRET = os.getenv('BLIZZARD_CLIENT_SECRET')
 BLIZZARD_OAUTH_ENDPOINT = os.getenv('BLIZZARD_OAUTH_ENDPOINT')
@@ -66,7 +66,7 @@ def main(argv: Sequence[str] | None = None) -> int:
 
     response = requests.get(url)
 
-    jsonthezPrint(response.text)
+    jsonPrint(response.text)
 
 if __name__ == "__main__":
     raise SystemExit(main())

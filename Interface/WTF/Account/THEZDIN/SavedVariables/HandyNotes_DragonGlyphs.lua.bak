@@ -1,6 +1,7 @@
 
 HandyNotes_DragonGlyphsDB = {
 	["profileKeys"] = {
+		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
@@ -9,6 +10,8 @@ HandyNotes_DragonGlyphsDB = {
 		["Thez - Hyjal"] = "Thez - Hyjal",
 	},
 	["profiles"] = {
+		["Úlfhédnar - Hyjal"] = {
+		},
 		["Thezkin - Hyjal"] = {
 		},
 		["Thezidari - Hyjal"] = {

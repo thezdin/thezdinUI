@@ -2,52 +2,30 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p Yeah what we'll have to do is stack but on max spread edges", -- [1]
-		"/p if you have DBM, use /range", -- [2]
-		"/range", -- [3]
-		"/p Berms, for Odin please make sure you're ready to interrupt in case I can't get the add pulled", -- [4]
-		"/p Only other thing is general interrupts on trash Mary/Bagoo I'm gonna rely on you both to backup", -- [5]
-		"/p Thunderbolt + Quaking is death", -- [6]
-		"/p yeah I'll call that out if we're at risk", -- [7]
-		"/p stack", -- [8]
-		"/p on boss for stack phase save your personals/pots", -- [9]
-		"/p I'll use rally on first + Seyka AM", -- [10]
-		"/p yes, during first stack", -- [11]
-		"/p Bagoo save AM for 2nd stack", -- [12]
-		"/p use personals and pots and everything on 2nd", -- [13]
-		"/p all pots and personals!", -- [14]
-		"/p my bad berms lol", -- [15]
-		"/p not your fault", -- [16]
-		"/p Berms/Seyka start Green marker please", -- [17]
-		"/p wipe it", -- [18]
-		"/p I fucked up", -- [19]
-		"/2 |cffffd000|Htrade:Player-3661-090EB9B6:158737:164|h[Blacksmithing]|h|r LF Work, no fees!", -- [20]
+		"/p nope, we got extra tcaller earlier", -- [1]
+		"/p i ran from mydot", -- [2]
+		"/p was trying to loop back", -- [3]
+		"/p wipe", -- [4]
+		"/p clear at 7", -- [5]
+		"/p good?", -- [6]
+		"/p please make sure everyone zergs the add when it pops", -- [7]
+		"/p if it's casting we need a ranged stun or something", -- [8]
+		"/p patch up", -- [9]
+		"/p we're short on trash", -- [10]
+		"/p kill this pack", -- [11]
+		"/p we're still short", -- [12]
+		"/p lol", -- [13]
+		"/p guys turn back", -- [14]
+		"/p we need 1 more", -- [15]
+		"/p you need the belt?", -- [16]
+		"/p I need the gloves if you wanna trade", -- [17]
+		"/p ooh damn", -- [18]
+		"/p RIP lol", -- [19]
+		"/p thx for the group gg", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted Stormforged Obliterator's |cff71d5ff|Hspell:198750:0|h[Surge]|h|r!", -- [1]
-			"Bagoo-Kael'thas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1426, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675484565,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"{rt6}", -- [1]
+			"{rt7}3", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -57,7 +35,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1427, -- [11]
+			6035, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -65,30 +43,52 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1675484565,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
+			[51] = 1675756508,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [1]
 		{
-			"{rt7}", -- [1]
-			"Bagoo-Kael'thas", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1428, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
+			6036, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675484565,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1675756508,
 			[50] = "CHAT_MSG_SAY",
+		}, -- [2]
+		{
+			"bad stuns", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mydotisbrown-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6040, -- [11]
+			"Player-9-0AEA81AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756538,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [3]
 		{
 			"{rt7}", -- [1]
@@ -101,7 +101,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1429, -- [11]
+			6049, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -109,29 +109,29 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484565,
+			[51] = 1675756566,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
 			"{rt7}", -- [1]
-			"Berms-Area52", -- [2]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Berms-Area52", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1432, -- [11]
-			"Player-3676-0AE15510", -- [12]
+			6050, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675484565,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756567,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
@@ -145,7 +145,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1433, -- [11]
+			6051, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -153,7 +153,7 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484567,
+			[51] = 1675756569,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
@@ -167,7 +167,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1434, -- [11]
+			6052, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -175,7 +175,7 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484569,
+			[51] = 1675756570,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
@@ -189,7 +189,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1437, -- [11]
+			6053, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -197,7 +197,7 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484570,
+			[51] = 1675756572,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
@@ -211,7 +211,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1440, -- [11]
+			6054, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -219,11 +219,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484571,
+			[51] = 1675756574,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"{rt7}", -- [1]
+			"{rt7}5", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -233,7 +233,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1443, -- [11]
+			6057, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -241,33 +241,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484573,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1675756576,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [10]
 		{
-			"{rt6}5", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}4", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1445, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			6058, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1675484575,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756577,
 			[50] = "CHAT_MSG_YELL",
 		}, -- [11]
 		{
-			"{rt7}5", -- [1]
+			"{rt7}3", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -277,7 +277,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1446, -- [11]
+			6059, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -285,33 +285,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484575,
+			[51] = 1675756578,
 			[50] = "CHAT_MSG_YELL",
 		}, -- [12]
 		{
-			"{rt7}5", -- [1]
-			"Berms-Area52", -- [2]
+			"{rt7}2", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Berms-Area52", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1447, -- [11]
-			"Player-3676-0AE15510", -- [12]
+			6060, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675484575,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756579,
 			[50] = "CHAT_MSG_YELL",
 		}, -- [13]
 		{
-			"RA: {rt8} |cffffff00|Hachievement:10543:Player-3661-090EB9B6:1:2:4:21:4294967295:4294967295:4294967295:4294967295|h[Surge Protector]|h|r failed!", -- [1]
+			"{rt7}1", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -321,7 +321,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1449, -- [11]
+			6061, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -329,11 +329,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484576,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1675756580,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [14]
 		{
-			"{rt7}4", -- [1]
+			"Clear", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -343,7 +343,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1450, -- [11]
+			6063, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -351,121 +351,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484576,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1675756581,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"{rt6}4", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"dont stun it", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1451, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			6069, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1675484577,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756660,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [16]
 		{
-			"{rt7}4", -- [1]
-			"Berms-Area52", -- [2]
+			"untill odyns aoe", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Berms-Area52", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1452, -- [11]
-			"Player-3676-0AE15510", -- [12]
+			6070, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675484577,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756668,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [17]
 		{
-			"{rt6}3", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"goes off", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1454, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			6071, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1675484577,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756669,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [18]
 		{
-			"{rt7}3", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"need %, lets just kill something here?", -- [1]
+			"Tdrex-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Tdrex-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1455, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6072, -- [11]
+			"Player-3678-0D6A7EC0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484577,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cff0070ddTdrex-Thrall|r",
+			[51] = 1675756641,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [19]
 		{
-			"{rt7}3", -- [1]
-			"Berms-Area52", -- [2]
+			"u dont need %", -- [1]
+			"Mathrim-Gurubashi", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Berms-Area52", -- [5]
+			"Mathrim-Gurubashi", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1456, -- [11]
-			"Player-3676-0AE15510", -- [12]
+			6074, -- [11]
+			"Player-1136-0924A2F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675484577,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cff8788eeMathrim-Gurubashi|r",
+			[51] = 1675756651,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [20]
 		{
-			"Clear", -- [1]
+			"we're short on trash", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -475,7 +475,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1457, -- [11]
+			6075, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -483,162 +483,162 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484578,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1675756728,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"Clear", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"kill this pack", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1458, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			6076, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1675484578,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756730,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [22]
 		{
-			"Clear", -- [1]
-			"Berms-Area52", -- [2]
+			"its 84%", -- [1]
+			"Mathrim-Gurubashi", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Berms-Area52", -- [5]
+			"Mathrim-Gurubashi", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1459, -- [11]
-			"Player-3676-0AE15510", -- [12]
+			6078, -- [11]
+			"Player-1136-0924A2F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675484578,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8788eeMathrim-Gurubashi|r",
+			[51] = 1675756732,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [23]
 		{
-			"{rt6}", -- [1]
-			"Bagoo-Kael'thas", -- [2]
+			"Interrupted Valarjar Runecarver's |cff71d5ff|Hspell:198959:0|h[Etch]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1471, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
+			6079, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675484636,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756695,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [24]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"my guy", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1472, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6080, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484636,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756701,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [25]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"thats", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1479, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6081, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484637,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756702,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [26]
 		{
-			"{rt7}", -- [1]
-			"Berms-Area52", -- [2]
+			"before u go up", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Berms-Area52", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1481, -- [11]
-			"Player-3676-0AE15510", -- [12]
+			6082, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675484637,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756704,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [27]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"and kill the 4 guards", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1485, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6083, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484639,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756707,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [28]
 		{
 			"{rt7}", -- [1]
@@ -651,7 +651,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1491, -- [11]
+			6085, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -659,143 +659,143 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484580,
+			[51] = 1675756712,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}{rt6}{rt6}", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1495, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6086, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484582,
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756712,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1501, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6087, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484583,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1675756712,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"{rt7}5", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Mathrim-Gurubashi", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mathrim-Gurubashi", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1504, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6089, -- [11]
+			"Player-1136-0924A2F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484586,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cff8788eeMathrim-Gurubashi|r",
+			[51] = 1675756712,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [32]
 		{
-			"{rt6}5", -- [1]
-			"Bagoo-Kael'thas", -- [2]
+			"{rt7}{rt7}{rt7}", -- [1]
+			"Tdrex-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
+			"Tdrex-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1505, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
+			6091, -- [11]
+			"Player-3678-0D6A7EC0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675484586,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cff0070ddTdrex-Thrall|r",
+			[51] = 1675756712,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [33]
 		{
-			"{rt7}5", -- [1]
-			"Berms-Area52", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Berms-Area52", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1506, -- [11]
-			"Player-3676-0AE15510", -- [12]
+			6092, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675484586,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756713,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"{rt6}4", -- [1]
-			"Bagoo-Kael'thas", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1507, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
+			6097, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675484647,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756715,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"{rt7}4", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -805,7 +805,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1508, -- [11]
+			6103, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -813,55 +813,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484647,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1675756716,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
-			"{rt7}4", -- [1]
-			"Berms-Area52", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Berms-Area52", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1509, -- [11]
-			"Player-3676-0AE15510", -- [12]
+			6107, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675484647,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1675756717,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"{rt7}3", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1511, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6108, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484648,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1675756717,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"{rt7}2", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -871,7 +871,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1513, -- [11]
+			6109, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -879,33 +879,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484649,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1675756718,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"{rt6}2", -- [1]
-			"Bagoo-Kael'thas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1514, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675484649,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [40]
-		{
-			"{rt7}1", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -915,7 +893,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1515, -- [11]
+			6112, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -923,185 +901,53 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484650,
+			[51] = 1675756719,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [40]
+		{
+			"{rt7}5", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6116, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756782,
 			[50] = "CHAT_MSG_YELL",
 		}, -- [41]
 		{
-			"{rt6}1", -- [1]
-			"Bagoo-Kael'thas", -- [2]
+			"{rt7}5", -- [1]
+			"Mathrim-Gurubashi", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
+			"Mathrim-Gurubashi", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1516, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
+			6117, -- [11]
+			"Player-1136-0924A2F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675484650,
+			[52] = "|cff8788eeMathrim-Gurubashi|r",
+			[51] = 1675756782,
 			[50] = "CHAT_MSG_YELL",
 		}, -- [42]
-		{
-			"Clear", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1518, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484651,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"Clear", -- [1]
-			"Bagoo-Kael'thas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1519, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675484651,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"Interrupted Stormforged Obliterator's |cff71d5ff|Hspell:198750:0|h[Surge]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1523, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484678,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [45]
-		{
-			"Interrupted Stormforged Obliterator's |cff71d5ff|Hspell:198750:0|h[Surge]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1526, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484695,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [46]
-		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1531, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484646,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1535, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484713,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"{rt7}5", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1536, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484716,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [49]
 		{
 			"{rt7}4", -- [1]
 			"Thezdin-Hyjal", -- [2]
@@ -1113,7 +959,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1537, -- [11]
+			6119, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1121,9 +967,31 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484717,
+			[51] = 1675756783,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [50]
+		}, -- [43]
+		{
+			"{rt7}4", -- [1]
+			"Mathrim-Gurubashi", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mathrim-Gurubashi", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6120, -- [11]
+			"Player-1136-0924A2F3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeMathrim-Gurubashi|r",
+			[51] = 1675756783,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [44]
 		{
 			"{rt7}3", -- [1]
 			"Thezdin-Hyjal", -- [2]
@@ -1135,7 +1003,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1538, -- [11]
+			6121, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1143,53 +1011,9 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484718,
+			[51] = 1675756784,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [51]
-		{
-			"{rt7}2", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1539, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484719,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [52]
-		{
-			"{rt7}1", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1540, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484720,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [53]
+		}, -- [45]
 		{
 			"Clear", -- [1]
 			"Thezdin-Hyjal", -- [2]
@@ -1201,7 +1025,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1541, -- [11]
+			6123, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1209,99 +1033,275 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484721,
+			[51] = 1675756784,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [46]
 		{
-			"May as well wait for the reset.", -- [1]
-			"Berms-Area52", -- [2]
+			"odyn doesnt give % and we've cleared everything on top", -- [1]
+			"Tdrex-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Berms-Area52", -- [5]
+			"Tdrex-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1542, -- [11]
-			"Player-3676-0AE15510", -- [12]
+			6124, -- [11]
+			"Player-3678-0D6A7EC0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675484817,
+			[52] = "|cff0070ddTdrex-Thrall|r",
+			[51] = 1675756786,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [47]
+		{
+			"oh okay", -- [1]
+			"Mathrim-Gurubashi", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mathrim-Gurubashi", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6125, -- [11]
+			"Player-1136-0924A2F3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeMathrim-Gurubashi|r",
+			[51] = 1675756793,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [48]
+		{
+			"we're still short", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6126, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756799,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [49]
+		{
+			"lol", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6127, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756742,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [50]
+		{
+			"guys turn back", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6128, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756765,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [51]
+		{
+			"we need 1 more", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6129, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756769,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [52]
+		{
+			"well just go down and kill", -- [1]
+			"Tdrex-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tdrex-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6130, -- [11]
+			"Player-3678-0D6A7EC0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddTdrex-Thrall|r",
+			[51] = 1675756772,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [53]
+		{
+			"since we're up here", -- [1]
+			"Tdrex-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tdrex-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6131, -- [11]
+			"Player-3678-0D6A7EC0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddTdrex-Thrall|r",
+			[51] = 1675756776,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [54]
+		{
+			"i mean might as well just kill boss then down", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mydotisbrown-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6132, -- [11]
+			"Player-9-0AEA81AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756841,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [55]
 		{
-			"90s on lust", -- [1]
-			"Berms-Area52", -- [2]
+			"since we already took the time going up", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Berms-Area52", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1543, -- [11]
-			"Player-3676-0AE15510", -- [12]
+			6133, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675484762,
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756847,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [56]
 		{
-			"k", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"lol", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1544, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			6134, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1675484765,
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675756847,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [57]
 		{
-			"wipe it", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"and then we wont have to kill anything more since it will be over", -- [1]
+			"Tdrex-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Tdrex-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1555, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6135, -- [11]
+			"Player-3678-0D6A7EC0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484925,
+			[52] = "|cff0070ddTdrex-Thrall|r",
+			[51] = 1675756859,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [58]
 		{
-			"I fucked up", -- [1]
+			"Interrupted Valarjar Thundercaller's |cff71d5ff|Hspell:198595:0|h[Thunderous Bolt]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1311,7 +1311,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1556, -- [11]
+			6137, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1319,55 +1319,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675484928,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1675756825,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [59]
 		{
-			"{rt7}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Thunderstrike on Tdrex", -- [1]
+			"Tdrex-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Tdrex-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1564, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			6138, -- [11]
+			"Player-3678-0D6A7EC0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1675485068,
+			[52] = "|cff0070ddTdrex-Thrall|r",
+			[51] = 1675756833,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"{rt6}", -- [1]
-			"Bagoo-Kael'thas", -- [2]
+			">> FRONTAL ON ME <<", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1565, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
+			6139, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675485068,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675756901,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"{rt7}", -- [1]
+			"Interrupted Valarjar Mystic's |cff71d5ff|Hspell:215433:0|h[Holy Radiance]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1377,7 +1377,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1566, -- [11]
+			6141, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1385,11 +1385,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485068,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1675756909,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [62]
 		{
-			"{rt7}", -- [1]
+			">> FRONTAL ON ME <<", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1399,7 +1399,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1572, -- [11]
+			6142, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1407,7 +1407,7 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485069,
+			[51] = 1675756912,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [63]
 		{
@@ -1421,7 +1421,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1575, -- [11]
+			6144, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1429,29 +1429,29 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485071,
+			[51] = 1675756878,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [64]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1577, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6145, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485072,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1675756878,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [65]
 		{
@@ -1465,7 +1465,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1580, -- [11]
+			6148, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1473,7 +1473,7 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485074,
+			[51] = 1675756879,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
@@ -1487,7 +1487,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1584, -- [11]
+			6152, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1495,207 +1495,53 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485075,
+			[51] = 1675756881,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"{rt7}5", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1587, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6153, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485078,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1675756881,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"{rt6}5", -- [1]
-			"Bagoo-Kael'thas", -- [2]
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1588, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
+			6154, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675485078,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1675756881,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
-		{
-			"{rt7}5", -- [1]
-			"Berms-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Berms-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1589, -- [11]
-			"Player-3676-0AE15510", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675485078,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [70]
-		{
-			"{rt7}4", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1591, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485079,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [71]
-		{
-			"{rt6}4", -- [1]
-			"Bagoo-Kael'thas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1592, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675485079,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [72]
-		{
-			"{rt7}4", -- [1]
-			"Berms-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Berms-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1593, -- [11]
-			"Player-3676-0AE15510", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675485079,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [73]
-		{
-			"{rt7}3", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1596, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485080,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [74]
-		{
-			"{rt7}3", -- [1]
-			"Berms-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Berms-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1598, -- [11]
-			"Player-3676-0AE15510", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675485080,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [75]
-		{
-			"{rt6}3", -- [1]
-			"Bagoo-Kael'thas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1599, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675485080,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [76]
 		{
 			"Clear", -- [1]
 			"Thezdin-Hyjal", -- [2]
@@ -1707,7 +1553,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1600, -- [11]
+			6155, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1715,77 +1561,209 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485080,
+			[51] = 1675756881,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [70]
+		{
+			"{rt6}{rt6}{rt6}", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mydotisbrown-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6165, -- [11]
+			"Player-9-0AEA81AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675757099,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [71]
+		{
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6166, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675757099,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [72]
+		{
+			"{rt7}{rt7}{rt7}", -- [1]
+			"Tdrex-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tdrex-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6167, -- [11]
+			"Player-3678-0D6A7EC0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddTdrex-Thrall|r",
+			[51] = 1675757099,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [73]
+		{
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6170, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675757041,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [74]
+		{
+			"{rt6}", -- [1]
+			"Mathrim-Gurubashi", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mathrim-Gurubashi", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6171, -- [11]
+			"Player-1136-0924A2F3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeMathrim-Gurubashi|r",
+			[51] = 1675757041,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [75]
+		{
+			"{rt7}", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6173, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1675757042,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6176, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675757042,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"Clear", -- [1]
-			"Bagoo-Kael'thas", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1601, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
+			6180, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675485080,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675757044,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"Clear", -- [1]
-			"Berms-Area52", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Berms-Area52", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1602, -- [11]
-			"Player-3676-0AE15510", -- [12]
+			6185, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675485080,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675757045,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"Ok. Learned something new there.", -- [1]
-			"Berms-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Berms-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1610, -- [11]
-			"Player-3676-0AE15510", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675485131,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [80]
-		{
-			"{rt7}", -- [1]
+			"Clear", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1795,7 +1773,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1614, -- [11]
+			6187, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1803,97 +1781,97 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485138,
+			[51] = 1675757047,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [80]
+		{
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6192, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1675757047,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [81]
 		{
-			"{rt7}", -- [1]
-			"Bagoo-Kael'thas", -- [2]
+			"Clear", -- [1]
+			"Mathrim-Gurubashi", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
+			"Mathrim-Gurubashi", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1615, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
+			6193, -- [11]
+			"Player-1136-0924A2F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675485138,
+			[52] = "|cff8788eeMathrim-Gurubashi|r",
+			[51] = 1675757047,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [82]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1617, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6194, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485140,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1675757047,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Mathrim-Gurubashi", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mathrim-Gurubashi", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1620, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6196, -- [11]
+			"Player-1136-0924A2F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485141,
+			[52] = "|cff8788eeMathrim-Gurubashi|r",
+			[51] = 1675757047,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [84]
-		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1622, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485143,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
 		{
 			"Interrupted Stormforged Obliterator's |cff71d5ff|Hspell:198750:0|h[Surge]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
@@ -1905,7 +1883,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1623, -- [11]
+			6197, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1913,11 +1891,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485143,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[51] = 1675757048,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [85]
+		{
+			"ty", -- [1]
+			"Mathrim-Gurubashi", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mathrim-Gurubashi", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6211, -- [11]
+			"Player-1136-0924A2F3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeMathrim-Gurubashi|r",
+			[51] = 1675757101,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [86]
 		{
-			"{rt7}", -- [1]
+			"you need the belt?", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1927,7 +1927,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1624, -- [11]
+			6213, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1935,11 +1935,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485144,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1675757116,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [87]
 		{
-			"{rt7}", -- [1]
+			"I need the gloves if you wanna trade", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1949,7 +1949,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1625, -- [11]
+			6214, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1957,121 +1957,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485146,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1675757122,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [88]
 		{
-			"{rt7}5", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"i can trade", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1626, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6215, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485148,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675757200,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"{rt7}4", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"cant", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1627, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6216, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485149,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675757202,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [90]
 		{
-			"{rt7}3", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"so rip", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1628, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6217, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485150,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675757204,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"{rt7}2", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"lol", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1629, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6219, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485151,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675757206,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"{rt7}1", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"higher ilvl", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mydotisbrown-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1630, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			6220, -- [11]
+			"Player-9-0AEA81AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485152,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675757210,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"Clear", -- [1]
+			"ooh damn", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2081,7 +2081,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1631, -- [11]
+			6221, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2089,118 +2089,118 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675485153,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1675757216,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			"tys", -- [1]
-			"Mary-Scilla", -- [2]
+			"RIP lol", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mary-Scilla", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1647, -- [11]
-			"Player-96-0DE0860B", -- [12]
+			6222, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Mary-Scilla|r",
-			[51] = 1675485226,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1675757218,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [95]
 		{
-			"tyvm", -- [1]
-			"Berms-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Berms-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1648, -- [11]
-			"Player-3676-0AE15510", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddBerms-Area52|r",
-			[51] = 1675485228,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
-		{
-			"thanks all", -- [1]
-			"Bagoo-Kael'thas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bagoo-Kael'thas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1650, -- [11]
-			"Player-1175-0EC07BE9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBagoo-Kael'thas|r",
-			[51] = 1675485232,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
-		{
-			"you can redo this |cffa335ee|Hitem:190503::::::::70:65::13:4:8836:8840:8902:8800:5:28:2164:29:36:30:40:38:6:40:122::::Player-3661-090EB9B6:|h[Primal Molten Defender |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a]|h|r", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1716, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1675485947,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
-		{
-			"|cffffd000|Htrade:Player-3661-090EB9B6:158737:164|h[Blacksmithing]|h|r LF Work, no fees!", -- [1]
+			"thx for the group gg", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
+			"", -- [4]
 			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1717, -- [11]
+			6223, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
+			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675486064,
-			[50] = "CHAT_MSG_CHANNEL",
+			[51] = 1675757165,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [96]
+		{
+			"ye rip", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mydotisbrown-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6224, -- [11]
+			"Player-9-0AEA81AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675757169,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [97]
+		{
+			"gl", -- [1]
+			"Mydotisbrown-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mydotisbrown-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6225, -- [11]
+			"Player-9-0AEA81AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMydotisbrown-Kil'jaeden|r",
+			[51] = 1675757170,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [98]
+		{
+			"gg", -- [1]
+			"Tdrex-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tdrex-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6226, -- [11]
+			"Player-3678-0D6A7EC0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddTdrex-Thrall|r",
+			[51] = 1675757184,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [99]
 	},
 }

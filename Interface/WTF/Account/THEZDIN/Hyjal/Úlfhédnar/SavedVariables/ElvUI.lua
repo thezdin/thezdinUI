@@ -2,13 +2,13 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/elvui", -- [1]
-		"/plater", -- [2]
-		"/kiss", -- [3]
-		"/invite Amplifi", -- [4]
-		"/p we should watch this with him, he's being clingy", -- [5]
-		"/p i'm gonna log off", -- [6]
-		"/invite amplifi", -- [7]
+		"/kiss", -- [1]
+		"/invite Amplifi", -- [2]
+		"/p we should watch this with him, he's being clingy", -- [3]
+		"/p i'm gonna log off", -- [4]
+		"/invite amplifi", -- [5]
+		"/elvui", -- [6]
+		"/plater", -- [7]
 	},
 	["ChatHistoryLog"] = {
 		{

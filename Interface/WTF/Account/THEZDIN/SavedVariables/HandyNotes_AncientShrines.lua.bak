@@ -1,6 +1,7 @@
 
 HandyNotes_AncientShrinesDB = {
 	["profileKeys"] = {
+		["Úlfhédnar - Hyjal"] = "Default",
 		["Thezkin - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
 		["Thezadin - Hyjal"] = "Default",

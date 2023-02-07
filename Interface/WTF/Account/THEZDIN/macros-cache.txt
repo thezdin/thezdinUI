@@ -127,6 +127,11 @@ VER 3 0000000000000077 "Trinket 2" "134400"
 #showtooltip
 /use 14
 END
+VER 3 0000000000000078 "Variss" "134400"
+#showtooltip
+/tar Inquisitor Variss
+/cast Storm Bolt
+END
 VER 3 000000000000006E "ZoneMount" "136103"
 /cancelform
 /zm mount

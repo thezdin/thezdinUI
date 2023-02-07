@@ -9,9 +9,9 @@ HandyNotes_CovenantSanctumDB = {
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
-		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 	},
 	["profiles"] = {
 		["Úlfhédnar - Hyjal"] = {
@@ -30,11 +30,11 @@ HandyNotes_CovenantSanctumDB = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
-		["Thezkin - Hyjal"] = {
+		["Thezadin - Hyjal"] = {
 		},
 		["Sigurdsson - Hyjal"] = {
 		},
-		["Thezadin - Hyjal"] = {
+		["Thezkin - Hyjal"] = {
 		},
 	},
 }
