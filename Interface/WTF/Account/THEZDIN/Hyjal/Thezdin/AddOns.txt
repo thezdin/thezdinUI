@@ -174,3 +174,4 @@ ElvUI_SLE: disabled
 ElvUI_SecondsToBuff: disabled
 Details_ChartViewer: disabled
 Details_DeathGraphs: disabled
+ElvUI_BuffHighlight: disabled

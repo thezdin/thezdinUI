@@ -107,3 +107,4 @@ RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
 ElvUI_SecondsToBuff: disabled
+ElvUI_BuffHighlight: disabled

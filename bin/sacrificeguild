@@ -17,7 +17,7 @@ load_dotenv()
 
 WOW_PATH = os.getenv('WOW_PATH')
 CHARACTER = os.getenv('CHARACTER')
-SERVER = os.getenv('SERVER')ii
+SERVER = os.getenv('SERVER')
 BLIZZARD_CLIENT_ID = os.getenv('BLIZZARD_CLIENT_ID')
 BLIZZARD_CLIENT_SECRET = os.getenv('BLIZZARD_CLIENT_SECRET')
 BLIZZARD_OAUTH_ENDPOINT = os.getenv('BLIZZARD_OAUTH_ENDPOINT')
@@ -25,11 +25,13 @@ BLIZZARD_API_ENDPOINT = os.getenv('BLIZZARD_API_ENDPOINT')
 LOCALE = os.getenv('LOCALE')
 DEBUG = os.getenv('DEBUG', True)
 
+
 def thezPrint(str):
     if DEBUG:
         print(str)
 
-def jsonthezPrint(str):
+
+def jsonPrint(str):
     json_formatted_str = json.dumps(json.loads(str), indent=2)
     thezPrint(json_formatted_str)
 
@@ -52,7 +54,7 @@ def main(argv: Sequence[str] | None = None) -> int:
 
     if response.status_code != 200:
         thezPrint("Failed to obtain token from Blizzard: ",
-              data['error_description'])
+                  data['error_description'])
         sys.exit()
 
     data = json.loads(response.text)
@@ -61,12 +63,14 @@ def main(argv: Sequence[str] | None = None) -> int:
     # -------------------------------
     # Now fetch the good stuff..
     # -------------------------------
-    url = BLIZZARD_API_ENDPOINT + '/data/wow/mount/index?namespace=static-us&locale=' + LOCALE + '&access_token=' + access_token
+    url = BLIZZARD_API_ENDPOINT + '/data/wow/mount/index?namespace=static-us&locale=' + \
+        LOCALE + '&access_token=' + access_token
     thezPrint(url)
 
     response = requests.get(url)
 
     jsonPrint(response.text)
+
 
 if __name__ == "__main__":
     raise SystemExit(main())

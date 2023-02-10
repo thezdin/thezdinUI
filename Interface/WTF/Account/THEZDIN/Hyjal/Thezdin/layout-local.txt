@@ -15,9 +15,9 @@ W: 10
 H: 10
 Frame: ItemRefTooltip
 FrameLevel: 1
-Anchor: TOP
-X: -674
-Y: -251
+Anchor: RIGHT
+X: -587
+Y: 45
 W: 128
 H: 64
 Frame: ColorPickerFrame

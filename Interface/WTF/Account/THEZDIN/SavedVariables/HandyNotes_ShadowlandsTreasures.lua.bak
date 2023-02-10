@@ -6,9 +6,9 @@ HandyNotes_ShadowlandsTreasuresDB = {
 		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
-		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
@@ -22,7 +22,7 @@ HandyNotes_ShadowlandsTreasuresDB = {
 		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
-		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
+		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 	},
 	["profiles"] = {
 		["Thezadin - Hyjal"] = {
@@ -38,11 +38,11 @@ HandyNotes_ShadowlandsTreasuresDB = {
 				[14339] = false,
 			},
 		},
-		["Thezkin - Hyjal"] = {
+		["Foulfellow - Hyjal"] = {
 		},
 		["Úlfhédnar - Hyjal"] = {
 		},
-		["Thezbot - Azgalor"] = {
+		["Thezkin - Hyjal"] = {
 		},
 		["Thezdiran - Hyjal"] = {
 		},
@@ -70,7 +70,7 @@ HandyNotes_ShadowlandsTreasuresDB = {
 		},
 		["Úlfheðnar - Hyjal"] = {
 		},
-		["Foulfellow - Hyjal"] = {
+		["Thezbot - Azgalor"] = {
 		},
 	},
 }
