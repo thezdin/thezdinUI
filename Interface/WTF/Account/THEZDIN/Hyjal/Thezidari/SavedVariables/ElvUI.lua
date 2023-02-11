@@ -11,85 +11,19 @@ ElvCharacterDB = {
 		"/plater", -- [7]
 		"/ELVUI", -- [8]
 		"/wa", -- [9]
-		"/elvui", -- [10]
-		"/WA", -- [11]
-		"/run print(C_QuestLog.IsQuestFlaggedCompleted(44337))", -- [12]
-		"/reloadui", -- [13]
-		"/way 43.82 50.29", -- [14]
-		"/way 41.0 56.0", -- [15]
-		"/run print(C_QuestLog.IsQuestFlaggedCompleted(38382))", -- [16]
-		"/way 54 73 Aranelle", -- [17]
-		"/SALUTE", -- [18]
-		"/salute", -- [19]
-		"/dbm", -- [20]
+		"/WA", -- [10]
+		"/run print(C_QuestLog.IsQuestFlaggedCompleted(44337))", -- [11]
+		"/reloadui", -- [12]
+		"/way 43.82 50.29", -- [13]
+		"/way 41.0 56.0", -- [14]
+		"/run print(C_QuestLog.IsQuestFlaggedCompleted(38382))", -- [15]
+		"/way 54 73 Aranelle", -- [16]
+		"/SALUTE", -- [17]
+		"/salute", -- [18]
+		"/dbm", -- [19]
+		"/elvui", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Interrupted Forsworn Justicar's |cff71d5ff|Hspell:317959:0|h[Dark Lash]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			411, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1666760008,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [1]
-		{
-			"Interrupted Forsworn Goliath's |cff71d5ff|Hspell:327413:0|h[Rebellious Fist]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			412, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1666760025,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [2]
-		{
-			"Run Through on Cailyx", -- [1]
-			"Cailyx-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cailyx-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			425, -- [11]
-			"Player-3661-091C5161", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Cailyx|r",
-			[51] = 1666760255,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:4477:Player-3661-091C5161:1:10:25:22:4294967295:4294967295:4294967295:4294967295|h[Looking For Many]|h|r!", -- [1]
 			"Cailyx-Hyjal", -- [2]
@@ -111,7 +45,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Cailyx|r",
 			[51] = 1666760371,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [4]
+		}, -- [1]
 		{
 			"throm kil'azi", -- [1]
 			"Elionas-Hyjal", -- [2]
@@ -133,7 +67,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Elionas|r",
 			[51] = 1667341514,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [2]
 		{
 			"mog grom ruk", -- [1]
 			"Elionas-Hyjal", -- [2]
@@ -155,7 +89,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Elionas|r",
 			[51] = 1667341517,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [3]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:15218:Player-3661-091C86DD:1:11:6:22:4294967295:4294967295:4294967295:4294967295|h[WoW's 18th Anniversary]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -177,7 +111,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1667777761,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [7]
+		}, -- [4]
 		{
 			"|cffa335ee|Hitem:86331::::::::60:65::::1:28:1034:::::|h[Taoren, the Soul Burner]|h|r", -- [1]
 			"Seyka-Turalyon", -- [2]
@@ -199,7 +133,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka-Turalyon|r",
 			[51] = 1667777865,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [8]
+		}, -- [5]
 		{
 			"|cffa335ee|Hitem:86387::::::::60:65::::1:28:1034:::::|h[Kilrak, Jaws of Terror]|h|r", -- [1]
 			"Seyka-Turalyon", -- [2]
@@ -221,7 +155,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka-Turalyon|r",
 			[51] = 1667777840,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [9]
+		}, -- [6]
 		{
 			"|cffa335ee|Hitem:86328::::::::60:65::::1:28:1034:::::|h[Loshan, Terror Incarnate]|h|r", -- [1]
 			"Seyka-Turalyon", -- [2]
@@ -243,7 +177,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka-Turalyon|r",
 			[51] = 1667777925,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
+		}, -- [7]
 		{
 			"nah just feels clunky and weak, still never die as always but feels like its missing somethin", -- [1]
 			"Nyxazure-Hyjal", -- [2]
@@ -265,7 +199,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Nyxazure|r",
 			[51] = 1668666647,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
+		}, -- [8]
 		{
 			"never going to be a warrior but i hear Bear form Druids got a nice tank buff incoming", -- [1]
 			"Glitchies-Hyjal", -- [2]
@@ -287,7 +221,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddGlitchies|r",
 			[51] = 1668666656,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
+		}, -- [9]
 		{
 			"they need it, druid feels the worst tbh", -- [1]
 			"Nyxazure-Hyjal", -- [2]
@@ -309,7 +243,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Nyxazure|r",
 			[51] = 1668666612,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
+		}, -- [10]
 		{
 			"warrior broken op right now", -- [1]
 			"Nyxazure-Hyjal", -- [2]
@@ -331,7 +265,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Nyxazure|r",
 			[51] = 1668666619,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
+		}, -- [11]
 		{
 			"What i mean is Paly will never be a warrior ", -- [1]
 			"Glitchies-Hyjal", -- [2]
@@ -353,7 +287,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddGlitchies|r",
 			[51] = 1668666620,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
+		}, -- [12]
 		{
 			"Paly are missing a lot, they are the poor step child and they sleep under the stairs", -- [1]
 			"Glitchies-Hyjal", -- [2]
@@ -375,7 +309,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddGlitchies|r",
 			[51] = 1668666704,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [13]
 		{
 			"Paladin tanks have been OP since the dawn of the universe, they can suffer for a while", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -397,7 +331,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1668666683,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [14]
 		{
 			"i stick to m+ mostly nowdays so havent had much need for anything other than DH", -- [1]
 			"Nyxazure-Hyjal", -- [2]
@@ -419,7 +353,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Nyxazure|r",
 			[51] = 1668666685,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [15]
 		{
 			"issue with Paly is it's hard to buff them when they are so hard to kill ", -- [1]
 			"Glitchies-Hyjal", -- [2]
@@ -441,7 +375,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddGlitchies|r",
 			[51] = 1668666755,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [16]
 		{
 			"i aint get no gold from the covenant callings i didnt read this in the patch notes for phase2", -- [1]
 			"Chussyka-Hyjal", -- [2]
@@ -463,7 +397,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dChussyka|r",
 			[51] = 1668666767,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [17]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11171:Player-3661-091C86DD:1:11:25:22:4294967295:4294967295:4294967295:4294967295|h[Arsenal of Power]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -485,7 +419,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1669439170,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [21]
+		}, -- [18]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11609:Player-3661-090ED303:1:11:25:22:4294967295:4294967295:4294967295:4294967295|h[Power Unbound]|h|r!", -- [1]
 			"Ceylan-Hyjal", -- [2]
@@ -507,7 +441,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aCeylan|r",
 			[51] = 1669439257,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [22]
+		}, -- [19]
 		{
 			"Uuuugh, you pick bad time to interrupt! My. Tummy. No. Good!", -- [1]
 			"", -- [2]
@@ -529,7 +463,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1669522623,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [23]
+		}, -- [20]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10798:Player-3661-091C86DD:1:11:26:22:4294967295:4294967295:4294967295:4294967295|h[Assault on Violet Hold]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -551,7 +485,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1669523249,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [24]
+		}, -- [21]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10799:Player-3661-091C86DD:1:11:26:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Assault on Violet Hold]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -573,7 +507,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1669523249,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [25]
+		}, -- [22]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11164:Player-3661-091C86DD:1:11:26:22:4294967295:4294967295:4294967295:4294967295|h[Legion Dungeon Hero]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -595,7 +529,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1669523249,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [26]
+		}, -- [23]
 		{
 			"Soooo... When could BG leaders kick people from the BG? Not for being inactive, but when did they have that ability? I did not agree with a BG leader and I got kicked?", -- [1]
 			"Kagútsuchi-Hyjal", -- [2]
@@ -617,7 +551,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fKagútsuchi|r",
 			[51] = 1669526140,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [24]
 		{
 			"We werent in a pre-made group or anything ", -- [1]
 			"Kagútsuchi-Hyjal", -- [2]
@@ -639,7 +573,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fKagútsuchi|r",
 			[51] = 1669526178,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [25]
 		{
 			"odd no cle sorry fam", -- [1]
 			"Sleepytank-Hyjal", -- [2]
@@ -661,7 +595,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSleepytank|r",
 			[51] = 1669526182,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [26]
 		{
 			"*clue", -- [1]
 			"Sleepytank-Hyjal", -- [2]
@@ -683,7 +617,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSleepytank|r",
 			[51] = 1669526187,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [27]
 		{
 			"they can't, but you can be vote kicked", -- [1]
 			"Sela-Hyjal", -- [2]
@@ -705,7 +639,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebSela|r",
 			[51] = 1669526170,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [28]
 		{
 			"It wasnt a vote kick. He literally said. By the powers invested in me. ", -- [1]
 			"Kagútsuchi-Hyjal", -- [2]
@@ -727,7 +661,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fKagútsuchi|r",
 			[51] = 1669526272,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [29]
 		{
 			"I am kicking you out", -- [1]
 			"Kagútsuchi-Hyjal", -- [2]
@@ -749,7 +683,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fKagútsuchi|r",
 			[51] = 1669526277,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [30]
 		{
 			"Then bam, I am kicked out. I already reported him cause I thought it may be a hack ", -- [1]
 			"Kagútsuchi-Hyjal", -- [2]
@@ -771,7 +705,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fKagútsuchi|r",
 			[51] = 1669526320,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [31]
 		{
 			"|cffffff00Starstalker's Point is under attack!|r", -- [1]
 			"", -- [2]
@@ -793,7 +727,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1669583121,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [32]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10781:Player-3661-090ED303:1:11:27:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Eye of Azshara]|h|r!", -- [1]
 			"Ceylan-Hyjal", -- [2]
@@ -815,7 +749,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aCeylan|r",
 			[51] = 1669585750,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [36]
+		}, -- [33]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10706:Player-3661-091C86DD:1:11:28:22:4294967295:4294967295:4294967295:4294967295|h[Training the Troops]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -837,7 +771,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1669654667,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [37]
+		}, -- [34]
 		{
 			"thank you", -- [1]
 			"Dimondinruff-Perenolde", -- [2]
@@ -859,7 +793,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aDimondinruff-Perenolde|r",
 			[51] = 1669655019,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [35]
 		{
 			"is anyone in agroup", -- [1]
 			"Eralle-Suramar", -- [2]
@@ -881,7 +815,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fEralle-Suramar|r",
 			[51] = 1669655921,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [39]
+		}, -- [36]
 		{
 			"kil revash ", -- [1]
 			"Hawtsforu-Mal'Ganis", -- [2]
@@ -903,7 +837,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHawtsforu-Mal'Ganis|r",
 			[51] = 1669655969,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [37]
 		{
 			"any groups have a spot||?", -- [1]
 			"Perromuerto-Kilrogg", -- [2]
@@ -925,7 +859,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aPerromuerto-Kilrogg|r",
 			[51] = 1669655974,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [38]
 		{
 			"why wont the dimmed earth thing drop?", -- [1]
 			"Wildbanana-Windrunner", -- [2]
@@ -947,7 +881,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dWildbanana-Windrunner|r",
 			[51] = 1669655987,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [39]
 		{
 			"killed this guy 4 times now", -- [1]
 			"Wildbanana-Windrunner", -- [2]
@@ -969,7 +903,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dWildbanana-Windrunner|r",
 			[51] = 1669655993,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [40]
 		{
 			"Anyone get extra leather gear?", -- [1]
 			"Mcallister-Kilrogg", -- [2]
@@ -991,7 +925,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aMcallister-Kilrogg|r",
 			[51] = 1669656009,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [41]
 		{
 			"grats!", -- [1]
 			"Mcallister-Kilrogg", -- [2]
@@ -1013,7 +947,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aMcallister-Kilrogg|r",
 			[51] = 1669656026,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [42]
 		{
 			"you've reached the max level they can be used at", -- [1]
 			"Gnomegedon-Hyjal", -- [2]
@@ -1035,7 +969,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeGnomegedon|r",
 			[51] = 1669656336,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [43]
 		{
 			"when dose the new game come out the 28 ?", -- [1]
 			"Silvercell-Hyjal", -- [2]
@@ -1057,7 +991,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSilvercell|r",
 			[51] = 1669656374,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [44]
 		{
 			"5pm EST.", -- [1]
 			"Chryqq-Hyjal", -- [2]
@@ -1079,7 +1013,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebChryqq|r",
 			[51] = 1669656381,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [45]
 		{
 			"depends on timezone but yah", -- [1]
 			"Syannia-Hyjal", -- [2]
@@ -1101,7 +1035,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Syannia|r",
 			[51] = 1669656384,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [46]
 		{
 			"ok ", -- [1]
 			"Silvercell-Hyjal", -- [2]
@@ -1123,7 +1057,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSilvercell|r",
 			[51] = 1669656389,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [47]
 		{
 			"4 server", -- [1]
 			"Deerstabber-Kilrogg", -- [2]
@@ -1145,7 +1079,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Deerstabber-Kilrogg|r",
 			[51] = 1669656395,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [48]
 		{
 			"is the server going down for maintenance again before that, or is everything pretty much \"live\" waiting to be turned on", -- [1]
 			"Aelilia-Kilrogg", -- [2]
@@ -1167,7 +1101,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeAelilia-Kilrogg|r",
 			[51] = 1669656411,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [49]
 		{
 			"ok yeah i just paid for it ", -- [1]
 			"Silvercell-Hyjal", -- [2]
@@ -1189,7 +1123,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSilvercell|r",
 			[51] = 1669656420,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [50]
 		{
 			"no clue :(", -- [1]
 			"Syannia-Hyjal", -- [2]
@@ -1211,7 +1145,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Syannia|r",
 			[51] = 1669656423,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [51]
 		{
 			"since they're doing world wide release, i assume at the time it all just... turns on", -- [1]
 			"Syannia-Hyjal", -- [2]
@@ -1233,7 +1167,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Syannia|r",
 			[51] = 1669656445,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [52]
 		{
 			"Worldcarver A'tir |cffffff00|Hworldmap:2022:3002:5538|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Giganacl-Hyjal", -- [2]
@@ -1255,7 +1189,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaGiganacl|r",
 			[51] = 1670433787,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [53]
 		{
 			"Jewelcrafting Signet of Titanic Insight  R5 392/405 W/Stats/Elemental Lariat 392/402- 405 is 31% pst recraft fee", -- [1]
 			"Zeltia-Hyjal", -- [2]
@@ -1277,7 +1211,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZeltia|r",
 			[51] = 1674436147,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [54]
 		{
 			"|cff0070dd|Hitem:201391::::::::70:65::::1:28:2214:::::|h[Drakonid Enforcer's Hidesplitter]|h|r", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -1299,7 +1233,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka|r",
 			[51] = 1674436191,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [58]
+		}, -- [55]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16291:Player-3661-091C86DD:1:1:25:23:4294967295:4294967295:4294967295:4294967295|h[An Ancient Awakening]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1321,7 +1255,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1674668087,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [59]
+		}, -- [56]
 		{
 			"Slurpo Rare up", -- [1]
 			"Aerieanna-Hyjal", -- [2]
@@ -1343,7 +1277,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aAerieanna|r",
 			[51] = 1674671156,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [57]
 		{
 			"1 more for spider time", -- [1]
 			"Cupcakebunny-Hyjal", -- [2]
@@ -1365,7 +1299,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCupcakebunny|r",
 			[51] = 1674690173,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [58]
 		{
 			" poop salad", -- [1]
 			"Inseçt-Hyjal", -- [2]
@@ -1387,7 +1321,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dInseçt|r",
 			[51] = 1674690224,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [59]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:605:Player-3661-091C86DD:1:1:25:23:4294967295:4294967295:4294967295:4294967295|h[A Coin of Ancestry]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1409,7 +1343,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1674691701,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [63]
+		}, -- [60]
 		{
 			"Char up", -- [1]
 			"Durzra-Hyjal", -- [2]
@@ -1431,7 +1365,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aDurzra|r",
 			[51] = 1674934413,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [61]
 		{
 			"where is?", -- [1]
 			"Shesahe-Hyjal", -- [2]
@@ -1453,7 +1387,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Shesahe|r",
 			[51] = 1674934392,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [62]
 		{
 			"obsidian citadel", -- [1]
 			"Durzra-Hyjal", -- [2]
@@ -1475,7 +1409,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aDurzra|r",
 			[51] = 1674934449,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [63]
 		{
 			"okay :)", -- [1]
 			"Shesahe-Hyjal", -- [2]
@@ -1497,7 +1431,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Shesahe|r",
 			[51] = 1674934517,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [64]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16334:Player-3661-091C86DD:1:1:28:23:4294967295:4294967295:4294967295:4294967295|h[Waking Hope]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1519,7 +1453,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1674934578,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [68]
+		}, -- [65]
 		{
 			"aaz ", -- [1]
 			"Coffeenema-Hyjal", -- [2]
@@ -1541,7 +1475,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Coffeenema|r",
 			[51] = 1674966110,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [66]
 		{
 			"Is there anyone around that can craft Amice at 5 star?", -- [1]
 			"Empirics-Hyjal", -- [2]
@@ -1563,7 +1497,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeEmpirics|r",
 			[51] = 1675055673,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [67]
 		{
 			"decurrses or something like that", -- [1]
 			"Zeltia-Hyjal", -- [2]
@@ -1585,7 +1519,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZeltia|r",
 			[51] = 1675055686,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [68]
 		{
 			"part of ice cream gang", -- [1]
 			"Zeltia-Hyjal", -- [2]
@@ -1607,7 +1541,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZeltia|r",
 			[51] = 1675055642,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [69]
 		{
 			"|cffffd000|Htrade:Player-3661-092B9280:25229:755|h[Jewelcrafting]|h|r|cffa335ee|Hitem:193001::::::::70:256::13:1:3524:2:40:260:38:8:::::|h[Elemental Lariat |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r|cffa335ee|Hitem:192999::::::::70:256::13:1:3524:2:40:258:38:8:::::|h[Signet of Titanic Insight |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r|cff0070dd|Hitem:193888::::::::70:256::13:1:3524::::::|h[Jeweled Emerald Whelpling]|h|rMAX RIng R5 always /Neck JC w/ Elemental Lariat 392, 402-405/415-418 37% recraft msg for recraft fee", -- [1]
 			"Zeltia-Hyjal", -- [2]
@@ -1629,7 +1563,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZeltia|r",
 			[51] = 1675055894,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [70]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:17305:Player-3661-091C86DD:1:2:1:23:4294967295:4294967295:4294967295:4294967295|h[Trading Post: Dragonflight]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1651,7 +1585,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1675285280,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [74]
+		}, -- [71]
 		{
 			"LF |cffa335ee|Hitem:192999::::::::70:105:::::::::|h[Signet of Titanic Insight]|h|r Crafter", -- [1]
 			"Redruid-Hyjal", -- [2]
@@ -1673,7 +1607,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aRedruid|r",
 			[51] = 1675481267,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [72]
 		{
 			"yes", -- [1]
 			"Mathison-Hyjal", -- [2]
@@ -1695,7 +1629,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Mathison|r",
 			[51] = 1675540670,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [73]
 		{
 			"ty", -- [1]
 			"Apexbulwarkk-Hyjal", -- [2]
@@ -1717,7 +1651,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aApexbulwarkk|r",
 			[51] = 1675540624,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [74]
 		{
 			"np", -- [1]
 			"Mathison-Hyjal", -- [2]
@@ -1739,7 +1673,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Mathison|r",
 			[51] = 1675540690,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [75]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -1761,7 +1695,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675557070,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [76]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -1783,7 +1717,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675557720,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [77]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -1805,7 +1739,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675557935,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [78]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -1827,7 +1761,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675558011,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [79]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -1849,7 +1783,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675558078,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [80]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -1871,7 +1805,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675560242,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [81]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -1893,7 +1827,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675560304,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [82]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -1915,7 +1849,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675562584,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [83]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -1937,7 +1871,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675562650,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [84]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -1959,7 +1893,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675563018,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [85]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -1981,7 +1915,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675563678,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [86]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -2003,7 +1937,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675564136,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [87]
 		{
 			"|cffffff00Darkfollow's Spire is under attack!|r", -- [1]
 			"", -- [2]
@@ -2025,7 +1959,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1675564140,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [88]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10698:Player-3661-091C86DD:1:2:4:23:4294967295:4294967295:4294967295:4294967295|h[That's Val'sharah Folks!]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2047,7 +1981,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1675564593,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [92]
+		}, -- [89]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10461:Player-3661-091C86DD:1:2:4:23:4294967295:4294967295:4294967295:4294967295|h[Fighting with Style: Classic]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2069,7 +2003,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1675564858,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [93]
+		}, -- [90]
 		{
 			"LF CRAFTER FOR  418 |cffa335ee|Hitem:194898::::::::70:102:::::::::|h[Illuminating Pillar of the Isles]|h|r", -- [1]
 			"Galladruid-Hyjal", -- [2]
@@ -2091,7 +2025,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aGalladruid|r",
 			[51] = 1675565500,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [91]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11214:Player-3661-091C86DD:1:2:5:23:4294967295:4294967295:4294967295:4294967295|h[Many Missions]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2113,7 +2047,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1675631968,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [95]
+		}, -- [92]
 		{
 			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2135,7 +2069,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1675632326,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [96]
+		}, -- [93]
 		{
 			"|cffffd000|Henchant:365729|h[Dragon Isles Blacksmithing: Primal Molten Warglaive]|h|r", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -2157,7 +2091,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka|r",
 			[51] = 1675743594,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
+		}, -- [94]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:4624:Player-3661-091C86DD:1:2:8:23:4294967295:4294967295:4294967295:4294967295|h[Tough Love]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2179,7 +2113,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1675844175,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [98]
+		}, -- [95]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16627:Player-3661-091C86DD:1:2:8:23:4294967295:4294967295:4294967295:4294967295|h[Professional Draconic Master]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2201,6 +2135,72 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1675923298,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [96]
+		{
+			"Sparkspitter Vrak up.  will pull in five mins", -- [1]
+			"Leanbeef-Hyjal", -- [2]
+			"", -- [3]
+			"1. General - Ohn'ahran Plains", -- [4]
+			"Leanbeef-Hyjal", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Ohn'ahran Plains", -- [9]
+			0, -- [10]
+			436, -- [11]
+			"Player-3661-06CC7C45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff0070ddLeanbeef|r",
+			[51] = 1676097018,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"anyone else for rare Sparkspitter Vrak?  will pull in 3 mins", -- [1]
+			"Leanbeef-Hyjal", -- [2]
+			"", -- [3]
+			"1. General - Ohn'ahran Plains", -- [4]
+			"Leanbeef-Hyjal", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Ohn'ahran Plains", -- [9]
+			0, -- [10]
+			458, -- [11]
+			"Player-3661-06CC7C45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff0070ddLeanbeef|r",
+			[51] = 1676097149,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"water chest", -- [1]
+			"Cupcakebunny-Hyjal", -- [2]
+			"", -- [3]
+			"1. General - Ohn'ahran Plains", -- [4]
+			"Cupcakebunny-Hyjal", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Ohn'ahran Plains", -- [9]
+			0, -- [10]
+			493, -- [11]
+			"Player-3661-06CFCFD6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc41e3aCupcakebunny|r",
+			[51] = 1676097424,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }

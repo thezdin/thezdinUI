@@ -2,52 +2,52 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p I'll get most Explosives, but will need help on interrupts particularly the heaelrs", -- [1]
-		"/p Wafflers, you good to help with dispels?", -- [2]
-		"/p on Hyrja we'll need VE also please", -- [3]
-		"/p skip move up quick", -- [4]
-		"/p 2 yaks after this", -- [5]
-		"/p stack plz", -- [6]
-		"/p love that", -- [7]
-		"/p guys", -- [8]
-		"/p help with interrupts", -- [9]
-		"/p will definitely need help on the add here", -- [10]
-		"/p I'll pull to door always for Odin", -- [11]
-		"/p Hotboi you have Tor interrupts", -- [12]
-		"/cw Hotboi-Zul'jin you've got interrupts on Tor", -- [13]
-		"/p I can't get explosives here", -- [14]
-		"/p you all need to please", -- [15]
-		"/p For the add RUN TO PURPLE BY THE ENTRANCE", -- [16]
-		"/p ALWAYS run towards purple", -- [17]
-		"/p thx all gg", -- [18]
-		"/dbm", -- [19]
-		"/invite Seyka", -- [20]
+		"/p so poly it to stop cast", -- [1]
+		"/p penetrating shot is what matters", -- [2]
+		"/p getting 2 yaks", -- [3]
+		"/p clump for dogs", -- [4]
+		"/elvui", -- [5]
+		"/cw Sneakyhandz-Illidan man I'm sorry but this Mage is ruining my life lol", -- [6]
+		"/p PULL THESE UP THE RAMP", -- [7]
+		"/p DO NOT STOP", -- [8]
+		"/p lust for this guy and then patch up", -- [9]
+		"/cw Sneakyhandz-Illidan omg he lust on the trash", -- [10]
+		"/cw Sneakyhandz-Illidan this guy", -- [11]
+		"/cw Sneakyhandz-Illidan sorry about your key man", -- [12]
+		"/p he didn't lust there lol", -- [13]
+		"/p we are all clear", -- [14]
+		"/p FOR THE ADD RUN TO THIS AREA EACH TIME", -- [15]
+		"/p always run to entrance for add please", -- [16]
+		"/p no boots :(", -- [17]
+		"/p i hate this place", -- [18]
+		"/p Kale you need legs?", -- [19]
+		"/ora", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}3", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			269, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1599, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675969815,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676147838,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [1]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}3", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -57,7 +57,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			272, -- [11]
+			1600, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -65,55 +65,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675969867,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676147838,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [2]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}2", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			274, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1601, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675969958,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676147839,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [3]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}2", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			299, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1602, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970179,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676147839,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [4]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}2", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -123,7 +123,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			301, -- [11]
+			1603, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -131,33 +131,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970266,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676147839,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [5]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			303, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1604, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970229,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676147839,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"Clear", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -167,7 +167,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			305, -- [11]
+			1606, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -175,121 +175,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970323,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676147839,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			307, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1607, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970292,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676147839,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			309, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1608, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970382,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676147839,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
+			"omg he lust on the trash", -- [1]
+			"Sneakyhandz-Illidan", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Sneakyhandz-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			311, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			7, -- [10]
+			1612, -- [11]
+			"Player-57-0D2F3942", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970348,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
+			[51] = 1676147909,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [10]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
+			"this guy", -- [1]
+			"Sneakyhandz-Illidan", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Sneakyhandz-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			314, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			7, -- [10]
+			1613, -- [11]
+			"Player-57-0D2F3942", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970401,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
+			[51] = 1676147911,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [11]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
+			"sorry about your key man", -- [1]
+			"Sneakyhandz-Illidan", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Sneakyhandz-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			316, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			7, -- [10]
+			1614, -- [11]
+			"Player-57-0D2F3942", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970429,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
+			[51] = 1676147914,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [12]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -299,7 +299,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			348, -- [11]
+			1622, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -307,77 +307,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970786,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676147973,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			350, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1623, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970871,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676147973,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			356, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1624, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675970997,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676147973,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			359, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1626, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675971047,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676147973,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"Interrupted Highlord Kruul's |cff71d5ff|Hspell:234676:0|h[Twisted Reflection]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -387,7 +387,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			373, -- [11]
+			1628, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -395,11 +395,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675971150,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676147974,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -409,7 +409,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			420, -- [11]
+			1637, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -417,11 +417,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675975677,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676147976,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -431,7 +431,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			424, -- [11]
+			1642, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -439,11 +439,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675975756,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676147977,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"Clear", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -453,7 +453,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			426, -- [11]
+			1645, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -461,187 +461,187 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675975779,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676147977,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [20]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			428, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1647, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675975804,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676147977,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			431, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1648, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675975862,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676147978,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [22]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			433, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1649, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675975896,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676147978,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"Interrupted Highlord Kruul's |cff71d5ff|Hspell:234676:0|h[Twisted Reflection]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			440, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1650, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675975955,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676147978,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1651, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675981788,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676147978,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Felblaze Rush on Sneakyhandz", -- [1]
+			"Sneakyhandz-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Sneakyhandz-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			20, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1654, -- [11]
+			"Player-57-0D2F3942", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675981845,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
+			[51] = 1676147988,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Felblaze Rush on Kalesmora", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			22, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1655, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675981809,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676147940,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Felblaze Rush on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			29, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1661, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675981925,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148032,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -651,7 +651,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31, -- [11]
+			1665, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -659,77 +659,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675981948,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148043,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"Interrupted Highlord Kruul's |cff71d5ff|Hspell:234676:0|h[Twisted Reflection]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			37, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1666, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675981985,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148043,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			63, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1667, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675982167,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148043,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			65, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1669, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675982192,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676148043,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [32]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -739,7 +739,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			67, -- [11]
+			1674, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -747,11 +747,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675982275,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148045,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [33]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -761,7 +761,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			72, -- [11]
+			1679, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -769,55 +769,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675982319,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148046,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			93, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1682, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675982548,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148047,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234401:0|h[Mind Rend]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			95, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1683, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675982586,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148047,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -827,7 +827,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			115, -- [11]
+			1686, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -835,11 +835,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675982682,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148048,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -849,7 +849,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			117, -- [11]
+			1689, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -857,11 +857,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675982710,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148049,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -871,7 +871,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			119, -- [11]
+			1694, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -879,33 +879,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675982734,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148051,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			121, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1697, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675982761,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148052,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
-			"Interrupted Highlord Kruul's |cff71d5ff|Hspell:234676:0|h[Twisted Reflection]|h|r!", -- [1]
+			"Clear", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -915,7 +915,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			134, -- [11]
+			1698, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -923,99 +923,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675982948,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148052,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"Interrupted Highlord Kruul's |cff71d5ff|Hspell:234676:0|h[Twisted Reflection]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			139, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1699, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675983011,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676148052,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			163, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1700, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675983277,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676148052,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"timer on lust?", -- [1]
+			"Sneakyhandz-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Sneakyhandz-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			165, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1702, -- [11]
+			"Player-57-0D2F3942", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675983243,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
+			[51] = 1676148083,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [44]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"i have drums if we need", -- [1]
+			"Sneakyhandz-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Sneakyhandz-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			184, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1703, -- [11]
+			"Player-57-0D2F3942", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675983321,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
+			[51] = 1676148087,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [45]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"he didn't lust there lol", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1025,7 +1025,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			187, -- [11]
+			1705, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1033,33 +1033,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675983407,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148092,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [46]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"20 seg", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			190, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1706, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675983460,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676148096,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [47]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"we are all clear", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1069,7 +1069,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			194, -- [11]
+			1707, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1077,11 +1077,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675983539,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148096,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [48]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"FOR THE ADD RUN TO THIS AREA EACH TIME", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1091,7 +1091,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			199, -- [11]
+			1708, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1099,11 +1099,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675983643,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148103,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [49]
 		{
-			"Interrupted Highlord Kruul's |cff71d5ff|Hspell:234676:0|h[Twisted Reflection]|h|r!", -- [1]
+			"always run to entrance for add please", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1113,7 +1113,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			205, -- [11]
+			1710, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1121,33 +1121,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675983614,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148111,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			227, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1716, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675983825,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148160,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1157,7 +1157,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			283, -- [11]
+			1717, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1165,33 +1165,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984177,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148160,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			288, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1718, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984215,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676148160,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1201,7 +1201,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			291, -- [11]
+			1721, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1209,33 +1209,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984275,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148162,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			295, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1724, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984405,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148163,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234401:0|h[Mind Rend]|h|r!", -- [1]
+			"Clear", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1245,7 +1245,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			296, -- [11]
+			1725, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1253,99 +1253,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984431,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148163,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			315, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1728, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984453,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148165,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			319, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1731, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984591,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148166,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [58]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			321, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1732, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984613,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148166,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			323, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1733, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984578,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676148166,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1355,7 +1355,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			325, -- [11]
+			1746, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1363,33 +1363,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984664,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148231,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			327, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1747, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984635,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676148231,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [62]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1399,7 +1399,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			329, -- [11]
+			1751, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1407,11 +1407,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984726,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148232,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [63]
 		{
-			"Interrupted Highlord Kruul's |cff71d5ff|Hspell:234676:0|h[Twisted Reflection]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1421,7 +1421,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			340, -- [11]
+			1753, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1429,33 +1429,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675984844,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148234,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [64]
 		{
-			"      nOgAH", -- [1]
-			"Simorbie-Hyjal", -- [2]
-			"Orcish", -- [3]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Simorbie-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			350, -- [11]
-			"Player-3661-092BA6CC", -- [12]
+			0, -- [10]
+			1755, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aSimorbie|r",
-			[51] = 1675985713,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676148235,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [65]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1465,7 +1465,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			12, -- [11]
+			1759, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1473,33 +1473,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675991484,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148237,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1762, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675991536,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148238,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1509,7 +1509,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			19, -- [11]
+			1764, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1517,55 +1517,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675991617,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148238,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}5", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			23, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1768, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675991643,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148181,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [69]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}5", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			25, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1769, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675991725,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148181,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [70]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}5", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1575,7 +1575,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			47, -- [11]
+			1770, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1583,77 +1583,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675991849,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148181,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [71]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}5", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			49, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1771, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675991876,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676148181,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [72]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}4", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			53, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1774, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675991897,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148182,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [73]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}4", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			55, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1775, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675991983,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148182,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [74]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}4", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1663,7 +1663,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			58, -- [11]
+			1776, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1671,77 +1671,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992035,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148182,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [75]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}4", -- [1]
+			"Mantø-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Mantø-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			60, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1777, -- [11]
+			"Player-1427-0DEC8DA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992000,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3fc7ebMantø-Ragnaros|r",
+			[51] = 1676148182,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [76]
 		{
-			"Interrupted Highlord Kruul's |cff71d5ff|Hspell:234676:0|h[Twisted Reflection]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Sneakyhandz-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Sneakyhandz-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			66, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1779, -- [11]
+			"Player-57-0D2F3942", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992087,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
+			[51] = 1676148183,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"Interrupted Highlord Kruul's |cff71d5ff|Hspell:234676:0|h[Twisted Reflection]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}3", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			71, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1780, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992151,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148183,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [78]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}3", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1751,7 +1751,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			105, -- [11]
+			1782, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1759,55 +1759,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992419,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148183,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [79]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}2", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			110, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1784, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992523,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148184,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [80]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}2", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			112, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1785, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992492,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148184,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [81]
 		{
-			"Interrupted Highlord Kruul's |cff71d5ff|Hspell:234676:0|h[Twisted Reflection]|h|r!", -- [1]
+			"{rt7}2", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1817,7 +1817,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			120, -- [11]
+			1786, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1825,55 +1825,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992659,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148184,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [82]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			144, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1788, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992780,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148185,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}1", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			147, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1789, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992894,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148185,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [84]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"{rt7}1", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1883,7 +1883,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			149, -- [11]
+			1790, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1891,33 +1891,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992856,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148185,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [85]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			153, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1791, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675992991,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148186,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [86]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"Clear", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1927,7 +1927,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			157, -- [11]
+			1792, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1935,33 +1935,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675993022,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148186,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"gg", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			176, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1803, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675993179,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148287,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [88]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"no boots :( ", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1971,7 +1971,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			180, -- [11]
+			1804, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1979,33 +1979,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675993256,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148292,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"thanks yall", -- [1]
+			"Sneakyhandz-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Sneakyhandz-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			182, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1805, -- [11]
+			"Player-57-0D2F3942", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675993221,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
+			[51] = 1676148294,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [90]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234401:0|h[Mind Rend]|h|r!", -- [1]
+			"i hate this place", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2015,7 +2015,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			183, -- [11]
+			1806, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2023,55 +2023,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675993302,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148296,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"sorry about your key", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			206, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1807, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675993401,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676148240,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"i hate CoS", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			262, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1808, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675993918,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148243,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
+			"Kale you need legs?", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2081,7 +2081,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			287, -- [11]
+			1809, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2089,118 +2089,118 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675994081,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[51] = 1676148245,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			"Interrupted Inquisitor Variss's |cff71d5ff|Hspell:234423:0|h[Drain Life]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"|cffa335ee|Hitem:200427::::::::70:71::16:8:6652:8822:7977:8820:8827:8970:1488:8767::::::|h[Poleyns of the Walking Mountain]|h|r", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			290, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1810, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1675994137,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148312,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [95]
 		{
-			"|cffffd000|Htrade:Player-3661-092B9280:25229:755|h[Jewelcrafting]|h|r|cffa335ee|Hitem:193001::::::::70:258::13:1:3524:2:40:260:38:8:::::|h[Elemental Lariat |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r|cffa335ee|Hitem:192999::::::::70:258::13:1:3524:2:40:258:38:8:::::|h[Signet of Titanic Insight |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|rMAX Ring/Neck/Inspiration w/ Elemental Lariat 392, 405/418 40% recraft Vers/Haste/Mast epic gems msg for craft fee", -- [1]
-			"Zeltia-Hyjal", -- [2]
+			"nah", -- [1]
+			"Kalesmora-Hellscream", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zeltia-Hyjal", -- [5]
+			"", -- [4]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			302, -- [11]
-			"Player-3661-092B9280", -- [12]
+			1811, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffZeltia|r",
-			[51] = 1675994213,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148314,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [96]
 		{
-			"ZUG MAKA MOG MOG REGAS MOG L MAKA GROM ZUG ", -- [1]
-			"Lucepher-Hyjal", -- [2]
-			"Orcish", -- [3]
+			"no worries i need to farm around 16 anyways ", -- [1]
+			"Sneakyhandz-Illidan", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lucepher-Hyjal", -- [5]
+			"Sneakyhandz-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			311, -- [11]
-			"Player-3661-083C4B0A", -- [12]
+			0, -- [10]
+			1818, -- [11]
+			"Player-57-0D2F3942", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aLucepher|r",
-			[51] = 1675994226,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
+			[51] = 1676148350,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [97]
 		{
-			"RUK zaga kil zil'nok zug maka", -- [1]
-			"Rhunbear-Hyjal", -- [2]
-			"Orcish", -- [3]
+			"thanks again", -- [1]
+			"Sneakyhandz-Illidan", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Rhunbear-Hyjal", -- [5]
+			"Sneakyhandz-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			405, -- [11]
-			"Player-3661-092B3C7C", -- [12]
+			0, -- [10]
+			1819, -- [11]
+			"Player-57-0D2F3942", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dRhunbear|r",
-			[51] = 1675995853,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
+			[51] = 1676148351,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [98]
 		{
-			"Lok'tar Lok Zuggossh mog mu revash", -- [1]
-			"Rhunbear-Hyjal", -- [2]
-			"Orcish", -- [3]
+			"gg", -- [1]
+			"Kalesmora-Hellscream", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Rhunbear-Hyjal", -- [5]
+			"Kalesmora-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			409, -- [11]
-			"Player-3661-092B3C7C", -- [12]
+			0, -- [10]
+			1822, -- [11]
+			"Player-53-09BA74B7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dRhunbear|r",
-			[51] = 1675995931,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dKalesmora-Hellscream|r",
+			[51] = 1676148357,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [99]
 	},
 }
