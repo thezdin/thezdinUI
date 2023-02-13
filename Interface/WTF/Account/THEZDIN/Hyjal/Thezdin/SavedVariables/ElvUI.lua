@@ -2,52 +2,52 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p so poly it to stop cast", -- [1]
-		"/p penetrating shot is what matters", -- [2]
-		"/p getting 2 yaks", -- [3]
-		"/p clump for dogs", -- [4]
-		"/elvui", -- [5]
-		"/cw Sneakyhandz-Illidan man I'm sorry but this Mage is ruining my life lol", -- [6]
-		"/p PULL THESE UP THE RAMP", -- [7]
-		"/p DO NOT STOP", -- [8]
-		"/p lust for this guy and then patch up", -- [9]
-		"/cw Sneakyhandz-Illidan omg he lust on the trash", -- [10]
-		"/cw Sneakyhandz-Illidan this guy", -- [11]
-		"/cw Sneakyhandz-Illidan sorry about your key man", -- [12]
-		"/p he didn't lust there lol", -- [13]
-		"/p we are all clear", -- [14]
-		"/p FOR THE ADD RUN TO THIS AREA EACH TIME", -- [15]
-		"/p always run to entrance for add please", -- [16]
-		"/p no boots :(", -- [17]
-		"/p i hate this place", -- [18]
-		"/p Kale you need legs?", -- [19]
-		"/ora", -- [20]
+		"/p bait odin here on pull please", -- [1]
+		"/p everyone here please, we'll get spears", -- [2]
+		"/p for the run out, always go to entrance", -- [3]
+		"/p rng on this one is really dumb", -- [4]
+		"/p after the first add phase, on the run back in, bait along the wall if possible", -- [5]
+		"/p i'll have boss there", -- [6]
+		"/p then right before runes pop I'll move to middle", -- [7]
+		"/p so here'ish", -- [8]
+		"/p if the add is in narnia like that, we need your pet on i t", -- [9]
+		"/p would have stopped free casting", -- [10]
+		"/p if you wanna go to the add that works too", -- [11]
+		"/p go to the add then or what? we need to all be", -- [12]
+		"/i bro", -- [13]
+		"/i run to me", -- [14]
+		"/i stop kiting me", -- [15]
+		"/i huge pull", -- [16]
+		"/i follow me", -- [17]
+		"/invite Seyka", -- [18]
+		"/reloadui", -- [19]
+		"/lick", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"{rt6}3", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"[IAT] Nightmare Ichors Counter (2/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1599, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			43, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676147838,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262533,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [1]
 		{
-			"{rt7}3", -- [1]
+			"[IAT] Nightmare Ichors Counter (3/20)", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -57,7 +57,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1600, -- [11]
+			44, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -65,55 +65,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676147838,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1676262533,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [2]
 		{
-			"{rt7}2", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"[IAT] Nightmare Ichors Counter (4/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1601, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			45, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676147839,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262533,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [3]
 		{
-			"{rt6}2", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"[IAT] Nightmare Ichors Counter (5/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1602, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			46, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676147839,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262535,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [4]
 		{
-			"{rt7}2", -- [1]
+			"[IAT] Nightmare Ichors Counter (6/20)", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -123,7 +123,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1603, -- [11]
+			47, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -131,33 +131,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676147839,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1676262535,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [5]
 		{
-			"Clear", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"[IAT] Nightmare Ichors Counter (7/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1604, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			48, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676147839,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262535,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [6]
 		{
-			"Clear", -- [1]
+			"[IAT] Nightmare Ichors Counter (8/20)", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -167,7 +167,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1606, -- [11]
+			49, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -175,121 +175,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676147839,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676262535,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [7]
 		{
-			"Clear", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"[IAT] Nightmare Ichors Counter (9/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1607, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			50, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676147839,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262492,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [8]
 		{
-			"Cleared", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"[IAT] Nightmare Ichors Counter (10/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1608, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			51, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676147839,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262492,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [9]
 		{
-			"omg he lust on the trash", -- [1]
-			"Sneakyhandz-Illidan", -- [2]
-			"Common", -- [3]
+			"[IAT] Nightmare Ichors Counter (3/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sneakyhandz-Illidan", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1612, -- [11]
-			"Player-57-0D2F3942", -- [12]
+			0, -- [10]
+			54, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
-			[51] = 1676147909,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262552,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [10]
 		{
-			"this guy", -- [1]
-			"Sneakyhandz-Illidan", -- [2]
-			"Common", -- [3]
+			"[IAT] Nightmare Ichors Counter (4/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sneakyhandz-Illidan", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1613, -- [11]
-			"Player-57-0D2F3942", -- [12]
+			0, -- [10]
+			55, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
-			[51] = 1676147911,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262552,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [11]
 		{
-			"sorry about your key man", -- [1]
-			"Sneakyhandz-Illidan", -- [2]
-			"Common", -- [3]
+			"[IAT] Nightmare Ichors Counter (5/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sneakyhandz-Illidan", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1614, -- [11]
-			"Player-57-0D2F3942", -- [12]
+			0, -- [10]
+			56, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
-			[51] = 1676147914,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262552,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [12]
 		{
-			"{rt7}", -- [1]
+			"[IAT] Nightmare Ichors Counter (6/20)", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -299,7 +299,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1622, -- [11]
+			57, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -307,77 +307,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676147973,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676262552,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [13]
 		{
-			"{rt6}", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"[IAT] Nightmare Ichors Counter (7/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1623, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			58, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676147973,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262562,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [14]
 		{
-			"{rt6}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"[IAT] Nightmare Ichors Counter (8/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1624, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			59, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676147973,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262564,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [15]
 		{
-			"{rt7}", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"[IAT] Nightmare Ichors Counter (9/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1626, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			60, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676147973,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262567,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [16]
 		{
-			"{rt7}", -- [1]
+			"[IAT] Nightmare Ichors Counter (10/20)", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -387,7 +387,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1628, -- [11]
+			61, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -395,11 +395,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676147974,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676262567,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [17]
 		{
-			"{rt7}", -- [1]
+			"[IAT] Nightmare Ichors Counter (11/20)", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -409,7 +409,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1637, -- [11]
+			62, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -417,11 +417,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676147976,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676262573,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [18]
 		{
-			"{rt7}", -- [1]
+			"[IAT] Nightmare Ichors Counter (12/20)", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -431,7 +431,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1642, -- [11]
+			63, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -439,11 +439,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676147977,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676262573,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [19]
 		{
-			"Clear", -- [1]
+			"[IAT] Nightmare Ichors Counter (13/20)", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -453,7 +453,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1645, -- [11]
+			65, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -461,275 +461,275 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676147977,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676262713,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [20]
 		{
-			"Clear", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"[IAT] Nightmare Ichors Counter (14/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1647, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			66, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676147977,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262717,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [21]
 		{
-			"Clear", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"[IAT] Nightmare Ichors Counter (15/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1648, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			67, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676147978,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262719,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [22]
 		{
-			"Cleared", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"[IAT] Nightmare Ichors Counter (16/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1649, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			69, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676147978,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262722,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [23]
 		{
-			"Clear", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"[IAT] Nightmare Ichors Counter (17/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1650, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			70, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676147978,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262722,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [24]
 		{
-			"Cleared", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"[IAT] Nightmare Ichors Counter (18/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1651, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			71, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676147978,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262752,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [25]
 		{
-			"Felblaze Rush on Sneakyhandz", -- [1]
-			"Sneakyhandz-Illidan", -- [2]
+			"[IAT] Nightmare Ichors Counter (19/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sneakyhandz-Illidan", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1654, -- [11]
-			"Player-57-0D2F3942", -- [12]
+			72, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
-			[51] = 1676147988,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262836,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [26]
 		{
-			"Felblaze Rush on Kalesmora", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"[IAT] Nightmare Ichors Counter (20/20)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1655, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			73, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676147940,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262837,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [27]
 		{
-			"Felblaze Rush on Seyka", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"[IAT] |cffffff00|Hachievement:10830:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Took the Red Eye Down]|h|r20 Nightmare Ichors have spawned. They can now be killed at the eye", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1661, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			74, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148032,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262837,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [28]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:10830:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Took the Red Eye Down]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1665, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			79, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148043,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676262852,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [29]
 		{
-			"{rt6}", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:10830:Player-3661-090EB9B6:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Took the Red Eye Down]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1666, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			80, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148043,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676262852,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [30]
 		{
-			"{rt7}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:10771:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Webbing Crashers]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1667, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			90, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148043,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676263283,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [31]
 		{
-			"{rt7}", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"PS Died: Seyka > unknown (last attack got: 15, |cff71d5ff|Hspell:213936:0|h[Dark Storm]|h|r)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1669, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			100, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676148043,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676263496,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [32]
 		{
-			"{rt7}", -- [1]
+			"AchievementsReminder - Not completed achievements in 'The Emerald Nightmare':", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -739,7 +739,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1674, -- [11]
+			117, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -747,11 +747,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148045,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676263657,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [33]
 		{
-			"{rt7}", -- [1]
+			"|cffffff00|Hachievement:10555:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Buggy Fight]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -761,7 +761,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1679, -- [11]
+			118, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -769,55 +769,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148046,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676263657,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [34]
 		{
-			"Clear", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"|cffffff00|Hachievement:10771:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Webbing Crashers]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1682, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			119, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148047,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676263657,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [35]
 		{
-			"Cleared", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"|cffffff00|Hachievement:10663:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Imagined Dragons World Tour]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1683, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			120, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148047,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676263657,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [36]
 		{
-			"{rt7}", -- [1]
+			"|cffffff00|Hachievement:10755:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[I Attack the Darkness]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -827,7 +827,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1686, -- [11]
+			121, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -835,11 +835,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148048,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676263657,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [37]
 		{
-			"{rt7}", -- [1]
+			"[IAT] Tracking: |cffffff00|Hachievement:10663:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Imagined Dragons World Tour]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -849,7 +849,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1689, -- [11]
+			123, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -857,11 +857,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148049,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676263635,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [38]
 		{
-			"{rt7}", -- [1]
+			"PS Died: Thezdin > |cff71d5ff|Hspell:214488:0|h[Devour Nightmare]|h|r (instakill)", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -871,7 +871,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1694, -- [11]
+			139, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -879,33 +879,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148051,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676263784,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [39]
 		{
-			"Clear", -- [1]
-			"Kalesmora-Hellscream", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1697, -- [11]
-			"Player-53-09BA74B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148052,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			"Clear", -- [1]
+			"PS Died: Seyka > |cff71d5ff|Hspell:214488:0|h[Devour Nightmare]|h|r (instakill)", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -915,7 +893,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1698, -- [11]
+			140, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -923,99 +901,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148052,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676263784,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [40]
+		{
+			"[IAT] Tracking: |cffffff00|Hachievement:10663:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Imagined Dragons World Tour]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			143, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676264026,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [41]
 		{
-			"Clear", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:10755:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[I Attack the Darkness]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1699, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			200, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676148052,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676264596,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [42]
 		{
-			"Cleared", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:11724:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Fel Turkey!]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1700, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			238, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676148052,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676265058,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [43]
 		{
-			"timer on lust?", -- [1]
-			"Sneakyhandz-Illidan", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:11696:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Grin and Bear It]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sneakyhandz-Illidan", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1702, -- [11]
-			"Player-57-0D2F3942", -- [12]
+			267, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
-			[51] = 1676148083,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676265289,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [44]
 		{
-			"i have drums if we need", -- [1]
-			"Sneakyhandz-Illidan", -- [2]
+			"[IAT] Thezdin has gained Unbearable Torment (1/2)", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sneakyhandz-Illidan", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1703, -- [11]
-			"Player-57-0D2F3942", -- [12]
+			270, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
-			[51] = 1676148087,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676265244,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [45]
 		{
-			"he didn't lust there lol", -- [1]
+			"[IAT] Seyka has gained Unbearable Torment (2/2)", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1025,7 +1025,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1705, -- [11]
+			271, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1033,55 +1033,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148092,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1676265250,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [46]
 		{
-			"20 seg", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"[IAT] |cffffff00|Hachievement:11696:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Grin and Bear It]|h|r Criteria has been met. Boss can now be killed!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1706, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			272, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676148096,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676265250,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [47]
 		{
-			"we are all clear", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11696:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Grin and Bear It]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1707, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			286, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148096,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676265374,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [48]
 		{
-			"FOR THE ADD RUN TO THIS AREA EACH TIME", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:11696:Player-3661-090EB9B6:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Grin and Bear It]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1091,7 +1091,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1708, -- [11]
+			287, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1099,55 +1099,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148103,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1676265374,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [49]
 		{
-			"always run to entrance for add please", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11774:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Demonic Inquisition]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1710, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			290, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148111,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676265374,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [50]
 		{
-			"{rt7}", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11775:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Harjatan]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1716, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			308, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148160,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676265592,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [51]
 		{
-			"{rt7}", -- [1]
+			"[IAT] Tracking: |cffffff00|Hachievement:11676:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Five Course Seafood Buffet]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1157,7 +1157,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1717, -- [11]
+			320, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1165,33 +1165,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148160,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676265698,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [52]
 		{
-			"{rt7}", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11776:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Mistress Sassz'ine]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1718, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			324, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676148160,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676265715,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [53]
 		{
-			"{rt7}", -- [1]
+			"[IAT] Tracking: |cffffff00|Hachievement:11773:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Wax On, Wax Off]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1201,7 +1201,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1721, -- [11]
+			341, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1209,33 +1209,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148162,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676265923,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [54]
 		{
-			"Clear", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"[IAT] Kill the Twilight Soul now", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1724, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			350, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148163,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676265974,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [55]
 		{
-			"Clear", -- [1]
+			"[IAT] |cffffff00|Hachievement:11773:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Wax On, Wax Off]|h|r Criteria has been met. Boss can now be killed!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1245,7 +1245,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1725, -- [11]
+			353, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1253,11 +1253,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148163,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676265984,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [56]
 		{
-			"{rt6}", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:11773:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Wax On, Wax Off]|h|r!", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1267,7 +1267,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1728, -- [11]
+			356, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1275,33 +1275,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148165,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676265988,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [57]
 		{
-			"Clear", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11773:Player-3661-090EB9B6:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Wax On, Wax Off]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1731, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			357, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148166,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676265988,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [58]
 		{
-			"Cleared", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:11777:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Sisters of the Moon]|h|r!", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1311,7 +1311,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1732, -- [11]
+			358, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1319,33 +1319,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148166,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676265988,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [59]
 		{
-			"Clear", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:11674:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Great Soul, Great Purpose]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1733, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			16, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676148166,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676267762,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [60]
 		{
-			"{rt7}", -- [1]
+			"[IAT] |cffffff00|Hachievement:11674:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Great Soul, Great Purpose]|h|r FAILED!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1355,7 +1355,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1746, -- [11]
+			17, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1363,55 +1363,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148231,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676267763,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [61]
 		{
-			"{rt6}", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11778:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: The Desolate Host]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1747, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			27, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676148231,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676267889,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [62]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11779:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Maiden of Vigilance]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1751, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			56, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148232,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676268568,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [63]
 		{
-			"{rt7}", -- [1]
+			"Interrupted Defensive Countermeasure's |cff71d5ff|Hspell:241345:0|h[Cleansing Blast]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1421,7 +1421,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1753, -- [11]
+			68, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1429,55 +1429,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148234,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676268615,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [64]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:16571:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Well Supplied]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1755, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			72, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148235,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676268667,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [65]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11780:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Fallen Avatar]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1759, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			81, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148237,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676268732,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [66]
 		{
-			"{rt7}", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:11789:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Chamber of the Avatar]|h|r!", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1487,7 +1487,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1762, -- [11]
+			82, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1495,11 +1495,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148238,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676268732,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [67]
 		{
-			"{rt7}", -- [1]
+			"[IAT] Tracking: |cffffff00|Hachievement:11770:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Dark Souls]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1509,7 +1509,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1764, -- [11]
+			105, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1517,55 +1517,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148238,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676268986,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [68]
 		{
-			"{rt7}5", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:11770:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Dark Souls]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1768, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			125, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148181,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676269100,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [69]
 		{
-			"{rt7}5", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:11770:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Dark Souls]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1769, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			146, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148181,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676269209,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [70]
 		{
-			"{rt7}5", -- [1]
+			"[IAT] Tracking: |cffffff00|Hachievement:11770:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Dark Souls]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1575,7 +1575,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1770, -- [11]
+			173, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1583,77 +1583,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148181,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1676269379,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [71]
 		{
-			"{rt6}5", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:11770:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Dark Souls]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1771, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			202, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676148181,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676269524,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [72]
 		{
-			"{rt7}4", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:11770:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Dark Souls]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1774, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			222, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148182,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676269652,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [73]
 		{
-			"{rt7}4", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"[IAT] |cffffff00|Hachievement:11770:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Dark Souls]|h|r FAILED!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1775, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			250, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148182,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676269790,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [74]
 		{
-			"{rt7}4", -- [1]
+			"[IAT] Tracking: |cffffff00|Hachievement:11770:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Dark Souls]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1663,7 +1663,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1776, -- [11]
+			263, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1671,143 +1671,143 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148182,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1676270012,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [75]
 		{
-			"{rt6}4", -- [1]
-			"Mantø-Ragnaros", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:11770:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Dark Souls]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mantø-Ragnaros", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1777, -- [11]
-			"Player-1427-0DEC8DA6", -- [12]
+			389, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMantø-Ragnaros|r",
-			[51] = 1676148182,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676270905,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [76]
 		{
-			"{rt6}", -- [1]
-			"Sneakyhandz-Illidan", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11770:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Dark Souls]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sneakyhandz-Illidan", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1779, -- [11]
-			"Player-57-0D2F3942", -- [12]
+			413, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
-			[51] = 1676148183,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676271016,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [77]
 		{
-			"{rt7}3", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11781:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Kil'jaeden]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1780, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			414, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148183,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676271017,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [78]
 		{
-			"{rt7}3", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11790:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Deceiver's Fall]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1782, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			415, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148183,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1676271017,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [79]
 		{
-			"{rt7}2", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11770:Player-3661-090EB9B6:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Dark Souls]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1784, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			416, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148184,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676271017,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [80]
 		{
-			"{rt7}2", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:11930:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Worm-monger]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1785, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			461, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148184,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676271530,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [81]
 		{
-			"{rt7}2", -- [1]
+			"[IAT] Tracking: |cffffff00|Hachievement:12065:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Hounds Good To Me]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1817,7 +1817,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1786, -- [11]
+			487, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1825,55 +1825,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148184,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1676271681,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [82]
 		{
-			"Clear", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"Interrupted Clobex's |cff71d5ff|Hspell:257802:0|h[Fel Fireball]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1788, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			505, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148185,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676271831,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [83]
 		{
-			"{rt7}1", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Interrupted Riftworld Assistant's |cff71d5ff|Hspell:249224:0|h[Chaotic Flames]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1789, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			522, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148185,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676272122,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [84]
 		{
-			"{rt7}1", -- [1]
+			"[IAT] Tracking: |cffffff00|Hachievement:11928:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Portal Combat]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1883,7 +1883,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1790, -- [11]
+			526, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1891,33 +1891,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148185,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1676272188,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [85]
 		{
-			"Clear", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Interrupted Riftworld Assistant's |cff71d5ff|Hspell:249224:0|h[Chaotic Flames]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1791, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			543, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148186,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676272242,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [86]
 		{
-			"Clear", -- [1]
+			"Interrupted Imonar the Soulhunter's |cff71d5ff|Hspell:248233:0|h[Conflagration]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1927,7 +1927,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1792, -- [11]
+			709, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1935,33 +1935,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148186,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1676273999,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [87]
 		{
-			"gg", -- [1]
-			"Kalesmora-Hellscream", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1803, -- [11]
-			"Player-53-09BA74B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148287,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [88]
-		{
-			"no boots :( ", -- [1]
+			"Interrupted Imonar the Soulhunter's |cff71d5ff|Hspell:250135:0|h[Conflagration]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1971,7 +1949,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1804, -- [11]
+			711, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1979,33 +1957,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148292,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [89]
+			[51] = 1676274069,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [88]
 		{
-			"thanks yall", -- [1]
-			"Sneakyhandz-Illidan", -- [2]
+			"Interrupted Imonar the Soulhunter's |cff71d5ff|Hspell:248233:0|h[Conflagration]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sneakyhandz-Illidan", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1805, -- [11]
-			"Player-57-0D2F3942", -- [12]
+			713, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
-			[51] = 1676148294,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676274108,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [89]
+		{
+			"Interrupted Imonar the Soulhunter's |cff71d5ff|Hspell:250135:0|h[Conflagration]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			715, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676274145,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [90]
 		{
-			"i hate this place", -- [1]
+			"[IAT] Tracking: |cffffff00|Hachievement:12030:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[The World Revolves Around Me]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2015,7 +2015,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1806, -- [11]
+			728, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2023,11 +2023,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148296,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1676274245,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [91]
 		{
-			"sorry about your key", -- [1]
+			"[IAT] Diabolic Bomb Gained (3/9)", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			729, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676274253,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [92]
+		{
+			"[IAT] Tracking: |cffffff00|Hachievement:11948:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Together We Stand]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			753, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676274447,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [93]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:11948:Player-3661-090ED1C0:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Together We Stand]|h|r!", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2037,7 +2081,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1807, -- [11]
+			757, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2045,33 +2089,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676148240,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [92]
+			[51] = 1676274461,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [94]
 		{
-			"i hate CoS", -- [1]
-			"Kalesmora-Hellscream", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1808, -- [11]
-			"Player-53-09BA74B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148243,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
-		{
-			"Kale you need legs?", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:11948:Player-3661-090EB9B6:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Together We Stand]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2081,7 +2103,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1809, -- [11]
+			758, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2089,118 +2111,96 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676148245,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
-		{
-			"|cffa335ee|Hitem:200427::::::::70:71::16:8:6652:8822:7977:8820:8827:8970:1488:8767::::::|h[Poleyns of the Walking Mountain]|h|r", -- [1]
-			"Kalesmora-Hellscream", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1810, -- [11]
-			"Player-53-09BA74B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148312,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1676274461,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [95]
 		{
-			"nah", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:11915:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Don't Sweat the Technique]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1811, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			786, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148314,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676274771,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [96]
 		{
-			"no worries i need to farm around 16 anyways ", -- [1]
-			"Sneakyhandz-Illidan", -- [2]
+			"[IAT] Tracking: |cffffff00|Hachievement:12257:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Stardust Crusaders]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sneakyhandz-Illidan", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1818, -- [11]
-			"Player-57-0D2F3942", -- [12]
+			813, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
-			[51] = 1676148350,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1676274947,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [97]
 		{
-			"thanks again", -- [1]
-			"Sneakyhandz-Illidan", -- [2]
+			"Max |cffa335ee|Hitem:193526::::::::70:266::13:6:8836:8840:8902:8960:8802:8846:4:28:2164:38:8:40:403:45:198046::::Player-3661-0919B914:|h[Amice of the Blue |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r  ilevel 418 100% Whisper for price.", -- [1]
+			"Desscurses-Hyjal", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sneakyhandz-Illidan", -- [5]
+			"2. Trade - City", -- [4]
+			"Desscurses-Hyjal", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1819, -- [11]
-			"Player-57-0D2F3942", -- [12]
+			27, -- [11]
+			"Player-3661-0919B914", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Sneakyhandz-Illidan|r",
-			[51] = 1676148351,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff8788eeDesscurses|r",
+			[51] = 1676307618,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [98]
 		{
-			"gg", -- [1]
-			"Kalesmora-Hellscream", -- [2]
+			"And many others |cffffd000|Htrade:Player-3661-0919B914:3908:197|h[Tailoring]|h|r! Head, Back, Chest, Shoulder Specializations!", -- [1]
+			"Desscurses-Hyjal", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Kalesmora-Hellscream", -- [5]
+			"2. Trade - City", -- [4]
+			"Desscurses-Hyjal", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1822, -- [11]
-			"Player-53-09BA74B7", -- [12]
+			28, -- [11]
+			"Player-3661-0919B914", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dKalesmora-Hellscream|r",
-			[51] = 1676148357,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff8788eeDesscurses|r",
+			[51] = 1676307618,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }
