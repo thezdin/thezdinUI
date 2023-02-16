@@ -14,6 +14,26 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
+			["global"] = {
+				["spellsOnCooldown"] = {
+					[642] = {
+						["Player-3661-090ED1C0"] = 181820.478,
+					},
+					[12975] = {
+						["Player-3661-090EB9B6"] = 181711.446,
+					},
+					[31821] = {
+						["Player-3661-090ED1C0"] = 181640.006,
+					},
+					[871] = {
+						["Player-3661-090EB9B6"] = 181743.07,
+					},
+					[633] = {
+						["Player-3661-090ED1C0"] = 182064.531,
+					},
+				},
+				["lastTime"] = 231576.05,
+			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -22,9 +42,9 @@ oRA3DB = {
 							[48707] = true,
 							[106898] = true,
 							[102359] = true,
-							[217832] = true,
-							[31821] = true,
 							[202137] = true,
+							[31821] = true,
+							[217832] = true,
 						},
 					},
 					["displays"] = {
@@ -44,16 +64,16 @@ oRA3DB = {
 				},
 			},
 		},
-		["Tanks"] = {
-		},
-		["Consumables"] = {
-		},
 		["Difficulty"] = {
 			["profiles"] = {
 				["Default"] = {
 					["prevRaidDifficulty"] = 16,
 				},
 			},
+		},
+		["Consumables"] = {
+		},
+		["Tanks"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -76,15 +96,15 @@ oRA3DB = {
 				},
 				["oRA3BattleResMonitor"] = {
 					["Height"] = 30.00000381469727,
-					["PosX"] = 1384.533453453914,
-					["PosY"] = 91.7339849684231,
 					["Width"] = 139.9998931884766,
+					["PosY"] = 91.7339849684231,
+					["PosX"] = 1384.533453453914,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 387.4442138671875,
-					["PosX"] = 21.71628427967562,
-					["PosY"] = 663.6792744191189,
 					["Width"] = 244.5556030273438,
+					["PosY"] = 622.1992923021025,
+					["PosX"] = 20.35901951627011,
 				},
 			},
 			["lastSelectedPanel"] = "Cooldowns",

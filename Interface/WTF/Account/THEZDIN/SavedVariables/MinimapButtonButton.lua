@@ -4,13 +4,13 @@ MinimapButtonButtonOptions = {
 	["scale"] = 1,
 	["buttonsShown"] = false,
 	["buttonScale"] = 1,
-	["version"] = 4,
+	["autohide"] = 0,
 	["position"] = {
 		"BOTTOMRIGHT", -- [1]
 		nil, -- [2]
 		"BOTTOMRIGHT", -- [3]
-		-502.4676513671875, -- [4]
-		204.9993438720703, -- [5]
+		-514.9119873046875, -- [4]
+		205.8880157470703, -- [5]
 	},
 	["blacklist"] = {
 	},
@@ -20,5 +20,5 @@ MinimapButtonButtonOptions = {
 		["CodexBrowserIcon"] = true,
 		["TrinketMenu_IconFrame"] = true,
 	},
-	["autohide"] = 0,
+	["version"] = 4,
 }

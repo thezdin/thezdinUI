@@ -10,9 +10,9 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:197648::::::::67:581::25:1:8768:2:28:2437:9:67:::::|h[Teerai Watcher Hood]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 197670,
-			["Level"] = 292,
-			["Link"] = "|cff1eff00|Hitem:197670::::::::67:581::25:1:8768:2:28:2437:9:67:::::|h[Nokhud Choker]|h|r",
+			["ID"] = 143907,
+			["Level"] = 326,
+			["Link"] = "|cff0070dd|Hitem:143907::::::::68:581:::1:8171:2:28:181:9:68:::::|h[Shard of Pirouetting Happiness]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 194354,
@@ -26,14 +26,14 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:193390::::::::61:581::13:4:8837:8838:4785:8802:5:28:2164:29:49:30:40:38:8:40:336:::::|h[Pioneer's Leather Tunic |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 197660,
-			["Level"] = 282,
-			["Link"] = "|cff1eff00|Hitem:197660::::::::67:581::25:1:8768:2:9:66:28:2437:::::|h[Teerai Watcher Belt]|h|r",
+			["ID"] = 197892,
+			["Level"] = 306,
+			["Link"] = "|cff1eff00|Hitem:197892::::::::68:581::26:1:7963:2:28:2523:9:68:::::|h[Embroidered Broadhoof Waistband]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 194342,
-			["Level"] = 266,
-			["Link"] = "|cff1eff00|Hitem:194342::::::::64:581::26:1:7963:2:28:2523:9:64:::::|h[Field Scout's Pants]|h|r",
+			["ID"] = 197652,
+			["Level"] = 302,
+			["Link"] = "|cff1eff00|Hitem:197652::::::::68:581::25:1:8768:2:9:68:28:2437:::::|h[Teerai Watcher Breeches]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 193386,

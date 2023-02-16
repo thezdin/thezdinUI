@@ -6,17 +6,17 @@ TomTomDB = {
 		["Thezdiran - Hyjal"] = "Default",
 		["Thezadin - Hyjal"] = "Default",
 		["Thezman - Hyjal"] = "Default",
-		["Thezkin - Hyjal"] = "Default",
-		["Thez - Hyjal"] = "Default",
+		["Thezdinson - Hyjal"] = "Default",
 		["Sigurdsson - Hyjal"] = "Default",
-		["Thezfu - Turalyon"] = "Default",
-		["Thezidari - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
+		["Thezadin - Mannoroth"] = "Default",
 		["Thezdemon - Hyjal"] = "Default",
+		["Thezidari - Hyjal"] = "Default",
 		["Thezbear - Turalyon"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
-		["Thezadin - Mannoroth"] = "Default",
+		["Thezfu - Turalyon"] = "Default",
 		["Úlfheðnar - Hyjal"] = "Default",
-		["Thezdinson - Hyjal"] = "Default",
+		["Thezkin - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -52,17 +52,17 @@ TomTomWaypointsM = {
 		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
-		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
-		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
 		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
+		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
+		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
 		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
-		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 	},
 	["profiles"] = {
 		["Úlfhédnar - Hyjal"] = {
@@ -75,15 +75,13 @@ TomTomWaypointsM = {
 		},
 		["Thezman - Hyjal"] = {
 		},
-		["Thezkin - Hyjal"] = {
-		},
-		["Thez - Hyjal"] = {
+		["Thezdinson - Hyjal"] = {
 		},
 		["Sigurdsson - Hyjal"] = {
 		},
-		["Thezfu - Turalyon"] = {
+		["Thez - Hyjal"] = {
 		},
-		["Thezidari - Hyjal"] = {
+		["Thezadin - Mannoroth"] = {
 		},
 		["Thezdemon - Hyjal"] = {
 			[1970] = {
@@ -102,9 +100,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -125,9 +123,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -148,9 +146,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -171,9 +169,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -194,9 +192,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -217,101 +215,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
 						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1970:527000000:630000000:(Symphonic Vault)"] = {
-					1970, -- [1]
-					0.527, -- [2]
-					0.63, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "(Symphonic Vault)",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "(Symphonic Vault)",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
 						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1970:568000000:642000000:(Crushed Supply Crate)"] = {
-					1970, -- [1]
-					0.568, -- [2]
-					0.642, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "(Crushed Supply Crate)",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "(Crushed Supply Crate)",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1970:383000000:372000000:(Damaged Jiro Stash)"] = {
-					1970, -- [1]
-					0.383, -- [2]
-					0.3720000000000001, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "(Damaged Jiro Stash)",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "(Damaged Jiro Stash)",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1970:605000000:305000000:(Mawsworn Cache)"] = {
-					1970, -- [1]
-					0.605, -- [2]
-					0.305, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "(Mawsworn Cache)",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "(Mawsworn Cache)",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -332,9 +238,101 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
+						["world"] = {
+						},
 						["minimap"] = {
 						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1970:568000000:642000000:(Crushed Supply Crate)"] = {
+					1970, -- [1]
+					0.568, -- [2]
+					0.642, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "(Crushed Supply Crate)",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "(Crushed Supply Crate)",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
 						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1970:383000000:372000000:(Damaged Jiro Stash)"] = {
+					1970, -- [1]
+					0.383, -- [2]
+					0.3720000000000001, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "(Damaged Jiro Stash)",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "(Damaged Jiro Stash)",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1970:605000000:305000000:(Mawsworn Cache)"] = {
+					1970, -- [1]
+					0.605, -- [2]
+					0.305, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "(Mawsworn Cache)",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "(Mawsworn Cache)",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1970:527000000:630000000:(Symphonic Vault)"] = {
+					1970, -- [1]
+					0.527, -- [2]
+					0.63, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "(Symphonic Vault)",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "(Symphonic Vault)",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -355,9 +353,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -378,9 +376,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -388,15 +386,17 @@ TomTomWaypointsM = {
 				},
 			},
 		},
+		["Thezidari - Hyjal"] = {
+		},
 		["Thezbear - Turalyon"] = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
-		["Thezadin - Mannoroth"] = {
+		["Thezfu - Turalyon"] = {
 		},
 		["Úlfheðnar - Hyjal"] = {
 		},
-		["Thezdinson - Hyjal"] = {
+		["Thezkin - Hyjal"] = {
 		},
 	},
 }

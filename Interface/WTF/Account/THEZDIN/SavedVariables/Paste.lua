@@ -10,17 +10,17 @@ PasteDB = {
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
-		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
+		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Thezzlybear - Hyjal"] = "Thezzlybear - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
-		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
-		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
 		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
-		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
+		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
+		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
-		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 	},
 	["profiles"] = {
 		["Thezadin - Hyjal"] = {
@@ -68,13 +68,17 @@ PasteDB = {
 		["Thezman - Hyjal"] = {
 			["loaded"] = true,
 		},
-		["Thezkin - Hyjal"] = {
+		["Thezdemon - Hyjal"] = {
 			["loaded"] = true,
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["pos"] = {
+			},
 		},
 		["Sigurdsson - Hyjal"] = {
 			["loaded"] = true,
 		},
-		["Thezdinson - Hyjal"] = {
+		["Thezbot - Azgalor"] = {
 			["loaded"] = true,
 		},
 		["Thezzlybear - Hyjal"] = {
@@ -86,27 +90,23 @@ PasteDB = {
 				["minimapPos"] = 354.5075384204556,
 			},
 		},
-		["Thezadin - Mannoroth"] = {
+		["Thezfu - Turalyon"] = {
 			["loaded"] = true,
 		},
 		["Thezbear - Turalyon"] = {
 			["loaded"] = true,
 		},
-		["Thezfu - Turalyon"] = {
+		["Thezadin - Mannoroth"] = {
 			["loaded"] = true,
 		},
-		["Thezbot - Azgalor"] = {
+		["Thezdinson - Hyjal"] = {
 			["loaded"] = true,
 		},
 		["Úlfheðnar - Hyjal"] = {
 			["loaded"] = true,
 		},
-		["Thezdemon - Hyjal"] = {
+		["Thezkin - Hyjal"] = {
 			["loaded"] = true,
-			["whispertarget"] = "",
-			["where"] = "Default",
-			["pos"] = {
-			},
 		},
 	},
 }
