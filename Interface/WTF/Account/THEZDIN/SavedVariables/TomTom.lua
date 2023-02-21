@@ -1,22 +1,23 @@
 
 TomTomDB = {
 	["profileKeys"] = {
+		["Thezdinson - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
+		["Thezidari - Hyjal"] = "Default",
+		["Thezdin - Hyjal"] = "Default",
+		["Thezdivh - Hyjal"] = "Default",
 		["Úlfhédnar - Hyjal"] = "Default",
+		["Thezkin - Hyjal"] = "Default",
+		["Thezfu - Turalyon"] = "Default",
+		["Thezman - Hyjal"] = "Default",
 		["Thezbot - Azgalor"] = "Default",
 		["Thezdiran - Hyjal"] = "Default",
 		["Thezadin - Hyjal"] = "Default",
-		["Thezman - Hyjal"] = "Default",
-		["Thezdinson - Hyjal"] = "Default",
-		["Sigurdsson - Hyjal"] = "Default",
-		["Thez - Hyjal"] = "Default",
-		["Thezadin - Mannoroth"] = "Default",
-		["Thezdemon - Hyjal"] = "Default",
-		["Thezidari - Hyjal"] = "Default",
 		["Thezbear - Turalyon"] = "Default",
-		["Thezdin - Hyjal"] = "Default",
-		["Thezfu - Turalyon"] = "Default",
+		["Sigurdsson - Hyjal"] = "Default",
+		["Thezadin - Mannoroth"] = "Default",
 		["Úlfheðnar - Hyjal"] = "Default",
-		["Thezkin - Hyjal"] = "Default",
+		["Thezdemon - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -47,25 +48,42 @@ TomTomDB = {
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
+		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
+		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
+		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
 		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
+		["Thezman - Hyjal"] = "Thezman - Hyjal",
 		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
-		["Thezman - Hyjal"] = "Thezman - Hyjal",
-		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
-		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
-		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
-		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
-		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
-		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
+		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
 		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
 	},
 	["profiles"] = {
+		["Thezdinson - Hyjal"] = {
+		},
+		["Thez - Hyjal"] = {
+		},
+		["Thezidari - Hyjal"] = {
+		},
+		["Thezdin - Hyjal"] = {
+		},
+		["Thezdivh - Hyjal"] = {
+		},
 		["Úlfhédnar - Hyjal"] = {
+		},
+		["Thezkin - Hyjal"] = {
+		},
+		["Thezfu - Turalyon"] = {
+		},
+		["Thezman - Hyjal"] = {
 		},
 		["Thezbot - Azgalor"] = {
 		},
@@ -73,15 +91,13 @@ TomTomWaypointsM = {
 		},
 		["Thezadin - Hyjal"] = {
 		},
-		["Thezman - Hyjal"] = {
-		},
-		["Thezdinson - Hyjal"] = {
+		["Thezbear - Turalyon"] = {
 		},
 		["Sigurdsson - Hyjal"] = {
 		},
-		["Thez - Hyjal"] = {
-		},
 		["Thezadin - Mannoroth"] = {
+		},
+		["Úlfheðnar - Hyjal"] = {
 		},
 		["Thezdemon - Hyjal"] = {
 			[1970] = {
@@ -385,18 +401,6 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
-		},
-		["Thezidari - Hyjal"] = {
-		},
-		["Thezbear - Turalyon"] = {
-		},
-		["Thezdin - Hyjal"] = {
-		},
-		["Thezfu - Turalyon"] = {
-		},
-		["Úlfheðnar - Hyjal"] = {
-		},
-		["Thezkin - Hyjal"] = {
 		},
 	},
 }

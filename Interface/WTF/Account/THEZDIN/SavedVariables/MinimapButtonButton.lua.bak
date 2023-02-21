@@ -6,11 +6,11 @@ MinimapButtonButtonOptions = {
 	["buttonScale"] = 1,
 	["version"] = 4,
 	["position"] = {
-		"BOTTOMRIGHT", -- [1]
+		"TOPRIGHT", -- [1]
 		nil, -- [2]
-		"BOTTOMRIGHT", -- [3]
-		-514.9119873046875, -- [4]
-		205.8880157470703, -- [5]
+		"TOPRIGHT", -- [3]
+		-5.581692218780518, -- [4]
+		-251.5570831298828, -- [5]
 	},
 	["blacklist"] = {
 	},

@@ -6,6 +6,7 @@ PasteDB = {
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
+		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
 		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
@@ -55,6 +56,9 @@ PasteDB = {
 				["left"] = 268.9992370605469,
 				["width"] = 1371.111206054688,
 			},
+		},
+		["Thezdivh - Hyjal"] = {
+			["loaded"] = true,
 		},
 		["Úlfhédnar - Hyjal"] = {
 			["loaded"] = true,

@@ -36,9 +36,9 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:197652::::::::68:581::25:1:8768:2:9:68:28:2437:::::|h[Teerai Watcher Breeches]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 193386,
-			["Level"] = 316,
-			["Link"] = "|cff0070dd|Hitem:193386::::::::61:581::13:4:8837:8838:4785:8802:5:28:2164:29:40:30:32:38:8:40:335:::::|h[Pioneer's Leather Boots |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["ID"] = 200460,
+			["Level"] = 376,
+			["Link"] = "|cffa335ee|Hitem:200460::::::::69:581::25:1:1472:1:28:2078:::::|h[Ohn'ahran Plainswalker Moccasins]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 193388,
@@ -46,9 +46,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:193388::::::::61:581::13:5:8837:8838:4785:7936:8802:5:28:2164:29:36:30:40:38:8:40:334:::::|h[Pioneer's Leather Wristguards |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 194343,
-			["Level"] = 242,
-			["Link"] = "|cff1eff00|Hitem:194343::::::::62:581::25:1:8768:2:28:2437:9:62:::::|h[Field Scout's Gloves]|h|r",
+			["ID"] = 197642,
+			["Level"] = 306,
+			["Link"] = "|cff1eff00|Hitem:197642::::::::69:581::26:1:7963:2:9:68:28:2523:::::|h[Teerai Watcher Gloves]|h|r",
 		}, -- [10]
 		{
 			["ID"] = 197668,
@@ -63,16 +63,16 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:197668::::::::68:581::26:1:7963:2:9:66:28:2523:::::|h[Roscha's Band of Remembrance]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 197960,
-			["Level"] = 286,
+			["ID"] = 200536,
+			["Level"] = 306,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff1eff00|Hitem:197960::::::::67:581::26:1:7963:2:9:66:28:2523:::::|h[Bag of Biscuits]|h|r",
+			["Link"] = "|cff0070dd|Hitem:200536::::::::68:581::17:2:9156:6652:2:28:2424:9:68:::::|h[Tamed Eagle]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 197960,
-			["Level"] = 286,
+			["ID"] = 200536,
+			["Level"] = 306,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:197960::::::::68:581::26:1:7963:2:9:66:28:2523:::::|h[Bag of Biscuits]|h|r",
+			["Link"] = "|cff0070dd|Hitem:200536::::::::68:581::17:2:9156:6652:2:9:68:28:2424:::::|h[Tamed Eagle]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 200278,

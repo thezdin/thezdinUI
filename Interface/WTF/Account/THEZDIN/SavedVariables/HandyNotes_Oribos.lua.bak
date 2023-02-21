@@ -11,6 +11,7 @@ HandyNotes_OribosDB = {
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
 		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
 	},
 	["profiles"] = {
 		["Úlfhédnar - Hyjal"] = {
@@ -32,6 +33,8 @@ HandyNotes_OribosDB = {
 		["Thez - Hyjal"] = {
 		},
 		["Thezkin - Hyjal"] = {
+		},
+		["Thezdivh - Hyjal"] = {
 		},
 	},
 }

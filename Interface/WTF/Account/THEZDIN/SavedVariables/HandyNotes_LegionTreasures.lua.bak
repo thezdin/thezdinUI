@@ -5,13 +5,14 @@ HandyNotes_LegionTreasuresDB = {
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
 	},
 	["profiles"] = {
 		["Úlfhédnar - Hyjal"] = {
@@ -22,6 +23,8 @@ HandyNotes_LegionTreasuresDB = {
 		},
 		["Thez - Hyjal"] = {
 		},
+		["Thezadin - Hyjal"] = {
+		},
 		["Thezknight - Hyjal"] = {
 		},
 		["Thezidari - Hyjal"] = {
@@ -30,11 +33,11 @@ HandyNotes_LegionTreasuresDB = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
-		["Thezadin - Hyjal"] = {
-		},
 		["Sigurdsson - Hyjal"] = {
 		},
 		["Thezkin - Hyjal"] = {
+		},
+		["Thezdivh - Hyjal"] = {
 		},
 	},
 }

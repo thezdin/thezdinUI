@@ -16,23 +16,26 @@ oRA3DB = {
 		["Cooldowns"] = {
 			["global"] = {
 				["spellsOnCooldown"] = {
-					[642] = {
-						["Player-3661-090ED1C0"] = 181820.478,
+					[198067] = {
+						["Player-3684-0DC2D649"] = 245784.395,
 					},
-					[12975] = {
-						["Player-3661-090EB9B6"] = 181711.446,
+					[102543] = {
+						["Player-3684-0DB5813C"] = 245826.7,
 					},
-					[31821] = {
-						["Player-3661-090ED1C0"] = 181640.006,
+					[108281] = {
+						["Player-3684-0DC2D649"] = 245757.985,
+					},
+					[108271] = {
+						["Player-3684-0DC2D649"] = 245744.901,
 					},
 					[871] = {
-						["Player-3661-090EB9B6"] = 181743.07,
+						["Player-3661-090EB9B6"] = 245883.843,
 					},
-					[633] = {
-						["Player-3661-090ED1C0"] = 182064.531,
+					[20608] = {
+						["Player-3684-0DC2D649"] = 246779.783,
 					},
 				},
-				["lastTime"] = 231576.05,
+				["lastTime"] = 457432.815,
 			},
 			["profiles"] = {
 				["Default"] = {
@@ -86,6 +89,7 @@ oRA3DB = {
 		["Thezfu - Hyjal"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
 		["Thez - Hyjal"] = "Default",
+		["Thezdivh - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

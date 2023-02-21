@@ -9,8 +9,9 @@ HandyNotesDraenorDB = {
 		["Thezidari - Hyjal"] = "Default",
 		["Thezfu - Hyjal"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
-		["Thezkin - Hyjal"] = "Default",
 		["Thez - Hyjal"] = "Default",
+		["Thezkin - Hyjal"] = "Default",
+		["Thezdivh - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
