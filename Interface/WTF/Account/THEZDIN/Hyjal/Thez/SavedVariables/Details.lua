@@ -37,7 +37,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1671331803,
 							["last_event"] = 1671331802,
-							["damage_taken"] = 50705.005462,
+							["last_dps"] = 4318.48241402845,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -276,7 +276,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["last_dps"] = 4318.48241402845,
+							["damage_taken"] = 50705.005462,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["avoidance"] = {
@@ -340,32 +340,34 @@ _detalhes_database = {
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["targets"] = {
 								["Essap"] = 10264,
+								["Vamula"] = 4991,
 								["Kaai"] = 65894,
 								["Thez"] = 4745,
-								["Vamula"] = 4991,
+								["Paku"] = 923,
 							},
 							["pets"] = {
 							},
-							["delay"] = 1674964291,
+							["delay"] = 1677173092,
 							["damage_from"] = {
 								["Essap"] = true,
 								["Jiiucer"] = true,
+								["Azuraix"] = true,
 								["Vamula"] = true,
 								["Obsidian Guardian"] = true,
 								["Kaai"] = true,
 								["Thez"] = true,
-								["Azuraix"] = true,
+								["Paku"] = true,
 							},
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 85894.008778,
+							["total_without_pet"] = 86817.008778,
+							["dps_started"] = true,
+							["last_dps"] = 0,
 							["fight_component"] = true,
-							["damage_taken"] = 239041.008778,
-							["monster"] = true,
-							["total"] = 85894.008778,
-							["aID"] = "191841",
+							["total"] = 86817.008778,
 							["friendlyfire_total"] = 0,
+							["aID"] = "191841",
 							["nome"] = "Primalist Infiltrator",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -377,15 +379,16 @@ _detalhes_database = {
 										["n_max"] = 1013,
 										["targets"] = {
 											["Essap"] = 5957,
+											["Vamula"] = 3061,
 											["Kaai"] = 54104,
 											["Thez"] = 2661,
-											["Vamula"] = 3061,
+											["Paku"] = 923,
 										},
-										["n_dmg"] = 56287,
+										["n_dmg"] = 57210,
 										["n_min"] = 374,
 										["g_dmg"] = 0,
-										["counter"] = 83,
-										["total"] = 65783,
+										["counter"] = 85,
+										["total"] = 66706,
 										["c_max"] = 2027,
 										["r_amt"] = 0,
 										["id"] = 1,
@@ -398,7 +401,7 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["extra"] = {
 										},
-										["n_amt"] = 69,
+										["n_amt"] = 71,
 										["MISS"] = 2,
 										["DODGE"] = 7,
 									}, -- [1]
@@ -436,17 +439,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = true,
-							["last_dps"] = 0,
+							["monster"] = true,
+							["damage_taken"] = 248362.008778,
 							["tipo"] = 1,
 							["timeMachine"] = 1,
 							["custom"] = 0,
-							["last_event"] = 1674964291,
+							["last_event"] = 1677173092,
+							["on_hold"] = true,
+							["start_time"] = 1677172917,
+							["serial"] = "Creature-0-3131-2444-868-191841-00009E7FC8",
 							["friendlyfire"] = {
 							},
-							["start_time"] = 1674964116,
-							["serial"] = "Creature-0-3131-2444-868-191841-00009E7FC8",
-							["on_hold"] = true,
 						}, -- [2]
 					},
 				}, -- [1]
@@ -483,10 +486,8 @@ _detalhes_database = {
 							["healing_taken"] = 1314.00136,
 							["fight_component"] = true,
 							["end_time"] = 1671331803,
+							["heal_enemy_amt"] = 0,
 							["aID"] = "3661-091E66BD",
-							["healing_from"] = {
-								["Thez"] = true,
-							},
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -510,9 +511,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_curado"] = 1314,
 										["totaldenied"] = 0,
 										["n_amt"] = 9,
-										["n_curado"] = 1314,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -521,13 +522,15 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.00136,
-							["tipo"] = 2,
-							["custom"] = 0,
 							["last_event"] = 1671331801,
+							["custom"] = 0,
+							["tipo"] = 2,
 							["spec"] = 104,
 							["start_time"] = 1671331791,
 							["delay"] = 0,
-							["heal_enemy_amt"] = 0,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 						}, -- [1]
 					},
 				}, -- [2]
@@ -536,11 +539,11 @@ _detalhes_database = {
 					["combatId"] = 1024,
 					["_ActorTable"] = {
 						{
-							["received"] = 258.9040020357628,
+							["received"] = 283.9040020357628,
 							["resource"] = 0.004002,
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["targets"] = {
-								["Thez"] = 258.9000000357628,
+								["Thez"] = 283.9000000357628,
 							},
 							["pets"] = {
 							},
@@ -548,18 +551,9 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["passiveover"] = 0.004002,
 							["fight_component"] = true,
-							["total"] = 258.9040020357628,
+							["total"] = 283.9040020357628,
 							["totalover"] = 32.10400214305115,
 							["nome"] = "Thez",
-							["spec"] = 104,
-							["grupo"] = true,
-							["flag_original"] = 1297,
-							["alternatepower"] = 101.004002,
-							["aID"] = "3661-091E66BD",
-							["last_event"] = 1675309560,
-							["tipo"] = 3,
-							["isTank"] = true,
-							["serial"] = "Player-3661-091E66BD",
 							["spells"] = {
 								["_ActorTable"] = {
 									[8921] = {
@@ -571,21 +565,21 @@ _detalhes_database = {
 										},
 										["counter"] = 2,
 									},
-									[17057] = {
-										["total"] = 200,
-										["id"] = 17057,
-										["totalover"] = 0,
-										["targets"] = {
-											["Thez"] = 200,
-										},
-										["counter"] = 8,
-									},
 									[77758] = {
 										["total"] = 5,
 										["id"] = 77758,
 										["totalover"] = 5,
 										["targets"] = {
 											["Thez"] = 5,
+										},
+										["counter"] = 2,
+									},
+									[33917] = {
+										["total"] = 19,
+										["id"] = 33917,
+										["totalover"] = 19,
+										["targets"] = {
+											["Thez"] = 19,
 										},
 										["counter"] = 2,
 									},
@@ -598,18 +592,27 @@ _detalhes_database = {
 										},
 										["counter"] = 9,
 									},
-									[33917] = {
-										["total"] = 19,
-										["id"] = 33917,
-										["totalover"] = 19,
+									[17057] = {
+										["total"] = 225,
+										["id"] = 17057,
+										["totalover"] = 0,
 										["targets"] = {
-											["Thez"] = 19,
+											["Thez"] = 225,
 										},
-										["counter"] = 2,
+										["counter"] = 9,
 									},
 								},
 								["tipo"] = 7,
 							},
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["alternatepower"] = 107.004002,
+							["aID"] = "3661-091E66BD",
+							["tipo"] = 3,
+							["last_event"] = 1677172548,
+							["isTank"] = true,
+							["serial"] = "Player-3661-091E66BD",
+							["spec"] = 104,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -674,12 +677,12 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[378991] = {
+									[385996] = {
 										["activedamt"] = 1,
-										["id"] = 378991,
+										["id"] = 385996,
 										["targets"] = {
 										},
-										["actived_at"] = 1671331791,
+										["actived_at"] = 1671331790,
 										["uptime"] = 0,
 										["counter"] = 0,
 										["refreshamt"] = 0,
@@ -697,12 +700,12 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[385996] = {
+									[378991] = {
 										["activedamt"] = 1,
-										["id"] = 385996,
+										["id"] = 378991,
 										["targets"] = {
 										},
-										["actived_at"] = 1671331790,
+										["actived_at"] = 1671331791,
 										["uptime"] = 0,
 										["counter"] = 0,
 										["refreshamt"] = 0,
@@ -720,12 +723,12 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 2,
 									},
-									[397734] = {
+									[5487] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 397734,
+										["id"] = 5487,
 										["uptime"] = 13,
 										["targets"] = {
 										},
@@ -764,12 +767,12 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[5487] = {
+									[397734] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 5487,
+										["id"] = 397734,
 										["uptime"] = 13,
 										["targets"] = {
 										},
@@ -833,14 +836,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["last_event"] = 0,
-							["tipo"] = 4,
+							["aID"] = "191841",
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[378143] = 2,
 							},
-							["aID"] = "191841",
-							["serial"] = "Creature-0-3131-2444-868-191841-00009E7FC8",
 							["fight_component"] = true,
+							["serial"] = "Creature-0-3131-2444-868-191841-00009E7FC8",
+							["tipo"] = 4,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -865,41 +868,37 @@ _detalhes_database = {
 						["last"] = 5,
 						["total"] = 6,
 					},
-					["Puckish-Medivh"] = {
-						["last"] = 6,
-						["total"] = 6,
-					},
-					["Subprime"] = {
-						["total"] = 3,
-						["last"] = 3,
-					},
-					["Thez"] = {
-						["last"] = 0,
-						["total"] = 101,
-					},
-					["Rafferk"] = {
-						["total"] = 6,
-						["last"] = 4,
-					},
 					["Eppi"] = {
 						["total"] = 6,
 						["last"] = 5,
-					},
-					["Iggee"] = {
-						["last"] = 4,
-						["total"] = 4,
 					},
 					["Flirtini"] = {
 						["last"] = 3,
 						["total"] = 3,
 					},
-					["Wrinudax"] = {
-						["total"] = 5,
+					["Bipolarized"] = {
 						["last"] = 5,
+						["total"] = 6,
 					},
 					["Avascyn-AeriePeak"] = {
 						["last"] = 5,
 						["total"] = 6,
+					},
+					["Rafferk"] = {
+						["total"] = 6,
+						["last"] = 4,
+					},
+					["Cloudline"] = {
+						["total"] = 6,
+						["last"] = 5,
+					},
+					["Subprime"] = {
+						["total"] = 3,
+						["last"] = 3,
+					},
+					["Frey"] = {
+						["last"] = 5,
+						["total"] = 5,
 					},
 					["Vamula"] = {
 						["total"] = 0,
@@ -909,9 +908,29 @@ _detalhes_database = {
 						["last"] = 4,
 						["total"] = 6,
 					},
-					["Cloudline"] = {
-						["total"] = 6,
+					["Wrinudax"] = {
+						["total"] = 5,
 						["last"] = 5,
+					},
+					["Thez"] = {
+						["last"] = 0,
+						["total"] = 107,
+					},
+					["Iggee"] = {
+						["last"] = 4,
+						["total"] = 4,
+					},
+					["Puckish-Medivh"] = {
+						["last"] = 6,
+						["total"] = 6,
+					},
+					["Seyka"] = {
+						["last"] = 0,
+						["total"] = 0,
+					},
+					["Marshäl"] = {
+						["last"] = 0,
+						["total"] = 0,
 					},
 				},
 				["cleu_events"] = {
@@ -919,11 +938,11 @@ _detalhes_database = {
 				},
 				["playing_solo"] = true,
 				["totals"] = {
-					140172.5963, -- [1]
-					1313.466576000003, -- [2]
+					141095.491625, -- [1]
+					1313.305787000002, -- [2]
 					{
-						283.8113620357628, -- [1]
-						[0] = -0.175280999999984,
+						308.7761200357629, -- [1]
+						[0] = -0.205388999999984,
 						["alternatepower"] = 0,
 						[6] = 0,
 						[3] = -25.03416600000003,
@@ -945,7 +964,7 @@ _detalhes_database = {
 					54279, -- [1]
 					1314, -- [2]
 					{
-						258.9000000357628, -- [1]
+						283.9000000357628, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
 						[6] = 0,
@@ -1000,7 +1019,8 @@ _detalhes_database = {
 				["overall_added"] = true,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Primalist Infiltrator"] = 3,
 				},
 				["combat_counter"] = 1225,
 				["player_last_events"] = {
@@ -1107,8 +1127,7 @@ _detalhes_database = {
 				["data_inicio"] = "18:49:51",
 				["start_time"] = 327187.122,
 				["contra"] = "Primalist Infiltrator",
-				["frags"] = {
-					["Primalist Infiltrator"] = 3,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [1]
 			{
@@ -1142,7 +1161,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1671331601,
 							["last_event"] = 1671331600,
-							["damage_taken"] = 8854.004487,
+							["last_dps"] = 3417.890983381913,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1474,7 +1493,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["last_dps"] = 3417.890983381913,
+							["damage_taken"] = 8854.004487,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["avoidance"] = {
@@ -1533,12 +1552,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 8854.006716,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 72596.006716,
-							["dps_started"] = false,
-							["end_time"] = 1671331790,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["fight_component"] = true,
+							["end_time"] = 1671331790,
+							["friendlyfire_total"] = 0,
+							["monster"] = true,
 							["nome"] = "Primalist Infiltrator",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1604,16 +1623,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["total"] = 8854.006716,
-							["last_dps"] = 0,
+							["damage_taken"] = 72596.006716,
 							["tipo"] = 1,
-							["monster"] = true,
+							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 1671331790,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1671331580,
 							["serial"] = "Creature-0-3131-2444-868-189895-00001E7640",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 					},
 				}, -- [1]
@@ -1650,10 +1669,8 @@ _detalhes_database = {
 							["healing_taken"] = 2482.008484,
 							["fight_component"] = true,
 							["end_time"] = 1671331601,
+							["heal_enemy_amt"] = 0,
 							["aID"] = "3661-091E66BD",
-							["healing_from"] = {
-								["Thez"] = true,
-							},
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1677,9 +1694,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_curado"] = 2482,
 										["totaldenied"] = 0,
 										["n_amt"] = 17,
-										["n_curado"] = 2482,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -1688,13 +1705,15 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.008484,
-							["tipo"] = 2,
-							["custom"] = 0,
 							["last_event"] = 1671331598,
+							["custom"] = 0,
+							["tipo"] = 2,
 							["spec"] = 104,
 							["start_time"] = 1671331580,
 							["delay"] = 0,
-							["heal_enemy_amt"] = 0,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 						}, -- [1]
 					},
 				}, -- [2]
@@ -1718,15 +1737,6 @@ _detalhes_database = {
 							["total"] = 131.006745,
 							["totalover"] = 15.006745,
 							["nome"] = "Thez",
-							["spec"] = 104,
-							["grupo"] = true,
-							["flag_original"] = 1297,
-							["alternatepower"] = 18.006745,
-							["aID"] = "3661-091E66BD",
-							["last_event"] = 1671331787,
-							["tipo"] = 3,
-							["isTank"] = true,
-							["serial"] = "Player-3661-091E66BD",
 							["spells"] = {
 								["_ActorTable"] = {
 									[8921] = {
@@ -1738,15 +1748,6 @@ _detalhes_database = {
 										},
 										["counter"] = 1,
 									},
-									[33917] = {
-										["total"] = 38,
-										["id"] = 33917,
-										["totalover"] = 15,
-										["targets"] = {
-											["Thez"] = 38,
-										},
-										["counter"] = 3,
-									},
 									[77758] = {
 										["total"] = 5,
 										["id"] = 77758,
@@ -1755,15 +1756,6 @@ _detalhes_database = {
 											["Thez"] = 5,
 										},
 										["counter"] = 1,
-									},
-									[195707] = {
-										["total"] = 30,
-										["id"] = 195707,
-										["totalover"] = 0,
-										["targets"] = {
-											["Thez"] = 30,
-										},
-										["counter"] = 10,
 									},
 									[17057] = {
 										["total"] = 50,
@@ -1774,9 +1766,36 @@ _detalhes_database = {
 										},
 										["counter"] = 2,
 									},
+									[195707] = {
+										["total"] = 30,
+										["id"] = 195707,
+										["totalover"] = 0,
+										["targets"] = {
+											["Thez"] = 30,
+										},
+										["counter"] = 10,
+									},
+									[33917] = {
+										["total"] = 38,
+										["id"] = 33917,
+										["totalover"] = 15,
+										["targets"] = {
+											["Thez"] = 38,
+										},
+										["counter"] = 3,
+									},
 								},
 								["tipo"] = 7,
 							},
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["alternatepower"] = 18.006745,
+							["aID"] = "3661-091E66BD",
+							["tipo"] = 3,
+							["last_event"] = 1671331787,
+							["isTank"] = true,
+							["serial"] = "Player-3661-091E66BD",
+							["spec"] = 104,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -1852,16 +1871,15 @@ _detalhes_database = {
 										["actived"] = true,
 										["appliedamt"] = 1,
 									},
-									[378991] = {
+									[385996] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
-										["id"] = 378991,
+										["refreshamt"] = 0,
+										["id"] = 385996,
+										["uptime"] = 21,
 										["targets"] = {
 										},
-										["actived_at"] = 1671331581,
-										["uptime"] = 0,
-										["counter"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = true,
 										["appliedamt"] = 1,
 									},
 									[5487] = {
@@ -1875,26 +1893,27 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[227723] = {
+									[225788] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 227723,
+										["id"] = 225788,
 										["uptime"] = 21,
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
 									},
-									[385996] = {
-										["counter"] = 0,
-										["actived"] = false,
+									[378991] = {
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 385996,
-										["uptime"] = 21,
+										["id"] = 378991,
 										["targets"] = {
 										},
+										["actived_at"] = 1671331581,
+										["uptime"] = 0,
+										["counter"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = true,
 										["appliedamt"] = 1,
 									},
 									[93622] = {
@@ -1952,12 +1971,12 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[225788] = {
+									[227723] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 225788,
+										["id"] = 227723,
 										["uptime"] = 21,
 										["targets"] = {
 										},
@@ -1968,8 +1987,9 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 28,
-							["nome"] = "Thez",
 							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
 							},
 							["spec"] = 104,
 							["grupo"] = true,
@@ -1988,8 +2008,7 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Thez",
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -1999,14 +2018,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["last_event"] = 0,
-							["tipo"] = 4,
+							["aID"] = "189895",
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[378143] = 2,
 							},
-							["aID"] = "189895",
-							["serial"] = "Creature-0-3131-2444-868-189895-00001E6E72",
 							["fight_component"] = true,
+							["serial"] = "Creature-0-3131-2444-868-189895-00001E6E72",
+							["tipo"] = 4,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -2092,6 +2111,9 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
+				["data_inicio"] = "18:46:20",
+				["end_time"] = 326997.462,
+				["combat_id"] = 1023,
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -2112,9 +2134,6 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
-				["end_time"] = 326997.462,
-				["combat_id"] = 1023,
-				["data_inicio"] = "18:46:20",
 				["tempo_start"] = 1671331580,
 				["spells_cast_timeline"] = {
 				},
@@ -2241,7 +2260,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1671331546,
 							["last_event"] = 1671331545,
-							["damage_taken"] = 3301.002764,
+							["last_dps"] = 1898.941569484676,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2414,7 +2433,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["last_dps"] = 1898.941569484676,
+							["damage_taken"] = 3301.002764,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["avoidance"] = {
@@ -2473,12 +2492,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3301.005986,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 25292.005986,
-							["dps_started"] = false,
-							["end_time"] = 1671331580,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["fight_component"] = true,
+							["end_time"] = 1671331580,
+							["friendlyfire_total"] = 0,
+							["monster"] = true,
 							["nome"] = "Primalist Infiltrator",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2515,16 +2534,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["total"] = 3301.005986,
-							["last_dps"] = 0,
+							["damage_taken"] = 25292.005986,
 							["tipo"] = 1,
-							["monster"] = true,
+							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 1671331579,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1671331533,
 							["serial"] = "Creature-0-3131-2444-868-189895-00001E704E",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 					},
 				}, -- [1]
@@ -2561,10 +2580,8 @@ _detalhes_database = {
 							["healing_taken"] = 1314.001396,
 							["fight_component"] = true,
 							["end_time"] = 1671331580,
+							["heal_enemy_amt"] = 0,
 							["aID"] = "3661-091E66BD",
-							["healing_from"] = {
-								["Thez"] = true,
-							},
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2588,9 +2605,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_curado"] = 1314,
 										["totaldenied"] = 0,
 										["n_amt"] = 9,
-										["n_curado"] = 1314,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -2599,13 +2616,15 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.001396,
-							["tipo"] = 2,
-							["custom"] = 0,
 							["last_event"] = 1671331580,
+							["custom"] = 0,
+							["tipo"] = 2,
 							["spec"] = 104,
 							["start_time"] = 1671331533,
 							["delay"] = 0,
-							["heal_enemy_amt"] = 0,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 						}, -- [1]
 					},
 				}, -- [2]
@@ -2629,15 +2648,6 @@ _detalhes_database = {
 							["total"] = 43.006953,
 							["totalover"] = 0.006953,
 							["nome"] = "Thez",
-							["spec"] = 104,
-							["grupo"] = true,
-							["flag_original"] = 1297,
-							["alternatepower"] = 0.006953,
-							["aID"] = "3661-091E66BD",
-							["last_event"] = 1671331545,
-							["tipo"] = 3,
-							["isTank"] = true,
-							["serial"] = "Player-3661-091E66BD",
 							["spells"] = {
 								["_ActorTable"] = {
 									[195707] = {
@@ -2661,6 +2671,15 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.006953,
+							["aID"] = "3661-091E66BD",
+							["tipo"] = 3,
+							["last_event"] = 1671331545,
+							["isTank"] = true,
+							["serial"] = "Player-3661-091E66BD",
+							["spec"] = 104,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -2707,13 +2726,13 @@ _detalhes_database = {
 							},
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[5487] = {
+									[93622] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 5487,
-										["uptime"] = 13,
+										["id"] = 93622,
+										["uptime"] = 3,
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
@@ -2729,24 +2748,24 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[93622] = {
+									[5487] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 93622,
-										["uptime"] = 3,
+										["id"] = 5487,
+										["uptime"] = 13,
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
 									},
-									[385996] = {
+									[213680] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 385996,
-										["uptime"] = 13,
+										["id"] = 213680,
+										["uptime"] = 6,
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
@@ -2784,13 +2803,13 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[213680] = {
+									[385996] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 213680,
-										["uptime"] = 6,
+										["id"] = 385996,
+										["uptime"] = 13,
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
@@ -2803,8 +2822,8 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 8,
-							["interrupt"] = 1.002511,
 							["nome"] = "Thez",
+							["interrupt"] = 1.002511,
 							["debuff_uptime_targets"] = {
 							},
 							["interrupt_targets"] = {
@@ -2934,7 +2953,8 @@ _detalhes_database = {
 				["overall_added"] = true,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Primalist Infiltrator"] = 1,
 				},
 				["combat_counter"] = 1223,
 				["player_last_events"] = {
@@ -3031,8 +3051,7 @@ _detalhes_database = {
 				["data_inicio"] = "18:45:33",
 				["start_time"] = 326929.251,
 				["contra"] = "Primalist Infiltrator",
-				["frags"] = {
-					["Primalist Infiltrator"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [3]
 			{
@@ -3066,7 +3085,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1671330959,
 							["last_event"] = 1671330958,
-							["damage_taken"] = 1340.003509,
+							["last_dps"] = 2591.802432723688,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3297,7 +3316,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["last_dps"] = 2591.802432723688,
+							["damage_taken"] = 1340.003509,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["avoidance"] = {
@@ -3358,12 +3377,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9337.003216000001,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 50889.003216,
-							["dps_started"] = false,
-							["end_time"] = 1671331533,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["fight_component"] = true,
+							["end_time"] = 1671331533,
+							["friendlyfire_total"] = 0,
+							["monster"] = true,
 							["nome"] = "Primalist Infiltrator",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3430,16 +3449,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["total"] = 9337.003216000001,
-							["last_dps"] = 0,
+							["damage_taken"] = 50889.003216,
 							["tipo"] = 1,
-							["monster"] = true,
+							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 1671331532,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1671330964,
 							["serial"] = "Creature-0-3131-2444-868-189869-00001E6C70",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 					},
 				}, -- [1]
@@ -3477,10 +3496,8 @@ _detalhes_database = {
 							["healing_taken"] = 438.002197,
 							["fight_component"] = true,
 							["end_time"] = 1671331533,
+							["heal_enemy_amt"] = 0,
 							["aID"] = "3661-091E66BD",
-							["healing_from"] = {
-								["Thez"] = true,
-							},
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3504,9 +3521,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_curado"] = 438,
 										["totaldenied"] = 0,
 										["n_amt"] = 3,
-										["n_curado"] = 438,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -3530,9 +3547,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["totaldenied"] = 0,
 										["n_amt"] = 14,
 										["n_curado"] = 0,
+										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
 								},
@@ -3540,13 +3557,15 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.002197,
-							["tipo"] = 2,
-							["custom"] = 0,
 							["last_event"] = 1671331209,
+							["custom"] = 0,
+							["tipo"] = 2,
 							["spec"] = 104,
 							["start_time"] = 1671331273,
 							["delay"] = 1671331209,
-							["heal_enemy_amt"] = 0,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 						}, -- [1]
 					},
 				}, -- [2]
@@ -3570,15 +3589,6 @@ _detalhes_database = {
 							["total"] = 44.003614,
 							["totalover"] = 0.003614,
 							["nome"] = "Thez",
-							["spec"] = 104,
-							["grupo"] = true,
-							["flag_original"] = 1297,
-							["alternatepower"] = 0.003614,
-							["aID"] = "3661-091E66BD",
-							["last_event"] = 1671330957,
-							["tipo"] = 3,
-							["isTank"] = true,
-							["serial"] = "Player-3661-091E66BD",
 							["spells"] = {
 								["_ActorTable"] = {
 									[33917] = {
@@ -3611,6 +3621,15 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.003614,
+							["aID"] = "3661-091E66BD",
+							["tipo"] = 3,
+							["last_event"] = 1671330957,
+							["isTank"] = true,
+							["serial"] = "Player-3661-091E66BD",
+							["spec"] = 104,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -3652,13 +3671,13 @@ _detalhes_database = {
 							["aID"] = "3661-091E66BD",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[385996] = {
+									[213680] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 385996,
-										["uptime"] = 10,
+										["refreshamt"] = 1,
+										["id"] = 213680,
+										["uptime"] = 7,
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
@@ -3685,16 +3704,16 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[213680] = {
+									[378989] = {
 										["counter"] = 0,
 										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 213680,
-										["uptime"] = 7,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 378989,
+										["uptime"] = 0,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["appliedamt"] = 0,
 									},
 									[227723] = {
 										["counter"] = 0,
@@ -3730,16 +3749,16 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[378989] = {
+									[385996] = {
 										["counter"] = 0,
 										["actived"] = false,
-										["activedamt"] = 0,
+										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 378989,
-										["uptime"] = 0,
+										["id"] = 385996,
+										["uptime"] = 10,
 										["targets"] = {
 										},
-										["appliedamt"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -3872,7 +3891,8 @@ _detalhes_database = {
 				["overall_added"] = true,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Primalist Infiltrator"] = 1,
 				},
 				["combat_counter"] = 1222,
 				["player_last_events"] = {
@@ -4173,8 +4193,7 @@ _detalhes_database = {
 				["data_inicio"] = "18:35:50",
 				["start_time"] = 326345.923,
 				["contra"] = "Primalist Infiltrator",
-				["frags"] = {
-					["Primalist Infiltrator"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [4]
 			{
@@ -4265,10 +4284,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["last_event"] = 1671076984,
-							["damage_taken"] = 0.004335,
+							["last_dps"] = 420.4594715886842,
 							["start_time"] = 1671076984,
 							["delay"] = 0,
-							["last_dps"] = 420.4594715886842,
+							["damage_taken"] = 0.004335,
 						}, -- [1]
 						{
 							["flag_original"] = 2600,
@@ -4278,36 +4297,36 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["last_dps"] = 0,
+							["serial"] = "Creature-0-4226-2444-167-199220-00001A9B90",
 							["pets"] = {
 							},
+							["aID"] = "199220",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["dps_started"] = false,
-							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003304,
-							["serial"] = "Creature-0-4226-2444-167-199220-00001A9B90",
+							["dps_started"] = false,
 							["fight_component"] = true,
 							["total"] = 0.003304,
-							["aID"] = "199220",
-							["damage_taken"] = 370.003304,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Violetwing Stagbeetle",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["end_time"] = 1671076985,
-							["on_hold"] = false,
-							["custom"] = 0,
-							["last_event"] = 0,
 							["friendlyfire"] = {
 							},
+							["end_time"] = 1671076985,
+							["damage_taken"] = 370.003304,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1671076985,
 							["delay"] = 0,
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 					},
 				}, -- [1]
@@ -4352,8 +4371,8 @@ _detalhes_database = {
 							["grupo"] = true,
 							["totalover"] = 0.004321,
 							["flag_original"] = 1297,
-							["last_event"] = 1671330949,
 							["tipo"] = 3,
+							["last_event"] = 1671330949,
 							["aID"] = "3661-091E66BD",
 							["alternatepower"] = 0.004321,
 							["serial"] = "Player-3661-091E66BD",
@@ -4376,18 +4395,18 @@ _detalhes_database = {
 							["buff_uptime"] = 4,
 							["pets"] = {
 							},
-							["tipo"] = 4,
 							["classe"] = "DRUID",
-							["last_event"] = 1671076985,
+							["tipo"] = 4,
+							["aID"] = "3661-091E66BD",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[227723] = {
+									[397734] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 227723,
+										["id"] = 397734,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -4403,17 +4422,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[397734] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 397734,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[225788] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -4425,11 +4433,22 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[227723] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 227723,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3661-091E66BD",
-							["aID"] = "3661-091E66BD",
+							["last_event"] = 1671076985,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -4626,6 +4645,9 @@ _detalhes_database = {
 							["damage_taken"] = 32616.002101,
 							["custom"] = 0,
 							["last_event"] = 1670449670,
+							["last_dps"] = 312.8482804779364,
+							["start_time"] = 1670449666,
+							["delay"] = 0,
 							["avoidance"] = {
 								["Primal Proto-Drake"] = {
 									["DODGE"] = 0,
@@ -4692,9 +4714,6 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 27316,
 								},
 							},
-							["start_time"] = 1670449666,
-							["delay"] = 0,
-							["last_dps"] = 312.8482804779364,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -4708,17 +4727,17 @@ _detalhes_database = {
 							},
 							["damage_from"] = {
 							},
-							["fight_component"] = true,
+							["aID"] = "",
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 27316.008277,
 							["spellicon"] = 237583,
-							["last_dps"] = 0,
+							["fight_component"] = true,
 							["monster"] = true,
 							["end_time"] = 1670449670,
 							["friendlyfire_total"] = 0,
-							["damage_taken"] = 0.008277,
+							["last_dps"] = 0,
 							["nome"] = "[*] Lava",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4755,15 +4774,15 @@ _detalhes_database = {
 							},
 							["total"] = 27316.008277,
 							["serial"] = "",
-							["aID"] = "",
 							["on_hold"] = false,
-							["custom"] = 0,
 							["last_event"] = 1670449670,
-							["friendlyfire"] = {
-							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.008277,
 							["start_time"] = 1670449667,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -4781,16 +4800,16 @@ _detalhes_database = {
 								["Expedition Guardian"] = true,
 								["Thez"] = true,
 							},
-							["friendlyfire_total"] = 0,
+							["aID"] = "195241",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6461.008014,
+							["monster"] = true,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["last_dps"] = 0,
-							["fight_component"] = true,
 							["total"] = 6461.008014,
 							["classe"] = "UNKNOW",
-							["aID"] = "195241",
+							["friendlyfire_total"] = 0,
 							["nome"] = "Primal Proto-Drake",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4811,7 +4830,7 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 15,
 										["DODGE"] = 2,
-										["total"] = 2697,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["MISS"] = 5,
 										["id"] = 1,
@@ -4826,7 +4845,7 @@ _detalhes_database = {
 										["a_amt"] = 1,
 										["n_amt"] = 3,
 										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["total"] = 2697,
 									}, -- [1]
 									[386991] = {
 										["c_amt"] = 0,
@@ -4860,17 +4879,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1671076984,
-							["on_hold"] = false,
+							["last_dps"] = 0,
 							["last_event"] = 1670450066,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 3604.008014,
-							["start_time"] = 1671076923,
-							["delay"] = 1670450066,
 							["friendlyfire"] = {
 							},
+							["start_time"] = 1671076923,
+							["delay"] = 1670450066,
+							["damage_taken"] = 3604.008014,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -4890,11 +4909,11 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 731.0045299999999,
-							["monster"] = true,
-							["aID"] = "195577",
 							["fight_component"] = true,
-							["end_time"] = 1670449670,
 							["classe"] = "UNKNOW",
+							["monster"] = true,
+							["end_time"] = 1670449670,
+							["aID"] = "195577",
 							["dps_started"] = false,
 							["nome"] = "Primal Proto-Whelp",
 							["spells"] = {
@@ -4934,14 +4953,14 @@ _detalhes_database = {
 							["total"] = 731.0045299999999,
 							["on_hold"] = false,
 							["last_event"] = 1670449670,
-							["damage_taken"] = 3769.00453,
+							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
-							["start_time"] = 1670449668,
-							["delay"] = 0,
 							["friendlyfire"] = {
 							},
+							["start_time"] = 1670449668,
+							["delay"] = 0,
+							["damage_taken"] = 3769.00453,
 						}, -- [4]
 					},
 				}, -- [1]
@@ -4978,8 +4997,10 @@ _detalhes_database = {
 							["healing_taken"] = 6443.003553000001,
 							["fight_component"] = true,
 							["end_time"] = 1670449670,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["aID"] = "3661-091E66BD",
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5003,9 +5024,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 5,
 										["n_curado"] = 730,
 										["totaldenied"] = 0,
-										["n_amt"] = 5,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -5028,9 +5049,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_amt"] = 1,
 										["n_curado"] = 5713,
 										["totaldenied"] = 0,
+										["n_amt"] = 1,
 										["absorbed"] = 0,
 									},
 								},
@@ -5040,13 +5061,11 @@ _detalhes_database = {
 							["start_time"] = 1670449666,
 							["spec"] = 104,
 							["custom"] = 0,
-							["tipo"] = 2,
 							["last_event"] = 1670449670,
+							["tipo"] = 2,
 							["totaldenied"] = 0.003553,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Thez"] = true,
-							},
+							["aID"] = "3661-091E66BD",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -5067,6 +5086,8 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["passiveover"] = 0.007852,
 							["total"] = 150.007852,
+							["spec"] = 104,
+							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
 									[17057] = {
@@ -5081,13 +5102,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Thez",
-							["spec"] = 104,
 							["grupo"] = true,
 							["flag_original"] = 1300,
 							["alternatepower"] = 34.007852,
-							["tipo"] = 3,
 							["last_event"] = 1671076906,
+							["tipo"] = 3,
 							["aID"] = "3661-091E66BD",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
@@ -5122,13 +5141,13 @@ _detalhes_database = {
 							["aID"] = "3661-091E66BD",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[378989] = {
-										["appliedamt"] = 0,
+									[165961] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 0,
-										["id"] = 378989,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 165961,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -5155,27 +5174,26 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[165961] = {
-										["appliedamt"] = 1,
+									[378989] = {
+										["appliedamt"] = 0,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 165961,
+										["activedamt"] = 0,
+										["uptime"] = 0,
+										["id"] = 378989,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[783] = {
-										["activedamt"] = 1,
-										["id"] = 783,
+									[227723] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["actived_at"] = 1670449666,
-										["uptime"] = 0,
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 227723,
 										["refreshamt"] = 0,
-										["actived"] = true,
+										["actived"] = false,
 										["counter"] = 0,
 									},
 									[201671] = {
@@ -5200,15 +5218,16 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[227723] = {
-										["appliedamt"] = 1,
+									[783] = {
+										["activedamt"] = 1,
+										["id"] = 783,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 4,
-										["id"] = 227723,
+										["actived_at"] = 1670449666,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
-										["actived"] = false,
+										["actived"] = true,
 										["counter"] = 0,
 									},
 								},
@@ -5216,10 +5235,9 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 3,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Thez",
 							["spec"] = 104,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -5232,7 +5250,8 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
-							["nome"] = "Thez",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["fight_component"] = true,
@@ -5242,14 +5261,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["flag_original"] = 68168,
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[386991] = 1,
 							},
-							["flag_original"] = 68168,
-							["serial"] = "Creature-0-4224-2444-339-195241-0000110424",
 							["aID"] = "195241",
+							["serial"] = "Creature-0-4224-2444-339-195241-0000110424",
+							["last_event"] = 0,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -5645,7 +5664,26 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "13:47:47",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Thez"] = 6443.003553000001,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Thez"] = 1237.002101,
+						}, -- [1]
+					},
+				},
 				["end_time"] = 504401.082,
 				["combat_id"] = 1019,
 				["frags"] = {
@@ -5683,26 +5721,7 @@ _detalhes_database = {
 				},
 				["start_time"] = 504397.128,
 				["contra"] = "Primal Proto-Drake",
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Thez"] = 6443.003553000001,
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Thez"] = 1237.002101,
-						}, -- [1]
-					},
-				},
+				["data_inicio"] = "13:47:47",
 			}, -- [6]
 			{
 				{
@@ -5737,7 +5756,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1670449627,
 							["tipo"] = 1,
-							["last_dps"] = 3651.911551377111,
+							["damage_taken"] = 34790.00119,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6014,7 +6033,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["damage_taken"] = 34790.00119,
+							["last_dps"] = 3651.911551377111,
 							["custom"] = 0,
 							["last_event"] = 1670449627,
 							["avoidance"] = {
@@ -6106,12 +6125,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6949.008323,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 35723.008323,
-							["monster"] = true,
-							["total"] = 6949.008323,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["dps_started"] = false,
+							["total"] = 6949.008323,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["nome"] = "Primal Scythid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6130,7 +6149,7 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 15,
 										["DODGE"] = 3,
-										["total"] = 4665,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["MISS"] = 2,
 										["id"] = 1,
@@ -6145,7 +6164,7 @@ _detalhes_database = {
 										["a_amt"] = 8,
 										["n_amt"] = 9,
 										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["total"] = 4665,
 									}, -- [1]
 									[375919] = {
 										["c_amt"] = 0,
@@ -6178,16 +6197,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["end_time"] = 1670449627,
-							["last_dps"] = 0,
+							["damage_taken"] = 35723.008323,
 							["last_event"] = 1670449653,
-							["fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1670449613,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -6206,11 +6225,11 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007169,
-							["fight_component"] = true,
-							["aID"] = "193806",
 							["dps_started"] = false,
-							["total"] = 0.007169,
 							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.007169,
+							["aID"] = "193806",
 							["monster"] = true,
 							["nome"] = "Primal Proto-Drake",
 							["spells"] = {
@@ -6230,7 +6249,7 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 7,
 										["MISS"] = 1,
-										["total"] = 0,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["a_dmg"] = 0,
 										["id"] = 1,
@@ -6245,7 +6264,7 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["n_amt"] = 0,
 										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["total"] = 0,
 									}, -- [1]
 									[386991] = {
 										["c_amt"] = 0,
@@ -6279,14 +6298,14 @@ _detalhes_database = {
 							["end_time"] = 1670449627,
 							["on_hold"] = false,
 							["last_event"] = 1670449663,
-							["damage_taken"] = 20289.007169,
+							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
-							["start_time"] = 1670449627,
-							["delay"] = 0,
 							["friendlyfire"] = {
 							},
+							["start_time"] = 1670449627,
+							["delay"] = 0,
+							["damage_taken"] = 20289.007169,
 						}, -- [3]
 					},
 				}, -- [1]
@@ -6323,8 +6342,10 @@ _detalhes_database = {
 							["healing_taken"] = 1168.004328,
 							["fight_component"] = true,
 							["end_time"] = 1670449627,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["aID"] = "3661-091E66BD",
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6348,9 +6369,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 8,
 										["n_curado"] = 1168,
 										["totaldenied"] = 0,
-										["n_amt"] = 8,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -6361,13 +6382,11 @@ _detalhes_database = {
 							["start_time"] = 1670449615,
 							["spec"] = 104,
 							["custom"] = 0,
-							["tipo"] = 2,
 							["last_event"] = 1670449625,
+							["tipo"] = 2,
 							["totaldenied"] = 0.004328,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Thez"] = true,
-							},
+							["aID"] = "3661-091E66BD",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -6389,6 +6408,8 @@ _detalhes_database = {
 							["passiveover"] = 0.004098,
 							["fight_component"] = true,
 							["total"] = 70.30409807152557,
+							["spec"] = 104,
+							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
 									[33917] = {
@@ -6430,13 +6451,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Thez",
-							["spec"] = 104,
 							["grupo"] = true,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.004098,
-							["tipo"] = 3,
 							["last_event"] = 1670449625,
+							["tipo"] = 3,
 							["aID"] = "3661-091E66BD",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
@@ -6505,13 +6524,13 @@ _detalhes_database = {
 							["aID"] = "3661-091E66BD",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[387620] = {
+									[213708] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 10,
-										["id"] = 387620,
+										["uptime"] = 1,
+										["id"] = 213708,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -6538,14 +6557,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[213708] = {
+									[213680] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 213708,
-										["refreshamt"] = 0,
+										["uptime"] = 10,
+										["id"] = 213680,
+										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -6582,14 +6601,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[213680] = {
+									[387620] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 10,
-										["id"] = 213680,
-										["refreshamt"] = 1,
+										["id"] = 387620,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -6606,9 +6625,10 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 23,
-							["nome"] = "Thez",
-							["cc_done"] = 1.001362,
 							["debuff_uptime_targets"] = {
+							},
+							["cc_done"] = 1.001362,
+							["buff_uptime_targets"] = {
 							},
 							["spec"] = 104,
 							["grupo"] = true,
@@ -6618,12 +6638,11 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["pets"] = {
 							},
-							["last_event"] = 1670449627,
 							["tipo"] = 4,
+							["last_event"] = 1670449627,
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Thez",
 						}, -- [1]
 						{
 							["fight_component"] = true,
@@ -6633,14 +6652,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["flag_original"] = 2632,
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[375919] = 4,
 							},
-							["flag_original"] = 2632,
-							["serial"] = "Creature-0-4224-2444-339-191104-00001108C2",
 							["aID"] = "191104",
+							["serial"] = "Creature-0-4224-2444-339-191104-00001108C2",
+							["last_event"] = 0,
 						}, -- [2]
 						{
 							["fight_component"] = true,
@@ -6650,14 +6669,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["flag_original"] = 2632,
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[386991] = 2,
 							},
-							["flag_original"] = 2632,
-							["serial"] = "Creature-0-4224-2444-339-193806-00001106CC",
 							["aID"] = "193806",
+							["serial"] = "Creature-0-4224-2444-339-193806-00001106CC",
+							["last_event"] = 0,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -6762,13 +6781,13 @@ _detalhes_database = {
 				},
 				["end_time"] = 504358.405,
 				["combat_id"] = 1018,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Primal Proto-Drake",
 				["frags"] = {
 					["Primal Proto-Drake"] = 1,
 					["Primal Scythid"] = 2,
 					["Salty Salamander"] = 1,
-				},
-				["contra"] = "Primal Proto-Drake",
-				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 1214,
 				["data_inicio"] = "13:46:54",
@@ -6976,7 +6995,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1670449574,
 							["tipo"] = 1,
-							["last_dps"] = 1986.551560905651,
+							["damage_taken"] = 4442.004269999999,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7151,7 +7170,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["damage_taken"] = 4442.004269999999,
+							["last_dps"] = 1986.551560905651,
 							["custom"] = 0,
 							["last_event"] = 1670449573,
 							["avoidance"] = {
@@ -7215,12 +7234,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 99220.003503,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 73598.003503,
-							["monster"] = true,
-							["total"] = 99220.003503,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["dps_started"] = false,
+							["total"] = 99220.003503,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Drake",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7241,7 +7260,7 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 65,
 										["a_dmg"] = 1484,
-										["total"] = 52624,
+										["r_amt"] = 0,
 										["c_max"] = 2268,
 										["MISS"] = 6,
 										["id"] = 1,
@@ -7256,7 +7275,7 @@ _detalhes_database = {
 										["a_amt"] = 4,
 										["n_amt"] = 50,
 										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["total"] = 52624,
 									}, -- [1]
 									[386991] = {
 										["c_amt"] = 0,
@@ -7291,16 +7310,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["end_time"] = 1670449613,
-							["last_dps"] = 0,
+							["damage_taken"] = 73598.003503,
 							["last_event"] = 1670449613,
-							["fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1670449560,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 						{
 							["flag_original"] = 2600,
@@ -7310,20 +7329,20 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["damage_taken"] = 3069.003352,
+							["serial"] = "Creature-0-4224-2444-339-192103-00001105A6",
 							["pets"] = {
 							},
+							["aID"] = "192103",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003352,
-							["serial"] = "Creature-0-4224-2444-339-192103-00001105A6",
+							["fight_component"] = true,
 							["dps_started"] = false,
 							["total"] = 0.003352,
-							["aID"] = "192103",
-							["on_hold"] = false,
+							["damage_taken"] = 3069.003352,
+							["last_event"] = 1670449571,
 							["nome"] = "Pricklefury Hare",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7359,16 +7378,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_event"] = 1670449571,
+							["last_dps"] = 0,
 							["end_time"] = 1670449574,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1670449574,
 							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
 						}, -- [3]
 					},
 				}, -- [1]
@@ -7405,8 +7424,10 @@ _detalhes_database = {
 							["healing_taken"] = 730.003511,
 							["fight_component"] = true,
 							["end_time"] = 1670449574,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["aID"] = "3661-091E66BD",
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7430,9 +7451,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 5,
 										["n_curado"] = 730,
 										["totaldenied"] = 0,
-										["n_amt"] = 5,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -7443,13 +7464,11 @@ _detalhes_database = {
 							["start_time"] = 1670449561,
 							["spec"] = 104,
 							["custom"] = 0,
-							["tipo"] = 2,
 							["last_event"] = 1670449571,
+							["tipo"] = 2,
 							["totaldenied"] = 0.003511,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Thez"] = true,
-							},
+							["aID"] = "3661-091E66BD",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -7471,6 +7490,8 @@ _detalhes_database = {
 							["passiveover"] = 0.001578,
 							["fight_component"] = true,
 							["total"] = 0.001578,
+							["spec"] = 104,
+							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
 									[195707] = {
@@ -7494,13 +7515,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Thez",
-							["spec"] = 104,
 							["grupo"] = true,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.001578,
-							["tipo"] = 3,
 							["last_event"] = 1670449573,
+							["tipo"] = 3,
 							["aID"] = "3661-091E66BD",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
@@ -7579,17 +7598,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[397734] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 14,
-										["id"] = 397734,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[201671] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -7601,15 +7609,25 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[397734] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 14,
+										["id"] = 397734,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
 								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 13,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Thez",
 							["spec"] = 104,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -7627,7 +7645,8 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
-							["nome"] = "Thez",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["fight_component"] = true,
@@ -7637,14 +7656,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["flag_original"] = 2632,
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[386991] = 6,
 							},
-							["flag_original"] = 2632,
-							["serial"] = "Creature-0-4224-2444-339-193806-000011097D",
 							["aID"] = "193806",
+							["serial"] = "Creature-0-4224-2444-339-193806-000011097D",
+							["last_event"] = 0,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -7749,14 +7768,14 @@ _detalhes_database = {
 				},
 				["end_time"] = 504304.828,
 				["combat_id"] = 1017,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Primal Proto-Drake",
 				["frags"] = {
 					["Salty Salamander"] = 1,
 					["Primal Scythid"] = 1,
 					["Primal Proto-Drake"] = 1,
 					["Pricklefury Hare"] = 1,
-				},
-				["contra"] = "Primal Proto-Drake",
-				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 1213,
 				["data_inicio"] = "13:46:01",
@@ -7803,7 +7822,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1670449557,
 							["tipo"] = 1,
-							["last_dps"] = 5299.889628304423,
+							["damage_taken"] = 1866.001029,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8072,7 +8091,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["damage_taken"] = 1866.001029,
+							["last_dps"] = 5299.889628304423,
 							["custom"] = 0,
 							["last_event"] = 1670449557,
 							["avoidance"] = {
@@ -8152,12 +8171,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 32620.001348,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 30718.001348,
-							["monster"] = true,
-							["total"] = 32620.001348,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["dps_started"] = false,
+							["total"] = 32620.001348,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Drake",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8225,16 +8244,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["end_time"] = 1670449560,
-							["last_dps"] = 0,
+							["damage_taken"] = 30718.001348,
 							["last_event"] = 1670449560,
-							["fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1670449548,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -8253,12 +8272,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1084.002964,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 22787.002964,
-							["monster"] = true,
-							["total"] = 1084.002964,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["dps_started"] = false,
+							["total"] = 1084.002964,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Whelp",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8295,16 +8314,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["end_time"] = 1670449557,
-							["last_dps"] = 0,
+							["damage_taken"] = 22787.002964,
 							["last_event"] = 1670449556,
-							["fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1670449549,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [3]
 						{
 							["flag_original"] = 2600,
@@ -8314,36 +8333,36 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["damage_taken"] = 3252.003775,
+							["serial"] = "Creature-0-4224-2444-339-189093-000990F501",
 							["pets"] = {
 							},
+							["aID"] = "189093",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003775,
-							["serial"] = "Creature-0-4224-2444-339-189093-000990F501",
+							["fight_component"] = true,
 							["dps_started"] = false,
 							["total"] = 0.003775,
-							["aID"] = "189093",
-							["on_hold"] = false,
+							["damage_taken"] = 3252.003775,
+							["last_event"] = 0,
 							["nome"] = "Pricklefury Hare",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["last_event"] = 0,
+							["last_dps"] = 0,
 							["end_time"] = 1670449557,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1670449557,
 							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
 						}, -- [4]
 					},
 				}, -- [1]
@@ -8380,8 +8399,10 @@ _detalhes_database = {
 							["healing_taken"] = 1346.008336,
 							["fight_component"] = true,
 							["end_time"] = 1670449557,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["aID"] = "3661-091E66BD",
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8405,9 +8426,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 10,
 										["n_curado"] = 1346,
 										["totaldenied"] = 0,
-										["n_amt"] = 10,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -8418,13 +8439,11 @@ _detalhes_database = {
 							["start_time"] = 1670449548,
 							["spec"] = 104,
 							["custom"] = 0,
-							["tipo"] = 2,
 							["last_event"] = 1670449556,
+							["tipo"] = 2,
 							["totaldenied"] = 0.008336,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Thez"] = true,
-							},
+							["aID"] = "3661-091E66BD",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -8446,6 +8465,8 @@ _detalhes_database = {
 							["passiveover"] = 0.003339,
 							["fight_component"] = true,
 							["total"] = 4.303339190734864,
+							["spec"] = 104,
+							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
 									[33917] = {
@@ -8487,13 +8508,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Thez",
-							["spec"] = 104,
 							["grupo"] = true,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.003339,
-							["tipo"] = 3,
 							["last_event"] = 1670449560,
+							["tipo"] = 3,
 							["aID"] = "3661-091E66BD",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
@@ -8539,13 +8558,13 @@ _detalhes_database = {
 							["aID"] = "3661-091E66BD",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[387620] = {
-										["appliedamt"] = 1,
+									[213708] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 387620,
+										["activedamt"] = 2,
+										["uptime"] = 4,
+										["id"] = 213708,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -8572,14 +8591,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[213708] = {
-										["appliedamt"] = 2,
+									[213680] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 4,
-										["id"] = 213708,
-										["refreshamt"] = 0,
+										["activedamt"] = 1,
+										["uptime"] = 10,
+										["id"] = 213680,
+										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -8616,14 +8635,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[213680] = {
+									[387620] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 10,
-										["id"] = 213680,
-										["refreshamt"] = 1,
+										["uptime"] = 9,
+										["id"] = 387620,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -8632,10 +8651,9 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 16,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Thez",
 							["spec"] = 104,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -8651,7 +8669,8 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
-							["nome"] = "Thez",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["fight_component"] = true,
@@ -8661,14 +8680,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["flag_original"] = 2632,
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[386991] = 4,
 							},
-							["flag_original"] = 2632,
-							["serial"] = "Creature-0-4224-2444-339-193806-000011066A",
 							["aID"] = "193806",
+							["serial"] = "Creature-0-4224-2444-339-193806-000011066A",
+							["last_event"] = 0,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -8729,7 +8748,26 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "13:45:48",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Thez"] = 1346.008336,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Thez"] = 52771.001029,
+						}, -- [1]
+					},
+				},
 				["end_time"] = 504287.876,
 				["combat_id"] = 1016,
 				["frags"] = {
@@ -8770,26 +8808,7 @@ _detalhes_database = {
 				},
 				["start_time"] = 504277.919,
 				["contra"] = "Primal Proto-Drake",
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Thez"] = 1346.008336,
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Thez"] = 52771.001029,
-						}, -- [1]
-					},
-				},
+				["data_inicio"] = "13:45:48",
 			}, -- [9]
 			{
 				{
@@ -8822,7 +8841,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1670449543,
 							["tipo"] = 1,
-							["last_dps"] = 3573.235915153176,
+							["damage_taken"] = 846.004223,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9017,7 +9036,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["damage_taken"] = 846.004223,
+							["last_dps"] = 3573.235915153176,
 							["custom"] = 0,
 							["last_event"] = 1670449542,
 							["avoidance"] = {
@@ -9080,12 +9099,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9097.004036,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 27878.004036,
-							["monster"] = true,
-							["total"] = 9097.004036,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["dps_started"] = false,
+							["total"] = 9097.004036,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Drake",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9152,16 +9171,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["end_time"] = 1670449547,
-							["last_dps"] = 0,
+							["damage_taken"] = 27878.004036,
 							["last_event"] = 1670449547,
-							["fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1670449536,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 					},
 				}, -- [1]
@@ -9198,8 +9217,10 @@ _detalhes_database = {
 							["healing_taken"] = 292.007194,
 							["fight_component"] = true,
 							["end_time"] = 1670449543,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["aID"] = "3661-091E66BD",
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9223,9 +9244,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
 										["n_curado"] = 292,
 										["totaldenied"] = 0,
-										["n_amt"] = 2,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -9236,13 +9257,11 @@ _detalhes_database = {
 							["start_time"] = 1670449536,
 							["spec"] = 104,
 							["custom"] = 0,
-							["tipo"] = 2,
 							["last_event"] = 1670449541,
+							["tipo"] = 2,
 							["totaldenied"] = 0.007194,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Thez"] = true,
-							},
+							["aID"] = "3661-091E66BD",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -9264,6 +9283,8 @@ _detalhes_database = {
 							["passiveover"] = 0.004254,
 							["fight_component"] = true,
 							["total"] = 15.004254,
+							["spec"] = 104,
+							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
 									[195707] = {
@@ -9287,13 +9308,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Thez",
-							["spec"] = 104,
 							["grupo"] = true,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.004254,
-							["tipo"] = 3,
 							["last_event"] = 1670449542,
+							["tipo"] = 3,
 							["aID"] = "3661-091E66BD",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
@@ -9358,6 +9377,17 @@ _detalhes_database = {
 							},
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
+									[227723] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 7,
+										["id"] = 227723,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 									[213680] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -9369,13 +9399,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[227723] = {
+									[5487] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 7,
-										["id"] = 227723,
+										["id"] = 5487,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -9391,17 +9421,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[5487] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 7,
-										["id"] = 5487,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 								},
 								["tipo"] = 9,
 							},
@@ -9413,7 +9432,7 @@ _detalhes_database = {
 							["aID"] = "3661-091E66BD",
 							["debuff_uptime_targets"] = {
 							},
-							["interrupt"] = 1.008342,
+							["nome"] = "Thez",
 							["spec"] = 104,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -9431,7 +9450,7 @@ _detalhes_database = {
 							},
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
-							["nome"] = "Thez",
+							["interrupt"] = 1.008342,
 						}, -- [1]
 						{
 							["fight_component"] = true,
@@ -9441,14 +9460,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["flag_original"] = 2632,
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[386991] = 3,
 							},
-							["flag_original"] = 2632,
-							["serial"] = "Creature-0-4224-2444-339-193806-000011066A",
 							["aID"] = "193806",
+							["serial"] = "Creature-0-4224-2444-339-193806-000011066A",
+							["last_event"] = 0,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -9553,11 +9572,11 @@ _detalhes_database = {
 				},
 				["end_time"] = 504273.553,
 				["combat_id"] = 1015,
-				["frags"] = {
-					["Primal Proto-Drake"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["contra"] = "Primal Proto-Drake",
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Primal Proto-Drake"] = 1,
 				},
 				["combat_counter"] = 1211,
 				["data_inicio"] = "13:45:36",
@@ -9603,7 +9622,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1670449520,
 							["tipo"] = 1,
-							["last_dps"] = 4507.214522299948,
+							["damage_taken"] = 6100.003415,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9836,7 +9855,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["damage_taken"] = 6100.003415,
+							["last_dps"] = 4507.214522299948,
 							["custom"] = 0,
 							["last_event"] = 1670449519,
 							["avoidance"] = {
@@ -9915,13 +9934,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 34279.008828,
-							["classe"] = "UNKNOW",
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1670449536,
 							["friendlyfire_total"] = 0,
+							["last_dps"] = 0,
 							["monster"] = true,
+							["end_time"] = 1670449536,
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Drake",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9941,7 +9959,7 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 25,
 										["MISS"] = 1,
-										["total"] = 18854,
+										["r_amt"] = 0,
 										["c_max"] = 2585,
 										["a_dmg"] = 1964,
 										["id"] = 1,
@@ -9956,7 +9974,7 @@ _detalhes_database = {
 										["a_amt"] = 6,
 										["n_amt"] = 18,
 										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["total"] = 18854,
 									}, -- [1]
 									[386991] = {
 										["c_amt"] = 0,
@@ -9992,15 +10010,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["total"] = 34279.008828,
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 1670449536,
-							["fight_component"] = true,
+							["dps_started"] = false,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 31621.008828,
+							["on_hold"] = false,
 							["start_time"] = 1670449509,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["damage_taken"] = 31621.008828,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -10019,12 +10038,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1179.001556,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 25018.001556,
-							["monster"] = true,
-							["total"] = 1179.001556,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["dps_started"] = false,
+							["total"] = 1179.001556,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Whelp",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10061,16 +10080,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["end_time"] = 1670449520,
-							["last_dps"] = 0,
+							["damage_taken"] = 25018.001556,
 							["last_event"] = 1670449517,
-							["fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1670449510,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [3]
 					},
 				}, -- [1]
@@ -10108,8 +10127,10 @@ _detalhes_database = {
 							["healing_taken"] = 17706.004608,
 							["fight_component"] = true,
 							["end_time"] = 1670449520,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["aID"] = "3661-091E66BD",
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10133,9 +10154,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 17,
 										["n_curado"] = 2181,
 										["totaldenied"] = 0,
-										["n_amt"] = 17,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -10159,9 +10180,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_amt"] = 4,
 										["n_curado"] = 15525,
 										["totaldenied"] = 0,
+										["n_amt"] = 4,
 										["absorbed"] = 0,
 									},
 								},
@@ -10171,13 +10192,11 @@ _detalhes_database = {
 							["start_time"] = 1670449509,
 							["spec"] = 104,
 							["custom"] = 0,
-							["tipo"] = 2,
 							["last_event"] = 1670449519,
+							["tipo"] = 2,
 							["totaldenied"] = 0.004608,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Thez"] = true,
-							},
+							["aID"] = "3661-091E66BD",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -10199,6 +10218,8 @@ _detalhes_database = {
 							["passiveover"] = 0.006243,
 							["fight_component"] = true,
 							["total"] = 42.70624269005585,
+							["spec"] = 104,
+							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
 									[33917] = {
@@ -10231,13 +10252,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Thez",
-							["spec"] = 104,
 							["grupo"] = true,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.006243,
-							["tipo"] = 3,
 							["last_event"] = 1670449519,
+							["tipo"] = 3,
 							["aID"] = "3661-091E66BD",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
@@ -10350,17 +10369,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[397734] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 11,
-										["id"] = 397734,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[192081] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -10372,15 +10380,25 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[397734] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 11,
+										["id"] = 397734,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
 								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 16,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Thez",
 							["spec"] = 104,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -10398,7 +10416,8 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
-							["nome"] = "Thez",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["fight_component"] = true,
@@ -10408,14 +10427,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["flag_original"] = 2632,
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[386991] = 2,
 							},
-							["flag_original"] = 2632,
-							["serial"] = "Creature-0-4224-2444-339-193806-000011095B",
 							["aID"] = "193806",
+							["serial"] = "Creature-0-4224-2444-339-193806-000011095B",
+							["last_event"] = 0,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -10520,12 +10539,12 @@ _detalhes_database = {
 				},
 				["end_time"] = 504250.734,
 				["combat_id"] = 1014,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Primal Proto-Drake",
 				["frags"] = {
 					["Primal Proto-Drake"] = 1,
 					["Primal Proto-Whelp"] = 3,
-				},
-				["contra"] = "Primal Proto-Drake",
-				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 1210,
 				["data_inicio"] = "13:45:10",
@@ -10571,7 +10590,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1670449502,
 							["tipo"] = 1,
-							["last_dps"] = 5102.041968069549,
+							["damage_taken"] = 9341.001026,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10824,7 +10843,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["damage_taken"] = 9341.001026,
+							["last_dps"] = 5102.041968069549,
 							["custom"] = 0,
 							["last_event"] = 1670449501,
 							["avoidance"] = {
@@ -10902,12 +10921,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 8668.005717,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 26226.005717,
-							["monster"] = true,
-							["total"] = 8668.005717,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["dps_started"] = false,
+							["total"] = 8668.005717,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Drake",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10975,16 +10994,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["end_time"] = 1670449509,
-							["last_dps"] = 0,
+							["damage_taken"] = 26226.005717,
 							["last_event"] = 1670449509,
-							["fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1670449487,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -11003,12 +11022,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4017.007352,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 71110.007352,
-							["monster"] = true,
-							["total"] = 4017.007352,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["dps_started"] = false,
+							["total"] = 4017.007352,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Whelp",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11046,16 +11065,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["end_time"] = 1670449502,
-							["last_dps"] = 0,
+							["damage_taken"] = 71110.007352,
 							["last_event"] = 1670449500,
-							["fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1670449483,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [3]
 					},
 				}, -- [1]
@@ -11092,8 +11111,10 @@ _detalhes_database = {
 							["healing_taken"] = 4998.007567000001,
 							["fight_component"] = true,
 							["end_time"] = 1670449502,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["aID"] = "3661-091E66BD",
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11117,9 +11138,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 37,
 										["n_curado"] = 4998,
 										["totaldenied"] = 0,
-										["n_amt"] = 37,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -11130,13 +11151,11 @@ _detalhes_database = {
 							["start_time"] = 1670449483,
 							["spec"] = 104,
 							["custom"] = 0,
-							["tipo"] = 2,
 							["last_event"] = 1670449500,
+							["tipo"] = 2,
 							["totaldenied"] = 0.007567,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Thez"] = true,
-							},
+							["aID"] = "3661-091E66BD",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -11158,6 +11177,8 @@ _detalhes_database = {
 							["passiveover"] = 0.007989,
 							["fight_component"] = true,
 							["total"] = 32.40798897615814,
+							["spec"] = 104,
+							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
 									[33917] = {
@@ -11199,13 +11220,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Thez",
-							["spec"] = 104,
 							["grupo"] = true,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.007989,
-							["tipo"] = 3,
 							["last_event"] = 1670449501,
+							["tipo"] = 3,
 							["aID"] = "3661-091E66BD",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
@@ -11322,10 +11341,9 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 32,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Thez",
 							["spec"] = 104,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -11341,7 +11359,8 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
-							["nome"] = "Thez",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["fight_component"] = true,
@@ -11351,14 +11370,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["flag_original"] = 2632,
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[386991] = 4,
 							},
-							["flag_original"] = 2632,
-							["serial"] = "Creature-0-4224-2444-339-193806-000011066A",
 							["aID"] = "193806",
+							["serial"] = "Creature-0-4224-2444-339-193806-000011066A",
+							["last_event"] = 0,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -11463,12 +11482,12 @@ _detalhes_database = {
 				},
 				["end_time"] = 504232.747,
 				["combat_id"] = 1013,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Primal Proto-Whelp",
 				["frags"] = {
 					["Primal Proto-Drake"] = 1,
 					["Primal Proto-Whelp"] = 9,
-				},
-				["contra"] = "Primal Proto-Whelp",
-				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 1209,
 				["data_inicio"] = "13:44:44",
@@ -11515,7 +11534,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1670449475,
 							["tipo"] = 1,
-							["last_dps"] = 3175.012786911286,
+							["damage_taken"] = 15993.003125,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11536,9 +11555,9 @@ _detalhes_database = {
 											[11] = 5270,
 											[17] = 6619,
 											[8] = 2657,
-											[23] = 6619,
-											[14] = 6619,
 											[5] = 1329,
+											[14] = 6619,
+											[23] = 6619,
 											[20] = 6619,
 										},
 										["total"] = 6619,
@@ -11638,9 +11657,9 @@ _detalhes_database = {
 											[11] = 10368,
 											[17] = 13116,
 											[8] = 7620,
-											[23] = 17986,
-											[14] = 12200,
 											[5] = 4795,
+											[14] = 12200,
+											[23] = 17986,
 											[20] = 14490,
 										},
 										["total"] = 18444,
@@ -11677,9 +11696,9 @@ _detalhes_database = {
 											[11] = 12452,
 											[17] = 12452,
 											[8] = 4781,
-											[23] = 12452,
-											[14] = 12452,
 											[5] = 4781,
+											[14] = 12452,
+											[23] = 12452,
 											[20] = 12452,
 										},
 										["total"] = 12452,
@@ -11715,9 +11734,9 @@ _detalhes_database = {
 											[11] = 5469,
 											[17] = 8341,
 											[8] = 3545,
-											[23] = 10132,
-											[14] = 7382,
 											[5] = 1731,
+											[14] = 7382,
+											[23] = 10132,
 											[20] = 9871,
 										},
 										["total"] = 10393,
@@ -11813,7 +11832,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["damage_taken"] = 15993.003125,
+							["last_dps"] = 3175.012786911286,
 							["custom"] = 0,
 							["last_event"] = 1670449474,
 							["avoidance"] = {
@@ -11888,13 +11907,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1951.005547,
-							["classe"] = "UNKNOW",
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1670449475,
 							["friendlyfire_total"] = 0,
+							["last_dps"] = 0,
 							["monster"] = true,
+							["end_time"] = 1670449475,
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Whelp",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11932,15 +11950,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["total"] = 1951.005547,
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 1670449483,
-							["fight_component"] = true,
+							["dps_started"] = false,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 23765.005547,
+							["on_hold"] = false,
 							["start_time"] = 1670449450,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["damage_taken"] = 23765.005547,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -11960,13 +11979,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 16328.008451,
-							["classe"] = "UNKNOW",
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1670449475,
 							["friendlyfire_total"] = 0,
+							["last_dps"] = 0,
 							["monster"] = true,
+							["end_time"] = 1670449475,
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Drake",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12032,15 +12050,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["total"] = 16328.008451,
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 1670449474,
-							["fight_component"] = true,
+							["dps_started"] = false,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 56178.008451,
+							["on_hold"] = false,
 							["start_time"] = 1670449450,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["damage_taken"] = 56178.008451,
 						}, -- [3]
 						{
 							["flag_original"] = 2600,
@@ -12050,20 +12069,20 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["damage_taken"] = 1531.008786,
+							["serial"] = "Creature-0-4224-2444-339-192103-001390F501",
 							["pets"] = {
 							},
+							["aID"] = "192103",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008786,
-							["serial"] = "Creature-0-4224-2444-339-192103-001390F501",
+							["fight_component"] = true,
 							["dps_started"] = false,
 							["total"] = 0.008786,
-							["aID"] = "192103",
-							["on_hold"] = false,
+							["damage_taken"] = 1531.008786,
+							["last_event"] = 1670449454,
 							["nome"] = "Pricklefury Hare",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12099,16 +12118,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_event"] = 1670449454,
+							["last_dps"] = 0,
 							["end_time"] = 1670449475,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1670449475,
 							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
 						}, -- [4]
 					},
 				}, -- [1]
@@ -12145,8 +12164,10 @@ _detalhes_database = {
 							["healing_taken"] = 4282.003785,
 							["fight_component"] = true,
 							["end_time"] = 1670449475,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["aID"] = "3661-091E66BD",
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12170,9 +12191,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 31,
 										["n_curado"] = 4282,
 										["totaldenied"] = 0,
-										["n_amt"] = 31,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -12183,13 +12204,11 @@ _detalhes_database = {
 							["start_time"] = 1670449450,
 							["spec"] = 104,
 							["custom"] = 0,
-							["tipo"] = 2,
 							["last_event"] = 1670449474,
+							["tipo"] = 2,
 							["totaldenied"] = 0.003785,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Thez"] = true,
-							},
+							["aID"] = "3661-091E66BD",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -12211,6 +12230,8 @@ _detalhes_database = {
 							["passiveover"] = 0.0014,
 							["fight_component"] = true,
 							["total"] = 52.0014,
+							["spec"] = 104,
+							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
 									[77758] = {
@@ -12243,13 +12264,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Thez",
-							["spec"] = 104,
 							["grupo"] = true,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.0014,
-							["tipo"] = 3,
 							["last_event"] = 1670449471,
+							["tipo"] = 3,
 							["aID"] = "3661-091E66BD",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
@@ -12295,28 +12314,6 @@ _detalhes_database = {
 							["aID"] = "3661-091E66BD",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[387620] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 387620,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[5487] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 26,
-										["id"] = 5487,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[213680] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -12324,6 +12321,28 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 11,
 										["id"] = 213680,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 13,
+										["id"] = 93622,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[387620] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 8,
+										["id"] = 387620,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -12361,14 +12380,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[93622] = {
+									[5487] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 13,
-										["id"] = 93622,
-										["refreshamt"] = 1,
+										["uptime"] = 26,
+										["id"] = 5487,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -12377,17 +12396,16 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 40,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Thez",
 							["spec"] = 104,
 							["grupo"] = true,
 							["spell_cast"] = {
-								[8921] = 2,
 								[77758] = 1,
-								[6807] = 1,
 								[213771] = 2,
+								[6807] = 1,
+								[8921] = 2,
 							},
 							["pets"] = {
 							},
@@ -12396,7 +12414,8 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
-							["nome"] = "Thez",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["fight_component"] = true,
@@ -12406,14 +12425,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["flag_original"] = 2632,
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[386991] = 7,
 							},
-							["flag_original"] = 2632,
-							["serial"] = "Creature-0-4224-2444-339-193806-000011066A",
 							["aID"] = "193806",
+							["serial"] = "Creature-0-4224-2444-339-193806-000011066A",
+							["last_event"] = 0,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -12518,13 +12537,13 @@ _detalhes_database = {
 				},
 				["end_time"] = 504206.417,
 				["combat_id"] = 1012,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Primal Proto-Whelp",
 				["frags"] = {
 					["Primal Proto-Drake"] = 2,
 					["Primal Proto-Whelp"] = 3,
 					["Pricklefury Hare"] = 1,
-				},
-				["contra"] = "Primal Proto-Whelp",
-				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 1208,
 				["data_inicio"] = "13:44:09",
@@ -12568,7 +12587,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1670449445,
 							["tipo"] = 1,
-							["last_dps"] = 7017.973379976318,
+							["damage_taken"] = 864.008161,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12745,7 +12764,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["damage_taken"] = 864.008161,
+							["last_dps"] = 7017.973379976318,
 							["custom"] = 0,
 							["last_event"] = 1670449445,
 							["avoidance"] = {
@@ -12806,12 +12825,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4247.007822,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 25149.007822,
-							["monster"] = true,
-							["total"] = 4247.007822,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["dps_started"] = false,
+							["total"] = 4247.007822,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Drake",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12875,16 +12894,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["end_time"] = 1670449449,
-							["last_dps"] = 0,
+							["damage_taken"] = 25149.007822,
 							["last_event"] = 1670449448,
-							["fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1670449443,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 					},
 				}, -- [1]
@@ -12921,8 +12940,10 @@ _detalhes_database = {
 							["healing_taken"] = 292.008433,
 							["fight_component"] = true,
 							["end_time"] = 1670449445,
+							["healing_from"] = {
+								["Thez"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["aID"] = "3661-091E66BD",
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12946,9 +12967,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
 										["n_curado"] = 292,
 										["totaldenied"] = 0,
-										["n_amt"] = 2,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -12959,13 +12980,11 @@ _detalhes_database = {
 							["start_time"] = 1670449443,
 							["spec"] = 104,
 							["custom"] = 0,
-							["tipo"] = 2,
 							["last_event"] = 1670449445,
+							["tipo"] = 2,
 							["totaldenied"] = 0.008433,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Thez"] = true,
-							},
+							["aID"] = "3661-091E66BD",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -12987,6 +13006,8 @@ _detalhes_database = {
 							["passiveover"] = 0.006938,
 							["fight_component"] = true,
 							["total"] = 25.006938,
+							["spec"] = 104,
+							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
 									[195707] = {
@@ -13010,13 +13031,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Thez",
-							["spec"] = 104,
 							["grupo"] = true,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.006938,
-							["tipo"] = 3,
 							["last_event"] = 1670449445,
+							["tipo"] = 3,
 							["aID"] = "3661-091E66BD",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
@@ -13123,10 +13142,9 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 3,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Thez",
 							["spec"] = 104,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -13141,7 +13159,8 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
-							["nome"] = "Thez",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["fight_component"] = true,
@@ -13151,14 +13170,14 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["flag_original"] = 2632,
 							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[386991] = 1,
 							},
-							["flag_original"] = 2632,
-							["serial"] = "Creature-0-4224-2444-339-193806-00001106CC",
 							["aID"] = "193806",
+							["serial"] = "Creature-0-4224-2444-339-193806-00001106CC",
+							["last_event"] = 0,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -13219,7 +13238,26 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "13:44:03",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Thez"] = 292.008433,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Thez"] = 24212.008161,
+						}, -- [1]
+					},
+				},
 				["end_time"] = 504176.426,
 				["combat_id"] = 1011,
 				["frags"] = {
@@ -13259,26 +13297,7 @@ _detalhes_database = {
 				},
 				["start_time"] = 504172.976,
 				["contra"] = "Primal Proto-Drake",
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Thez"] = 292.008433,
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Thez"] = 24212.008161,
-						}, -- [1]
-					},
-				},
+				["data_inicio"] = "13:44:03",
 			}, -- [14]
 			{
 				{
@@ -13311,7 +13330,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1670449436,
 							["tipo"] = 1,
-							["last_dps"] = 1852.793717003981,
+							["damage_taken"] = 0.005796,
 							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -13405,7 +13424,7 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["aID"] = "3661-091E66BD",
-							["damage_taken"] = 0.005796,
+							["last_dps"] = 1852.793717003981,
 							["custom"] = 0,
 							["last_event"] = 1670449435,
 							["avoidance"] = {
@@ -13450,12 +13469,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2324.005655,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 18916.005655,
-							["monster"] = true,
-							["total"] = 2324.005655,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["dps_started"] = false,
+							["total"] = 2324.005655,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Drake",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -13492,16 +13511,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["end_time"] = 1670449442,
-							["last_dps"] = 0,
+							["damage_taken"] = 18916.005655,
 							["last_event"] = 1670449442,
-							["fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1670449434,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -13521,12 +13540,12 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 283.004873,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 25182.004873,
-							["monster"] = true,
-							["total"] = 283.004873,
 							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["dps_started"] = false,
+							["total"] = 283.004873,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["nome"] = "Primal Proto-Whelp",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -13563,16 +13582,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["end_time"] = 1670449436,
-							["last_dps"] = 0,
+							["damage_taken"] = 25182.004873,
 							["last_event"] = 1670449434,
-							["fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1670449433,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [3]
 					},
 				}, -- [1]
@@ -13599,6 +13618,8 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["passiveover"] = 0.002042,
 							["total"] = 5.002042,
+							["spec"] = 104,
+							["nome"] = "Thez",
 							["spells"] = {
 								["_ActorTable"] = {
 									[77758] = {
@@ -13613,13 +13634,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Thez",
-							["spec"] = 104,
 							["grupo"] = true,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.002042,
-							["tipo"] = 3,
 							["last_event"] = 1670449435,
+							["tipo"] = 3,
 							["aID"] = "3661-091E66BD",
 							["isTank"] = true,
 							["serial"] = "Player-3661-091E66BD",
@@ -13665,17 +13684,6 @@ _detalhes_database = {
 							["aID"] = "3661-091E66BD",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[5487] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 4,
-										["id"] = 5487,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[227723] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -13694,6 +13702,17 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 4,
 										["id"] = 397734,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 5487,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -13822,12 +13841,12 @@ _detalhes_database = {
 				},
 				["end_time"] = 504166.972,
 				["combat_id"] = 1010,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Primal Proto-Drake",
 				["frags"] = {
 					["Primal Proto-Drake"] = 1,
 					["Primal Proto-Whelp"] = 2,
-				},
-				["contra"] = "Primal Proto-Drake",
-				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 1206,
 				["data_inicio"] = "13:43:53",
@@ -13843,10 +13862,18 @@ _detalhes_database = {
 		},
 	},
 	["ocd_tracker"] = {
-		["enabled"] = false,
+		["show_title"] = true,
 		["current_cooldowns"] = {
 		},
-		["lines_per_column"] = 12,
+		["filters"] = {
+			["defensive-raid"] = false,
+			["ofensive"] = true,
+			["defensive-target"] = false,
+			["utility"] = false,
+			["defensive-personal"] = false,
+		},
+		["group_frames"] = true,
+		["show_options"] = false,
 		["frames"] = {
 			["defensive-raid"] = {
 			},
@@ -13861,7 +13888,7 @@ _detalhes_database = {
 			["defensive-personal"] = {
 			},
 		},
-		["show_options"] = false,
+		["width"] = 120,
 		["own_frame"] = {
 			["defensive-raid"] = false,
 			["ofensive"] = false,
@@ -13869,26 +13896,20 @@ _detalhes_database = {
 			["utility"] = false,
 			["defensive-personal"] = false,
 		},
-		["filters"] = {
-			["defensive-raid"] = false,
-			["ofensive"] = true,
-			["defensive-target"] = false,
-			["utility"] = false,
-			["defensive-personal"] = false,
-		},
-		["width"] = 120,
+		["lines_per_column"] = 12,
 		["height"] = 18,
 		["cooldowns"] = {
 		},
+		["framme_locked"] = false,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
 		},
-		["framme_locked"] = false,
+		["enabled"] = false,
 		["pos"] = {
 		},
 	},
-	["last_version"] = "10.0.5 10410",
+	["last_version"] = "10.0.5 10562",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -13939,9 +13960,18 @@ _detalhes_database = {
 		["frame"] = {
 		},
 	},
-	["ignore_nicktag"] = false,
-	["data_harvested_for_charts"] = {
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
 	},
+	["last_instance_time"] = 1669846338,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["enabled"] = true,
@@ -14088,11 +14118,11 @@ _detalhes_database = {
 				1, -- [3]
 				0.5, -- [4]
 			},
+			["arrow_anchor_y"] = 0,
 			["main_frame_size"] = {
-				299.9997863769531, -- [1]
+				300.0000610351563, -- [1]
 				500.0000610351563, -- [2]
 			},
-			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 163.6956331208669,
 				["radius"] = 160,
@@ -14100,30 +14130,20 @@ _detalhes_database = {
 			},
 			["main_frame_locked"] = false,
 			["arrow_anchor_x"] = 0,
+			["author"] = "Terciob",
+			["row_texture"] = "Details Serenity",
+			["square_grow_direction"] = "right",
+			["font_size"] = 10,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["row_texture"] = "Details Serenity",
-			["square_grow_direction"] = "right",
-			["per_second"] = {
-				["enabled"] = true,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = -6.103515625e-05,
-				["x"] = -0.00018310546875,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
-				["size"] = 32,
-			},
-			["author"] = "Terciob",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["font_size"] = 10,
+			["use_spark"] = true,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -14133,9 +14153,19 @@ _detalhes_database = {
 			},
 			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = 1.52587890625e-05,
-			["use_spark"] = true,
-			["x"] = -0.00018310546875,
+			["per_second"] = {
+				["enabled"] = true,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 0,
+				["x"] = -0.00030517578125,
+				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+			},
+			["y"] = -1.52587890625e-05,
+			["x"] = -0.00048828125,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
 			["point"] = "CENTER",
@@ -14153,12 +14183,14 @@ _detalhes_database = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["last_day"] = "01",
+	["ignore_nicktag"] = false,
+	["data_harvested_for_charts"] = {
+	},
 	["local_instances_config"] = {
 		{
 			["modo"] = 2,
 			["sub_attribute"] = 1,
-			["horizontalSnap"] = false,
+			["horizontalSnap"] = true,
 			["verticalSnap"] = false,
 			["isLocked"] = true,
 			["is_open"] = true,
@@ -14170,17 +14202,17 @@ _detalhes_database = {
 				1, -- [5]
 			},
 			["snap"] = {
-				[3] = 2,
+				2, -- [1]
 			},
 			["segment"] = 0,
 			["mode"] = 2,
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -529.3333129882812,
-					["x"] = 1128.33349609375,
-					["w"] = 200.0000305175781,
-					["h"] = 177.3334350585938,
+					["y"] = -515.1118087768555,
+					["x"] = 1397.396484375,
+					["w"] = 245.1107788085938,
+					["h"] = 192.6666717529297,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -14193,7 +14225,7 @@ _detalhes_database = {
 		{
 			["modo"] = 2,
 			["sub_attribute"] = 1,
-			["horizontalSnap"] = false,
+			["horizontalSnap"] = true,
 			["verticalSnap"] = false,
 			["isLocked"] = true,
 			["is_open"] = true,
@@ -14205,17 +14237,17 @@ _detalhes_database = {
 				1, -- [5]
 			},
 			["snap"] = {
-				1, -- [1]
+				[3] = 1,
 			},
 			["segment"] = 0,
 			["mode"] = 2,
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -529.3333358764648,
-					["x"] = 1376.222412109375,
-					["w"] = 295.7777404785156,
-					["h"] = 177.3334503173828,
+					["y"] = -515.1118087768555,
+					["x"] = 1151.841064453125,
+					["w"] = 246.00048828125,
+					["h"] = 192.6666717529297,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -14230,29 +14262,18 @@ _detalhes_database = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "",
-		["started"] = false,
-		["segment_id"] = 0,
-		["ej_id"] = 0,
-		["started_at"] = 0,
-		["run_id"] = 0,
-		["level"] = 0,
-		["dungeon_zone_id"] = 0,
-		["previous_boss_killed_at"] = 0,
-	},
 	["force_font_outline"] = "",
 	["character_data"] = {
-		["logons"] = 80,
+		["logons"] = 82,
 	},
 	["combat_id"] = 1024,
 	["savedStyles"] = {
 	},
 	["nick_tag_cache"] = {
-		["nextreset"] = 1675738685,
+		["nextreset"] = 1678468529,
 		["last_version"] = 15,
 	},
-	["combat_counter"] = 1236,
+	["combat_counter"] = 1238,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -14276,6 +14297,21 @@ _detalhes_database = {
 						["Primalist Infiltrator"] = 176574,
 						["Violetwing Stagbeetle"] = 370,
 					},
+					["damage_taken"] = 92570.06029400001,
+					["pets"] = {
+					},
+					["damage_from"] = {
+						["Primal Proto-Drake"] = true,
+						["Primal Proto-Whelp"] = true,
+						["[*] Lava"] = true,
+						["Primal Scythid"] = true,
+						["Primalist Infiltrator"] = true,
+					},
+					["last_dps"] = 0,
+					["aID"] = "3661-091E66BD",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 590862.0602940001,
 					["avoidance"] = {
 						["overall"] = {
 							["DODGE"] = 0,
@@ -14294,22 +14330,7 @@ _detalhes_database = {
 							["FULL_HIT_AMT"] = 0,
 						},
 					},
-					["pets"] = {
-					},
-					["damage_from"] = {
-						["Primal Proto-Drake"] = true,
-						["Primal Proto-Whelp"] = true,
-						["[*] Lava"] = true,
-						["Primal Scythid"] = true,
-						["Primalist Infiltrator"] = true,
-					},
-					["damage_taken"] = 92570.06029400001,
 					["classe"] = "DRUID",
-					["raid_targets"] = {
-					},
-					["total_without_pet"] = 590862.0602940001,
-					["on_hold"] = false,
-					["aID"] = "3661-091E66BD",
 					["dps_started"] = false,
 					["total"] = 590862.0602940001,
 					["serial"] = "Player-3661-091E66BD",
@@ -14620,11 +14641,11 @@ _detalhes_database = {
 					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["start_time"] = 1670449264,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 				}, -- [1]
 				{
 					["flag_original"] = 68168,
@@ -14649,11 +14670,11 @@ _detalhes_database = {
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 116244.063985,
-					["fight_component"] = true,
-					["aID"] = "193806",
 					["monster"] = true,
-					["total"] = 116244.063985,
 					["classe"] = "UNKNOW",
+					["fight_component"] = true,
+					["total"] = 116244.063985,
+					["aID"] = "193806",
 					["dps_started"] = false,
 					["nome"] = "Primal Proto-Drake",
 					["spells"] = {
@@ -14728,14 +14749,14 @@ _detalhes_database = {
 					["end_time"] = 1670449437,
 					["last_dps"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["damage_taken"] = 260086.063985,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 260086.063985,
+					["on_hold"] = false,
 					["start_time"] = 1670449345,
 					["delay"] = 0,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 				}, -- [2]
 				{
 					["flag_original"] = 68168,
@@ -14756,11 +14777,11 @@ _detalhes_database = {
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 9245.031546,
-					["fight_component"] = true,
-					["aID"] = "193876",
 					["monster"] = true,
-					["total"] = 9245.031546,
 					["classe"] = "UNKNOW",
+					["fight_component"] = true,
+					["total"] = 9245.031546,
+					["aID"] = "193876",
 					["dps_started"] = false,
 					["nome"] = "Primal Proto-Whelp",
 					["spells"] = {
@@ -14801,14 +14822,14 @@ _detalhes_database = {
 					["end_time"] = 1670449437,
 					["last_dps"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["damage_taken"] = 168603.031546,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 168603.031546,
+					["on_hold"] = false,
 					["start_time"] = 1670449367,
 					["delay"] = 0,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 				}, -- [3]
 				{
 					["flag_original"] = 2600,
@@ -14823,21 +14844,20 @@ _detalhes_database = {
 						["Thez"] = 3572,
 						["Etain"] = 2245,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4224-2444-339-191104-00001108C2",
 					["pets"] = {
 					},
+					["end_time"] = 1670449446,
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
-					["classe"] = "UNKNOW",
-					["friendlyfire_total"] = 0,
+					["aID"] = "191104",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 10152.036247,
-					["serial"] = "Creature-0-4224-2444-339-191104-00001108C2",
-					["fight_component"] = true,
+					["friendlyfire_total"] = 0,
+					["dps_started"] = false,
 					["total"] = 10152.036247,
-					["end_time"] = 1670449446,
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
+					["last_event"] = 0,
 					["nome"] = "Primal Scythid",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -14905,15 +14925,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["fight_component"] = true,
 					["last_dps"] = 0,
-					["aID"] = "191104",
+					["friendlyfire"] = {
+					},
 					["custom"] = 0,
 					["tipo"] = 1,
 					["damage_taken"] = 51679.036247,
 					["start_time"] = 1670449408,
 					["delay"] = 0,
-					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 				}, -- [4]
 				{
 					["flag_original"] = 2600,
@@ -14923,21 +14944,20 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4224-2444-339-192103-001390F501",
 					["pets"] = {
 					},
+					["end_time"] = 1670449476,
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
-					["classe"] = "UNKNOW",
-					["friendlyfire_total"] = 0,
+					["aID"] = "192103",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.022738,
-					["serial"] = "Creature-0-4224-2444-339-192103-001390F501",
-					["fight_component"] = true,
+					["friendlyfire_total"] = 0,
+					["dps_started"] = false,
 					["total"] = 0.022738,
-					["end_time"] = 1670449476,
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
+					["last_event"] = 0,
 					["nome"] = "Pricklefury Hare",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -14972,15 +14992,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["fight_component"] = true,
 					["last_dps"] = 0,
-					["aID"] = "192103",
+					["friendlyfire"] = {
+					},
 					["custom"] = 0,
 					["tipo"] = 1,
 					["damage_taken"] = 7852.022738,
 					["start_time"] = 1670449473,
 					["delay"] = 0,
-					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 				}, -- [5]
 				{
 					["flag_original"] = 2632,
@@ -14994,16 +15015,16 @@ _detalhes_database = {
 					["serial"] = "",
 					["damage_from"] = {
 					},
-					["friendlyfire_total"] = 0,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 27316.01075,
+					["monster"] = true,
+					["last_dps"] = 0,
 					["dps_started"] = false,
-					["damage_taken"] = 0.01075,
-					["fight_component"] = true,
 					["total"] = 27316.01075,
 					["aID"] = "",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["nome"] = "[*] Lava",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -15037,17 +15058,17 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["fight_component"] = true,
 					["end_time"] = 1670449671,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.01075,
 					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["start_time"] = 1670449665,
 					["delay"] = 0,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 				}, -- [6]
 				{
 					["flag_original"] = 2600,
@@ -15057,36 +15078,36 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["friendlyfire"] = {
-					},
+					["serial"] = "Creature-0-4226-2444-167-199220-00001A9B90",
 					["pets"] = {
 					},
+					["classe"] = "UNKNOW",
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
-					["fight_component"] = true,
-					["friendlyfire_total"] = 0,
+					["aID"] = "199220",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.011909,
-					["serial"] = "Creature-0-4226-2444-167-199220-00001A9B90",
+					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1671076986,
-					["classe"] = "UNKNOW",
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Violetwing Stagbeetle",
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["on_hold"] = false,
 					["total"] = 0.011909,
-					["damage_taken"] = 370.011909,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["on_hold"] = false,
+					["damage_taken"] = 370.011909,
 					["start_time"] = 1671076983,
 					["delay"] = 0,
-					["aID"] = "199220",
+					["friendlyfire_total"] = 0,
 				}, -- [7]
 				{
 					["flag_original"] = 68168,
@@ -15095,9 +15116,10 @@ _detalhes_database = {
 					["targets"] = {
 						["Essap"] = 0,
 						["Zaansai"] = 0,
+						["Vamula"] = 0,
 						["Kaai"] = 0,
 						["Thez"] = 16930,
-						["Vamula"] = 0,
+						["Paku"] = 0,
 					},
 					["pets"] = {
 					},
@@ -15107,16 +15129,17 @@ _detalhes_database = {
 						["Jiiucer"] = true,
 						["Thez"] = true,
 					},
-					["aID"] = "189869",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 16930.03213,
+					["friendlyfire"] = {
+					},
 					["last_dps"] = 0,
-					["damage_taken"] = 200604.03213,
 					["fight_component"] = true,
 					["end_time"] = 1671330959,
 					["friendlyfire_total"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["nome"] = "Primalist Infiltrator",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -15129,9 +15152,10 @@ _detalhes_database = {
 								["targets"] = {
 									["Essap"] = 0,
 									["Zaansai"] = 0,
+									["Vamula"] = 0,
 									["Kaai"] = 0,
 									["Thez"] = 13689,
-									["Vamula"] = 0,
+									["Paku"] = 0,
 								},
 								["n_dmg"] = 13689,
 								["n_min"] = 0,
@@ -15188,17 +15212,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["total"] = 16930.03213,
-					["friendlyfire"] = {
-					},
+					["damage_taken"] = 200604.03213,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1671330901,
 					["serial"] = "Creature-0-3131-2444-868-189869-00001E6C70",
-					["classe"] = "UNKNOW",
+					["aID"] = "189869",
 				}, -- [8]
 			},
 		}, -- [1]
@@ -15235,8 +15258,10 @@ _detalhes_database = {
 					["healing_taken"] = 42659.069816,
 					["fight_component"] = true,
 					["end_time"] = 1670449446,
+					["healing_from"] = {
+						["Thez"] = true,
+					},
 					["heal_enemy_amt"] = 0,
-					["aID"] = "3661-091E66BD",
 					["nome"] = "Thez",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -15260,9 +15285,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
-								["n_amt"] = 154,
 								["n_curado"] = 21421,
 								["totaldenied"] = 0,
+								["n_amt"] = 154,
 								["absorbed"] = 0,
 							},
 							[22842] = {
@@ -15285,9 +15310,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
-								["n_amt"] = 5,
 								["n_curado"] = 21238,
 								["totaldenied"] = 0,
+								["n_amt"] = 5,
 								["absorbed"] = 0,
 							},
 							[227034] = {
@@ -15310,9 +15335,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
-								["n_amt"] = 0,
 								["n_curado"] = 0,
 								["totaldenied"] = 0,
+								["n_amt"] = 0,
 								["absorbed"] = 0,
 							},
 						},
@@ -15322,13 +15347,11 @@ _detalhes_database = {
 					["start_time"] = 1670449286,
 					["spec"] = 104,
 					["custom"] = 0,
-					["tipo"] = 2,
 					["last_event"] = 0,
+					["tipo"] = 2,
 					["totaldenied"] = 0.069816,
 					["delay"] = 0,
-					["healing_from"] = {
-						["Thez"] = true,
-					},
+					["aID"] = "3661-091E66BD",
 				}, -- [1]
 			},
 		}, -- [2]
@@ -15337,7 +15360,7 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["resource"] = 1.077176,
+					["resource"] = 1.219912,
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
 					["targets"] = {
 						["Thez"] = 0,
@@ -15362,15 +15385,6 @@ _detalhes_database = {
 								},
 								["counter"] = 7,
 							},
-							[17057] = {
-								["total"] = 25,
-								["id"] = 17057,
-								["totalover"] = 0,
-								["targets"] = {
-									["Thez"] = 0,
-								},
-								["counter"] = 1,
-							},
 							[77758] = {
 								["total"] = 50,
 								["id"] = 77758,
@@ -15379,15 +15393,6 @@ _detalhes_database = {
 									["Thez"] = 0,
 								},
 								["counter"] = 16,
-							},
-							[195707] = {
-								["total"] = 193.1000000834465,
-								["id"] = 195707,
-								["totalover"] = 0,
-								["targets"] = {
-									["Thez"] = 0,
-								},
-								["counter"] = 89,
 							},
 							[33917] = {
 								["total"] = 192.8999996185303,
@@ -15398,14 +15403,32 @@ _detalhes_database = {
 								},
 								["counter"] = 18,
 							},
+							[195707] = {
+								["total"] = 193.1000000834465,
+								["id"] = 195707,
+								["totalover"] = 0,
+								["targets"] = {
+									["Thez"] = 0,
+								},
+								["counter"] = 89,
+							},
+							[17057] = {
+								["total"] = 25,
+								["id"] = 17057,
+								["totalover"] = 0,
+								["targets"] = {
+									["Thez"] = 0,
+								},
+								["counter"] = 1,
+							},
 						},
 						["tipo"] = 7,
 					},
 					["grupo"] = true,
 					["passiveover"] = 0.004268,
 					["spec"] = 104,
-					["tipo"] = 3,
 					["last_event"] = 0,
+					["tipo"] = 3,
 					["total"] = 494.3634627735024,
 					["isTank"] = true,
 					["serial"] = "Player-3661-091E66BD",
@@ -15470,7 +15493,7 @@ _detalhes_database = {
 					["dispell"] = 0,
 					["last_event"] = 0,
 					["buff_uptime"] = 930,
-					["debuff_uptime_targets"] = {
+					["buff_uptime_targets"] = {
 					},
 					["cc_done_spells"] = {
 						["_ActorTable"] = {
@@ -15713,8 +15736,7 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["cc_done"] = 1.008985,
-					["buff_uptime_targets"] = {
-					},
+					["interrupt"] = 2.010853,
 					["spec"] = 104,
 					["grupo"] = true,
 					["classe"] = "DRUID",
@@ -15724,13 +15746,13 @@ _detalhes_database = {
 						[22842] = 1,
 						[33917] = 18,
 						[192081] = 1,
-						[93985] = 4,
-						[16979] = 1,
 						[383057] = 1,
-						[6807] = 3,
 						[106839] = 4,
-						[8921] = 20,
+						[93985] = 4,
 						[5487] = 1,
+						[16979] = 1,
+						[8921] = 20,
+						[6807] = 3,
 						[213771] = 36,
 					},
 					["dispell_targets"] = {
@@ -15746,7 +15768,8 @@ _detalhes_database = {
 						["Primal Proto-Drake"] = 1,
 					},
 					["serial"] = "Player-3661-091E66BD",
-					["interrupt"] = 2.010853,
+					["debuff_uptime_targets"] = {
+					},
 				}, -- [1]
 				{
 					["monster"] = true,
@@ -15756,14 +15779,14 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["last_event"] = 0,
+					["fight_component"] = true,
 					["aID"] = "193806",
 					["spell_cast"] = {
 						[386991] = 30,
 					},
-					["fight_component"] = true,
-					["serial"] = "Creature-0-4224-2444-339-193806-00001106CC",
 					["tipo"] = 4,
+					["serial"] = "Creature-0-4224-2444-339-193806-00001106CC",
+					["last_event"] = 0,
 				}, -- [2]
 				{
 					["fight_component"] = true,
@@ -15773,14 +15796,14 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["aID"] = "191104",
-					["classe"] = "UNKNOW",
+					["monster"] = true,
 					["last_event"] = 0,
 					["spell_cast"] = {
 						[375919] = 13,
 					},
-					["monster"] = true,
-					["serial"] = "Creature-0-4224-2444-339-191104-00001108C2",
 					["tipo"] = 4,
+					["serial"] = "Creature-0-4224-2444-339-191104-00001108C2",
+					["classe"] = "UNKNOW",
 				}, -- [3]
 				{
 					["monster"] = true,
@@ -15790,14 +15813,14 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["aID"] = "189895",
+					["fight_component"] = true,
 					["tipo"] = 4,
 					["spell_cast"] = {
 						[378143] = 4,
 					},
-					["fight_component"] = true,
-					["serial"] = "Creature-0-3131-2444-868-189895-00001E6E72",
 					["last_event"] = 0,
+					["serial"] = "Creature-0-3131-2444-868-189895-00001E6E72",
+					["aID"] = "189895",
 				}, -- [4]
 			},
 		}, -- [4]
@@ -15996,10 +16019,10 @@ _detalhes_database = {
 		["last_events_tables"] = {
 		},
 	},
-	["last_instance_time"] = 1669846338,
 	["last_encounter"] = "Xavius",
 	["mythic_plus_log"] = {
 	},
+	["last_day"] = "24",
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},
@@ -16014,6 +16037,5 @@ _detalhes_database = {
 	["cached_roles"] = {
 	},
 	["cached_specs"] = {
-		["Player-3661-091E66BD"] = 104,
 	},
 }

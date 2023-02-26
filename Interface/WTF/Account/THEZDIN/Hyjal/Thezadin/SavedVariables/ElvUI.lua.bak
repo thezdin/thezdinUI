@@ -2,8 +2,8 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/elvui", -- [1]
-		"/reloadui", -- [2]
+		"/reloadui", -- [1]
+		"/elvui", -- [2]
 	},
 	["ChatHistoryLog"] = {
 		{

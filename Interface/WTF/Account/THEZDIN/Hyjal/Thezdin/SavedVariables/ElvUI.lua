@@ -2,52 +2,30 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p sorry", -- [1]
-		"/p yep", -- [2]
-		"/g  Corrupted Geyser causes the water in the room to pulse. Every third pulse, it will erupt, dealing large damage to anyone caught in it and knocking them up. This in combination with  Wash Away can easily kill someone if they are caught by both.", -- [3]
-		"/invite Seyka", -- [4]
-		"/p ugh auto summon beat me to getting flasks", -- [5]
-		"/p can you summon me right back?", -- [6]
-		"/p thanks, sorry about that", -- [7]
-		"/p 6-7 max plz", -- [8]
-		"/p phew", -- [9]
-		"/p yes", -- [10]
-		"/p say when", -- [11]
-		"/p lust in 10s", -- [12]
-		"/s stop bombing me", -- [13]
-		"/p sorry about your key :(", -- [14]
-		"/p thanks for the group, cheers!", -- [15]
-		"depends... parents are visiting for the next few days so depends if they are up late or not lol", -- [16]
-		"yeah lots of farming for bonus valor lol", -- [17]
-		"I need about 20 runs lol", -- [18]
-		"ok cool, definitely want to get them in just need to not ditch my parents since they flew in for a few days haha", -- [19]
-		"haha, cool, I'll bug you later because I don't want to downgrade my 18 key lol", -- [20]
+		"/p big daddy pull inc, gonna kite backwards fyi", -- [1]
+		"/p yes we'll make it up up here", -- [2]
+		"/p sorry about the key :(", -- [3]
+		"/p 1min to get some flasks", -- [4]
+		"/elvui", -- [5]
+		"/p wtf", -- [6]
+		"/p fuck this thing", -- [7]
+		"/p BIG PULL?", -- [8]
+		"/p last after or before?", -- [9]
+		"/p gg, thx", -- [10]
+		"/p noob dps holy pally", -- [11]
+		"/p hey there", -- [12]
+		"/p welcome all", -- [13]
+		"/p Anyone have any recommendations for the trash before Mari? If not I'll just pull and LOS on the corner best I can", -- [14]
+		"/p he didn't", -- [15]
+		"/p nope, ffs", -- [16]
+		"/p channah sheep one", -- [17]
+		"/p lol, fucking mage", -- [18]
+		"/p rip", -- [19]
+		"/invite Seyka", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Clear", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			875, -- [11]
-			"Player-3684-0DB5813C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791724,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Cleared", -- [1]
+			"anyone want the pants", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -57,7 +35,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			876, -- [11]
+			3697, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -65,77 +43,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676791724,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1677364972,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [1]
+		{
+			"noob dps holy pally", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3698, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677364975,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [2]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"i hate you", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			878, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			3699, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791724,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1677364921,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [3]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"hello", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			880, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			4119, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791726,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365396,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [4]
 		{
-			"{rt6}5", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			881, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791728,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [5]
-		{
-			"{rt7}5", -- [1]
+			"hey there", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -145,7 +123,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			882, -- [11]
+			4129, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -153,295 +131,207 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791728,
+			[51] = 1677365344,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [5]
+		{
+			"NAKAZZ MOGUNA UL'GAMMATHAR", -- [1]
+			"Lookatdishoe-Tichondrius", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Lookatdishoe-Tichondrius", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			1, -- [10]
+			4144, -- [11]
+			"Player-11-0E34A6BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Lookatdishoe-Tichondrius|r",
+			[51] = 1677365358,
 			[50] = "CHAT_MSG_YELL",
 		}, -- [6]
 		{
-			"{rt7}5", -- [1]
-			"Rictor-Suramar", -- [2]
+			"welcome all", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rictor-Suramar", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			883, -- [11]
-			"Player-113-08025A64", -- [12]
+			4250, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791728,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365500,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [7]
 		{
-			"{rt6}4", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
+			"sorry just running aquick sim on some boots", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			884, -- [11]
-			"Player-3684-0DC2D649", -- [12]
+			4251, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791729,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365531,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [8]
 		{
-			"{rt7}4", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"seeing if its worth getting tier boots or not", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			885, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			4254, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791729,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365542,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [9]
 		{
-			"{rt7}4", -- [1]
-			"Rictor-Suramar", -- [2]
+			"Anyone have any recommendations for the trash before Mari? If not I'll just pull and LOS on the corner best I can", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rictor-Suramar", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			886, -- [11]
-			"Player-113-08025A64", -- [12]
+			4255, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791729,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365570,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [10]
 		{
-			"{rt6}3", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
+			"Interrupted Fallen Waterspeaker's |cff71d5ff|Hspell:397888:0|h[Hydrolance]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			889, -- [11]
-			"Player-3684-0DC2D649", -- [12]
+			4260, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791730,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365653,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [11]
 		{
-			"{rt7}3", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Trøwa cast |cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r -> Thezdin", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			890, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			4261, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791730,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365654,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"{rt7}3", -- [1]
-			"Rictor-Suramar", -- [2]
+			"|cff71d5ff|Hspell:397889:0|h[Tidal Burst]|h|r interrupted!", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rictor-Suramar", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			891, -- [11]
-			"Player-113-08025A64", -- [12]
+			4263, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791730,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365658,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"Clear", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
+			"{rt7}", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
+			"Orímon-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			892, -- [11]
-			"Player-3684-0DC2D649", -- [12]
+			4265, -- [11]
+			"Player-9-0E41749D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791731,
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365672,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
-		{
-			"Clear", -- [1]
-			"Rictor-Suramar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rictor-Suramar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			893, -- [11]
-			"Player-113-08025A64", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791731,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"Clear", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			894, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791731,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"lust in 10s", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			895, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791736,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
-		{
-			"{rt7}", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			899, -- [11]
-			"Player-3684-0DB5813C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791798,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"{rt6}", -- [1]
-			"Rictor-Suramar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rictor-Suramar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			900, -- [11]
-			"Player-113-08025A64", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791798,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
 		{
 			"{rt7}", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -453,7 +343,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			901, -- [11]
+			4266, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -461,31 +351,9 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676791798,
+			[51] = 1677365672,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"{rt6}", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			902, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791798,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [15]
 		{
 			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
@@ -497,7 +365,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			903, -- [11]
+			4269, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -505,7 +373,139 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791798,
+			[51] = 1677365672,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [16]
+		{
+			"{rt6}{rt6}{rt6}", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4270, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365672,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [17]
+		{
+			"{rt6}", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4271, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365672,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [18]
+		{
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4276, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365673,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [19]
+		{
+			"Clear", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orímon-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4278, -- [11]
+			"Player-9-0E41749D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365674,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [20]
+		{
+			"Clear", -- [1]
+			"Channah-AeriePeak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Channah-AeriePeak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4279, -- [11]
+			"Player-1426-07682D8F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebChannah-AeriePeak|r",
+			[51] = 1677365674,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [21]
+		{
+			"Cleared", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orímon-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4280, -- [11]
+			"Player-9-0E41749D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365674,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [22]
 		{
@@ -519,7 +519,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			910, -- [11]
+			4284, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -527,7 +527,7 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791799,
+			[51] = 1677365675,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
@@ -541,7 +541,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			916, -- [11]
+			4286, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -549,7 +549,7 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791741,
+			[51] = 1677365676,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
@@ -563,7 +563,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			922, -- [11]
+			4290, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -571,7 +571,7 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791742,
+			[51] = 1677365678,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
@@ -585,7 +585,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			928, -- [11]
+			4294, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -593,33 +593,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791744,
+			[51] = 1677365679,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			936, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			4295, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791745,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1677365681,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"Clear", -- [1]
+			"Cleared", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -629,7 +629,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			940, -- [11]
+			4296, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -637,515 +637,317 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676791747,
+			[51] = 1677365681,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"Clear", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
+			"Cleared", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			941, -- [11]
-			"Player-3684-0DC2D649", -- [12]
+			4297, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791747,
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365681,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"Cleared", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			942, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			4298, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676791747,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365681,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"{rt7}5", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
+			"Trøwa cast |cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r -> Thezdin", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			943, -- [11]
-			"Player-3684-0DB5813C", -- [12]
+			4299, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791748,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365684,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [31]
 		{
-			"{rt6}5", -- [1]
-			"Rictor-Suramar", -- [2]
+			"Trøwa cast |cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r -> Thezdin", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rictor-Suramar", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			944, -- [11]
-			"Player-113-08025A64", -- [12]
+			4307, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791748,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365715,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [32]
 		{
-			"{rt7}5", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"reset plz", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			945, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			4311, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791748,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365719,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"Clear", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
+			"tank in corner", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			946, -- [11]
-			"Player-3684-0DB5813C", -- [12]
+			4312, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791748,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365734,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [34]
 		{
-			"Clear", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Trøwa cast |cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r -> Thezdin", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			947, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			4313, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791748,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365745,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [35]
 		{
-			"Clear", -- [1]
-			"Rictor-Suramar", -- [2]
+			"{rt6}", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rictor-Suramar", -- [5]
+			"Orímon-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			948, -- [11]
-			"Player-113-08025A64", -- [12]
+			4316, -- [11]
+			"Player-9-0E41749D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791748,
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365818,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
-			"Touch of Nothingness on Seyka", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Channah-AeriePeak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Channah-AeriePeak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			949, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			4317, -- [11]
+			"Player-1426-07682D8F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676791823,
+			[52] = "|cff3fc7ebChannah-AeriePeak|r",
+			[51] = 1677365818,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"Touch of Nothingness on Lavacrash", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			950, -- [11]
-			"Player-3684-0DC2D649", -- [12]
+			4319, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791823,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365818,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"stop bombing me", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}{rt6}{rt6}", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			953, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			4321, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791802,
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365818,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"{rt7}", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
+			"{rt6}", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			955, -- [11]
-			"Player-3684-0DC2D649", -- [12]
+			4322, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791808,
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365818,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
-			"{rt6}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			956, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			4328, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676791808,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365819,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"{rt7}", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
+			"Clear", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
+			"Orímon-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			957, -- [11]
-			"Player-3684-0DB5813C", -- [12]
+			4330, -- [11]
+			"Player-9-0E41749D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791808,
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365760,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
-		{
-			"{rt6}", -- [1]
-			"Rictor-Suramar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rictor-Suramar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			958, -- [11]
-			"Player-113-08025A64", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791808,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			959, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791808,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"Touch of Nothingness on Lavacrash", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			961, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791809,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
-		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			967, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791810,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			973, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791811,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			979, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791813,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			985, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791814,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			993, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791816,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
-		{
-			"Clear", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			997, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791817,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
 		{
 			"Clear", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -1157,7 +959,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			998, -- [11]
+			4331, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1165,9 +967,53 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676791817,
+			[51] = 1677365760,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [43]
+		{
+			"Clear", -- [1]
+			"Channah-AeriePeak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Channah-AeriePeak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4332, -- [11]
+			"Player-1426-07682D8F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebChannah-AeriePeak|r",
+			[51] = 1677365760,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [44]
+		{
+			"Cleared", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orímon-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4333, -- [11]
+			"Player-9-0E41749D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365760,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [45]
 		{
 			"Cleared", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -1179,7 +1025,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			999, -- [11]
+			4334, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1187,385 +1033,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676791817,
+			[51] = 1677365760,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
-		{
-			"{rt7}5", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1000, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791818,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [54]
-		{
-			"{rt6}5", -- [1]
-			"Rictor-Suramar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rictor-Suramar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1001, -- [11]
-			"Player-113-08025A64", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791818,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [55]
-		{
-			"{rt7}5", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1002, -- [11]
-			"Player-3684-0DB5813C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791818,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [56]
-		{
-			"{rt7}4", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1003, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791819,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [57]
-		{
-			"{rt6}4", -- [1]
-			"Rictor-Suramar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rictor-Suramar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1004, -- [11]
-			"Player-113-08025A64", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791819,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [58]
-		{
-			"{rt7}4", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1005, -- [11]
-			"Player-3684-0DB5813C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791819,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [59]
-		{
-			"{rt7}3", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1009, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791820,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [60]
-		{
-			"{rt7}3", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1011, -- [11]
-			"Player-3684-0DB5813C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791820,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [61]
-		{
-			"{rt6}3", -- [1]
-			"Rictor-Suramar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rictor-Suramar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1012, -- [11]
-			"Player-113-08025A64", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791820,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [62]
-		{
-			"{rt7}2", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1014, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791821,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [63]
-		{
-			"{rt7}2", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1016, -- [11]
-			"Player-3684-0DB5813C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791821,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [64]
-		{
-			"{rt6}2", -- [1]
-			"Rictor-Suramar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rictor-Suramar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1017, -- [11]
-			"Player-113-08025A64", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791821,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [65]
+		}, -- [46]
 		{
 			"Clear", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1018, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791882,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
-		{
-			"Clear", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1019, -- [11]
-			"Player-3684-0DB5813C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791882,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
-		{
-			"Clear", -- [1]
-			"Rictor-Suramar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rictor-Suramar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1020, -- [11]
-			"Player-113-08025A64", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Rictor-Suramar|r",
-			[51] = 1676791882,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:200:15:9:7:3:132|h[Keystone: Halls of Valor (15)]|h|r", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1029, -- [11]
-			"Player-3684-0DB5813C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791871,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
-		{
-			"ty", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1030, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791875,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [70]
-		{
-			"sorry about your key :( ", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1575,7 +1047,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1036, -- [11]
+			4335, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1583,11 +1055,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676791942,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
+			[51] = 1677365760,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [47]
 		{
-			"so sorry about that last death i was tapped for mana", -- [1]
+			"Cleared", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4336, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365760,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [48]
+		{
+			"Trøwa cast |cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r -> Thezdin", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4337, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365779,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [49]
+		{
+			"Trøwa cast |cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r -> Thezdin", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4338, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365809,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [50]
+		{
+			"{rt6}", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1597,7 +1135,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1037, -- [11]
+			4341, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1605,99 +1143,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676791947,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+			[51] = 1677365828,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [51]
 		{
-			"all good dude", -- [1]
-			"Veauxdeaux-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Veauxdeaux-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1038, -- [11]
-			"Player-3684-0DB5813C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aVeauxdeaux-Mal'Ganis|r",
-			[51] = 1676791949,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
-		{
-			"all g", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1040, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791952,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
-		{
-			"<Resetting all instances>", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1042, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791977,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [75]
-		{
-			"Temple of the Jade Serpent has been reset, but there are still players inside the old instance.", -- [1]
-			"Lavacrash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lavacrash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1043, -- [11]
-			"Player-3684-0DC2D649", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddLavacrash-Mal'Ganis|r",
-			[51] = 1676791978,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
-		{
-			"thanks for the group, cheers!", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1707,7 +1157,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1049, -- [11]
+			4343, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1715,77 +1165,583 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676792004,
+			[51] = 1677365828,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [52]
+		{
+			"{rt7}", -- [1]
+			"Channah-AeriePeak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Channah-AeriePeak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4345, -- [11]
+			"Player-1426-07682D8F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebChannah-AeriePeak|r",
+			[51] = 1677365828,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [53]
+		{
+			"{rt7}{rt7}{rt7}", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4346, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365828,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [54]
+		{
+			"{rt7}", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4347, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365828,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [55]
+		{
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4349, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365829,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [56]
+		{
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4361, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365831,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [57]
+		{
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4368, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365832,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [58]
+		{
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4375, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365834,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [59]
+		{
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4380, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365835,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [60]
+		{
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4383, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1677365835,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [61]
+		{
+			"Clear", -- [1]
+			"Channah-AeriePeak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Channah-AeriePeak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4384, -- [11]
+			"Player-1426-07682D8F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebChannah-AeriePeak|r",
+			[51] = 1677365835,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [62]
+		{
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4385, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1677365835,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [63]
+		{
+			"{rt6}5", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orímon-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4388, -- [11]
+			"Player-9-0E41749D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365838,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [64]
+		{
+			"{rt7}5", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4389, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365838,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [65]
+		{
+			"{rt6}4", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orímon-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4393, -- [11]
+			"Player-9-0E41749D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365839,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [66]
+		{
+			"{rt7}4", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4394, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365839,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [67]
+		{
+			"{rt7}3", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4397, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365840,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [68]
+		{
+			"Trøwa cast |cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r -> Thezdin", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4400, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365840,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [69]
+		{
+			"Clear", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orímon-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4401, -- [11]
+			"Player-9-0E41749D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365840,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [70]
+		{
+			"Cleared", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orímon-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4402, -- [11]
+			"Player-9-0E41749D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365840,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [71]
+		{
+			"Cleared", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4403, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365840,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [72]
+		{
+			"{rt7}2", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4404, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365841,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [73]
+		{
+			"Clear", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4405, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365841,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [74]
+		{
+			"|cff71d5ff|Hspell:397888:0|h[Hydrolance]|h|r interrupted!", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4406, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365862,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [75]
+		{
+			"Trøwa cast |cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r -> Thezdin", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4408, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365870,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [76]
+		{
+			"big heals heere", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4411, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365889,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [77]
 		{
-			"dad?", -- [1]
-			"Jezusluvme-Hyjal", -- [2]
-			"Common", -- [3]
+			"Trøwa cast |cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r -> Thezdin", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Jezusluvme-Hyjal", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1131, -- [11]
-			"Player-3661-0928AFD2", -- [12]
+			0, -- [10]
+			4415, -- [11]
+			"Player-3684-0A437A14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fJezusluvme|r",
-			[51] = 1676792204,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365901,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [78]
 		{
-			"dad?", -- [1]
-			"Bobert-Hyjal", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Bobert-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			1136, -- [11]
-			"Player-3661-09268721", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBobert|r",
-			[51] = 1676792207,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
-		{
-			"so tinyyyy", -- [1]
-			"Nexulos-Hyjal", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Nexulos-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			1205, -- [11]
-			"Player-3661-08CF096B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNexulos|r",
-			[51] = 1676792227,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16522:Player-3661-090EB9B6:1:2:19:23:4294967295:4294967295:4294967295:4294967295|h[A True Explorer]|h|r!", -- [1]
+			"Interrupted Fallen Waterspeaker's |cff71d5ff|Hspell:397889:0|h[Tidal Burst]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1795,7 +1751,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			36, -- [11]
+			4416, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1803,404 +1759,448 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1676844820,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1677365904,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [79]
+		{
+			"i didnt see u sheep", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4421, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365912,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [80]
+		{
+			"are u all in discord or something?", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4422, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365918,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [81]
 		{
-			"|cffffffff|Hitem:191851::::::::70:65:::::::::|h[Dull Draconium Weapon Head]|h|r", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"he didn't", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			41, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			4423, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676844811,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365919,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [82]
 		{
-			"|cffffffff|Hitem:191850::::::::70:65:::::::::|h[Broken Serevite Blade Tip]|h|r", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}5", -- [1]
+			"Channah-AeriePeak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Channah-AeriePeak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			42, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			4425, -- [11]
+			"Player-1426-07682D8F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1676844816,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc7ebChannah-AeriePeak|r",
+			[51] = 1677365923,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [83]
 		{
-			"you down for M+ later tonight?", -- [1]
-			"|Kq4|k", -- [2]
+			"{rt7}4", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Orímon-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			165, -- [11]
-			false, -- [12]
-			16, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846092,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [84]
-		{
-			"depends... parents are visiting for the next few days so depends if they are up late or not lol", -- [1]
-			"|Kq4|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			170, -- [11]
-			false, -- [12]
-			16, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846064,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [85]
-		{
-			"kk", -- [1]
-			"|Kq4|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			171, -- [11]
-			false, -- [12]
-			16, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846069,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [86]
-		{
-			"did some random +2s myself, it's crazy how quick it fills lol", -- [1]
-			"|Kq4|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			176, -- [11]
-			false, -- [12]
-			16, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846212,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [87]
-		{
-			"yeah lots of farming for bonus valor lol", -- [1]
-			"|Kq4|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			177, -- [11]
-			false, -- [12]
-			16, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846168,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [88]
-		{
-			"I got really lucky getting back right now haha", -- [1]
-			"|Kq4|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			178, -- [11]
-			false, -- [12]
-			16, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846184,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [89]
-		{
-			"I need about 20 runs lol", -- [1]
-			"|Kq4|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			179, -- [11]
-			false, -- [12]
-			16, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846267,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [90]
-		{
-			"jesus lol", -- [1]
-			"|Kq4|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			181, -- [11]
-			false, -- [12]
-			16, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846223,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [91]
-		{
-			"well my DK basically only has 2s finished for the most part so I can downgrade my keys if you need valor farm", -- [1]
-			"|Kq4|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			182, -- [11]
-			false, -- [12]
-			16, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846246,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [92]
-		{
-			"and I even have my warrior too if you need them", -- [1]
-			"|Kq4|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			194, -- [11]
-			false, -- [12]
-			16, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846322,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [93]
-		{
-			"ok cool, definitely want to get them in just need to not ditch my parents since they flew in for a few days haha", -- [1]
-			"|Kq4|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			208, -- [11]
-			false, -- [12]
-			16, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846285,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [94]
-		{
-			"LF JC to recraft |cffa335ee|Hitem:193001::192987:192945:192945::::70:253::13:8:8836:8840:8902:8960:8784:8782:8802:8791:6:28:2164:29:49:30:40:38:8:40:260:48:194578::::Player-3661-07D67FF9:|h[Elemental Lariat |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r", -- [1]
-			"Rajino-Hyjal", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Rajino-Hyjal", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			232, -- [11]
-			"Player-3661-093154F6", -- [12]
+			4426, -- [11]
+			"Player-9-0E41749D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Rajino|r",
-			[51] = 1676846390,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365924,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [84]
+		{
+			"{rt7}4", -- [1]
+			"Channah-AeriePeak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Channah-AeriePeak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4427, -- [11]
+			"Player-1426-07682D8F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebChannah-AeriePeak|r",
+			[51] = 1677365924,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [85]
+		{
+			"{rt7}3", -- [1]
+			"Channah-AeriePeak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Channah-AeriePeak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4428, -- [11]
+			"Player-1426-07682D8F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebChannah-AeriePeak|r",
+			[51] = 1677365925,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [86]
+		{
+			"{rt7}2", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orímon-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4429, -- [11]
+			"Player-9-0E41749D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365926,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [87]
+		{
+			"nope, ffs", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4430, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365926,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [88]
+		{
+			"{rt7}2", -- [1]
+			"Channah-AeriePeak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Channah-AeriePeak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4431, -- [11]
+			"Player-1426-07682D8F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebChannah-AeriePeak|r",
+			[51] = 1677365926,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [89]
+		{
+			"{rt7}1", -- [1]
+			"Orímon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orímon-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4432, -- [11]
+			"Player-9-0E41749D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fOrímon-Kil'jaeden|r",
+			[51] = 1677365927,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [90]
+		{
+			"{rt7}1", -- [1]
+			"Channah-AeriePeak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Channah-AeriePeak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4433, -- [11]
+			"Player-1426-07682D8F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebChannah-AeriePeak|r",
+			[51] = 1677365927,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [91]
+		{
+			"Clear", -- [1]
+			"Channah-AeriePeak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Channah-AeriePeak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4434, -- [11]
+			"Player-1426-07682D8F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebChannah-AeriePeak|r",
+			[51] = 1677365928,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [92]
+		{
+			"Trøwa cast |cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r -> Thezdin", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4438, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365951,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [93]
+		{
+			"channah sheep one", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4439, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365951,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [94]
+		{
+			"|cff71d5ff|Hspell:397889:0|h[Tidal Burst]|h|r interrupted!", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trøwa-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4440, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365953,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [95]
 		{
-			"np np, I dida  bunch today so I need a break xd", -- [1]
-			"|Kq4|k", -- [2]
+			"|cff71d5ff|Hspell:397888:0|h[Hydrolance]|h|r interrupted!", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			236, -- [11]
-			false, -- [12]
-			16, -- [13]
+			4444, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846396,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677365969,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [96]
 		{
-			"haha, cool, I'll bug you later because I don't want to downgrade my 18 key lol", -- [1]
-			"|Kq4|k", -- [2]
+			"lol, fucking mage", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			243, -- [11]
-			false, -- [12]
-			16, -- [13]
+			4445, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846351,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365974,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [97]
 		{
-			"sounds good", -- [1]
-			"|Kq4|k", -- [2]
+			"rip", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			264, -- [11]
-			false, -- [12]
-			16, -- [13]
+			4446, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846401,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1677365978,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [98]
 		{
-			"oh yeah don't downgrade your key XD", -- [1]
-			"|Kq4|k", -- [2]
+			"what a wastte", -- [1]
+			"Trøwa-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Trøwa-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			265, -- [11]
-			false, -- [12]
-			16, -- [13]
+			4450, -- [11]
+			"Player-3684-0A437A14", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aEtherlight|r",
-			[51] = 1676846410,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cfffff468Trøwa-Mal'Ganis|r",
+			[51] = 1677366055,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [99]
 	},
 }

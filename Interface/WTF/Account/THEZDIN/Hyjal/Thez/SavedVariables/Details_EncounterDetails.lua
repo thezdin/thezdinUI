@@ -570,13 +570,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vault Keeper",
 		},
-		[382071] = {
+		[368990] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sentinel Talondras",
+			["source"] = "Emberon",
 		},
 		[202680] = {
 			["school"] = 1,
@@ -707,15 +709,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Serpentrix",
 		},
-		[368990] = {
+		[382071] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Emberon",
+			["source"] = "Sentinel Talondras",
 		},
 		[369026] = {
 			["school"] = 1,

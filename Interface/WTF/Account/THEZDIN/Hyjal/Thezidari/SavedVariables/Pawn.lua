@@ -15,15 +15,15 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:143907::::::::68:581:::1:8171:2:28:181:9:68:::::|h[Shard of Pirouetting Happiness]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 194354,
-			["Level"] = 282,
-			["Link"] = "|cffa335ee|Hitem:194354::::::::63:581::26:2:8774:8775:2:28:2523:9:63:::::|h[Field Scout's Spaulders]|h|r",
+			["ID"] = 197653,
+			["Level"] = 316,
+			["Link"] = "|cff1eff00|Hitem:197653::::::::69:581::26:1:7963:2:28:2523:9:69:::::|h[Teerai Watcher Spaulders]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 193390,
-			["Level"] = 316,
-			["Link"] = "|cff0070dd|Hitem:193390::::::::61:581::13:4:8837:8838:4785:8802:5:28:2164:29:49:30:40:38:8:40:336:::::|h[Pioneer's Leather Tunic |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["ID"] = 193680,
+			["Level"] = 336,
+			["Link"] = "|cff0070dd|Hitem:193680::::::::69:581::17:4:7978:7975:6652:8816:2:28:2155:9:69:::::|h[Tunic of the Eternal Hunt]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 197892,
@@ -63,16 +63,16 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:197668::::::::68:581::26:1:7963:2:9:66:28:2523:::::|h[Roscha's Band of Remembrance]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 200536,
-			["Level"] = 306,
+			["ID"] = 197846,
+			["Level"] = 316,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff0070dd|Hitem:200536::::::::68:581::17:2:9156:6652:2:28:2424:9:68:::::|h[Tamed Eagle]|h|r",
+			["Link"] = "|cff1eff00|Hitem:197846::::::::69:581::26:1:7963:2:28:2523:9:69:::::|h[Ohn'ahra's Carving]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 200536,
-			["Level"] = 306,
+			["ID"] = 197846,
+			["Level"] = 316,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:200536::::::::68:581::17:2:9156:6652:2:9:68:28:2424:::::|h[Tamed Eagle]|h|r",
+			["Link"] = "|cff1eff00|Hitem:197846::::::::69:581::26:1:7963:2:9:69:28:2523:::::|h[Ohn'ahra's Carving]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 200278,
@@ -80,16 +80,16 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:200278::::::::67:581::26:1:7963:2:28:2523:9:67:::::|h[Drake Archaeologist's Shawl]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 197679,
-			["Level"] = 316,
+			["ID"] = 190508,
+			["Level"] = 392,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff0070dd|Hitem:197679::::::::67:581::27:1:8778:2:28:2537:9:67:::::|h[Rockfang Uppercut]|h|r",
+			["Link"] = "|cffa335ee|Hitem:190508::::::::70:581::13:5:8836:8840:8902:8802:8792:6:28:2164:29:32:30:40:38:8:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 197679,
-			["Level"] = 316,
+			["ID"] = 190508,
+			["Level"] = 389,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff0070dd|Hitem:197679::::::::68:581::27:1:8778:2:28:2537:9:67:::::|h[Rockfang Uppercut]|h|r",
+			["Link"] = "|cffa335ee|Hitem:190508::::::::70:581::13:5:8836:8840:8902:8801:8792:6:28:2164:29:49:30:40:38:7:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,

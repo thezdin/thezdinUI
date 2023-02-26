@@ -16,26 +16,10 @@ oRA3DB = {
 		["Cooldowns"] = {
 			["global"] = {
 				["spellsOnCooldown"] = {
-					[198067] = {
-						["Player-3684-0DC2D649"] = 245784.395,
-					},
-					[102543] = {
-						["Player-3684-0DB5813C"] = 245826.7,
-					},
-					[108281] = {
-						["Player-3684-0DC2D649"] = 245757.985,
-					},
-					[108271] = {
-						["Player-3684-0DC2D649"] = 245744.901,
-					},
-					[871] = {
-						["Player-3661-090EB9B6"] = 245883.843,
-					},
-					[20608] = {
-						["Player-3684-0DC2D649"] = 246779.783,
-					},
 				},
-				["lastTime"] = 457432.815,
+				["lastTime"] = 820689.674,
+				["chargeSpellsOnCooldown"] = {
+				},
 			},
 			["profiles"] = {
 				["Default"] = {
@@ -107,8 +91,8 @@ oRA3DB = {
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 387.4442138671875,
 					["Width"] = 244.5556030273438,
-					["PosY"] = 622.1992923021025,
-					["PosX"] = 20.35901951627011,
+					["PosY"] = 583.311937241233,
+					["PosX"] = 19.08658065345207,
 				},
 			},
 			["lastSelectedPanel"] = "Cooldowns",

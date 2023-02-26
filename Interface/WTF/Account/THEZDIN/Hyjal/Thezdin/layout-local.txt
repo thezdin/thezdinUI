@@ -44,7 +44,7 @@ H: 150
 Frame: AchievementTracker
 FrameLevel: 1
 Anchor: CENTER
-X: -436
-Y: 34
+X: -431
+Y: -6
 W: 900
 H: 500
