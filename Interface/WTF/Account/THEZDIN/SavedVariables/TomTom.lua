@@ -11,13 +11,14 @@ TomTomDB = {
 		["Thezfu - Turalyon"] = "Default",
 		["Thezman - Hyjal"] = "Default",
 		["Thezbot - Azgalor"] = "Default",
-		["Thezdiran - Hyjal"] = "Default",
-		["Thezadin - Hyjal"] = "Default",
-		["Thezbear - Turalyon"] = "Default",
-		["Sigurdsson - Hyjal"] = "Default",
-		["Thezadin - Mannoroth"] = "Default",
-		["Úlfheðnar - Hyjal"] = "Default",
 		["Thezdemon - Hyjal"] = "Default",
+		["Thezadin - Hyjal"] = "Default",
+		["Sigurdsson - Hyjal"] = "Default",
+		["Thezbear - Turalyon"] = "Default",
+		["Thezadin - Mannoroth"] = "Default",
+		["Thezdiran - Hyjal"] = "Default",
+		["Úlfheðnar - Hyjal"] = "Default",
+		["Jägare - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -58,13 +59,14 @@ TomTomWaypointsM = {
 		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
 		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
-		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
-		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
-		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
-		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
-		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
-		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
 		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
+		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
+		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
+		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
+		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
+		["Jägare - Hyjal"] = "Jägare - Hyjal",
 	},
 	["profiles"] = {
 		["Thezdinson - Hyjal"] = {
@@ -86,18 +88,6 @@ TomTomWaypointsM = {
 		["Thezman - Hyjal"] = {
 		},
 		["Thezbot - Azgalor"] = {
-		},
-		["Thezdiran - Hyjal"] = {
-		},
-		["Thezadin - Hyjal"] = {
-		},
-		["Thezbear - Turalyon"] = {
-		},
-		["Sigurdsson - Hyjal"] = {
-		},
-		["Thezadin - Mannoroth"] = {
-		},
-		["Úlfheðnar - Hyjal"] = {
 		},
 		["Thezdemon - Hyjal"] = {
 			[1970] = {
@@ -401,6 +391,20 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
+		},
+		["Thezadin - Hyjal"] = {
+		},
+		["Sigurdsson - Hyjal"] = {
+		},
+		["Thezbear - Turalyon"] = {
+		},
+		["Thezadin - Mannoroth"] = {
+		},
+		["Thezdiran - Hyjal"] = {
+		},
+		["Úlfheðnar - Hyjal"] = {
+		},
+		["Jägare - Hyjal"] = {
 		},
 	},
 }

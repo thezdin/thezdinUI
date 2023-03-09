@@ -3,29 +3,35 @@ HandyNotes_DragonGlyphsDB = {
 	["profileKeys"] = {
 		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
-		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
+		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
 		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
-		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
+		["Jägare - Hyjal"] = "Jägare - Hyjal",
 	},
 	["profiles"] = {
 		["Úlfhédnar - Hyjal"] = {
 		},
 		["Thezkin - Hyjal"] = {
 		},
-		["Thezidari - Hyjal"] = {
-		},
 		["Thezadin - Hyjal"] = {
+		},
+		["Thez - Hyjal"] = {
+		},
+		["Thezknight - Hyjal"] = {
+		},
+		["Thezidari - Hyjal"] = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
 		["Thezdivh - Hyjal"] = {
 		},
-		["Thezknight - Hyjal"] = {
+		["Foulfellow - Hyjal"] = {
 		},
-		["Thez - Hyjal"] = {
+		["Jägare - Hyjal"] = {
 		},
 	},
 }

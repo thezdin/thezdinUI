@@ -1,10 +1,13 @@
 
 Details_StreamerDB = {
 	["characters"] = {
-		["Thezadin - Hyjal"] = "Thezidari - Hyjal",
-		["Thezdivh - Hyjal"] = "Thezidari - Hyjal",
+		["Úlfhédnar - Hyjal"] = "Thezidari - Hyjal",
+		["Foulfellow - Hyjal"] = "Thezidari - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thezadin - Hyjal"] = "Thezidari - Hyjal",
+		["Jägare - Hyjal"] = "Thezidari - Hyjal",
 		["Thez - Hyjal"] = "Thezidari - Hyjal",
+		["Thezdivh - Hyjal"] = "Thezidari - Hyjal",
 	},
 	["profiles"] = {
 		["Thezidari - Hyjal"] = {
@@ -63,13 +66,13 @@ Details_StreamerDB = {
 				["scale"] = 1,
 				["font_shadow"] = true,
 				["y"] = 0,
-				["x"] = -0.00030517578125,
+				["x"] = -0.00042724609375,
 				["size"] = 32,
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
 			["use_spark"] = true,
-			["x"] = -0.00048828125,
+			["x"] = -0.000732421875,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
 			["y"] = -1.52587890625e-05,

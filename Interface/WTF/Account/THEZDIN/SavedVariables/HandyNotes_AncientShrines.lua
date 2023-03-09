@@ -10,6 +10,8 @@ HandyNotes_AncientShrinesDB = {
 		["Thezfu - Hyjal"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
 		["Thezdivh - Hyjal"] = "Default",
+		["Foulfellow - Hyjal"] = "Default",
+		["Jägare - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

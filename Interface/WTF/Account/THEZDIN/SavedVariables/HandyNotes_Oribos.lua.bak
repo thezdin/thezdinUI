@@ -5,6 +5,7 @@ HandyNotes_OribosDB = {
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Jägare - Hyjal"] = "Jägare - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
@@ -21,6 +22,8 @@ HandyNotes_OribosDB = {
 		["Thezadin - Hyjal"] = {
 		},
 		["Sigurdsson - Hyjal"] = {
+		},
+		["Jägare - Hyjal"] = {
 		},
 		["Thezknight - Hyjal"] = {
 		},

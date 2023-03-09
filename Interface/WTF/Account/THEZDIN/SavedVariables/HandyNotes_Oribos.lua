@@ -5,13 +5,14 @@ HandyNotes_OribosDB = {
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
-		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
+		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Jägare - Hyjal"] = "Jägare - Hyjal",
 	},
 	["profiles"] = {
 		["Úlfhédnar - Hyjal"] = {
@@ -22,6 +23,8 @@ HandyNotes_OribosDB = {
 		},
 		["Sigurdsson - Hyjal"] = {
 		},
+		["Thezdivh - Hyjal"] = {
+		},
 		["Thezknight - Hyjal"] = {
 		},
 		["Thezidari - Hyjal"] = {
@@ -30,11 +33,11 @@ HandyNotes_OribosDB = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
-		["Thez - Hyjal"] = {
-		},
 		["Thezkin - Hyjal"] = {
 		},
-		["Thezdivh - Hyjal"] = {
+		["Thez - Hyjal"] = {
+		},
+		["Jägare - Hyjal"] = {
 		},
 	},
 }
