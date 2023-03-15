@@ -4,15 +4,18 @@ TomTomDB = {
 		["Thezdinson - Hyjal"] = "Default",
 		["Thez - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
+		["Thezfu - Hyjal"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
 		["Thezdivh - Hyjal"] = "Default",
 		["Úlfhédnar - Hyjal"] = "Default",
 		["Thezkin - Hyjal"] = "Default",
 		["Thezfu - Turalyon"] = "Default",
 		["Thezman - Hyjal"] = "Default",
+		["Foulfellow - Hyjal"] = "Default",
 		["Thezbot - Azgalor"] = "Default",
 		["Thezdemon - Hyjal"] = "Default",
 		["Thezadin - Hyjal"] = "Default",
+		["Thezdgar - Hyjal"] = "Default",
 		["Sigurdsson - Hyjal"] = "Default",
 		["Thezbear - Turalyon"] = "Default",
 		["Thezadin - Mannoroth"] = "Default",
@@ -52,15 +55,18 @@ TomTomWaypointsM = {
 		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
 		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
 		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
+		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
 		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
@@ -75,6 +81,8 @@ TomTomWaypointsM = {
 		},
 		["Thezidari - Hyjal"] = {
 		},
+		["Thezfu - Hyjal"] = {
+		},
 		["Thezdin - Hyjal"] = {
 		},
 		["Thezdivh - Hyjal"] = {
@@ -86,6 +94,8 @@ TomTomWaypointsM = {
 		["Thezfu - Turalyon"] = {
 		},
 		["Thezman - Hyjal"] = {
+		},
+		["Foulfellow - Hyjal"] = {
 		},
 		["Thezbot - Azgalor"] = {
 		},
@@ -393,6 +403,8 @@ TomTomWaypointsM = {
 			},
 		},
 		["Thezadin - Hyjal"] = {
+		},
+		["Thezdgar - Hyjal"] = {
 		},
 		["Sigurdsson - Hyjal"] = {
 		},

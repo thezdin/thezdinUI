@@ -7,6 +7,7 @@ HandyNotes_BattleForAzerothTreasuresDB = {
 		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
 		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
@@ -27,6 +28,8 @@ HandyNotes_BattleForAzerothTreasuresDB = {
 		["Thez - Hyjal"] = {
 		},
 		["Sigurdsson - Hyjal"] = {
+		},
+		["Thezdgar - Hyjal"] = {
 		},
 		["Thezknight - Hyjal"] = {
 		},

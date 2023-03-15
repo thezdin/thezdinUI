@@ -3,16 +3,9 @@ Frame: PlayerPowerBarAlt
 FrameLevel: 2
 Anchor: TOP
 X: 0
-Y: -47
+Y: -186
 W: 10
 H: 10
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: CENTER
-X: -5
-Y: -209
-W: 128
-H: 64
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER

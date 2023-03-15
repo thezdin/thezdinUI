@@ -2,74 +2,74 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p not going down", -- [1]
-		"/p wipe it", -- [2]
-		"/p guys", -- [3]
-		"/cw Blitsorc-Tichondrius hunter keeps tab pulling shit :/", -- [4]
-		"/p we can handle 1 add, just don't aggro shit to our left", -- [5]
-		"/p imps", -- [6]
-		"/cw Blitsorc-Tichondrius holy shit this guy", -- [7]
-		"/p imps first", -- [8]
-		"/p i got first interrupt", -- [9]
-		"/p why", -- [10]
-		"/p hunter please just follow me", -- [11]
-		"/p gdit", -- [12]
-		"/p ready?", -- [13]
-		"/cw Blitsorc-Tichondrius bet you a beer he dies", -- [14]
-		"/cw Blitsorc-Tichondrius BEER!", -- [15]
-		"/cw Blitsorc-Tichondrius 2 beers", -- [16]
-		"/p sorry about your key :/", -- [17]
-		"/p that hunter was a mashed potato", -- [18]
-		"/p sorry guys, thanks for the group", -- [19]
-		"/p you need gloves?", -- [20]
+		"/p clockwise for germinate, follow me :)", -- [1]
+		"/p may need to move a lot for tornado, sorry in advance", -- [2]
+		"/p save lust for the 2nd wave of adds please", -- [3]
+		"/p that might help catchup", -- [4]
+		"/p k, that's it for me", -- [5]
+		"/wa", -- [6]
+		"/invite Seyka", -- [7]
+		"/p we wanna do the skip route or can you all stack n move for frogs :)", -- [8]
+		"/p we can skip but gonna need shiv and mass dispel like mofo", -- [9]
+		"/p Shaliwe you know the spots to lust?", -- [10]
+		"/p first pull, pull after first boss, azureblade, last boss", -- [11]
+		"/p depending on time, 2nd lust may be off, I'll call it then", -- [12]
+		"/p wipe it", -- [13]
+		"/p oh snap can they do it", -- [14]
+		"/p missed 3 crystals", -- [15]
+		"/p on Tyrannical that's rape", -- [16]
+		"/p let me always go middle", -- [17]
+		"/p you all go outside", -- [18]
+		"/p makes it so I don't bomb Moo :(", -- [19]
+		"/elvui", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"{rt7}", -- [1]
-			"Geozze-Tichondrius", -- [2]
+			"ah gotcha", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1951, -- [11]
-			"Player-11-0E4C1381", -- [12]
+			893, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345088,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852310,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [1]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"thought we hit all", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1956, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			894, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345089,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852313,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [2]
 		{
-			"Clear", -- [1]
+			"let me always go middle", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -79,7 +79,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1959, -- [11]
+			895, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -87,77 +87,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345090,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1678852327,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [3]
 		{
-			"Clear", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1960, -- [11]
-			"Player-11-0E0EC746", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345090,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"Clear", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1963, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345092,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"Clear", -- [1]
-			"Geozze-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1964, -- [11]
-			"Player-11-0E4C1381", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345092,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			">> SHOCKWAVE ON ME <<", -- [1]
+			"you all go outside", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -167,7 +101,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1966, -- [11]
+			896, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -175,33 +109,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345104,
+			[51] = 1678852330,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [4]
+		{
+			"makes it so I don't bomb Moo :(", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			898, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852335,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [5]
+		{
+			"ill go far side of him now", -- [1]
+			"Moowhere-BurningLegion", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Moowhere-BurningLegion", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			899, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852337,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [6]
+		{
+			"{rt6}", -- [1]
+			"Moowhere-BurningLegion", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Moowhere-BurningLegion", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			901, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852350,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			">> SHOCKWAVE ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1967, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			902, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345112,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1678852350,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			">> SHOCKWAVE ON ME <<", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -211,7 +211,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1969, -- [11]
+			903, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -219,11 +219,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345181,
+			[51] = 1678852350,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			">> SHOCKWAVE ON ME <<", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -233,7 +233,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1970, -- [11]
+			908, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -241,11 +241,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345189,
+			[51] = 1678852351,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			">> SHOCKWAVE ON ME <<", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -255,7 +255,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1972, -- [11]
+			912, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -263,11 +263,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345198,
+			[51] = 1678852353,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			">> SHOCKWAVE ON ME <<", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -277,7 +277,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1973, -- [11]
+			916, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -285,165 +285,165 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345146,
+			[51] = 1678852354,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			">> SHOCKWAVE ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}8", -- [1]
+			"Moowhere-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1974, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			918, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345155,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852357,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [13]
 		{
-			">> SHOCKWAVE ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}8", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1976, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			919, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345163,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852357,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [14]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}8", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1977, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			920, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345166,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1678852357,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [15]
 		{
-			"{rt7}", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
+			"{rt7}8", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1978, -- [11]
-			"Player-11-0E0EC746", -- [12]
+			921, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345167,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852357,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [16]
 		{
-			"{rt7}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt6}7", -- [1]
+			"Moowhere-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1979, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			923, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345167,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852358,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [17]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}7", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1983, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			924, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345168,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1678852358,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [18]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}7", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1984, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			925, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345170,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852358,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [19]
 		{
-			"{rt7}", -- [1]
+			"{rt7}7", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -453,7 +453,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1987, -- [11]
+			926, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -461,33 +461,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345171,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1678852358,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [20]
 		{
-			"Clear", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
+			"{rt6}6", -- [1]
+			"Moowhere-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1990, -- [11]
-			"Player-11-0E0EC746", -- [12]
+			927, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345172,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852359,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [21]
 		{
-			"Clear", -- [1]
+			"{rt7}6", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -497,7 +497,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1991, -- [11]
+			928, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -505,10 +505,142 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345172,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1678852359,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [22]
 		{
+			"{rt7}6", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			930, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1678852359,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [23]
+		{
+			"{rt6}5", -- [1]
+			"Moowhere-BurningLegion", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Moowhere-BurningLegion", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			931, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852360,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [24]
+		{
+			"{rt7}5", -- [1]
+			"Shaliwe-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shaliwe-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			932, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852360,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [25]
+		{
+			"{rt7}5", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			933, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1678852360,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [26]
+		{
+			"{rt7}5", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			934, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852360,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [27]
+		{
+			"Clear", -- [1]
+			"Glìde-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Glìde-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			936, -- [11]
+			"Player-57-0D56CB9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852360,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [28]
+		{
 			"Clear", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
@@ -519,7 +651,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1992, -- [11]
+			937, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -527,253 +659,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345172,
+			[51] = 1678852361,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			">> SHOCKWAVE ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1993, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345172,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			">> SHOCKWAVE ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1994, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345240,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			">> SHOCKWAVE ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1995, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345249,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			">> SHOCKWAVE ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1996, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345257,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"ready?", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1997, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345227,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
-		{
-			"Interrupted Talixae Flamewreath's |cff71d5ff|Hspell:208165:0|h[Withering Soul]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2000, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345313,
-			[50] = "CHAT_MSG_PARTY",
 		}, -- [29]
 		{
-			"Interrupted Talixae Flamewreath's |cff71d5ff|Hspell:208165:0|h[Withering Soul]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}4", -- [1]
+			"Shaliwe-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Shaliwe-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2001, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			938, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345267,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852361,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [30]
 		{
-			"{rt6}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}4", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2004, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			939, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345277,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852361,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [31]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}4", -- [1]
+			"Moowhere-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2005, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			940, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345277,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852361,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [32]
 		{
-			"{rt7}", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
+			"{rt7}3", -- [1]
+			"Shaliwe-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
+			"Shaliwe-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2006, -- [11]
-			"Player-11-0E0EC746", -- [12]
+			941, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345277,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852362,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [33]
 		{
-			"{rt6}", -- [1]
-			"Geozze-Tichondrius", -- [2]
+			"{rt6}3", -- [1]
+			"Moowhere-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2007, -- [11]
-			"Player-11-0E4C1381", -- [12]
+			942, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345277,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852362,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [34]
 		{
-			"{rt7}", -- [1]
+			"{rt7}3", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -783,7 +783,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2011, -- [11]
+			943, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -791,77 +791,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345278,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1678852362,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [35]
 		{
 			"Clear", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Moowhere-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2013, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			944, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345279,
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852363,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
 			"Clear", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
+			"Shaliwe-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
+			"Shaliwe-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2014, -- [11]
-			"Player-11-0E0EC746", -- [12]
+			945, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345279,
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852363,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
 			"Clear", -- [1]
-			"Geozze-Tichondrius", -- [2]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2016, -- [11]
-			"Player-11-0E4C1381", -- [12]
+			946, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345279,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852363,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"{rt7}", -- [1]
+			">> SHOCKWAVE ON ME <<", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -871,7 +871,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2017, -- [11]
+			947, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -879,33 +879,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345280,
+			[51] = 1678852367,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"Clear", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt5}Explosive Brand 5", -- [1]
+			"Moowhere-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2018, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			949, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345280,
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852379,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
-			"Interrupted Talixae Flamewreath's |cff71d5ff|Hspell:208165:0|h[Withering Soul]|h|r!", -- [1]
+			"{rt2}Explosive Brand 2", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -915,7 +915,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2019, -- [11]
+			950, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -923,11 +923,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345283,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1678852379,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"Interrupted Talixae Flamewreath's |cff71d5ff|Hspell:208165:0|h[Withering Soul]|h|r!", -- [1]
+			"{rt2}3", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -937,7 +937,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2021, -- [11]
+			954, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -945,99 +945,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345360,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1678852322,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
 		{
-			"[LittleWigs] Light Vest", -- [1]
-			"Geozze-Tichondrius", -- [2]
+			"{rt2}2", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2025, -- [11]
-			"Player-11-0E4C1381", -- [12]
+			955, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345326,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852323,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"[LittleWigs] Female", -- [1]
-			"Geozze-Tichondrius", -- [2]
+			"{rt3}1", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2026, -- [11]
-			"Player-11-0E4C1381", -- [12]
+			956, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345341,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852384,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [44]
 		{
-			"DBM: I found the spy", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt2}1", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2028, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			957, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345421,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852384,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"{rt6}", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
+			"Ty Glìde (*)", -- [1]
+			"Shaliwe-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
+			"Shaliwe-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2033, -- [11]
-			"Player-11-0E0EC746", -- [12]
+			959, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345446,
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852398,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"{rt7}", -- [1]
+			">> SHOCKWAVE ON ME <<", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1047,7 +1047,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2034, -- [11]
+			961, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1055,31 +1055,97 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345446,
+			[51] = 1678852416,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
 			"{rt7}", -- [1]
-			"Geozze-Tichondrius", -- [2]
+			"Moowhere-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2035, -- [11]
-			"Player-11-0E4C1381", -- [12]
+			962, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345446,
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852420,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
+		{
+			"{rt7}", -- [1]
+			"Glìde-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Glìde-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			963, -- [11]
+			"Player-57-0D56CB9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852420,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [49]
+		{
+			"{rt7} 14 {rt7}", -- [1]
+			"Glìde-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Glìde-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			964, -- [11]
+			"Player-57-0D56CB9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852420,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [50]
+		{
+			"{rt6}", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			965, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1678852420,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [51]
 		{
 			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
@@ -1091,7 +1157,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2039, -- [11]
+			966, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1099,33 +1165,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345447,
+			[51] = 1678852420,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [52]
 		{
-			"Clear", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2042, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345449,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
-		{
-			"Clear", -- [1]
+			"{rt7}", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1135,7 +1179,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2043, -- [11]
+			973, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1143,95 +1187,51 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345449,
+			[51] = 1678852422,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
-		{
-			"{rt6}8", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2049, -- [11]
-			"Player-11-0E0EC746", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345453,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [52]
-		{
-			"{rt7}8", -- [1]
-			"Geozze-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2050, -- [11]
-			"Player-11-0E4C1381", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345453,
-			[50] = "CHAT_MSG_YELL",
 		}, -- [53]
 		{
-			"Clear", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
+			"{rt7} 12 {rt7}", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2051, -- [11]
-			"Player-11-0E0EC746", -- [12]
+			974, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345453,
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852422,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"Clear", -- [1]
-			"Geozze-Tichondrius", -- [2]
+			"{rt7} 11 {rt7}", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2052, -- [11]
-			"Player-11-0E4C1381", -- [12]
+			977, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345453,
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852423,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
@@ -1245,7 +1245,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2056, -- [11]
+			980, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1253,51 +1253,51 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345516,
+			[51] = 1678852423,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"{rt6}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7} 10 {rt7}", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2057, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			981, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345516,
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852424,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Shaliwe-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Shaliwe-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2059, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			982, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345517,
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852425,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [58]
 		{
@@ -1311,7 +1311,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2061, -- [11]
+			987, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1319,165 +1319,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345519,
+			[51] = 1678852425,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"Clear", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7} 9 {rt7}", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2063, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			988, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345520,
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852425,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
 			"Clear", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Moowhere-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2064, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			989, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345520,
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852425,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"bet you a beer he dies", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			2067, -- [11]
-			"Player-11-0E0EC746", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345536,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [62]
-		{
-			"hahahaha", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2068, -- [11]
-			"Player-11-0E0EC746", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345606,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [63]
-		{
-			"BEER!", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			2079, -- [11]
-			"Player-11-0E0EC746", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345663,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [64]
-		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2083, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345679,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
-		{
-			"{rt6}", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2084, -- [11]
-			"Player-11-0E0EC746", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345679,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
-		{
-			"{rt6}", -- [1]
+			"Clear", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1487,7 +1377,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2085, -- [11]
+			990, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1495,33 +1385,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345679,
+			[51] = 1678852425,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [62]
 		{
-			"{rt7}", -- [1]
-			"Geozze-Tichondrius", -- [2]
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2086, -- [11]
-			"Player-11-0E4C1381", -- [12]
+			991, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345679,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1678852425,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [63]
 		{
-			"{rt7}", -- [1]
+			"{rt7} 8 {rt7}", -- [1]
+			"Glìde-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Glìde-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			993, -- [11]
+			"Player-57-0D56CB9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852426,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [64]
+		{
+			"{rt7}8", -- [1]
+			"Glìde-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Glìde-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			994, -- [11]
+			"Player-57-0D56CB9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852427,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [65]
+		{
+			"{rt7}8", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1531,7 +1465,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2090, -- [11]
+			995, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1539,11 +1473,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345620,
+			[51] = 1678852427,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [66]
+		{
+			"{rt7}7", -- [1]
+			"Glìde-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Glìde-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			997, -- [11]
+			"Player-57-0D56CB9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852428,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [67]
+		{
+			"{rt7}7", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			998, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852428,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [68]
+		{
+			"{rt3}Explosive Brand 3", -- [1]
+			"Moowhere-BurningLegion", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Moowhere-BurningLegion", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			999, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852429,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
 		{
-			"{rt7}", -- [1]
+			"{rt4}Explosive Brand 4", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1553,7 +1553,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2095, -- [11]
+			1005, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1561,55 +1561,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345622,
+			[51] = 1678852429,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"Clear", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
+			"{rt7}6", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2097, -- [11]
-			"Player-11-0E0EC746", -- [12]
+			1007, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345623,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852429,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [71]
 		{
-			"Clear", -- [1]
-			"Geozze-Tichondrius", -- [2]
+			"{rt6}5", -- [1]
+			"Shaliwe-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
+			"Shaliwe-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2098, -- [11]
-			"Player-11-0E4C1381", -- [12]
+			1009, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345623,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852430,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [72]
 		{
-			"{rt7}", -- [1]
+			"{rt7}5", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1619,7 +1619,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2101, -- [11]
+			1010, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1627,99 +1627,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345623,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1678852430,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [73]
 		{
-			"Clear", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt6}4", -- [1]
+			"Shaliwe-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Shaliwe-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2103, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			1011, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345626,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852431,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [74]
 		{
-			"Clear", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}4", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2104, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1012, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345626,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852431,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [75]
 		{
-			"2 beers", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
-			"Common", -- [3]
+			"{rt7}4", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			2109, -- [11]
-			"Player-11-0E0EC746", -- [12]
+			0, -- [10]
+			1013, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345720,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852431,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [76]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:2:18:10:8:3:132|h[Keystone: Temple of the Jade Serpent (18)]|h|r", -- [1]
-			"Geozze-Tichondrius", -- [2]
+			"{rt3}3", -- [1]
+			"Moowhere-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Geozze-Tichondrius", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2116, -- [11]
-			"Player-11-0E4C1381", -- [12]
+			1014, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGeozze-Tichondrius|r",
-			[51] = 1678345688,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852432,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"sorry about your key :/", -- [1]
+			"{rt4}3", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1729,7 +1729,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2123, -- [11]
+			1015, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1737,33 +1737,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345699,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1678852432,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"that hunter was a mashed potato", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt6}3", -- [1]
+			"Shaliwe-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Shaliwe-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2125, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1016, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345711,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852432,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [79]
 		{
-			"sorry guys, thanks for the group", -- [1]
+			"{rt7}3", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1773,7 +1773,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2126, -- [11]
+			1017, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1781,11 +1781,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345777,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1678852432,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [80]
 		{
-			"you need gloves?", -- [1]
+			"{rt3}2", -- [1]
+			"Moowhere-BurningLegion", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Moowhere-BurningLegion", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1018, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852433,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [81]
+		{
+			"{rt5}2", -- [1]
+			"Glìde-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Glìde-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1019, -- [11]
+			"Player-57-0D56CB9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852433,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [82]
+		{
+			"{rt4}2", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1795,7 +1839,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2127, -- [11]
+			1020, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1803,404 +1847,360 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1678345791,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
-		{
-			"bro was dookie", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2128, -- [11]
-			"Player-11-0E0EC746", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345792,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
-		{
-			"he uh", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2129, -- [11]
-			"Player-11-0E0EC746", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345794,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1678852433,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"only pressed multi shot", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
+			"{rt6}2", -- [1]
+			"Shaliwe-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
+			"Shaliwe-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2131, -- [11]
-			"Player-11-0E0EC746", -- [12]
+			1021, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345741,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852433,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [84]
 		{
-			"lmfao", -- [1]
-			"Blitsorc-Tichondrius", -- [2]
+			"{rt7}2", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Blitsorc-Tichondrius", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2132, -- [11]
-			"Player-11-0E0EC746", -- [12]
+			1022, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aBlitsorc-Tichondrius|r",
-			[51] = 1678345743,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852433,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [85]
 		{
-			"thanks for the group", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}2", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2133, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			1023, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345758,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852433,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [86]
 		{
-			"wait what", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt3}1", -- [1]
+			"Moowhere-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2134, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			1024, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345847,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852433,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"i thought you were kidding", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt5}1", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2139, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			1025, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345848,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852433,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [88]
 		{
-			"THOK URUK KA KAZ", -- [1]
-			"Sweatytotems-Tichondrius", -- [2]
-			"Orcish", -- [3]
+			"{rt4}1", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sweatytotems-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2143, -- [11]
-			"Player-11-0E1A0DEF", -- [12]
+			0, -- [10]
+			1026, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddSweatytotems-Tichondrius|r",
-			[51] = 1678345914,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852433,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [89]
 		{
-			"maka ", -- [1]
-			"Sweatytotems-Tichondrius", -- [2]
-			"Orcish", -- [3]
+			"{rt6}1", -- [1]
+			"Shaliwe-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sweatytotems-Tichondrius", -- [5]
+			"Shaliwe-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2154, -- [11]
-			"Player-11-0E1A0DEF", -- [12]
+			0, -- [10]
+			1027, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddSweatytotems-Tichondrius|r",
-			[51] = 1678345870,
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852434,
 			[50] = "CHAT_MSG_YELL",
 		}, -- [90]
 		{
-			"gezzno dogg mu raznos zil'nok", -- [1]
-			"Fiercelement-Tichondrius", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fiercelement-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2155, -- [11]
-			"Player-11-0E491C90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddFiercelement-Tichondrius|r",
-			[51] = 1678345890,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [91]
-		{
-			"ruk'ka'ha l tar nogu osh'kava mog ag g gezzno", -- [1]
-			"Sweatytotems-Tichondrius", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sweatytotems-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2156, -- [11]
-			"Player-11-0E1A0DEF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddSweatytotems-Tichondrius|r",
-			[51] = 1678345971,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [92]
-		{
-			"ruk'ka'ha", -- [1]
-			"Sweatytotems-Tichondrius", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sweatytotems-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2157, -- [11]
-			"Player-11-0E1A0DEF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddSweatytotems-Tichondrius|r",
-			[51] = 1678345973,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [93]
-		{
-			"l thok thok ruk l zaga ro'th kagg", -- [1]
-			"Fiercelement-Tichondrius", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fiercelement-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2161, -- [11]
-			"Player-11-0E491C90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddFiercelement-Tichondrius|r",
-			[51] = 1678345931,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [94]
-		{
-			"|cff0070dd|Hitem:200217::::::::70:65::25:3:1472:5864:8766:1:28:2602:::::|h[Blazing Essence]|h|r", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}1", -- [1]
+			"Glìde-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2171, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			1028, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678345940,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852434,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [91]
+		{
+			"{rt7}1", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1029, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852434,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [92]
+		{
+			"Clear", -- [1]
+			"Glìde-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Glìde-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1031, -- [11]
+			"Player-57-0D56CB9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852435,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [93]
+		{
+			"Clear", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1032, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1678852435,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [94]
+		{
+			"rip", -- [1]
+			"Glìde-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Glìde-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1038, -- [11]
+			"Player-57-0D56CB9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852381,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [95]
 		{
-			"ka thok kil ka ka kagg moguna ka ruk", -- [1]
-			"Sweatytotems-Tichondrius", -- [2]
-			"Orcish", -- [3]
+			"welp ggs", -- [1]
+			"Glìde-Illidan", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sweatytotems-Tichondrius", -- [5]
+			"Glìde-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2173, -- [11]
-			"Player-11-0E1A0DEF", -- [12]
+			0, -- [10]
+			1039, -- [11]
+			"Player-57-0D56CB9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddSweatytotems-Tichondrius|r",
-			[51] = 1678345942,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffffffffGlìde-Illidan|r",
+			[51] = 1678852446,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [96]
 		{
-			"THOK", -- [1]
-			"Turboprime-Tichondrius", -- [2]
-			"Orcish", -- [3]
+			"sorry guys", -- [1]
+			"Moowhere-BurningLegion", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Turboprime-Tichondrius", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2180, -- [11]
-			"Player-11-0AD857E2", -- [12]
+			0, -- [10]
+			1041, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffTurboprime-Tichondrius|r",
-			[51] = 1678345948,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852454,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [97]
 		{
-			"thok nuk throm'ka mog il", -- [1]
-			"Fiercelement-Tichondrius", -- [2]
-			"Orcish", -- [3]
+			"i fucked up early", -- [1]
+			"Moowhere-BurningLegion", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Fiercelement-Tichondrius", -- [5]
+			"Moowhere-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2184, -- [11]
-			"Player-11-0E491C90", -- [12]
+			0, -- [10]
+			1042, -- [11]
+			"Player-1129-0A5EC21E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddFiercelement-Tichondrius|r",
-			[51] = 1678345951,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfffff468Moowhere-BurningLegion|r",
+			[51] = 1678852457,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [98]
 		{
-			"tf yall screamin for man", -- [1]
-			"Antoninez-Tichondrius", -- [2]
-			"Common", -- [3]
+			"sorry for ur key", -- [1]
+			"Shaliwe-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Antoninez-Tichondrius", -- [5]
+			"Shaliwe-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			2195, -- [11]
-			"Player-11-0E46907C", -- [12]
+			0, -- [10]
+			1048, -- [11]
+			"Player-3676-0DFFF33D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Antoninez-Tichondrius|r",
-			[51] = 1678346021,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cff3fc7ebShaliwe-Area52|r",
+			[51] = 1678852475,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [99]
 	},
 }

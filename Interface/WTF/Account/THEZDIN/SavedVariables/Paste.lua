@@ -6,15 +6,16 @@ PasteDB = {
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
+		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
 		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
-		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
-		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
-		["Thezman - Hyjal"] = "Thezman - Hyjal",
+		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
 		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
+		["Thezman - Hyjal"] = "Thezman - Hyjal",
 		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
+		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
 		["Thezzlybear - Hyjal"] = "Thezzlybear - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
@@ -58,22 +59,19 @@ PasteDB = {
 				["width"] = 1371.111206054688,
 			},
 		},
+		["Foulfellow - Hyjal"] = {
+			["loaded"] = true,
+		},
 		["Thezdivh - Hyjal"] = {
 			["loaded"] = true,
 		},
 		["Úlfhédnar - Hyjal"] = {
 			["loaded"] = true,
 		},
-		["Foulfellow - Hyjal"] = {
-			["loaded"] = true,
-		},
-		["Thezdiran - Hyjal"] = {
-			["loaded"] = true,
-		},
 		["Thezkin - Hyjal"] = {
 			["loaded"] = true,
 		},
-		["Thezman - Hyjal"] = {
+		["Thezdiran - Hyjal"] = {
 			["loaded"] = true,
 		},
 		["Thezdemon - Hyjal"] = {
@@ -83,10 +81,16 @@ PasteDB = {
 			["pos"] = {
 			},
 		},
+		["Thezman - Hyjal"] = {
+			["loaded"] = true,
+		},
 		["Thezdinson - Hyjal"] = {
 			["loaded"] = true,
 		},
 		["Thezadin - Mannoroth"] = {
+			["loaded"] = true,
+		},
+		["Thezdgar - Hyjal"] = {
 			["loaded"] = true,
 		},
 		["Thezzlybear - Hyjal"] = {

@@ -5,14 +5,15 @@ HandyNotes_MistsOfPandariaTreasuresDB = {
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Jägare - Hyjal"] = "Jägare - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
-		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
+		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
 	},
 	["profiles"] = {
@@ -24,9 +25,11 @@ HandyNotes_MistsOfPandariaTreasuresDB = {
 		},
 		["Jägare - Hyjal"] = {
 		},
-		["Thez - Hyjal"] = {
-		},
 		["Thezadin - Hyjal"] = {
+		},
+		["Sigurdsson - Hyjal"] = {
+		},
+		["Thezkin - Hyjal"] = {
 		},
 		["Thezknight - Hyjal"] = {
 		},
@@ -36,9 +39,9 @@ HandyNotes_MistsOfPandariaTreasuresDB = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
-		["Thezkin - Hyjal"] = {
+		["Thezdgar - Hyjal"] = {
 		},
-		["Sigurdsson - Hyjal"] = {
+		["Thez - Hyjal"] = {
 		},
 		["Thezdivh - Hyjal"] = {
 		},

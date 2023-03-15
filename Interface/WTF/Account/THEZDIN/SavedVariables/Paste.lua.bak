@@ -6,19 +6,20 @@ PasteDB = {
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
 		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezdiran - Hyjal"] = "Thezdiran - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
-		["Thezman - Hyjal"] = "Thezman - Hyjal",
 		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
+		["Thezman - Hyjal"] = "Thezman - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
 		["Thezzlybear - Hyjal"] = "Thezzlybear - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
-		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
+		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
 		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
 		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
 		["Úlfheðnar - Hyjal"] = "Úlfheðnar - Hyjal",
@@ -58,6 +59,9 @@ PasteDB = {
 				["width"] = 1371.111206054688,
 			},
 		},
+		["Thezkin - Hyjal"] = {
+			["loaded"] = true,
+		},
 		["Thezdivh - Hyjal"] = {
 			["loaded"] = true,
 		},
@@ -70,12 +74,6 @@ PasteDB = {
 		["Thezdiran - Hyjal"] = {
 			["loaded"] = true,
 		},
-		["Thezkin - Hyjal"] = {
-			["loaded"] = true,
-		},
-		["Thezman - Hyjal"] = {
-			["loaded"] = true,
-		},
 		["Thezdemon - Hyjal"] = {
 			["loaded"] = true,
 			["whispertarget"] = "",
@@ -83,10 +81,16 @@ PasteDB = {
 			["pos"] = {
 			},
 		},
+		["Thezman - Hyjal"] = {
+			["loaded"] = true,
+		},
 		["Sigurdsson - Hyjal"] = {
 			["loaded"] = true,
 		},
 		["Thezbot - Azgalor"] = {
+			["loaded"] = true,
+		},
+		["Thezbear - Turalyon"] = {
 			["loaded"] = true,
 		},
 		["Thezzlybear - Hyjal"] = {
@@ -101,7 +105,7 @@ PasteDB = {
 		["Thezfu - Turalyon"] = {
 			["loaded"] = true,
 		},
-		["Thezbear - Turalyon"] = {
+		["Thezdgar - Hyjal"] = {
 			["loaded"] = true,
 		},
 		["Thezadin - Mannoroth"] = {

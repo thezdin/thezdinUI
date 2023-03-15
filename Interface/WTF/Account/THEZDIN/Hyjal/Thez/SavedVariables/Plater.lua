@@ -21,6 +21,5 @@ PlaterDBChr = {
 	["debuffsBanned"] = {
 	},
 	["minimap"] = {
-		["minimapPos"] = 191.08268545502,
 	},
 }

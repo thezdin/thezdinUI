@@ -1,96 +1,126 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0716,
-	["LastPlayerFullName"] = "Thezidari-Hyjal",
-	["AutoSelectScales"] = true,
+	["LastVersion"] = 2.0717,
 	["ItemLevels"] = {
 		{
-			["ID"] = 197648,
-			["Level"] = 292,
-			["Link"] = "|cff1eff00|Hitem:197648::::::::67:581::25:1:8768:2:28:2437:9:67:::::|h[Teerai Watcher Hood]|h|r",
+			["ID"] = 188441,
+			["Level"] = 359,
+			["Link"] = "|cff0070dd|Hitem:188441::::::::70:581::22:3:8171:7756:6652:2:9:70:28:181:::::|h[Battlemap Hide Helm]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 143907,
-			["Level"] = 326,
-			["Link"] = "|cff0070dd|Hitem:143907::::::::68:581:::1:8171:2:28:181:9:68:::::|h[Shard of Pirouetting Happiness]|h|r",
+			["ID"] = 192998,
+			["Level"] = 343,
+			["Link"] = "|cff1eff00|Hitem:192998::::::::70:581::13:7:8839:8840:5247:8983:8783:8780:8802:4:28:2164:29:49:38:8:40:257:::::|h[Crimson Combatant's Jeweled Amulet |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 197653,
-			["Level"] = 316,
-			["Link"] = "|cff1eff00|Hitem:197653::::::::69:581::26:1:7963:2:28:2523:9:69:::::|h[Teerai Watcher Spaulders]|h|r",
+			["ID"] = 201942,
+			["Level"] = 343,
+			["Link"] = "|cff0070dd|Hitem:201942::::::::70:581::13:3:8851:8852:8802:5:28:2164:29:36:30:32:38:8:40:849:::::|h[Pioneer's Practiced Shoulderpads |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 193680,
-			["Level"] = 336,
-			["Link"] = "|cff0070dd|Hitem:193680::::::::69:581::17:4:7978:7975:6652:8816:2:28:2155:9:69:::::|h[Tunic of the Eternal Hunt]|h|r",
+			["ID"] = 193399,
+			["Level"] = 386,
+			["Link"] = "|cffa335ee|Hitem:193399::::::::70:581::13:5:8836:8840:8902:8800:8792:6:28:2164:29:32:30:49:38:6:40:294:47:194569:::::|h[Life-Bound Chestpiece |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 197892,
-			["Level"] = 306,
-			["Link"] = "|cff1eff00|Hitem:197892::::::::68:581::26:1:7963:2:28:2523:9:68:::::|h[Embroidered Broadhoof Waistband]|h|r",
+			["ID"] = 201945,
+			["Level"] = 343,
+			["Link"] = "|cff0070dd|Hitem:201945::::::::70:581::13:4:8851:8852:7937:8802:5:28:2164:29:32:30:49:38:8:40:844:::::|h[Pioneer's Practiced Belt |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 197652,
-			["Level"] = 302,
-			["Link"] = "|cff1eff00|Hitem:197652::::::::68:581::25:1:8768:2:9:68:28:2437:::::|h[Teerai Watcher Breeches]|h|r",
+			["ID"] = 201944,
+			["Level"] = 343,
+			["Link"] = "|cff0070dd|Hitem:201944::::::::70:581::13:3:8851:8852:8802:5:28:2164:29:32:30:40:38:8:40:848:::::|h[Pioneer's Practiced Leggings |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 200460,
 			["Level"] = 376,
-			["Link"] = "|cffa335ee|Hitem:200460::::::::69:581::25:1:1472:1:28:2078:::::|h[Ohn'ahran Plainswalker Moccasins]|h|r",
+			["Link"] = "|cffa335ee|Hitem:200460::::::::70:581::25:1:1472:1:28:2078:::::|h[Ohn'ahran Plainswalker Moccasins]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 193388,
-			["Level"] = 316,
-			["Link"] = "|cff0070dd|Hitem:193388::::::::61:581::13:5:8837:8838:4785:7936:8802:5:28:2164:29:36:30:40:38:8:40:334:::::|h[Pioneer's Leather Wristguards |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["ID"] = 193714,
+			["Level"] = 376,
+			["Link"] = "|cffa335ee|Hitem:193714::::::::70:581::33:9:8961:7977:6652:7936:8822:8819:9144:1598:8767:1:28:1279:::::|h[Frenzyroot Cuffs]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 197642,
-			["Level"] = 306,
-			["Link"] = "|cff1eff00|Hitem:197642::::::::69:581::26:1:7963:2:9:68:28:2523:::::|h[Teerai Watcher Gloves]|h|r",
+			["ID"] = 188418,
+			["Level"] = 359,
+			["Link"] = "|cff0070dd|Hitem:188418::::::::70:581::22:3:8171:7756:6652:2:9:70:28:181:::::|h[Grotto Mist Gloves]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 197668,
-			["Level"] = 286,
+			["ID"] = 193708,
+			["Level"] = 346,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff1eff00|Hitem:197668::::::::67:581::26:1:7963:2:9:66:28:2523:::::|h[Roscha's Band of Remembrance]|h|r",
+			["Link"] = "|cff0070dd|Hitem:193708::::::::70:581::17:4:7978:7975:6652:7936:2:9:70:28:2474:::::|h[Platinum Star Band]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 197668,
-			["Level"] = 286,
+			["ID"] = 192997,
+			["Level"] = 343,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff1eff00|Hitem:197668::::::::68:581::26:1:7963:2:9:66:28:2523:::::|h[Roscha's Band of Remembrance]|h|r",
+			["Link"] = "|cff1eff00|Hitem:192997::::::::70:577::13:6:8839:8840:5247:8983:8780:8802:4:28:2164:29:32:38:8:40:256:::::|h[Crimson Combatant's Jeweled Signet |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 197846,
-			["Level"] = 316,
+			["ID"] = 198529,
+			["Level"] = 350,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff1eff00|Hitem:197846::::::::69:581::26:1:7963:2:28:2523:9:69:::::|h[Ohn'ahra's Carving]|h|r",
+			["Link"] = "|cff0070dd|Hitem:198529::::::::70:581::29:3:6652:1424:8766:1:28:2437:::::|h[Wayfarer's Iron Torch]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 197846,
-			["Level"] = 316,
+			["ID"] = 198529,
+			["Level"] = 350,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:197846::::::::69:581::26:1:7963:2:9:69:28:2523:::::|h[Ohn'ahra's Carving]|h|r",
+			["Link"] = "|cff0070dd|Hitem:198529::::::::70:577::29:3:6652:1424:8766:1:28:2437:::::|h[Wayfarer's Iron Torch]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 200278,
-			["Level"] = 296,
-			["Link"] = "|cff1eff00|Hitem:200278::::::::67:581::26:1:7963:2:28:2523:9:67:::::|h[Drake Archaeologist's Shawl]|h|r",
+			["ID"] = 195482,
+			["Level"] = 389,
+			["Link"] = "|cffa335ee|Hitem:195482::::::::70:581::3:6:6652:8821:8819:7979:1472:8767:1:28:2474:::::|h[Decorated Commander's Cindercloak]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 190508,
 			["Level"] = 392,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:190508::::::::70:581::13:5:8836:8840:8902:8802:8792:6:28:2164:29:32:30:40:38:8:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["Link"] = "|cffa335ee|Hitem:190508:6647:::::::70:581::13:5:8836:8840:8902:8802:8792:6:28:2164:29:32:30:40:38:8:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 190508,
 			["Level"] = 389,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cffa335ee|Hitem:190508::::::::70:581::13:5:8836:8840:8902:8801:8792:6:28:2164:29:49:30:40:38:7:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r",
+			["Link"] = "|cffa335ee|Hitem:190508:6647:::::::70:581::13:5:8836:8840:8902:8801:8792:6:28:2164:29:49:30:40:38:7:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r",
 		}, -- [17]
+	},
+	["AutoSelectScales"] = true,
+	["LastPlayerFullName"] = "Thezidari-Hyjal",
+	["Artifacts"] = {
+		[127829] = {
+			["Relics"] = {
+				{
+					["Type"] = "Fel",
+				}, -- [1]
+				{
+					["Type"] = "Shadow",
+				}, -- [2]
+				{
+					["Type"] = "Fel",
+				}, -- [3]
+			},
+			["Name"] = "Twinblades of the Deceiver",
+		},
+		[128832] = {
+			["Relics"] = {
+				{
+					["Type"] = "Iron",
+				}, -- [1]
+				{
+					["Type"] = "Arcane",
+				}, -- [2]
+				{
+					["Type"] = "Fel",
+				}, -- [3]
+			},
+			["Name"] = "The Aldrachi Warblades",
+		},
 	},
 	["LastKeybindingsSet"] = 1,
 }

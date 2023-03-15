@@ -1,10 +1,10 @@
 
 PlaterDBChr = {
 	["spellRangeCheckRangeFriendly"] = {
-		[73] = 50,
-		[71] = 50,
-		[72] = 50,
-		[1444] = 50,
+		[73] = 20,
+		[71] = 20,
+		[72] = 20,
+		[1444] = 20,
 	},
 	["buffsBanned"] = {
 	},
@@ -12,10 +12,10 @@ PlaterDBChr = {
 		["Player-3661-090EB9B6"] = true,
 	},
 	["spellRangeCheckRangeEnemy"] = {
-		[73] = 20,
-		[71] = 20,
-		[72] = 20,
-		[1444] = 20,
+		[73] = 15,
+		[71] = 15,
+		[72] = 15,
+		[1444] = 15,
 	},
 	["resources_on_target"] = false,
 	["debuffsBanned"] = {

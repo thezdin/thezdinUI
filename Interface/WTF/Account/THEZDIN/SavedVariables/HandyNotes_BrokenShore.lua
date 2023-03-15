@@ -4,8 +4,9 @@ HandyNotes_BrokenShoreDB = {
 		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
-		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
+		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
@@ -21,9 +22,11 @@ HandyNotes_BrokenShoreDB = {
 		},
 		["Thezadin - Hyjal"] = {
 		},
+		["Thezdivh - Hyjal"] = {
+		},
 		["Sigurdsson - Hyjal"] = {
 		},
-		["Thezdivh - Hyjal"] = {
+		["Thezdgar - Hyjal"] = {
 		},
 		["Thezknight - Hyjal"] = {
 		},
