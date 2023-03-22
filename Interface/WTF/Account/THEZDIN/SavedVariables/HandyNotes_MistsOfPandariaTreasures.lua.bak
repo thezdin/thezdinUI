@@ -1,37 +1,30 @@
 
 HandyNotes_MistsOfPandariaTreasuresDB = {
 	["profileKeys"] = {
-		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
-		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
-		["Jägare - Hyjal"] = "Jägare - Hyjal",
-		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
-		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
-		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
-		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
+		["Thezbank - Mannoroth"] = "Thezbank - Mannoroth",
+		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
+		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
+		["Thezdruid - Hyjal"] = "Thezdruid - Hyjal",
+		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
+		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
+		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
+		["Jägare - Hyjal"] = "Jägare - Hyjal",
 	},
 	["profiles"] = {
-		["Úlfhédnar - Hyjal"] = {
-		},
-		["Foulfellow - Hyjal"] = {
-		},
 		["Thezdinson - Hyjal"] = {
 		},
-		["Jägare - Hyjal"] = {
+		["Thezbank - Mannoroth"] = {
 		},
-		["Thezadin - Hyjal"] = {
-		},
-		["Sigurdsson - Hyjal"] = {
-		},
-		["Thezkin - Hyjal"] = {
-		},
-		["Thezknight - Hyjal"] = {
+		["Thez - Hyjal"] = {
 		},
 		["Thezidari - Hyjal"] = {
 		},
@@ -39,11 +32,27 @@ HandyNotes_MistsOfPandariaTreasuresDB = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
+		["Thezdivh - Hyjal"] = {
+		},
+		["Úlfhédnar - Hyjal"] = {
+		},
+		["Thezkin - Hyjal"] = {
+		},
+		["Thezdruid - Hyjal"] = {
+		},
+		["Thezknight - Hyjal"] = {
+		},
+		["Thezbot - Azgalor"] = {
+		},
 		["Thezdgar - Hyjal"] = {
 		},
-		["Thez - Hyjal"] = {
+		["Sigurdsson - Hyjal"] = {
 		},
-		["Thezdivh - Hyjal"] = {
+		["Thezadin - Hyjal"] = {
+		},
+		["Foulfellow - Hyjal"] = {
+		},
+		["Jägare - Hyjal"] = {
 		},
 	},
 }

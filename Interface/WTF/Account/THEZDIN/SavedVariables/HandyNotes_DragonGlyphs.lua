@@ -4,8 +4,11 @@ HandyNotes_DragonGlyphsDB = {
 		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
+		["Thezbank - Mannoroth"] = "Thezbank - Mannoroth",
+		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezdruid - Hyjal"] = "Thezdruid - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
@@ -21,9 +24,15 @@ HandyNotes_DragonGlyphsDB = {
 		},
 		["Thezadin - Hyjal"] = {
 		},
+		["Thezdivh - Hyjal"] = {
+		},
+		["Thezbank - Mannoroth"] = {
+		},
+		["Thezbot - Azgalor"] = {
+		},
 		["Thez - Hyjal"] = {
 		},
-		["Thezdivh - Hyjal"] = {
+		["Thezdruid - Hyjal"] = {
 		},
 		["Thezknight - Hyjal"] = {
 		},

@@ -36,10 +36,10 @@ _detalhes_database = {
 			["defensive-personal"] = false,
 		},
 		["width"] = 120,
-		["cooldowns"] = {
-		},
 		["height"] = 18,
 		["framme_locked"] = false,
+		["cooldowns"] = {
+		},
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
@@ -117,25 +117,25 @@ _detalhes_database = {
 		["frame"] = {
 		},
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["mythic_plus_log"] = {
-	},
-	["last_instance_time"] = 0,
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["last_realversion"] = 148,
-	["combat_counter"] = 8,
 	["nick_tag_cache"] = {
 		["nextreset"] = 1679957409,
 		["last_version"] = 15,
 	},
+	["mythic_plus_log"] = {
+	},
+	["force_font_outline"] = "",
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_instance_time"] = 0,
+	["combat_counter"] = 12,
 	["character_data"] = {
-		["logons"] = 4,
+		["logons"] = 6,
 	},
 	["ignore_nicktag"] = false,
 	["combat_id"] = 0,
@@ -227,11 +227,11 @@ _detalhes_database = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["arrow_anchor_y"] = 0,
 			["main_frame_size"] = {
 				300.0000610351563, -- [1]
 				500.0000610351563, -- [2]
 			},
+			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 163.6956331208669,
 				["radius"] = 160,
@@ -239,20 +239,30 @@ _detalhes_database = {
 			},
 			["main_frame_locked"] = false,
 			["arrow_anchor_x"] = 0,
-			["use_spark"] = true,
+			["author"] = "Terciob",
 			["row_texture"] = "Details Serenity",
 			["square_grow_direction"] = "right",
+			["y"] = -1.52587890625e-05,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["author"] = "Terciob",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["y"] = -1.52587890625e-05,
+			["per_second"] = {
+				["enabled"] = true,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 0,
+				["x"] = -0.00152587890625,
+				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+			},
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -262,19 +272,9 @@ _detalhes_database = {
 			},
 			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
 			["font_size"] = 10,
-			["per_second"] = {
-				["enabled"] = true,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = 0,
-				["x"] = -0.000244140625,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
-				["size"] = 32,
-			},
-			["x"] = -0.00030517578125,
+			["x"] = -0.0020751953125,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
 			["point"] = "CENTER",
@@ -414,8 +414,7 @@ _detalhes_database = {
 			}, -- [4]
 		},
 	},
-	["last_day"] = "13",
-	["force_font_outline"] = "",
+	["last_day"] = "19",
 	["local_instances_config"] = {
 		{
 			["modo"] = 2,
@@ -440,7 +439,7 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -517.4444427490234,
-					["x"] = 1397.82861328125,
+					["x"] = 1397.77783203125,
 					["w"] = 242.4465789794922,
 					["h"] = 181.1112213134766,
 				},
@@ -476,7 +475,7 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -517.4444427490234,
-					["x"] = 1175.383056640625,
+					["x"] = 1175.33203125,
 					["w"] = 202.4447021484375,
 					["h"] = 181.1112213134766,
 				},
@@ -511,7 +510,7 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -517.4444427490234,
-					["x"] = 974.71630859375,
+					["x"] = 974.66552734375,
 					["w"] = 198.8888244628906,
 					["h"] = 181.1112213134766,
 				},
@@ -524,6 +523,7 @@ _detalhes_database = {
 			},
 		}, -- [3]
 	},
+	["last_realversion"] = 148,
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},
@@ -539,6 +539,5 @@ _detalhes_database = {
 	},
 	["cached_specs"] = {
 		["Player-3661-091D3EB8"] = 66,
-		["Player-3675-0A690388"] = 261,
 	},
 }

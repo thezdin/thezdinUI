@@ -2,656 +2,668 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/plater", -- [1]
-		"/reloadui", -- [2]
-		"/elvui", -- [3]
-		"/invite Seyka", -- [4]
-		"/p ugh", -- [5]
-		"/p need to set mythic", -- [6]
-		"/p zone out", -- [7]
-		"/p just doing the one, but thanks very much!", -- [8]
+		"I want in on that", -- [1]
+		"that's the major downside now", -- [2]
+		"all my gaming buddies are CST", -- [3]
+		"GIDDYUP", -- [4]
+		"/who lanqboom", -- [5]
+		"you still talk to Varkon?", -- [6]
+		"guess he's a stay at home dad now", -- [7]
+		"he's like 3200 on multiple chars", -- [8]
+		"and 7/8 Mythic", -- [9]
+		"guy plays haaaaaaaaard", -- [10]
+		"hmm I think so", -- [11]
+		"he played a shaman when we raided", -- [12]
+		"and then a warlock", -- [13]
+		"we pug with Etherlight once in a while", -- [14]
+		"haha", -- [15]
+		"sounds good", -- [16]
+		"I'll get it goin don't worry", -- [17]
+		"/cw Dariôn-MoonGuard sure", -- [18]
+		"/i I'm evens, we go right", -- [19]
+		"/i wolebats, wrong side bro", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"creamy > crunchy.  Fight me.", -- [1]
-			"Straik-Hyjal", -- [2]
+			"Staff 0:02", -- [1]
+			"Silioron-MoonGuard", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Straik-Hyjal", -- [5]
+			"", -- [4]
+			"Silioron-MoonGuard", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1, -- [11]
-			"Player-3661-06DA8DA6", -- [12]
+			476, -- [11]
+			"Player-3675-0A7344D9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffStraik|r",
-			[51] = 1678487642,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff48cbaSilioron-MoonGuard|r",
+			[51] = 1679352127,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [1]
 		{
-			"love that chewy commerical.", -- [1]
-			"Cujoh-Hyjal", -- [2]
+			"Interrupted Primalist Mage's |cff71d5ff|Hspell:375716:0|h[Ice Barrage]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cujoh-Hyjal", -- [5]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			3, -- [11]
-			"Player-3661-0906B38C", -- [12]
+			482, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Cujoh|r",
-			[51] = 1678487664,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1679352138,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [2]
 		{
-			"whatever the dog prefers works best", -- [1]
-			"Fullmana-Hyjal", -- [2]
+			"Greatstaff's Wrath on Dariôn", -- [1]
+			"Dariôn-MoonGuard", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fullmana-Hyjal", -- [5]
+			"", -- [4]
+			"Dariôn-MoonGuard", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			4, -- [11]
-			"Player-3661-06CD0AA4", -- [12]
+			489, -- [11]
+			"Player-3675-0A71FEEA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dFullmana|r",
-			[51] = 1678487759,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff48cbaDariôn-MoonGuard|r",
+			[51] = 1679352168,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"lol", -- [1]
-			"Bittersweet-Hyjal", -- [2]
+			"Interrupted Primalist Mage's |cff71d5ff|Hspell:375716:0|h[Ice Barrage]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bittersweet-Hyjal", -- [5]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			7, -- [11]
-			"Player-3661-092F1A41", -- [12]
+			495, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aBittersweet|r",
-			[51] = 1678487709,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1679352200,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [4]
 		{
-			"WTS POWER LEVELING  20 -60 /  60 - 70 Stay AFK // fast upload 8 - 10 Minutes per level // GOLD ONLY  negotiable prices", -- [1]
-			"Percebe-Hyjal", -- [2]
+			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
-			"5. Trade (Services) - City", -- [4]
-			"Percebe-Hyjal", -- [5]
+			"", -- [4]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
-			42, -- [7]
-			5, -- [8]
-			"Trade (Services) - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			219, -- [11]
-			"Player-3661-093320C6", -- [12]
+			496, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffPercebe|r",
-			[51] = 1678492938,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679352200,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [5]
 		{
-			"Any Crafters able to make me |cffa335ee|Hitem:193461::::::::70:263::13:1:3524:2:40:304:38:4:::::|h[Infurious Boots of Reprieve |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r please", -- [1]
-			"Sinisterhate-Hyjal", -- [2]
+			"Greatstaff's Wrath on Badattitude", -- [1]
+			"Badattitude-Draenor", -- [2]
 			"", -- [3]
-			"5. Trade (Services) - City", -- [4]
-			"Sinisterhate-Hyjal", -- [5]
+			"", -- [4]
+			"Badattitude-Draenor", -- [5]
 			"", -- [6]
-			42, -- [7]
-			5, -- [8]
-			"Trade (Services) - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			222, -- [11]
-			"Player-3661-09330FF4", -- [12]
+			503, -- [11]
+			"Player-115-022C532F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddSinisterhate|r",
-			[51] = 1678492961,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc41e3aBadattitude-Draenor|r",
+			[51] = 1679352232,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10801:Player-3661-091C86DD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Vault of the Wardens]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Ionizing Charge on Rexford", -- [1]
+			"Rexford-Bloodhoof", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Rexford-Bloodhoof", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			546, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			510, -- [11]
+			"Player-64-004691F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678496865,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffRexford-Bloodhoof|r",
+			[51] = 1679352243,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"WTS |cff0070dd|Hbattlepet:3347:1:3:149:11:13:0000000000000000:107457|h[Jeweled Emerald Whelpling]|h|r 50k, |cff0070dd|Hitem:198264::::::::70:1468::13::2:28:2164:40:798::::Player-3661-09216322:|h[Centralized Precipitation Emitter]|h|r 10k, |cff1eff00|Hitem:198905::::::::70:1468::::1:28:2214:::::|h[Technique: Illusion Parchment: Aqua Torrent]|h|r 100g, |cff0070dd|Hitem:201739::::::::70:1468::14::1:28:2078:::::|h[Technique: Windborne Velocidrake: Steel and Yellow Armor]|h|r 5k. all prices significantly lower than AH pst. ty", -- [1]
-			"Britewing-Hyjal", -- [2]
+			"Ionizing Charge on Bobonus", -- [1]
+			"Bobonus-Illidan", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Britewing-Hyjal", -- [5]
+			"", -- [4]
+			"Bobonus-Illidan", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			569, -- [11]
-			"Player-3661-0926E32F", -- [12]
+			511, -- [11]
+			"Player-57-0D79CBEC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fBritewing|r",
-			[51] = 1678496940,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffff7c0aBobonus-Illidan|r",
+			[51] = 1679352243,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"3.1k achieved pumped up", -- [1]
-			"|Kq14|k", -- [2]
+			"Empowered Greatstaff's Wrath on Rexford", -- [1]
+			"Rexford-Bloodhoof", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Rexford-Bloodhoof", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			22, -- [11]
-			false, -- [12]
-			2, -- [13]
+			515, -- [11]
+			"Player-64-004691F3", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aVarkon|r",
-			[51] = 1678505991,
-			[50] = "CHAT_MSG_BN_INLINE_TOAST_BROADCAST",
+			[52] = "|cffffffffRexford-Bloodhoof|r",
+			[51] = 1679352265,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"LF JC that can make 405 |cffa335ee|Hitem:193001::192948:192948:192948::::70:252::13:8:8836:8840:8902:8960:8783:8782:8802:8793:6:28:2164:29:36:30:49:38:8:40:260:48:194566::::Player-3661-079C978B:|h[Elemental Lariat |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r", -- [1]
-			"Plaugebeard-Hyjal", -- [2]
+			"Empowered Greatstaff's Wrath on Blackcleave", -- [1]
+			"Blackcleave-MoonGuard", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Plaugebeard-Hyjal", -- [5]
+			"", -- [4]
+			"Blackcleave-MoonGuard", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			423, -- [11]
-			"Player-3661-09202DCD", -- [12]
+			516, -- [11]
+			"Player-3675-0A72A7E4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc41e3aPlaugebeard|r",
-			[51] = 1678509087,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc69b6dBlackcleave-MoonGuard|r",
+			[51] = 1679352265,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10780:Player-3661-091C86DD:1:3:11:23:4294967295:4294967295:4294967295:4294967295|h[Eye of Azshara]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Empowered Greatstaff's Wrath on Artá", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			186, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			521, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678562230,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679352289,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10781:Player-3661-091C86DD:1:3:11:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Eye of Azshara]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Empowered Greatstaff's Wrath on Jonkyna", -- [1]
+			"Jonkyna-Draenor", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Jonkyna-Draenor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			187, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			522, -- [11]
+			"Player-115-0526D24B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678562230,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3fc7ebJonkyna-Draenor|r",
+			[51] = 1679352289,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10804:Player-3661-091C86DD:1:3:11:23:4294967295:4294967295:4294967295:4294967295|h[Black Rook Hold]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"¡Cólera del gran bastón potenciado en Kshy!", -- [1]
+			"Kshy-Quel'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Kshy-Quel'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			315, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			523, -- [11]
+			"Player-1428-0A204E40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678563845,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffaad372Kshy-Quel'Thalas|r",
+			[51] = 1679352289,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10805:Player-3661-091C86DD:1:3:11:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Black Rook Hold]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Empowered Greatstaff's Wrath on Mertho", -- [1]
+			"Mertho-Aggramar", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Mertho-Aggramar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			317, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			527, -- [11]
+			"Player-106-0DEC2D89", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678563845,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3fc7ebMertho-Aggramar|r",
+			[51] = 1679352318,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"lf |cffa335ee|Hitem:193000:6556:192948::::::70:66::13:6:8836:8840:8902:8780:8802:8793:6:28:2164:29:49:30:36:38:8:40:259:49:194566::::Player-3661-092BF3C1:|h[Ring-Bound Hourglass |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r recraft", -- [1]
-			"Sacredshiéld-Hyjal", -- [2]
+			"Laser on Angryavocado", -- [1]
+			"Angryavocado-Frostmourne", -- [2]
 			"", -- [3]
-			"5. Trade (Services) - City", -- [4]
-			"Sacredshiéld-Hyjal", -- [5]
+			"", -- [4]
+			"Angryavocado-Frostmourne", -- [5]
 			"", -- [6]
-			42, -- [7]
-			5, -- [8]
-			"Trade (Services) - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1810, -- [11]
-			"Player-3661-09332F87", -- [12]
+			529, -- [11]
+			"Player-3725-0C1CDFD9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaSacredshiéld|r",
-			[51] = 1678606416,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff8788eeAngryavocado-Frostmourne|r",
+			[51] = 1679352318,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11609:Player-3661-091C86DD:1:3:11:23:4294967295:4294967295:4294967295:4294967295|h[Power Unbound]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Odds left evens right dont fuck up my friends", -- [1]
+			"Dariôn-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Dariôn-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1879, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			581, -- [11]
+			"Player-3675-0A71FEEA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678606991,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfff48cbaDariôn-MoonGuard|r",
+			[51] = 1679352423,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		}, -- [16]
 		{
-			" Grab 2 person Mounts on AH today!|cffa335ee|Hitem:65891::::::::46:64:::::::::|h[Vial of the Sands]|h|r == |cffa335ee|Hitem:44413::::::::46:64:::::::::|h[Mekgineer's Chopper]|h|r == lowest on AH ", -- [1]
-			"Spacepänts-Hyjal", -- [2]
+			"NICE DC ON DRAKE IM DEAD", -- [1]
+			"Firestarlet-BlackwaterRaiders", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Spacepänts-Hyjal", -- [5]
+			"", -- [4]
+			"Firestarlet-BlackwaterRaiders", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			10, -- [11]
-			"Player-3661-08FEDE65", -- [12]
+			583, -- [11]
+			"Player-125-06B8B290", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebSpacepänts|r",
-			[51] = 1678648136,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3fc7ebFirestarlet-BlackwaterRaiders|r",
+			[51] = 1679352441,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [17]
 		{
-			"==You need a panther mount ? We got yer Panthers all colors get on and ride your Panthery  mount .. All colors!!|cffa335ee|Hitem:82453::::::::46:64:::::::::|h[Jeweled Onyx Panther]|h|r --Priced low on AH ", -- [1]
-			"Spacepänts-Hyjal", -- [2]
+			"I'm evens, we go right", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Spacepänts-Hyjal", -- [5]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12, -- [11]
-			"Player-3661-08FEDE65", -- [12]
+			585, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebSpacepänts|r",
-			[51] = 1678648137,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1679352461,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [18]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5752:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[Justly Rewarded]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Bomb (2{rt2}) on Bobonus", -- [1]
+			"Bobonus-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Bobonus-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			36, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			601, -- [11]
+			"Player-57-0D79CBEC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678648655,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffff7c0aBobonus-Illidan|r",
+			[51] = 1679352546,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11610:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[Power Unleashed]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Bomb (2{rt2}) on Xeyar", -- [1]
+			"Xeyar-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Xeyar-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			111, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			607, -- [11]
+			"Player-57-0D669321", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678648868,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3fc7ebXeyar-Illidan|r",
+			[51] = 1679352581,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [20]
 		{
-			"LF BS to recraft |cffa335ee|Hitem:190496:6607:::::::70:66::13:7:8836:8840:8902:8802:8845:8793:8174:8:28:2164:29:49:30:36:38:8:40:168:44:197921:45:194566:46:200652:::::|h[Primal Molten Sabatons |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r to 418 R5", -- [1]
-			"Pallixx-Hyjal", -- [2]
+			"{rt3}Bomb 3", -- [1]
+			"Lunallia-Suramar", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pallixx-Hyjal", -- [5]
+			"", -- [4]
+			"Lunallia-Suramar", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			148, -- [11]
-			"Player-3661-092C2C1C", -- [12]
+			612, -- [11]
+			"Player-113-00B743A9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaPallixx|r",
-			[51] = 1678649011,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffffffffLunallia-Suramar|r",
+			[51] = 1679352581,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"also looking for a crafter for those boots, but only 405 with food packet.", -- [1]
-			"Fullmana-Hyjal", -- [2]
+			"{rt2}Bomb 2", -- [1]
+			"Thangdk-Sargeras", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fullmana-Hyjal", -- [5]
+			"", -- [4]
+			"Thangdk-Sargeras", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			150, -- [11]
-			"Player-3661-06CD0AA4", -- [12]
+			620, -- [11]
+			"Player-76-0BA0615F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dFullmana|r",
-			[51] = 1678649044,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc41e3aThangdk-Sargeras|r",
+			[51] = 1679352621,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [22]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11767:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Goroth]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
+			"ßasil-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"ßasil-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1148, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			624, -- [11]
+			"Player-57-0D669393", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678688041,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffff468ßasil-Illidan|r",
+			[51] = 1679352621,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11774:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Demonic Inquisition]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1176, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			625, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678688195,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679352622,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [24]
 		{
-			"Interrupted Tidescale Witch's |cff71d5ff|Hspell:241290:0|h[Arc Bolt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"{rt2}3", -- [1]
+			"Thangdk-Sargeras", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Thangdk-Sargeras", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1191, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			626, -- [11]
+			"Player-76-0BA0615F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678688276,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aThangdk-Sargeras|r",
+			[51] = 1679352626,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11775:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Harjatan]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"{rt2}2", -- [1]
+			"Thangdk-Sargeras", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Thangdk-Sargeras", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1199, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			627, -- [11]
+			"Player-76-0BA0615F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678688305,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc41e3aThangdk-Sargeras|r",
+			[51] = 1679352627,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11787:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[The Gates of Hell]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r used!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1221, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			628, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678688433,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679352628,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [27]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11776:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Mistress Sassz'ine]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"{rt2}1", -- [1]
+			"Thangdk-Sargeras", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Thangdk-Sargeras", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1222, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			629, -- [11]
+			"Player-76-0BA0615F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678688433,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc41e3aThangdk-Sargeras|r",
+			[51] = 1679352628,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11778:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: The Desolate Host]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1281, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			630, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678688837,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679352628,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [29]
 		{
-			"Interrupted Tormented Priestess's |cff71d5ff|Hspell:239923:0|h[Spirit Chains]|h|r!", -- [1]
+			"wolebats, wrong side bro", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -661,7 +673,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1292, -- [11]
+			636, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -669,11 +681,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678688892,
-			[50] = "CHAT_MSG_RAID",
+			[51] = 1679352662,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [30]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11683:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[Bingo!]|h|r!", -- [1]
+			"Interrupted Stormseeker Acolyte's |cff71d5ff|Hspell:385553:0|h[Storm Bolt]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -683,7 +695,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1339, -- [11]
+			637, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -691,451 +703,1045 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678689308,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1679352677,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [31]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11780:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Fallen Avatar]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1340, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			648, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678689308,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679352777,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [32]
 		{
-			"Interrupted Shadow Council Warlock's |cff71d5ff|Hspell:243300:0|h[Chaos Bolt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"shouldnt we wipe?", -- [1]
+			"Kapclo-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Kapclo-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1358, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			649, -- [11]
+			"Player-60-0E37516D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678689424,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffffffffKapclo-Stormrage|r",
+			[51] = 1679352782,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [33]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11790:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[Deceiver's Fall]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Charge on Bobonus", -- [1]
+			"Bobonus-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Bobonus-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1432, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			657, -- [11]
+			"Player-57-0D79CBEC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678689925,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffff7c0aBobonus-Illidan|r",
+			[51] = 1679352814,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11781:Player-3661-091C86DD:1:3:12:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Kil'jaeden]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"{rt1}Charge 1", -- [1]
+			"Chelicerata-Frostmourne", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Chelicerata-Frostmourne", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1433, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			658, -- [11]
+			"Player-3725-0C05FEC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678689925,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc69b6dChelicerata-Frostmourne|r",
+			[51] = 1679352814,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"Any JC on to make |cffa335ee|Hitem:193001::::::::70:252::13:1:3524:2:40:260:38:8:::::|h[Elemental Lariat |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r and or |cffa335ee|Hitem:192999::::::::70:252::13:1:3524:2:40:258:38:8:::::|h[Signet of Titanic Insight |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r 392", -- [1]
-			"Bigdickslick-Hyjal", -- [2]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r used!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bigdickslick-Hyjal", -- [5]
+			"", -- [4]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1212, -- [11]
-			"Player-3661-092537FC", -- [12]
+			659, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc41e3aBigdickslick|r",
-			[51] = 1678772989,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679352816,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [36]
 		{
-			"ugh", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"3", -- [1]
+			"Bobonus-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Bobonus-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1223, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			660, -- [11]
+			"Player-57-0D79CBEC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773171,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffff7c0aBobonus-Illidan|r",
+			[51] = 1679352817,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"wrong", -- [1]
-			"Pupudk-Tichondrius", -- [2]
+			"{rt4}Charge 4", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pupudk-Tichondrius", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1224, -- [11]
-			"Player-11-0E4DEC08", -- [12]
+			661, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aPupudk-Tichondrius|r",
-			[51] = 1678773174,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679352820,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"need to set mythic", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"not with 3 crazy ass dps warriors", -- [1]
+			"Rexford-Bloodhoof", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Rexford-Bloodhoof", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1225, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			664, -- [11]
+			"Player-64-004691F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773174,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffRexford-Bloodhoof|r",
+			[51] = 1679352836,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [39]
 		{
-			"zone out", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1226, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			665, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773175,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679352836,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [40]
 		{
-			"difficaulty", -- [1]
-			"Pupudk-Tichondrius", -- [2]
+			"carrying the raid", -- [1]
+			"Rexford-Bloodhoof", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pupudk-Tichondrius", -- [5]
+			"Rexford-Bloodhoof", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1227, -- [11]
-			"Player-11-0E4DEC08", -- [12]
+			670, -- [11]
+			"Player-64-004691F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aPupudk-Tichondrius|r",
-			[51] = 1678773123,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffffffffRexford-Bloodhoof|r",
+			[51] = 1679352851,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [41]
 		{
-			">> SOOTHE Aggravated Skitterfly <<", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1247, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			672, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773281,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679352885,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [42]
 		{
-			">> SOOTHE Aggravated Skitterfly <<", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1248, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			673, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773241,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679352889,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [43]
 		{
-			">> SOOTHE Aggravated Skitterfly <<", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"3", -- [1]
+			"Bobonus-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Bobonus-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1249, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			683, -- [11]
+			"Player-57-0D79CBEC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773250,
+			[52] = "|cffff7c0aBobonus-Illidan|r",
+			[51] = 1679352909,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [44]
 		{
-			"Interrupted Alpha Eagle's |cff71d5ff|Hspell:377389:0|h[Call of the Flock]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"there is a sexy gnome mage kickling ass", -- [1]
+			"Mertho-Aggramar", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Mertho-Aggramar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1264, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			693, -- [11]
+			"Player-106-0DEC2D89", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773429,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebMertho-Aggramar|r",
+			[51] = 1679352959,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [45]
 		{
-			"Vicious Ambush on Iionheart", -- [1]
-			"Iionheart-Tichondrius", -- [2]
+			"lol still half the dps  ", -- [1]
+			"Rexford-Bloodhoof", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Iionheart-Tichondrius", -- [5]
+			"Rexford-Bloodhoof", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1276, -- [11]
-			"Player-11-0DE1816A", -- [12]
+			698, -- [11]
+			"Player-64-004691F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Iionheart-Tichondrius|r",
-			[51] = 1678773597,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffRexford-Bloodhoof|r",
+			[51] = 1679352984,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [46]
 		{
-			"Interrupted Spellbound Scepter's |cff71d5ff|Hspell:396812:0|h[Mystic Blast]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"healers doing a fantastic job also", -- [1]
+			"Rexford-Bloodhoof", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Rexford-Bloodhoof", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1277, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			704, -- [11]
+			"Player-64-004691F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773599,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffRexford-Bloodhoof|r",
+			[51] = 1679353038,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [47]
 		{
-			">> SHOCKWAVE ON ME <<", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"truth", -- [1]
+			"Mertho-Aggramar", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Mertho-Aggramar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1278, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			705, -- [11]
+			"Player-106-0DEC2D89", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773541,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc7ebMertho-Aggramar|r",
+			[51] = 1679353045,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [48]
 		{
-			">> SHOCKWAVE ON ME <<", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1280, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			708, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773555,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353053,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [49]
 		{
-			">> SHOCKWAVE ON ME <<", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r used!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1285, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			713, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773645,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353064,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [50]
 		{
-			"Interrupted Corrupted Manafiend's |cff71d5ff|Hspell:388862:0|h[Surge]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"2nd times the charm friends!", -- [1]
+			"Dariôn-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Dariôn-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1289, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			719, -- [11]
+			"Player-3675-0A71FEEA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773605,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaDariôn-MoonGuard|r",
+			[51] = 1679353089,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		}, -- [51]
 		{
-			"Interrupted Unruly Textbook's |cff71d5ff|Hspell:388392:0|h[Monotonous Lecture]|h|r!", -- [1]
+			"i believe in y'all!", -- [1]
+			"Dariôn-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dariôn-MoonGuard", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			721, -- [11]
+			"Player-3675-0A71FEEA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaDariôn-MoonGuard|r",
+			[51] = 1679353099,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [52]
+		{
+			"thats comforting :D", -- [1]
+			"Artá-Uldum", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Artá-Uldum", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			722, -- [11]
+			"Player-84-0A41BF2A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353118,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [53]
+		{
+			"all for the stupid dragon mount transmog", -- [1]
+			"Kapclo-Stormrage", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kapclo-Stormrage", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			727, -- [11]
+			"Player-60-0E37516D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffKapclo-Stormrage|r",
+			[51] = 1679353151,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [54]
+		{
+			"Same", -- [1]
+			"Dariôn-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dariôn-MoonGuard", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			728, -- [11]
+			"Player-3675-0A71FEEA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaDariôn-MoonGuard|r",
+			[51] = 1679353155,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [55]
+		{
+			"{rt1}Bomb 1", -- [1]
+			"ßasil-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"ßasil-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			733, -- [11]
+			"Player-57-0D669393", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468ßasil-Illidan|r",
+			[51] = 1679353141,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [56]
+		{
+			"Bomb (3{rt3}) on Xeyar", -- [1]
+			"Xeyar-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Xeyar-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			735, -- [11]
+			"Player-57-0D669321", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebXeyar-Illidan|r",
+			[51] = 1679353141,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [57]
+		{
+			"{rt3} 3", -- [1]
+			"Xeyar-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Xeyar-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			740, -- [11]
+			"Player-57-0D669321", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebXeyar-Illidan|r",
+			[51] = 1679353206,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [58]
+		{
+			"{rt3} 2", -- [1]
+			"Xeyar-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Xeyar-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			741, -- [11]
+			"Player-57-0D669321", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebXeyar-Illidan|r",
+			[51] = 1679353207,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [59]
+		{
+			"{rt3} 1", -- [1]
+			"Xeyar-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Xeyar-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			742, -- [11]
+			"Player-57-0D669321", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebXeyar-Illidan|r",
+			[51] = 1679353208,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [60]
+		{
+			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
+			"Artá-Uldum", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Artá-Uldum", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			746, -- [11]
+			"Player-84-0A41BF2A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353235,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [61]
+		{
+			"{rt3}Bomb 3", -- [1]
+			"Mertho-Aggramar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mertho-Aggramar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			748, -- [11]
+			"Player-106-0DEC2D89", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebMertho-Aggramar|r",
+			[51] = 1679353236,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [62]
+		{
+			"{rt2}Bomb 2", -- [1]
+			"Rexford-Bloodhoof", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rexford-Bloodhoof", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			749, -- [11]
+			"Player-64-004691F3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffRexford-Bloodhoof|r",
+			[51] = 1679353236,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [63]
+		{
+			"{rt1}Bomb 1", -- [1]
+			"Kapclo-Stormrage", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kapclo-Stormrage", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			750, -- [11]
+			"Player-60-0E37516D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffKapclo-Stormrage|r",
+			[51] = 1679353236,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [64]
+		{
+			"Bomb (1{rt1}) on Kapclo", -- [1]
+			"Kapclo-Stormrage", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kapclo-Stormrage", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			756, -- [11]
+			"Player-60-0E37516D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffKapclo-Stormrage|r",
+			[51] = 1679353236,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [65]
+		{
+			"omg i thought i was on a lighting puddle my bad -_-'", -- [1]
+			"Olliegrayson-Stormrage", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Olliegrayson-Stormrage", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			757, -- [11]
+			"Player-60-0EF37894", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddOlliegrayson-Stormrage|r",
+			[51] = 1679353246,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [66]
+		{
+			"{rt2}Bomb 2", -- [1]
+			"Willowed-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowed-MoonGuard", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			766, -- [11]
+			"Player-3675-089E3036", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffWillowed-MoonGuard|r",
+			[51] = 1679353276,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [67]
+		{
+			"Bomb (1{rt1}) on Bobonus", -- [1]
+			"Bobonus-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bobonus-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			769, -- [11]
+			"Player-57-0D79CBEC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aBobonus-Illidan|r",
+			[51] = 1679353276,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [68]
+		{
+			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
+			"ßasil-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"ßasil-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			770, -- [11]
+			"Player-57-0D669393", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468ßasil-Illidan|r",
+			[51] = 1679353277,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [69]
+		{
+			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
+			"Artá-Uldum", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Artá-Uldum", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			771, -- [11]
+			"Player-84-0A41BF2A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353278,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [70]
+		{
+			"blown through a puddle......its stopped me for a sec....then went flying", -- [1]
+			"Auraka-Staghelm", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Auraka-Staghelm", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			773, -- [11]
+			"Player-160-00CDF1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebAuraka-Staghelm|r",
+			[51] = 1679353289,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [71]
+		{
+			"right siiiiide", -- [1]
+			"Xeyar-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Xeyar-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			783, -- [11]
+			"Player-57-0D669321", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebXeyar-Illidan|r",
+			[51] = 1679353379,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [72]
+		{
+			"{rt3}Charge 3", -- [1]
+			"Rexford-Bloodhoof", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rexford-Bloodhoof", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			795, -- [11]
+			"Player-64-004691F3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffRexford-Bloodhoof|r",
+			[51] = 1679353455,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [73]
+		{
+			"{rt1}Charge 1", -- [1]
+			"Blackcleave-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blackcleave-MoonGuard", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			796, -- [11]
+			"Player-3675-0A72A7E4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBlackcleave-MoonGuard|r",
+			[51] = 1679353455,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [74]
+		{
+			"{rt3}3", -- [1]
+			"Rexford-Bloodhoof", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rexford-Bloodhoof", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			799, -- [11]
+			"Player-64-004691F3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffRexford-Bloodhoof|r",
+			[51] = 1679353457,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [75]
+		{
+			"{rt1}3", -- [1]
+			"Blackcleave-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blackcleave-MoonGuard", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			800, -- [11]
+			"Player-3675-0A72A7E4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBlackcleave-MoonGuard|r",
+			[51] = 1679353457,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"{rt3}2", -- [1]
+			"Rexford-Bloodhoof", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rexford-Bloodhoof", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			801, -- [11]
+			"Player-64-004691F3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffRexford-Bloodhoof|r",
+			[51] = 1679353459,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
+		{
+			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
+			"Artá-Uldum", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Artá-Uldum", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			805, -- [11]
+			"Player-84-0A41BF2A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353476,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [78]
+		{
+			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1145,7 +1751,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1294, -- [11]
+			806, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1153,9 +1759,185 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773625,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [52]
+			[51] = 1679353476,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [79]
+		{
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r used!", -- [1]
+			"Artá-Uldum", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Artá-Uldum", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			809, -- [11]
+			"Player-84-0A41BF2A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353484,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [80]
+		{
+			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
+			"ßasil-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"ßasil-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			813, -- [11]
+			"Player-57-0D669393", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468ßasil-Illidan|r",
+			[51] = 1679353526,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [81]
+		{
+			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
+			"Artá-Uldum", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Artá-Uldum", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			814, -- [11]
+			"Player-84-0A41BF2A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353526,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [82]
+		{
+			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			815, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1679353526,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [83]
+		{
+			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
+			"Artá-Uldum", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Artá-Uldum", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			818, -- [11]
+			"Player-84-0A41BF2A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353534,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [84]
+		{
+			"{rt2}Charge 2", -- [1]
+			"Willowed-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowed-MoonGuard", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			822, -- [11]
+			"Player-3675-089E3036", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffWillowed-MoonGuard|r",
+			[51] = 1679353540,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [85]
+		{
+			"{rt2}3", -- [1]
+			"Willowed-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowed-MoonGuard", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			824, -- [11]
+			"Player-3675-089E3036", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffWillowed-MoonGuard|r",
+			[51] = 1679353544,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [86]
+		{
+			"peepoSleepo", -- [1]
+			"Willowed-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowed-MoonGuard", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			836, -- [11]
+			"Player-3675-089E3036", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffWillowed-MoonGuard|r",
+			[51] = 1679353607,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [87]
 		{
 			">> FRONTAL ON ME <<", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1167,7 +1949,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1300, -- [11]
+			846, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1175,253 +1957,143 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773679,
+			[51] = 1679353666,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [88]
 		{
-			"Mana Bomb on Seyka", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"which dumb fucking mage levitated me?", -- [1]
+			"Blackcleave-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Blackcleave-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1302, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			848, -- [11]
+			"Player-3675-0A72A7E4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678773754,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+			[52] = "|cffc69b6dBlackcleave-MoonGuard|r",
+			[51] = 1679353672,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [89]
 		{
-			"Pupudk中了法力炸彈", -- [1]
-			"Pupudk-Tichondrius", -- [2]
+			"or priest", -- [1]
+			"Willowed-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pupudk-Tichondrius", -- [5]
+			"Willowed-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1303, -- [11]
-			"Player-11-0E4DEC08", -- [12]
+			850, -- [11]
+			"Player-3675-089E3036", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aPupudk-Tichondrius|r",
-			[51] = 1678773754,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+			[52] = "|cffffffffWillowed-MoonGuard|r",
+			[51] = 1679353685,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [90]
 		{
-			"3", -- [1]
-			"Seyka-Hyjal", -- [2]
+			":D", -- [1]
+			"Willowed-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Willowed-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1304, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			855, -- [11]
+			"Player-3675-089E3036", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678773755,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+			[52] = "|cffffffffWillowed-MoonGuard|r",
+			[51] = 1679353685,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [91]
 		{
-			"3", -- [1]
-			"Pupudk-Tichondrius", -- [2]
+			"COPIUM", -- [1]
+			"Willowed-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pupudk-Tichondrius", -- [5]
+			"Willowed-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1305, -- [11]
-			"Player-11-0E4DEC08", -- [12]
+			856, -- [11]
+			"Player-3675-089E3036", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aPupudk-Tichondrius|r",
-			[51] = 1678773755,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+			[52] = "|cffffffffWillowed-MoonGuard|r",
+			[51] = 1679353691,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [92]
 		{
-			"2", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r used!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1306, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			861, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678773756,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353704,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [93]
 		{
-			"2", -- [1]
-			"Pupudk-Tichondrius", -- [2]
+			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
+			"Artá-Uldum", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pupudk-Tichondrius", -- [5]
+			"Artá-Uldum", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1307, -- [11]
-			"Player-11-0E4DEC08", -- [12]
+			862, -- [11]
+			"Player-84-0A41BF2A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aPupudk-Tichondrius|r",
-			[51] = 1678773756,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353705,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [94]
 		{
-			"1", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1308, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678773757,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"1", -- [1]
-			"Pupudk-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pupudk-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1309, -- [11]
-			"Player-11-0E4DEC08", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aPupudk-Tichondrius|r",
-			[51] = 1678773757,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
-		{
-			"Astral Bomb on Seyka", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1317, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678773839,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
-		{
-			"2", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1318, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678773780,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
-		{
-			"1", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1319, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678773781,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
-		{
-			"Interrupted Spectral Invoker's |cff71d5ff|Hspell:387843:0|h[Astral Bomb]|h|r!", -- [1]
+			">> FRONTAL ON ME <<", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1431,7 +2103,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1321, -- [11]
+			866, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1439,33 +2111,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773798,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
-		{
-			"Energy Bomb on Thezidari", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1326, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773851,
+			[51] = 1679353726,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [95]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:16269:Player-3661-091C86DD:1:3:13:23:4294967295:4294967295:4294967295:4294967295|h[Algeth'ar Academy]|h|r!", -- [1]
+			"{rt1}Charge 1", -- [1]
+			"Artá-Uldum", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Artá-Uldum", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			868, -- [11]
+			"Player-84-0A41BF2A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dArtá-Uldum|r",
+			[51] = 1679353745,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [96]
+		{
+			"I need a hero!!", -- [1]
+			"Kshy-Quel'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kshy-Quel'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			874, -- [11]
+			"Player-1428-0A204E40", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Kshy-Quel'Thalas|r",
+			[51] = 1679353760,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [97]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:17112:Player-3661-091C86DD:1:3:20:23:4294967295:4294967295:4294967295:4294967295|h[Fury of the Storm]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1475,7 +2169,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1328, -- [11]
+			879, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1483,250 +2177,30 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773859,
+			[51] = 1679353770,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [67]
+		}, -- [98]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:16270:Player-3661-091C86DD:1:3:13:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Algeth'ar Academy]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"ANY JCs WHO CAN CRAFT RINGS", -- [1]
+			"Thrashadin-Hyjal", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"5. Trade (Services) - City", -- [4]
+			"Thrashadin-Hyjal", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			42, -- [7]
+			5, -- [8]
+			"Trade (Services) - City", -- [9]
 			0, -- [10]
-			1329, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1079, -- [11]
+			"Player-3661-0933A94D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773859,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [68]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16271:Player-3661-091C86DD:1:3:13:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Algeth'ar Academy]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1330, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773859,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [69]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:11183:Player-3661-091C86DD:1:3:13:23:4294967295:4294967295:4294967295:4294967295|h[Keystone Initiate]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1334, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773859,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [70]
-		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:400:5:10:8:0:0|h[Keystone: The Nokhud Offensive (5)]|h|r", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1338, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773862,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
-		{
-			"you guys farming low keys?", -- [1]
-			"Iionheart-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iionheart-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1346, -- [11]
-			"Player-11-0DE1816A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Iionheart-Tichondrius|r",
-			[51] = 1678773940,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
-		{
-			"heals need chest?\\", -- [1]
-			"Conveyor-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Conveyor-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1347, -- [11]
-			"Player-127-0A50B22C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaConveyor-Stormscale|r",
-			[51] = 1678773942,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
-		{
-			"nope i am all good but thank you ", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1348, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1678773950,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [74]
-		{
-			"ok no worries!", -- [1]
-			"Conveyor-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Conveyor-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1349, -- [11]
-			"Player-127-0A50B22C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaConveyor-Stormscale|r",
-			[51] = 1678773955,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
-		{
-			"gg tyfp", -- [1]
-			"Conveyor-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Conveyor-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1350, -- [11]
-			"Player-127-0A50B22C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaConveyor-Stormscale|r",
-			[51] = 1678773957,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
-		{
-			"just doing the one, but thanks very much!", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1351, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1678773908,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [77]
-		{
-			"gg", -- [1]
-			"Iionheart-Tichondrius", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Iionheart-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			1353, -- [11]
-			"Player-11-0DE1816A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Iionheart-Tichondrius|r",
-			[51] = 1678773913,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+			true, -- [17]
+			[52] = "|cfff48cbaThrashadin|r",
+			[51] = 1679356545,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [99]
 	},
 }

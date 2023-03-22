@@ -1505,5 +1505,159 @@ ElvCharacterDB = {
 			[51] = 1678512733,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [68]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:1297:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Hadronox Denied]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1253, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1678513504,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [69]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:1297:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Hadronox Denied]|h|r!", -- [1]
+			"Ceylan-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ceylan-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1254, -- [11]
+			"Player-3661-090ED303", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aCeylan|r",
+			[51] = 1678513504,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [70]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:480:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Azjol-Nerub]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1331, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1678513757,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [71]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:491:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Azjol-Nerub]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1332, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1678513757,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [72]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:1860:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Gotta Go!]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1333, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1678513757,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [73]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:491:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Azjol-Nerub]|h|r!", -- [1]
+			"Ceylan-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ceylan-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1334, -- [11]
+			"Player-3661-090ED303", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aCeylan|r",
+			[51] = 1678513757,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [74]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:1860:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Gotta Go!]|h|r!", -- [1]
+			"Ceylan-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ceylan-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1335, -- [11]
+			"Player-3661-090ED303", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aCeylan|r",
+			[51] = 1678513757,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [75]
 	},
 }

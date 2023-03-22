@@ -2,12 +2,15 @@
 MythicDungeonToolsDB = {
 	["profileKeys"] = {
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
-		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
-		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
-		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Thezbank - Mannoroth"] = "Thezbank - Mannoroth",
 		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezdruid - Hyjal"] = "Thezdruid - Hyjal",
+		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
+		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
+		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 	},
 	["global"] = {
 		["anchorTo"] = "CENTER",
@@ -200,16 +203,16 @@ MythicDungeonToolsDB = {
 							}, -- [5]
 							{
 								["color"] = "3eff3e",
+								[9] = {
+									2, -- [1]
+									1, -- [2]
+									3, -- [3]
+								},
 								[4] = {
 									4, -- [1]
 									5, -- [2]
 									3, -- [3]
 									6, -- [4]
-								},
-								[9] = {
-									2, -- [1]
-									1, -- [2]
-									3, -- [3]
 								},
 								[5] = {
 									2, -- [1]

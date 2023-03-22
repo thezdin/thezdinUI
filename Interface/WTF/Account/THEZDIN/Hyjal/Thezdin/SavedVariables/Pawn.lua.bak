@@ -58,9 +58,9 @@ PawnOptions = {
 		}, -- [11]
 		{
 			["ID"] = 134542,
-			["Level"] = 418,
+			["Level"] = 421,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:134542:6556:::::::70:73::35:7:8974:7977:6652:7937:9144:3297:8767::::::|h[Jeweled Signet of Melandrus]|h|r",
+			["Link"] = "|cffa335ee|Hitem:134542:6556:::::::70:73::35:7:9130:7977:41:7936:9144:3300:8767::::::|h[Jeweled Signet of Melandrus]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 193762,

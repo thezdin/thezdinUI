@@ -1,8 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0717,
-	["LastPlayerFullName"] = "Thezidari-Hyjal",
-	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
 			["ID"] = 188441,
@@ -10,25 +8,25 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:188441::::::::70:581::22:3:8171:7756:6652:2:9:70:28:181:::::|h[Battlemap Hide Helm]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 192998,
-			["Level"] = 343,
-			["Link"] = "|cff1eff00|Hitem:192998::::::::70:581::13:7:8839:8840:5247:8983:8783:8780:8802:4:28:2164:29:49:38:8:40:257:::::|h[Crimson Combatant's Jeweled Amulet |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["ID"] = 193647,
+			["Level"] = 359,
+			["Link"] = "|cff0070dd|Hitem:193647::::::::70:581::2:6:7976:6652:7937:8784:1581:8766:1:28:2156:::::|h[Custodian's Medallion of Delusion]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 201942,
-			["Level"] = 343,
-			["Link"] = "|cff0070dd|Hitem:201942::::::::70:581::13:3:8851:8852:8802:5:28:2164:29:36:30:32:38:8:40:849:::::|h[Pioneer's Practiced Shoulderpads |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["ID"] = 200347,
+			["Level"] = 385,
+			["Link"] = "|cffa335ee|Hitem:200347::::::::70:581::4:5:7982:6652:8826:1459:8767:1:28:1040:::::|h[Skybound Avenger's Ailerons]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
 			["ID"] = 193399,
-			["Level"] = 386,
-			["Link"] = "|cffa335ee|Hitem:193399::::::::70:581::13:5:8836:8840:8902:8800:8792:6:28:2164:29:32:30:49:38:6:40:294:47:194569:::::|h[Life-Bound Chestpiece |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a]|h|r",
+			["Level"] = 399,
+			["Link"] = "|cffa335ee|Hitem:193399::::::::70:581::13:6:8836:8840:8902:8800:8845:8792:7:28:2164:29:32:30:49:38:6:40:294:47:194569:45:197921:::::|h[Life-Bound Chestpiece |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 201945,
-			["Level"] = 343,
-			["Link"] = "|cff0070dd|Hitem:201945::::::::70:581::13:4:8851:8852:7937:8802:5:28:2164:29:32:30:49:38:8:40:844:::::|h[Pioneer's Practiced Belt |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["ID"] = 193744,
+			["Level"] = 359,
+			["Link"] = "|cff0070dd|Hitem:193744::::::::70:581::2:6:7976:42:7936:8814:1581:8766:1:28:2156:::::|h[Watcher's Clasp of Purpose]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 201944,
@@ -51,28 +49,28 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:188418::::::::70:581::22:3:8171:7756:6652:2:9:70:28:181:::::|h[Grotto Mist Gloves]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 193708,
-			["Level"] = 346,
+			["ID"] = 193633,
+			["Level"] = 359,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:193708::::::::70:581::17:4:7978:7975:6652:7936:2:9:70:28:2474:::::|h[Platinum Star Band]|h|r",
+			["Link"] = "|cff0070dd|Hitem:193633::::::::70:581::2:5:7976:6652:7937:1581:8766:1:28:2156:::::|h[Unstable Arcane Loop]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 192997,
-			["Level"] = 343,
+			["ID"] = 193731,
+			["Level"] = 359,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff1eff00|Hitem:192997::::::::70:577::13:6:8839:8840:5247:8983:8780:8802:4:28:2164:29:32:38:8:40:256:::::|h[Crimson Combatant's Jeweled Signet |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["Link"] = "|cff0070dd|Hitem:193731::::::::70:581::2:5:7976:6652:7935:1581:8766:1:28:2156:::::|h[Circle of Ascended Frost]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 198529,
-			["Level"] = 350,
+			["ID"] = 198089,
+			["Level"] = 372,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff0070dd|Hitem:198529::::::::70:581::29:3:6652:1424:8766:1:28:2437:::::|h[Wayfarer's Iron Torch]|h|r",
+			["Link"] = "|cffa335ee|Hitem:198089::::::::70:581:::::::::|h[Darkmoon Deck: Watcher]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 198529,
-			["Level"] = 350,
+			["ID"] = 193743,
+			["Level"] = 359,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:198529::::::::70:577::29:3:6652:1424:8766:1:28:2437:::::|h[Wayfarer's Iron Torch]|h|r",
+			["Link"] = "|cff0070dd|Hitem:193743::::::::70:581::2:4:7976:6652:1581:8766:1:28:2156:::::|h[Irideus Fragment]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 195482,
@@ -92,7 +90,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:190508:6647:::::::70:581::13:5:8836:8840:8902:8801:8792:6:28:2164:29:49:30:40:38:7:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r",
 		}, -- [17]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Thezidari-Hyjal",
 	["Artifacts"] = {
 		[127829] = {
 			["Relics"] = {
@@ -123,6 +123,7 @@ PawnOptions = {
 			["Name"] = "The Aldrachi Warblades",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DEMONHUNTER",

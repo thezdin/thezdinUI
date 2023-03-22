@@ -36,10 +36,10 @@ _detalhes_database = {
 			["defensive-personal"] = false,
 		},
 		["width"] = 120,
-		["height"] = 18,
 		["framme_locked"] = false,
 		["cooldowns"] = {
 		},
+		["height"] = 18,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
@@ -117,13 +117,17 @@ _detalhes_database = {
 		["frame"] = {
 		},
 	},
-	["last_instance_time"] = 0,
+	["force_font_outline"] = "",
 	["mythic_plus_log"] = {
 	},
-	["last_realversion"] = 148,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
 	["cached_roles"] = {
 	},
-	["combat_counter"] = 6,
+	["last_instance_time"] = 0,
+	["last_realversion"] = 148,
 	["local_instances_config"] = {
 		{
 			["modo"] = 2,
@@ -147,10 +151,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -517.8890151977539,
-					["x"] = 1392.102783203125,
-					["w"] = 255.7800140380859,
-					["h"] = 183.77783203125,
+					["y"] = -517.4444427490234,
+					["x"] = 1397.771728515625,
+					["w"] = 242.4465789794922,
+					["h"] = 181.1112213134766,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -183,10 +187,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -517.8890151977539,
-					["x"] = 1169.656982421875,
-					["w"] = 189.1114807128906,
-					["h"] = 183.77783203125,
+					["y"] = -517.4444427490234,
+					["x"] = 1175.326171875,
+					["w"] = 202.4447021484375,
+					["h"] = 181.1112213134766,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -218,10 +222,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -517.8890151977539,
-					["x"] = 976.101318359375,
-					["w"] = 198.0001068115234,
-					["h"] = 183.77783203125,
+					["y"] = -517.4444427490234,
+					["x"] = 974.659423828125,
+					["w"] = 198.8888244628906,
+					["h"] = 181.1112213134766,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -232,8 +236,7 @@ _detalhes_database = {
 			},
 		}, -- [3]
 	},
-	["force_font_outline"] = "",
-	["last_day"] = "10",
+	["last_day"] = "20",
 	["ignore_nicktag"] = false,
 	["combat_id"] = 0,
 	["savedStyles"] = {
@@ -325,10 +328,7 @@ _detalhes_database = {
 				0.5, -- [4]
 			},
 			["scale"] = 1,
-			["main_frame_size"] = {
-				300.0000610351563, -- [1]
-				500.0000610351563, -- [2]
-			},
+			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 163.6956331208669,
 				["radius"] = 160,
@@ -349,17 +349,7 @@ _detalhes_database = {
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["per_second"] = {
-				["enabled"] = true,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = 0,
-				["x"] = -0.0018310546875,
-				["size"] = 32,
-				["update_speed"] = 0.05,
-				["attribute_type"] = 1,
-			},
+			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -367,22 +357,35 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["author"] = "Terciob",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = -1.52587890625e-05,
-			["font_size"] = 10,
-			["x"] = -0.002197265625,
-			["font_face"] = "Friz Quadrata TT",
-			["square_size"] = 32,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["per_second"] = {
+				["enabled"] = true,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 0,
+				["x"] = -0.00152587890625,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
 			["use_spark"] = true,
+			["x"] = -0.0020751953125,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
+			["y"] = -1.52587890625e-05,
+			["author"] = "Terciob",
 			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["main_frame_size"] = {
+				300.0000610351563, -- [1]
+				500.0000610351563, -- [2]
+			},
 		},
 	},
 	["announce_deaths"] = {
@@ -512,16 +515,13 @@ _detalhes_database = {
 		},
 	},
 	["character_data"] = {
-		["logons"] = 3,
-	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+		["logons"] = 5,
 	},
 	["nick_tag_cache"] = {
 		["nextreset"] = 1679793531,
 		["last_version"] = 15,
 	},
+	["combat_counter"] = 10,
 	["announce_cooldowns"] = {
 		["enabled"] = false,
 		["ignored_cooldowns"] = {

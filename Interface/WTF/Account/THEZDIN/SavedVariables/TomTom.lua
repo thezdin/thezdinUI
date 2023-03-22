@@ -2,6 +2,7 @@
 TomTomDB = {
 	["profileKeys"] = {
 		["Thezdinson - Hyjal"] = "Default",
+		["Thezbank - Mannoroth"] = "Default",
 		["Thez - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
 		["Thezfu - Hyjal"] = "Default",
@@ -10,11 +11,12 @@ TomTomDB = {
 		["Úlfhédnar - Hyjal"] = "Default",
 		["Thezkin - Hyjal"] = "Default",
 		["Thezfu - Turalyon"] = "Default",
+		["Thezadin - Hyjal"] = "Default",
 		["Thezman - Hyjal"] = "Default",
 		["Foulfellow - Hyjal"] = "Default",
 		["Thezbot - Azgalor"] = "Default",
 		["Thezdemon - Hyjal"] = "Default",
-		["Thezadin - Hyjal"] = "Default",
+		["Thezdruid - Hyjal"] = "Default",
 		["Thezdgar - Hyjal"] = "Default",
 		["Sigurdsson - Hyjal"] = "Default",
 		["Thezbear - Turalyon"] = "Default",
@@ -53,6 +55,7 @@ TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Thezdinson - Hyjal"] = "Thezdinson - Hyjal",
+		["Thezbank - Mannoroth"] = "Thezbank - Mannoroth",
 		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
@@ -61,11 +64,12 @@ TomTomWaypointsM = {
 		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
+		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Thezdemon - Hyjal"] = "Thezdemon - Hyjal",
-		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Thezdruid - Hyjal"] = "Thezdruid - Hyjal",
 		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
@@ -76,6 +80,8 @@ TomTomWaypointsM = {
 	},
 	["profiles"] = {
 		["Thezdinson - Hyjal"] = {
+		},
+		["Thezbank - Mannoroth"] = {
 		},
 		["Thez - Hyjal"] = {
 		},
@@ -92,6 +98,8 @@ TomTomWaypointsM = {
 		["Thezkin - Hyjal"] = {
 		},
 		["Thezfu - Turalyon"] = {
+		},
+		["Thezadin - Hyjal"] = {
 		},
 		["Thezman - Hyjal"] = {
 		},
@@ -402,7 +410,7 @@ TomTomWaypointsM = {
 				},
 			},
 		},
-		["Thezadin - Hyjal"] = {
+		["Thezdruid - Hyjal"] = {
 		},
 		["Thezdgar - Hyjal"] = {
 		},

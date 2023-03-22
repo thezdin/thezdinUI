@@ -11,28 +11,52 @@ _detalhes_database = {
 		["enabled"] = false,
 		["current_cooldowns"] = {
 		},
+		["group_frames"] = true,
 		["lines_per_column"] = 12,
+		["frames"] = {
+			["defensive-raid"] = {
+			},
+			["main"] = {
+			},
+			["ofensive"] = {
+			},
+			["defensive-target"] = {
+			},
+			["utility"] = {
+			},
+			["defensive-personal"] = {
+			},
+		},
 		["show_options"] = false,
-		["filters"] = {
+		["own_frame"] = {
 			["defensive-raid"] = false,
-			["ofensive"] = true,
+			["ofensive"] = false,
 			["defensive-target"] = false,
 			["utility"] = false,
 			["defensive-personal"] = false,
 		},
 		["width"] = 120,
+		["cooldowns"] = {
+		},
 		["height"] = 18,
 		["framme_locked"] = false,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
 		},
-		["cooldowns"] = {
-		},
-		["pos"] = {
+		["show_title"] = true,
+		["filters"] = {
+			["utility"] = false,
+			["defensive-raid"] = false,
+			["itemutil"] = false,
+			["itempower"] = false,
+			["defensive-target"] = false,
+			["ofensive"] = true,
+			["itemheal"] = false,
+			["defensive-personal"] = false,
 		},
 	},
-	["last_version"] = "9.2.59824",
+	["last_version"] = "10.0.5 10662",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -48,6 +72,23 @@ _detalhes_database = {
 	["cached_talents"] = {
 	},
 	["last_instance_id"] = 0,
+	["data_harvest_for_charsts"] = {
+		["players"] = {
+			{
+				["name"] = "Damage of Each Individual Player",
+				["playerOnly"] = true,
+				["playerKey"] = "total",
+				["combatObjectContainer"] = 1,
+			}, -- [1]
+		},
+		["totals"] = {
+			{
+				["combatObjectSubTableKey"] = 1,
+				["name"] = "Damage of All Player Combined",
+				["combatObjectSubTableName"] = "totals",
+			}, -- [1]
+		},
+	},
 	["announce_interrupts"] = {
 		["enabled"] = false,
 		["whisper"] = "",
@@ -61,10 +102,72 @@ _detalhes_database = {
 		["reverse"] = false,
 	},
 	["active_profile"] = "Thezbot-Azgalor",
-	["last_realversion"] = 146,
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
 	["benchmark_db"] = {
 		["frame"] = {
 		},
+	},
+	["combat_counter"] = 2,
+	["mythic_plus_log"] = {
+	},
+	["local_instances_config"] = {
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = false,
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = 0,
+					["x"] = 0,
+					["w"] = 310.0000610351563,
+					["h"] = 158.0000305175781,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["cached_roles"] = {
+	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1680496306,
+		["last_version"] = 15,
+	},
+	["force_font_outline"] = "",
+	["last_instance_time"] = 0,
+	["last_day"] = "18",
+	["ignore_nicktag"] = false,
+	["combat_id"] = 0,
+	["savedStyles"] = {
+	},
+	["data_harvested_for_charts"] = {
 	},
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
@@ -87,16 +190,9 @@ _detalhes_database = {
 			["playSoundFile"] = "Details Threat Warning Volume 3",
 			["useclasscolors"] = false,
 		},
-		["DETAILS_PLUGIN_RAIDCHECK"] = {
+		["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
 			["enabled"] = true,
-			["food_tier1"] = true,
-			["mythic_1_4"] = true,
-			["food_tier2"] = true,
 			["author"] = "Terciob",
-			["use_report_panel"] = true,
-			["pre_pot_healers"] = false,
-			["pre_pot_tanks"] = false,
-			["food_tier3"] = true,
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["tank_block_size_height"] = 50,
@@ -136,6 +232,17 @@ _detalhes_database = {
 			["encounter_timers_dbm"] = {
 			},
 		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Terciob",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["use_square_mode"] = false,
 			["is_first_run"] = false,
@@ -146,20 +253,21 @@ _detalhes_database = {
 				1, -- [3]
 				0.5, -- [4]
 			},
+			["scale"] = 1,
 			["main_frame_size"] = {
-				299.9997863769531, -- [1]
+				300.0000610351563, -- [1]
 				500.0000610351563, -- [2]
 			},
 			["minimap"] = {
-				["minimapPos"] = 160,
+				["minimapPos"] = 163.6956331208669,
 				["radius"] = 160,
 				["hide"] = false,
 			},
-			["scale"] = 1,
-			["arrow_anchor_x"] = 0,
 			["point"] = "CENTER",
+			["arrow_anchor_x"] = 0,
+			["y"] = -1.52587890625e-05,
 			["row_texture"] = "Details Serenity",
-			["y"] = 1.52587890625e-05,
+			["square_grow_direction"] = "right",
 			["font_color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -187,17 +295,17 @@ _detalhes_database = {
 				0.4, -- [4]
 			},
 			["per_second"] = {
-				["enabled"] = false,
+				["enabled"] = true,
 				["point"] = "CENTER",
 				["scale"] = 1,
 				["font_shadow"] = true,
-				["y"] = -6.103515625e-05,
-				["x"] = -0.00018310546875,
+				["y"] = 0,
+				["x"] = -0.00152587890625,
 				["update_speed"] = 0.05,
 				["size"] = 32,
 				["attribute_type"] = 1,
 			},
-			["x"] = -0.00018310546875,
+			["x"] = -0.0020751953125,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
 			["arrow_anchor_y"] = 0,
@@ -206,64 +314,6 @@ _detalhes_database = {
 			["author"] = "Terciob",
 		},
 	},
-	["last_day"] = "29",
-	["local_instances_config"] = {
-		{
-			["modo"] = 2,
-			["sub_attribute"] = 1,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			},
-			["is_open"] = true,
-			["isLocked"] = false,
-			["snap"] = {
-			},
-			["segment"] = 0,
-			["mode"] = 2,
-			["attribute"] = 1,
-			["pos"] = {
-				["normal"] = {
-					["y"] = 0,
-					["x"] = 0,
-					["w"] = 310.0000305175781,
-					["h"] = 158.0000152587891,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [1]
-	},
-	["last_instance_time"] = 0,
-	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "",
-		["started"] = false,
-		["segment_id"] = 0,
-		["ej_id"] = 0,
-		["started_at"] = 0,
-		["run_id"] = 0,
-		["level"] = 0,
-		["dungeon_zone_id"] = 0,
-		["previous_boss_killed_at"] = 0,
-	},
-	["cached_roles"] = {
-	},
-	["ignore_nicktag"] = false,
-	["combat_id"] = 0,
-	["savedStyles"] = {
-	},
-	["nick_tag_cache"] = {
-		["nextreset"] = 1657838409,
-		["last_version"] = 14,
-	},
-	["combat_counter"] = 2,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -300,7 +350,7 @@ _detalhes_database = {
 		},
 		["raid_roster_indexed"] = {
 		},
-		["tempo_start"] = 257303.561,
+		["tempo_start"] = 250411.863,
 		["last_events_tables"] = {
 		},
 		["alternate_power"] = {
@@ -391,7 +441,7 @@ _detalhes_database = {
 	["character_data"] = {
 		["logons"] = 1,
 	},
-	["force_font_outline"] = "",
+	["last_realversion"] = 148,
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",

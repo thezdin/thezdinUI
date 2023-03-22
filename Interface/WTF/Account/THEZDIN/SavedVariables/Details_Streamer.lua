@@ -4,12 +4,15 @@ Details_StreamerDB = {
 		["Úlfhédnar - Hyjal"] = "Thezidari - Hyjal",
 		["Foulfellow - Hyjal"] = "Thezidari - Hyjal",
 		["Thezadin - Hyjal"] = "Thezidari - Hyjal",
+		["Thezbank - Mannoroth"] = "Thezidari - Hyjal",
 		["Thez - Hyjal"] = "Thezidari - Hyjal",
+		["Thezdruid - Hyjal"] = "Thezidari - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezidari - Hyjal",
-		["Thezdivh - Hyjal"] = "Thezidari - Hyjal",
-		["Thezdgar - Hyjal"] = "Thezidari - Hyjal",
 		["Jägare - Hyjal"] = "Thezidari - Hyjal",
+		["Thezbot - Azgalor"] = "Thezidari - Hyjal",
+		["Thezdgar - Hyjal"] = "Thezidari - Hyjal",
+		["Thezdivh - Hyjal"] = "Thezidari - Hyjal",
 	},
 	["profiles"] = {
 		["Thezidari - Hyjal"] = {
@@ -22,28 +25,28 @@ Details_StreamerDB = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["scale"] = 1,
 			["main_frame_size"] = {
 				300.0000610351563, -- [1]
 				500.0000610351563, -- [2]
 			},
+			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 163.6956331208669,
 				["radius"] = 160,
 				["hide"] = false,
 			},
-			["row_height"] = 20,
+			["main_frame_locked"] = false,
 			["arrow_anchor_x"] = 0,
-			["font_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["author"] = "Terciob",
 			["row_texture"] = "Details Serenity",
 			["square_grow_direction"] = "right",
-			["point"] = "CENTER",
-			["main_frame_strata"] = "LOW",
+			["font_size"] = 10,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
@@ -55,32 +58,32 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["author"] = "Terciob",
+			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["y"] = -1.52587890625e-05,
-			["x"] = -0.00048828125,
-			["font_face"] = "Friz Quadrata TT",
-			["square_size"] = 32,
 			["per_second"] = {
 				["enabled"] = true,
 				["point"] = "CENTER",
 				["scale"] = 1,
 				["font_shadow"] = true,
 				["y"] = 0,
-				["x"] = -0.00030517578125,
-				["size"] = 32,
-				["update_speed"] = 0.05,
+				["x"] = -0.00152587890625,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
+			["y"] = -1.52587890625e-05,
+			["x"] = -0.0020751953125,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
+			["point"] = "CENTER",
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["row_height"] = 20,
+			["scale"] = 1,
 		},
 	},
 }
