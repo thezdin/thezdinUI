@@ -25,28 +25,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Staff 0:02", -- [1]
-			"Silioron-MoonGuard", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Silioron-MoonGuard", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			476, -- [11]
-			"Player-3675-0A7344D9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSilioron-MoonGuard|r",
-			[51] = 1679352127,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [1]
-		{
 			"Interrupted Primalist Mage's |cff71d5ff|Hspell:375716:0|h[Ice Barrage]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
@@ -67,7 +45,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1679352138,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [2]
+		}, -- [1]
 		{
 			"Greatstaff's Wrath on Dariôn", -- [1]
 			"Dariôn-MoonGuard", -- [2]
@@ -89,7 +67,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDariôn-MoonGuard|r",
 			[51] = 1679352168,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+		}, -- [2]
 		{
 			"Interrupted Primalist Mage's |cff71d5ff|Hspell:375716:0|h[Ice Barrage]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -111,7 +89,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1679352200,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [4]
+		}, -- [3]
 		{
 			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -133,7 +111,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679352200,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [5]
+		}, -- [4]
 		{
 			"Greatstaff's Wrath on Badattitude", -- [1]
 			"Badattitude-Draenor", -- [2]
@@ -155,7 +133,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aBadattitude-Draenor|r",
 			[51] = 1679352232,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [5]
 		{
 			"Ionizing Charge on Rexford", -- [1]
 			"Rexford-Bloodhoof", -- [2]
@@ -177,7 +155,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRexford-Bloodhoof|r",
 			[51] = 1679352243,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [6]
 		{
 			"Ionizing Charge on Bobonus", -- [1]
 			"Bobonus-Illidan", -- [2]
@@ -199,7 +177,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aBobonus-Illidan|r",
 			[51] = 1679352243,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [7]
 		{
 			"Empowered Greatstaff's Wrath on Rexford", -- [1]
 			"Rexford-Bloodhoof", -- [2]
@@ -221,7 +199,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRexford-Bloodhoof|r",
 			[51] = 1679352265,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [8]
 		{
 			"Empowered Greatstaff's Wrath on Blackcleave", -- [1]
 			"Blackcleave-MoonGuard", -- [2]
@@ -243,7 +221,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBlackcleave-MoonGuard|r",
 			[51] = 1679352265,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [9]
 		{
 			"Empowered Greatstaff's Wrath on Artá", -- [1]
 			"Artá-Uldum", -- [2]
@@ -265,7 +243,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679352289,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [10]
 		{
 			"Empowered Greatstaff's Wrath on Jonkyna", -- [1]
 			"Jonkyna-Draenor", -- [2]
@@ -287,7 +265,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebJonkyna-Draenor|r",
 			[51] = 1679352289,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [11]
 		{
 			"¡Cólera del gran bastón potenciado en Kshy!", -- [1]
 			"Kshy-Quel'Thalas", -- [2]
@@ -309,7 +287,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Kshy-Quel'Thalas|r",
 			[51] = 1679352289,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [12]
 		{
 			"Empowered Greatstaff's Wrath on Mertho", -- [1]
 			"Mertho-Aggramar", -- [2]
@@ -331,7 +309,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebMertho-Aggramar|r",
 			[51] = 1679352318,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [13]
 		{
 			"Laser on Angryavocado", -- [1]
 			"Angryavocado-Frostmourne", -- [2]
@@ -353,7 +331,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeAngryavocado-Frostmourne|r",
 			[51] = 1679352318,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [14]
 		{
 			"Odds left evens right dont fuck up my friends", -- [1]
 			"Dariôn-MoonGuard", -- [2]
@@ -375,7 +353,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDariôn-MoonGuard|r",
 			[51] = 1679352423,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [16]
+		}, -- [15]
 		{
 			"NICE DC ON DRAKE IM DEAD", -- [1]
 			"Firestarlet-BlackwaterRaiders", -- [2]
@@ -397,7 +375,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebFirestarlet-BlackwaterRaiders|r",
 			[51] = 1679352441,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [17]
+		}, -- [16]
 		{
 			"I'm evens, we go right", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -419,7 +397,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1679352461,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [18]
+		}, -- [17]
 		{
 			"Bomb (2{rt2}) on Bobonus", -- [1]
 			"Bobonus-Illidan", -- [2]
@@ -441,7 +419,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aBobonus-Illidan|r",
 			[51] = 1679352546,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [18]
 		{
 			"Bomb (2{rt2}) on Xeyar", -- [1]
 			"Xeyar-Illidan", -- [2]
@@ -463,7 +441,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebXeyar-Illidan|r",
 			[51] = 1679352581,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [19]
 		{
 			"{rt3}Bomb 3", -- [1]
 			"Lunallia-Suramar", -- [2]
@@ -485,7 +463,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffLunallia-Suramar|r",
 			[51] = 1679352581,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [20]
 		{
 			"{rt2}Bomb 2", -- [1]
 			"Thangdk-Sargeras", -- [2]
@@ -507,7 +485,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aThangdk-Sargeras|r",
 			[51] = 1679352621,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [21]
 		{
 			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"ßasil-Illidan", -- [2]
@@ -529,7 +507,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468ßasil-Illidan|r",
 			[51] = 1679352621,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [22]
 		{
 			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -551,7 +529,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679352622,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [24]
+		}, -- [23]
 		{
 			"{rt2}3", -- [1]
 			"Thangdk-Sargeras", -- [2]
@@ -573,7 +551,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aThangdk-Sargeras|r",
 			[51] = 1679352626,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [24]
 		{
 			"{rt2}2", -- [1]
 			"Thangdk-Sargeras", -- [2]
@@ -595,7 +573,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aThangdk-Sargeras|r",
 			[51] = 1679352627,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [25]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r used!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -617,7 +595,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679352628,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [27]
+		}, -- [26]
 		{
 			"{rt2}1", -- [1]
 			"Thangdk-Sargeras", -- [2]
@@ -639,7 +617,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aThangdk-Sargeras|r",
 			[51] = 1679352628,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [27]
 		{
 			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -661,7 +639,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679352628,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [29]
+		}, -- [28]
 		{
 			"wolebats, wrong side bro", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -683,7 +661,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1679352662,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [30]
+		}, -- [29]
 		{
 			"Interrupted Stormseeker Acolyte's |cff71d5ff|Hspell:385553:0|h[Storm Bolt]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -705,7 +683,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1679352677,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [31]
+		}, -- [30]
 		{
 			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -727,7 +705,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679352777,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [32]
+		}, -- [31]
 		{
 			"shouldnt we wipe?", -- [1]
 			"Kapclo-Stormrage", -- [2]
@@ -749,7 +727,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKapclo-Stormrage|r",
 			[51] = 1679352782,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [33]
+		}, -- [32]
 		{
 			"Charge on Bobonus", -- [1]
 			"Bobonus-Illidan", -- [2]
@@ -771,7 +749,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aBobonus-Illidan|r",
 			[51] = 1679352814,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [33]
 		{
 			"{rt1}Charge 1", -- [1]
 			"Chelicerata-Frostmourne", -- [2]
@@ -793,7 +771,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dChelicerata-Frostmourne|r",
 			[51] = 1679352814,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [34]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r used!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -815,7 +793,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679352816,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [36]
+		}, -- [35]
 		{
 			"3", -- [1]
 			"Bobonus-Illidan", -- [2]
@@ -837,7 +815,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aBobonus-Illidan|r",
 			[51] = 1679352817,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [36]
 		{
 			"{rt4}Charge 4", -- [1]
 			"Artá-Uldum", -- [2]
@@ -859,7 +837,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679352820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [37]
 		{
 			"not with 3 crazy ass dps warriors", -- [1]
 			"Rexford-Bloodhoof", -- [2]
@@ -881,7 +859,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRexford-Bloodhoof|r",
 			[51] = 1679352836,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [39]
+		}, -- [38]
 		{
 			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -903,7 +881,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679352836,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [40]
+		}, -- [39]
 		{
 			"carrying the raid", -- [1]
 			"Rexford-Bloodhoof", -- [2]
@@ -925,7 +903,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRexford-Bloodhoof|r",
 			[51] = 1679352851,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [41]
+		}, -- [40]
 		{
 			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -947,7 +925,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679352885,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [42]
+		}, -- [41]
 		{
 			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -969,7 +947,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679352889,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [43]
+		}, -- [42]
 		{
 			"3", -- [1]
 			"Bobonus-Illidan", -- [2]
@@ -991,7 +969,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aBobonus-Illidan|r",
 			[51] = 1679352909,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [43]
 		{
 			"there is a sexy gnome mage kickling ass", -- [1]
 			"Mertho-Aggramar", -- [2]
@@ -1013,7 +991,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebMertho-Aggramar|r",
 			[51] = 1679352959,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [45]
+		}, -- [44]
 		{
 			"lol still half the dps  ", -- [1]
 			"Rexford-Bloodhoof", -- [2]
@@ -1035,7 +1013,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRexford-Bloodhoof|r",
 			[51] = 1679352984,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [46]
+		}, -- [45]
 		{
 			"healers doing a fantastic job also", -- [1]
 			"Rexford-Bloodhoof", -- [2]
@@ -1057,7 +1035,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRexford-Bloodhoof|r",
 			[51] = 1679353038,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [47]
+		}, -- [46]
 		{
 			"truth", -- [1]
 			"Mertho-Aggramar", -- [2]
@@ -1079,7 +1057,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebMertho-Aggramar|r",
 			[51] = 1679353045,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [48]
+		}, -- [47]
 		{
 			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -1101,7 +1079,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353053,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [49]
+		}, -- [48]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r used!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -1123,7 +1101,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353064,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [50]
+		}, -- [49]
 		{
 			"2nd times the charm friends!", -- [1]
 			"Dariôn-MoonGuard", -- [2]
@@ -1145,7 +1123,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDariôn-MoonGuard|r",
 			[51] = 1679353089,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [51]
+		}, -- [50]
 		{
 			"i believe in y'all!", -- [1]
 			"Dariôn-MoonGuard", -- [2]
@@ -1167,7 +1145,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDariôn-MoonGuard|r",
 			[51] = 1679353099,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [52]
+		}, -- [51]
 		{
 			"thats comforting :D", -- [1]
 			"Artá-Uldum", -- [2]
@@ -1189,7 +1167,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353118,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [53]
+		}, -- [52]
 		{
 			"all for the stupid dragon mount transmog", -- [1]
 			"Kapclo-Stormrage", -- [2]
@@ -1211,7 +1189,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKapclo-Stormrage|r",
 			[51] = 1679353151,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [54]
+		}, -- [53]
 		{
 			"Same", -- [1]
 			"Dariôn-MoonGuard", -- [2]
@@ -1233,7 +1211,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDariôn-MoonGuard|r",
 			[51] = 1679353155,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [55]
+		}, -- [54]
 		{
 			"{rt1}Bomb 1", -- [1]
 			"ßasil-Illidan", -- [2]
@@ -1255,7 +1233,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468ßasil-Illidan|r",
 			[51] = 1679353141,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [55]
 		{
 			"Bomb (3{rt3}) on Xeyar", -- [1]
 			"Xeyar-Illidan", -- [2]
@@ -1277,7 +1255,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebXeyar-Illidan|r",
 			[51] = 1679353141,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [56]
 		{
 			"{rt3} 3", -- [1]
 			"Xeyar-Illidan", -- [2]
@@ -1299,7 +1277,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebXeyar-Illidan|r",
 			[51] = 1679353206,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [57]
 		{
 			"{rt3} 2", -- [1]
 			"Xeyar-Illidan", -- [2]
@@ -1321,7 +1299,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebXeyar-Illidan|r",
 			[51] = 1679353207,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [58]
 		{
 			"{rt3} 1", -- [1]
 			"Xeyar-Illidan", -- [2]
@@ -1343,7 +1321,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebXeyar-Illidan|r",
 			[51] = 1679353208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [59]
 		{
 			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -1365,7 +1343,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353235,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [61]
+		}, -- [60]
 		{
 			"{rt3}Bomb 3", -- [1]
 			"Mertho-Aggramar", -- [2]
@@ -1387,7 +1365,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebMertho-Aggramar|r",
 			[51] = 1679353236,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [61]
 		{
 			"{rt2}Bomb 2", -- [1]
 			"Rexford-Bloodhoof", -- [2]
@@ -1409,7 +1387,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRexford-Bloodhoof|r",
 			[51] = 1679353236,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [62]
 		{
 			"{rt1}Bomb 1", -- [1]
 			"Kapclo-Stormrage", -- [2]
@@ -1431,7 +1409,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKapclo-Stormrage|r",
 			[51] = 1679353236,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [63]
 		{
 			"Bomb (1{rt1}) on Kapclo", -- [1]
 			"Kapclo-Stormrage", -- [2]
@@ -1453,7 +1431,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKapclo-Stormrage|r",
 			[51] = 1679353236,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [64]
 		{
 			"omg i thought i was on a lighting puddle my bad -_-'", -- [1]
 			"Olliegrayson-Stormrage", -- [2]
@@ -1475,7 +1453,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddOlliegrayson-Stormrage|r",
 			[51] = 1679353246,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [66]
+		}, -- [65]
 		{
 			"{rt2}Bomb 2", -- [1]
 			"Willowed-MoonGuard", -- [2]
@@ -1497,7 +1475,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffWillowed-MoonGuard|r",
 			[51] = 1679353276,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [66]
 		{
 			"Bomb (1{rt1}) on Bobonus", -- [1]
 			"Bobonus-Illidan", -- [2]
@@ -1519,7 +1497,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aBobonus-Illidan|r",
 			[51] = 1679353276,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [67]
 		{
 			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"ßasil-Illidan", -- [2]
@@ -1541,7 +1519,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468ßasil-Illidan|r",
 			[51] = 1679353277,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [68]
 		{
 			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -1563,7 +1541,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353278,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [70]
+		}, -- [69]
 		{
 			"blown through a puddle......its stopped me for a sec....then went flying", -- [1]
 			"Auraka-Staghelm", -- [2]
@@ -1585,7 +1563,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAuraka-Staghelm|r",
 			[51] = 1679353289,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [71]
+		}, -- [70]
 		{
 			"right siiiiide", -- [1]
 			"Xeyar-Illidan", -- [2]
@@ -1607,7 +1585,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebXeyar-Illidan|r",
 			[51] = 1679353379,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [71]
 		{
 			"{rt3}Charge 3", -- [1]
 			"Rexford-Bloodhoof", -- [2]
@@ -1629,7 +1607,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRexford-Bloodhoof|r",
 			[51] = 1679353455,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [72]
 		{
 			"{rt1}Charge 1", -- [1]
 			"Blackcleave-MoonGuard", -- [2]
@@ -1651,7 +1629,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBlackcleave-MoonGuard|r",
 			[51] = 1679353455,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [73]
 		{
 			"{rt3}3", -- [1]
 			"Rexford-Bloodhoof", -- [2]
@@ -1673,7 +1651,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRexford-Bloodhoof|r",
 			[51] = 1679353457,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [74]
 		{
 			"{rt1}3", -- [1]
 			"Blackcleave-MoonGuard", -- [2]
@@ -1695,7 +1673,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBlackcleave-MoonGuard|r",
 			[51] = 1679353457,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [75]
 		{
 			"{rt3}2", -- [1]
 			"Rexford-Bloodhoof", -- [2]
@@ -1717,7 +1695,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRexford-Bloodhoof|r",
 			[51] = 1679353459,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [76]
 		{
 			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -1739,7 +1717,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353476,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [78]
+		}, -- [77]
 		{
 			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1761,7 +1739,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1679353476,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [79]
+		}, -- [78]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r used!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -1783,7 +1761,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353484,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [80]
+		}, -- [79]
 		{
 			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"ßasil-Illidan", -- [2]
@@ -1805,7 +1783,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468ßasil-Illidan|r",
 			[51] = 1679353526,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [80]
 		{
 			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -1827,7 +1805,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353526,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [82]
+		}, -- [81]
 		{
 			"Interrupted Volatile Spark's |cff71d5ff|Hspell:388635:0|h[Burst]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1849,7 +1827,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1679353526,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [83]
+		}, -- [82]
 		{
 			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -1871,7 +1849,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353534,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [84]
+		}, -- [83]
 		{
 			"{rt2}Charge 2", -- [1]
 			"Willowed-MoonGuard", -- [2]
@@ -1893,7 +1871,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffWillowed-MoonGuard|r",
 			[51] = 1679353540,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [84]
 		{
 			"{rt2}3", -- [1]
 			"Willowed-MoonGuard", -- [2]
@@ -1915,7 +1893,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffWillowed-MoonGuard|r",
 			[51] = 1679353544,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [85]
 		{
 			"peepoSleepo", -- [1]
 			"Willowed-MoonGuard", -- [2]
@@ -1937,7 +1915,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffWillowed-MoonGuard|r",
 			[51] = 1679353607,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [87]
+		}, -- [86]
 		{
 			">> FRONTAL ON ME <<", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1959,7 +1937,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1679353666,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [87]
 		{
 			"which dumb fucking mage levitated me?", -- [1]
 			"Blackcleave-MoonGuard", -- [2]
@@ -1981,7 +1959,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBlackcleave-MoonGuard|r",
 			[51] = 1679353672,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [89]
+		}, -- [88]
 		{
 			"or priest", -- [1]
 			"Willowed-MoonGuard", -- [2]
@@ -2003,7 +1981,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffWillowed-MoonGuard|r",
 			[51] = 1679353685,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [90]
+		}, -- [89]
 		{
 			":D", -- [1]
 			"Willowed-MoonGuard", -- [2]
@@ -2025,7 +2003,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffWillowed-MoonGuard|r",
 			[51] = 1679353685,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [91]
+		}, -- [90]
 		{
 			"COPIUM", -- [1]
 			"Willowed-MoonGuard", -- [2]
@@ -2047,7 +2025,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffWillowed-MoonGuard|r",
 			[51] = 1679353691,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [92]
+		}, -- [91]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r used!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -2069,7 +2047,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353704,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [93]
+		}, -- [92]
 		{
 			"|cff71d5ff|Hspell:118038:0|h[Die by the Sword]|h|r used on Artá!", -- [1]
 			"Artá-Uldum", -- [2]
@@ -2091,7 +2069,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353705,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [94]
+		}, -- [93]
 		{
 			">> FRONTAL ON ME <<", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2113,7 +2091,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1679353726,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [94]
 		{
 			"{rt1}Charge 1", -- [1]
 			"Artá-Uldum", -- [2]
@@ -2135,7 +2113,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dArtá-Uldum|r",
 			[51] = 1679353745,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [95]
 		{
 			"I need a hero!!", -- [1]
 			"Kshy-Quel'Thalas", -- [2]
@@ -2157,7 +2135,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Kshy-Quel'Thalas|r",
 			[51] = 1679353760,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [97]
+		}, -- [96]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:17112:Player-3661-091C86DD:1:3:20:23:4294967295:4294967295:4294967295:4294967295|h[Fury of the Storm]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2179,7 +2157,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1679353770,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [98]
+		}, -- [97]
 		{
 			"ANY JCs WHO CAN CRAFT RINGS", -- [1]
 			"Thrashadin-Hyjal", -- [2]
@@ -2200,6 +2178,28 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cfff48cbaThrashadin|r",
 			[51] = 1679356545,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"Now crafting |cffa335ee|Hitem:204217::::::::60:269::::1:40:985:::::|h[Unstable Elementium]|h|r - send orders to Mooseymoose! Upgrade those shiny new Primordial Stones today!", -- [1]
+			"Beluusha-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Beluusha-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-3661-0927DBA6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00ff98Beluusha|r",
+			[51] = 1679453189,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},

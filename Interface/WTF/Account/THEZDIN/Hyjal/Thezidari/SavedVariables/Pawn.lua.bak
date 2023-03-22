@@ -3,9 +3,9 @@ PawnOptions = {
 	["LastVersion"] = 2.0717,
 	["ItemLevels"] = {
 		{
-			["ID"] = 188441,
-			["Level"] = 359,
-			["Link"] = "|cff0070dd|Hitem:188441::::::::70:581::22:3:8171:7756:6652:2:9:70:28:181:::::|h[Battlemap Hide Helm]|h|r",
+			["ID"] = 200345,
+			["Level"] = 385,
+			["Link"] = "|cffa335ee|Hitem:200345::::::::70:581::4:6:7982:6652:7935:8828:1459:8767::::::|h[Skybound Avenger's Visor]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 193647,

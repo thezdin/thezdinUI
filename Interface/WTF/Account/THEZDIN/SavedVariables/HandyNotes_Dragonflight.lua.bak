@@ -58,9 +58,9 @@ HandyNotes_DragonflightDB = {
 			["icon_display_treasures"] = false,
 			["icon_display_bakar"] = true,
 			["icon_display_profession_treasures"] = true,
+			["icon_scale_pet_battles"] = 0.6,
 			["icon_display_ducklings"] = true,
 			["icon_display_dragonrace"] = true,
-			["icon_scale_pet_battles"] = 0.6,
 		},
 	},
 }

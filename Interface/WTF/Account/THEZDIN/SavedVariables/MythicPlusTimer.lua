@@ -29,7 +29,19 @@ MythicPlusTimerDB = {
 		["show_pull_values"] = true,
 		["show_percent_numbers"] = true,
 		["color_prideful_value"] = "FFFFFFFF",
+		["color_time"] = "FFFFFFFF",
+		["color_current_pull"] = "FF00FF00",
+		["color_timeleft_expired"] = "FFFF0000",
+		["color_chest_time_expired"] = "FF808080",
+		["color_prideful"] = "FFFFFFFF",
+		["insert_keystone"] = true,
+		["show_affixes_as_text"] = false,
+		["color_deathcounter"] = "FFFFFFFF",
+		["objective_time_delta_only"] = false,
 		["npc_progress_id"] = "sl_1",
+		["hide_default_objectivetracker"] = true,
+		["color_objective_completed"] = "FF808080",
+		["objective_time"] = true,
 		["best_times"] = {
 			[2521] = {
 				0, -- [1]
@@ -640,11 +652,11 @@ MythicPlusTimerDB = {
 					789, -- [5]
 				},
 				["l18"] = {
-					1144, -- [1]
-					514, -- [2]
-					2078, -- [3]
-					2446, -- [4]
-					2224, -- [5]
+					978, -- [1]
+					444, -- [2]
+					1855, -- [3]
+					2187, -- [4]
+					1989, -- [5]
 				},
 				["l5"] = {
 					454, -- [1]
@@ -701,12 +713,12 @@ MythicPlusTimerDB = {
 					3155, -- [4]
 					2505, -- [5]
 				},
-				["l2affixes-9"] = {
-					400, -- [1]
-					178, -- [2]
-					680, -- [3]
-					842, -- [4]
-					754, -- [5]
+				["l18affixes-10-123-12-132"] = {
+					978, -- [1]
+					444, -- [2]
+					1855, -- [3]
+					2187, -- [4]
+					1989, -- [5]
 				},
 				["l4affixes-9-11"] = {
 					570, -- [1]
@@ -715,6 +727,13 @@ MythicPlusTimerDB = {
 					1140, -- [4]
 					1042, -- [5]
 				},
+				["l14affixes-10-7-124-132"] = {
+					902, -- [1]
+					445, -- [2]
+					1575, -- [3]
+					1881, -- [4]
+					1695, -- [5]
+				},
 				["l8affixes-9-6-124"] = {
 					890, -- [1]
 					422, -- [2]
@@ -722,12 +741,12 @@ MythicPlusTimerDB = {
 					1810, -- [4]
 					1300, -- [5]
 				},
-				["l13"] = {
-					1258, -- [1]
-					423, -- [2]
-					2112, -- [3]
-					3022, -- [4]
-					2313, -- [5]
+				["l11affixes-10-123-12-132"] = {
+					1009, -- [1]
+					474, -- [2]
+					1773, -- [3]
+					2210, -- [4]
+					1893, -- [5]
 				},
 				["l2"] = {
 					400, -- [1]
@@ -750,12 +769,12 @@ MythicPlusTimerDB = {
 					3022, -- [4]
 					2517, -- [5]
 				},
-				["l11affixes-10-123-12-132"] = {
-					1009, -- [1]
-					474, -- [2]
-					1773, -- [3]
-					2210, -- [4]
-					1893, -- [5]
+				["l13"] = {
+					1258, -- [1]
+					423, -- [2]
+					2112, -- [3]
+					3022, -- [4]
+					2313, -- [5]
 				},
 				["l13affixes-10-123-12-132"] = {
 					1258, -- [1]
@@ -764,12 +783,12 @@ MythicPlusTimerDB = {
 					3477, -- [4]
 					2313, -- [5]
 				},
-				["l14affixes-10-7-124-132"] = {
-					902, -- [1]
-					445, -- [2]
-					1575, -- [3]
-					1881, -- [4]
-					1695, -- [5]
+				["l2affixes-9"] = {
+					400, -- [1]
+					178, -- [2]
+					680, -- [3]
+					842, -- [4]
+					754, -- [5]
 				},
 				["l17"] = {
 					1477, -- [1]
@@ -1125,13 +1144,13 @@ MythicPlusTimerDB = {
 					1995, -- [5]
 					1725, -- [6]
 				},
-				["l14"] = {
-					229, -- [1]
-					1419, -- [2]
-					911, -- [3]
-					1909, -- [4]
-					2090, -- [5]
-					1709, -- [6]
+				["l5affixes-10-6"] = {
+					101, -- [1]
+					824, -- [2]
+					521, -- [3]
+					1075, -- [4]
+					1188, -- [5]
+					991, -- [6]
 				},
 				["l14affixes-9-123-14-132"] = {
 					270, -- [1]
@@ -1141,14 +1160,6 @@ MythicPlusTimerDB = {
 					2651, -- [5]
 					1709, -- [6]
 				},
-				["l5affixes-10-6"] = {
-					101, -- [1]
-					824, -- [2]
-					521, -- [3]
-					1075, -- [4]
-					1188, -- [5]
-					991, -- [6]
-				},
 				["l12affixes-10-123-12-132"] = {
 					346, -- [1]
 					1825, -- [2]
@@ -1156,6 +1167,14 @@ MythicPlusTimerDB = {
 					2426, -- [4]
 					2830, -- [5]
 					2282, -- [6]
+				},
+				["l14"] = {
+					229, -- [1]
+					1419, -- [2]
+					911, -- [3]
+					1909, -- [4]
+					2090, -- [5]
+					1709, -- [6]
 				},
 				["l15affixes-10-7-124-132"] = {
 					308, -- [1]
@@ -1911,458 +1930,6 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
-		["color_timeleft_expired"] = "FFFF0000",
-		["color_chest_time_expired"] = "FF808080",
-		["color_chest_timeleft"] = "FF00FF00",
-		["color_current_pull"] = "FF00FF00",
-		["show_affixes_as_text"] = false,
-		["color_deathcounter"] = "FFFFFFFF",
-		["objective_time_delta_only"] = false,
-		["color_dungeon_name"] = "FFFFD100",
-		["hide_default_objectivetracker"] = true,
-		["color_objective_completed"] = "FF808080",
-		["objective_time"] = true,
-		["insert_keystone"] = true,
-		["color_prideful"] = "FFFFFFFF",
-		["color_timeleft"] = "FF00FF00",
-		["color_time"] = "FFFFFFFF",
-		["npc_progress"] = {
-			[200137] = {
-				[8] = 73,
-			},
-			[195930] = {
-				[10] = 20,
-			},
-			[59598] = {
-				114, -- [1]
-			},
-			[192329] = {
-				[2] = 547,
-			},
-			[192680] = {
-				[18] = 44,
-			},
-			[104278] = {
-				[10] = 56,
-			},
-			[197398] = {
-				[2] = 880,
-			},
-			[104247] = {
-				[4] = 24,
-			},
-			[104295] = {
-				365, -- [1]
-			},
-			[96677] = {
-				[4] = 5,
-			},
-			[107435] = {
-				[12] = 1,
-			},
-			[195265] = {
-				[10] = 28,
-			},
-			[111563] = {
-				[4] = 9,
-			},
-			[192333] = {
-				[8] = 127,
-			},
-			[187139] = {
-				[8] = 8,
-			},
-			[105699] = {
-				[2] = 152,
-			},
-			[105715] = {
-				[4] = 103,
-			},
-			[95834] = {
-				[3] = 196,
-			},
-			[59544] = {
-				[8] = 14,
-			},
-			[59552] = {
-				[8] = 15,
-			},
-			[196671] = {
-				[15] = 74,
-			},
-			[76104] = {
-				[6] = 91,
-			},
-			[195875] = {
-				46.8, -- [1]
-				0.2621440000000001, -- [2]
-			},
-			[75451] = {
-				[3] = 56,
-			},
-			[196577] = {
-				[5] = 234,
-			},
-			[197406] = {
-				[4] = 209,
-				[2] = 3.978585891278316e-10,
-			},
-			[188067] = {
-				[10] = 224,
-			},
-			[194315] = {
-				[10] = 25,
-			},
-			[101637] = {
-				[7] = 37,
-			},
-			[104251] = {
-				88.8, -- [1]
-				0.004722366482869651, -- [2]
-			},
-			[59545] = {
-				[8] = 16,
-			},
-			[62358] = {
-				170, -- [1]
-			},
-			[187240] = {
-				[8] = 113,
-			},
-			[197982] = {
-				[10] = 137,
-			},
-			[190205] = {
-				549.6, -- [1]
-				[10] = 1.214168057641087e-09,
-			},
-			[196102] = {
-				[5] = 342.2,
-				[8] = 4.271974071841847e-11,
-			},
-			[77700] = {
-				[8] = 63,
-			},
-			[198047] = {
-				[16] = 26,
-			},
-			[104300] = {
-				[4] = 75,
-			},
-			[197697] = {
-				[40] = 19,
-			},
-			[197219] = {
-				[9] = 124.8,
-				[2] = 5.444517870735032e-05,
-			},
-			[196263] = {
-				[5] = 2,
-			},
-			[190207] = {
-				[10] = 258,
-			},
-			[192789] = {
-				[5] = 159.6,
-				[6] = 0.018014398509482,
-			},
-			[101639] = {
-				[4] = 71,
-			},
-			[197698] = {
-				[40] = 34,
-			},
-			[196200] = {
-				[8] = 195,
-			},
-			[191164] = {
-				[8] = 131,
-			},
-			[59546] = {
-				[8] = 13,
-			},
-			[194894] = {
-				[6] = 84,
-			},
-			[58319] = {
-				135, -- [1]
-			},
-			[191739] = {
-				[8] = 36,
-			},
-			[192791] = {
-				[6] = 177,
-			},
-			[59873] = {
-				[12] = 49,
-			},
-			[196202] = {
-				[5] = 154,
-			},
-			[104270] = {
-				[8] = 169,
-			},
-			[188011] = {
-				[10] = 195,
-			},
-			[196203] = {
-				[6] = 37,
-			},
-			[193462] = {
-				[16] = 15,
-			},
-			[196044] = {
-				[4] = 137,
-			},
-			[105705] = {
-				[3] = 51,
-			},
-			[97083] = {
-				[11] = 30,
-			},
-			[76444] = {
-				[4] = 81,
-			},
-			[196045] = {
-				[5] = 466,
-			},
-			[59547] = {
-				[5] = 14,
-			},
-			[59555] = {
-				[5] = 90,
-			},
-			[194898] = {
-				[6] = 134,
-			},
-			[200126] = {
-				[8] = 92,
-			},
-			[195855] = {
-				[5] = 146,
-			},
-			[97068] = {
-				[8] = 39,
-			},
-			[195696] = {
-				[12] = 29,
-			},
-			[57109] = {
-				[8] = 68,
-			},
-			[187154] = {
-				[8] = 112,
-			},
-			[192796] = {
-				[5] = 99,
-			},
-			[186740] = {
-				[5] = 116,
-			},
-			[65317] = {
-				[5] = 14,
-			},
-			[187155] = {
-				[5] = 181,
-			},
-			[186741] = {
-				[5] = 378,
-			},
-			[76446] = {
-				[6] = 85,
-			},
-			[95842] = {
-				[3] = 187,
-			},
-			[75713] = {
-				[6] = 21,
-			},
-			[75506] = {
-				[5] = 19,
-			},
-			[97197] = {
-				[5] = 75,
-			},
-			[169425] = {
-				1, -- [1]
-			},
-			[188100] = {
-				14, -- [1]
-			},
-			[97084] = {
-				[11] = 5,
-			},
-			[97081] = {
-				[11] = 27,
-			},
-			[196694] = {
-				[4] = 185,
-				[5] = 0.0001063382396627936,
-			},
-			[95832] = {
-				[4] = 272,
-			},
-			[99891] = {
-				[8] = 38,
-			},
-			[96574] = {
-				[6] = 125,
-			},
-			[96608] = {
-				[3] = 179,
-			},
-			[75459] = {
-				[5] = 124,
-			},
-			[96640] = {
-				[3] = 91,
-			},
-			[192800] = {
-				[10] = 88,
-			},
-			[105703] = {
-				321, -- [1]
-			},
-			[192794] = {
-				[5] = 77,
-			},
-			[195851] = {
-				[6] = 108,
-			},
-			[187246] = {
-				[5] = 235,
-			},
-			[194896] = {
-				[7] = 105,
-			},
-			[200387] = {
-				[18] = 30,
-			},
-			[187159] = {
-				5, -- [1]
-			},
-			[196116] = {
-				[5] = 171,
-			},
-			[105704] = {
-				[8] = 14,
-			},
-			[187969] = {
-				[10] = 149,
-			},
-			[97087] = {
-				[3] = 470,
-			},
-			[187242] = {
-				[3] = 350,
-			},
-			[96609] = {
-				22, -- [1]
-			},
-			[75715] = {
-				[5] = 89,
-			},
-			[77006] = {
-				586, -- [1]
-			},
-			[196117] = {
-				[8] = 47,
-			},
-			[188244] = {
-				[18] = 48,
-			},
-			[104277] = {
-				[2] = 69,
-			},
-			[196576] = {
-				[5] = 108,
-				[4] = 0.01152921504606849,
-			},
-			[196115] = {
-				[8] = 42,
-			},
-			[200131] = {
-				[8] = 70,
-			},
-			[187894] = {
-				108, -- [1]
-			},
-			[96934] = {
-				[3] = 6,
-			},
-			[195927] = {
-				[10] = 19,
-			},
-			[75652] = {
-				[10] = 23,
-			},
-			[191847] = {
-				[8] = 56,
-			},
-			[195876] = {
-				[2] = 111,
-				[6] = 0.08589934592000005,
-			},
-			[96664] = {
-				[3] = 176,
-			},
-			[194317] = {
-				[10] = 26,
-			},
-			[195878] = {
-				[6] = 20,
-			},
-			[187160] = {
-				[5] = 50,
-			},
-			[195877] = {
-				[5] = 98,
-				[2] = 0.1073741824000001,
-			},
-			[104246] = {
-				[4] = 185,
-			},
-			[195928] = {
-				[10] = 20,
-			},
-			[195842] = {
-				[5] = 155,
-			},
-			[197985] = {
-				[16] = 21,
-			},
-			[187897] = {
-				[40] = 35,
-			},
-			[59553] = {
-				[8] = 12,
-			},
-			[95843] = {
-				[11] = 28,
-			},
-			[190510] = {
-				[5] = 161,
-			},
-			[194622] = {
-				1, -- [1]
-			},
-			[195929] = {
-				[10] = 18,
-			},
-			[193457] = {
-				[16] = 4,
-			},
-			[189555] = {
-				[3] = 211,
-			},
-			[96611] = {
-				[4] = 53,
-			},
-			[194316] = {
-				[10] = 23.6,
-				[6] = 0.6400000000000001,
-			},
-		},
 		["best_runs"] = {
 			[200] = {
 				["l17affixes-10-6-14-132"] = {
@@ -2837,9 +2404,9 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone"] = 0,
 						["2last_best_time_zone"] = 0,
 						["2last_best_time_zone_level_affixes"] = 305,
+						["5last_best_time_zone_level_affixes"] = 1216,
 						["4last_best_time_zone_level_affixes"] = 1338,
 						["3last_best_time_zone_level_affixes"] = 1094,
-						["5last_best_time_zone_level_affixes"] = 1216,
 					},
 				},
 				["l4affixes-9-11"] = {
@@ -2918,6 +2485,26 @@ MythicPlusTimerDB = {
 					},
 					["elapsed_time"] = 2244,
 				},
+				["l18affixes-10-123-12-132"] = {
+					["elapsed_time"] = 2187,
+					["times"] = {
+						978, -- [1]
+						444, -- [2]
+						1855, -- [3]
+						2187, -- [4]
+						1989, -- [5]
+						["5last_best_time_zone_level"] = 2224,
+						["4last_best_time_zone_level"] = 2446,
+						["3last_best_time_zone_level"] = 2078,
+						["2last_best_time_zone_level"] = 514,
+						["1last_best_time_zone_level"] = 1144,
+						["5last_best_time_zone"] = 0,
+						["4last_best_time_zone"] = 842,
+						["3last_best_time_zone"] = 0,
+						["2last_best_time_zone"] = 0,
+						["1last_best_time_zone"] = 0,
+					},
+				},
 				["l8affixes-9-6-124"] = {
 					["elapsed_time"] = 1810,
 					["times"] = {
@@ -2931,32 +2518,41 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone_level"] = 1831,
 						["1last_best_time_zone"] = 1348,
 						["1last_best_time_zone_level"] = 1348,
-						["2last_best_time_zone_level_affixes"] = 625,
 						["5last_best_time_zone_level_affixes"] = 2149,
+						["1last_best_time_zone_level_affixes"] = 1348,
 						["5last_best_time_zone"] = 2149,
 						["4last_best_time_zone"] = 2636,
 						["3last_best_time_zone"] = 1831,
 						["2last_best_time_zone"] = 498,
-						["1last_best_time_zone_level_affixes"] = 1348,
+						["2last_best_time_zone_level_affixes"] = 625,
 						["3last_best_time_zone_level_affixes"] = 1831,
 						["4last_best_time_zone_level_affixes"] = 2636,
 						["2last_best_time_zone_level"] = 625,
 					},
 				},
-				["l14affixes-10-7-124-132"] = {
-					["elapsed_time"] = 1881,
+				["l11affixes-9-8-13-132"] = {
 					["times"] = {
-						902, -- [1]
-						445, -- [2]
-						1575, -- [3]
-						1881, -- [4]
-						1695, -- [5]
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						3425, -- [4]
+						0, -- [5]
+						["5last_best_time_zone_level"] = 0,
+						["4last_best_time_zone_level"] = 2210,
+						["3last_best_time_zone_level"] = 0,
+						["1last_best_time_zone"] = 0,
+						["1last_best_time_zone_level"] = 0,
+						["5last_best_time_zone_level_affixes"] = 0,
 						["5last_best_time_zone"] = 0,
 						["4last_best_time_zone"] = 1810,
 						["3last_best_time_zone"] = 0,
 						["2last_best_time_zone"] = 0,
-						["1last_best_time_zone"] = 0,
+						["3last_best_time_zone_level_affixes"] = 0,
+						["1last_best_time_zone_level_affixes"] = 0,
+						["2last_best_time_zone_level_affixes"] = 0,
+						["2last_best_time_zone_level"] = 0,
 					},
+					["elapsed_time"] = 3425,
 				},
 				["l15affixes-10-7-124-132"] = {
 					["elapsed_time"] = 2638,
@@ -3015,29 +2611,20 @@ MythicPlusTimerDB = {
 					},
 					["elapsed_time"] = 3022,
 				},
-				["l11affixes-9-8-13-132"] = {
+				["l11affixes-10-123-12-132"] = {
 					["times"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						3425, -- [4]
-						0, -- [5]
-						["5last_best_time_zone_level"] = 0,
-						["4last_best_time_zone_level"] = 2210,
-						["3last_best_time_zone_level"] = 0,
-						["1last_best_time_zone"] = 0,
-						["1last_best_time_zone_level"] = 0,
-						["5last_best_time_zone_level_affixes"] = 0,
-						["5last_best_time_zone"] = 0,
+						1009, -- [1]
+						474, -- [2]
+						1773, -- [3]
+						2210, -- [4]
+						1893, -- [5]
+						["5last_best_time_zone"] = 1300,
 						["4last_best_time_zone"] = 1810,
-						["3last_best_time_zone"] = 0,
-						["2last_best_time_zone"] = 0,
-						["3last_best_time_zone_level_affixes"] = 0,
-						["1last_best_time_zone_level_affixes"] = 0,
-						["2last_best_time_zone_level_affixes"] = 0,
-						["2last_best_time_zone_level"] = 0,
+						["3last_best_time_zone"] = 1487,
+						["2last_best_time_zone"] = 422,
+						["1last_best_time_zone"] = 890,
 					},
-					["elapsed_time"] = 3425,
+					["elapsed_time"] = 2210,
 				},
 				["l13affixes-10-123-12-132"] = {
 					["elapsed_time"] = 3477,
@@ -3054,21 +2641,6 @@ MythicPlusTimerDB = {
 						["1last_best_time_zone"] = 890,
 					},
 				},
-				["l11affixes-10-123-12-132"] = {
-					["times"] = {
-						1009, -- [1]
-						474, -- [2]
-						1773, -- [3]
-						2210, -- [4]
-						1893, -- [5]
-						["5last_best_time_zone"] = 1300,
-						["4last_best_time_zone"] = 1810,
-						["3last_best_time_zone"] = 1487,
-						["2last_best_time_zone"] = 422,
-						["1last_best_time_zone"] = 890,
-					},
-					["elapsed_time"] = 2210,
-				},
 				["l18affixes-10-6-14-132"] = {
 					["times"] = {
 						1144, -- [1]
@@ -3081,18 +2653,33 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone_level"] = 2806,
 						["1last_best_time_zone"] = 0,
 						["1last_best_time_zone_level"] = 1353,
-						["5last_best_time_zone_level_affixes"] = 3372,
 						["4last_best_time_zone_level_affixes"] = 3677,
+						["3last_best_time_zone_level_affixes"] = 2806,
 						["5last_best_time_zone"] = 0,
 						["4last_best_time_zone"] = 1810,
 						["3last_best_time_zone"] = 0,
 						["2last_best_time_zone"] = 0,
-						["3last_best_time_zone_level_affixes"] = 2806,
+						["5last_best_time_zone_level_affixes"] = 3372,
 						["1last_best_time_zone_level_affixes"] = 1353,
 						["2last_best_time_zone_level_affixes"] = 549,
 						["2last_best_time_zone_level"] = 546,
 					},
 					["elapsed_time"] = 3001,
+				},
+				["l14affixes-10-7-124-132"] = {
+					["elapsed_time"] = 1881,
+					["times"] = {
+						902, -- [1]
+						445, -- [2]
+						1575, -- [3]
+						1881, -- [4]
+						1695, -- [5]
+						["5last_best_time_zone"] = 0,
+						["4last_best_time_zone"] = 1810,
+						["3last_best_time_zone"] = 0,
+						["2last_best_time_zone"] = 0,
+						["1last_best_time_zone"] = 0,
+					},
 				},
 				["l16affixes-10-6-14-132"] = {
 					["times"] = {
@@ -3135,9 +2722,9 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone"] = 637,
 						["2last_best_time_zone"] = 439,
 						["3last_best_time_zone_level_affixes"] = 2417,
+						["2last_best_time_zone_level_affixes"] = 1730,
 						["5last_best_time_zone_level_affixes"] = 2245,
 						["1last_best_time_zone_level_affixes"] = 383,
-						["2last_best_time_zone_level_affixes"] = 1730,
 					},
 					["elapsed_time"] = 1980,
 				},
@@ -3195,9 +2782,9 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone"] = 1426,
 						["2last_best_time_zone"] = 995,
 						["3last_best_time_zone_level_affixes"] = 1877,
+						["2last_best_time_zone_level_affixes"] = 1373,
 						["5last_best_time_zone_level_affixes"] = 1711,
 						["1last_best_time_zone_level_affixes"] = 357,
-						["2last_best_time_zone_level_affixes"] = 1373,
 					},
 					["elapsed_time"] = 2194,
 				},
@@ -3236,9 +2823,9 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone"] = 637,
 						["2last_best_time_zone"] = 439,
 						["2last_best_time_zone_level_affixes"] = 2093,
+						["4last_best_time_zone_level_affixes"] = 3117,
 						["5last_best_time_zone_level_affixes"] = 2696,
 						["3last_best_time_zone_level_affixes"] = 2918,
-						["4last_best_time_zone_level_affixes"] = 3117,
 					},
 				},
 				["l3affixes-9"] = {
@@ -3381,9 +2968,9 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone"] = 637,
 						["2last_best_time_zone"] = 439,
 						["3last_best_time_zone_level_affixes"] = 2530,
+						["1last_best_time_zone_level_affixes"] = 471,
 						["2last_best_time_zone_level_affixes"] = 1845,
 						["5last_best_time_zone_level_affixes"] = 2342,
-						["1last_best_time_zone_level_affixes"] = 471,
 					},
 					["elapsed_time"] = 1757,
 				},
@@ -3594,13 +3181,13 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone_level"] = 637,
 						["2last_best_time_zone_level"] = 439,
 						["1last_best_time_zone_level"] = 129,
-						["1last_best_time_zone_level_affixes"] = 201,
 						["5last_best_time_zone_level_affixes"] = 787,
+						["2last_best_time_zone_level_affixes"] = 679,
 						["5last_best_time_zone"] = 591,
 						["4last_best_time_zone"] = 710,
 						["3last_best_time_zone"] = 637,
 						["2last_best_time_zone"] = 439,
-						["2last_best_time_zone_level_affixes"] = 679,
+						["1last_best_time_zone_level_affixes"] = 201,
 						["3last_best_time_zone_level_affixes"] = 886,
 						["4last_best_time_zone_level_affixes"] = 1020,
 						["1last_best_time_zone"] = 129,
@@ -3643,9 +3230,9 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone"] = 0,
 						["2last_best_time_zone"] = 390,
 						["3last_best_time_zone_level_affixes"] = 301,
+						["5last_best_time_zone_level_affixes"] = 1840,
 						["4last_best_time_zone_level_affixes"] = 1893,
 						["1last_best_time_zone_level_affixes"] = 1286,
-						["5last_best_time_zone_level_affixes"] = 1840,
 					},
 				},
 				["l18affixes-10-11-13-132"] = {
@@ -3668,9 +3255,9 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone"] = 0,
 						["2last_best_time_zone"] = 607,
 						["3last_best_time_zone_level_affixes"] = 683,
+						["4last_best_time_zone_level_affixes"] = 3285,
 						["1last_best_time_zone_level_affixes"] = 2548,
 						["5last_best_time_zone_level_affixes"] = 3085,
-						["4last_best_time_zone_level_affixes"] = 3285,
 					},
 				},
 				["l16affixes-10-7-124-132"] = {
@@ -3700,13 +3287,13 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone_level"] = 0,
 						["2last_best_time_zone_level"] = 897,
 						["1last_best_time_zone_level"] = 1921,
-						["5last_best_time_zone_level_affixes"] = 2186,
 						["1last_best_time_zone_level_affixes"] = 1921,
+						["4last_best_time_zone_level_affixes"] = 2476,
 						["5last_best_time_zone"] = 1206,
 						["4last_best_time_zone"] = 1320,
 						["3last_best_time_zone"] = 0,
 						["2last_best_time_zone"] = 607,
-						["4last_best_time_zone_level_affixes"] = 2476,
+						["5last_best_time_zone_level_affixes"] = 2186,
 						["3last_best_time_zone_level_affixes"] = 0,
 						["2last_best_time_zone_level_affixes"] = 1327,
 						["1last_best_time_zone"] = 1000,
@@ -3740,13 +3327,13 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone_level"] = 341,
 						["2last_best_time_zone_level"] = 792,
 						["1last_best_time_zone_level"] = 1342,
-						["5last_best_time_zone_level_affixes"] = 2023,
 						["4last_best_time_zone_level_affixes"] = 1980,
+						["1last_best_time_zone_level_affixes"] = 1342,
 						["5last_best_time_zone"] = 748,
 						["4last_best_time_zone"] = 801,
 						["3last_best_time_zone"] = 0,
 						["2last_best_time_zone"] = 390,
-						["1last_best_time_zone_level_affixes"] = 1342,
+						["5last_best_time_zone_level_affixes"] = 2023,
 						["2last_best_time_zone_level_affixes"] = 792,
 						["3last_best_time_zone_level_affixes"] = 341,
 						["1last_best_time_zone"] = 625,
@@ -3851,13 +3438,13 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone_level"] = 628,
 						["2last_best_time_zone_level"] = 1664,
 						["1last_best_time_zone_level"] = 2651,
-						["1last_best_time_zone_level_affixes"] = 2651,
 						["5last_best_time_zone_level_affixes"] = 2891,
+						["4last_best_time_zone_level_affixes"] = 3075,
 						["5last_best_time_zone"] = 1206,
 						["4last_best_time_zone"] = 1320,
 						["3last_best_time_zone"] = 264,
 						["2last_best_time_zone"] = 607,
-						["4last_best_time_zone_level_affixes"] = 3075,
+						["1last_best_time_zone_level_affixes"] = 2651,
 						["2last_best_time_zone_level_affixes"] = 1664,
 						["3last_best_time_zone_level_affixes"] = 628,
 						["1last_best_time_zone"] = 1000,
@@ -3936,13 +3523,13 @@ MythicPlusTimerDB = {
 						["3last_best_time_zone_level"] = 326,
 						["2last_best_time_zone_level"] = 778,
 						["1last_best_time_zone_level"] = 1240,
-						["4last_best_time_zone_level_affixes"] = 2196,
 						["5last_best_time_zone_level_affixes"] = 2039,
+						["1last_best_time_zone_level_affixes"] = 1643,
 						["5last_best_time_zone"] = 628,
 						["4last_best_time_zone"] = 686,
 						["3last_best_time_zone"] = 0,
 						["2last_best_time_zone"] = 301,
-						["1last_best_time_zone_level_affixes"] = 1643,
+						["4last_best_time_zone_level_affixes"] = 2196,
 						["3last_best_time_zone_level_affixes"] = 661,
 						["2last_best_time_zone_level_affixes"] = 1066,
 						["1last_best_time_zone"] = 509,
@@ -5114,5 +4701,445 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
+		["color_timeleft"] = "FF00FF00",
+		["color_dungeon_name"] = "FFFFD100",
+		["npc_progress"] = {
+			[200137] = {
+				[8] = 73,
+			},
+			[195930] = {
+				[10] = 20,
+			},
+			[59598] = {
+				114, -- [1]
+			},
+			[192329] = {
+				[2] = 547,
+			},
+			[192680] = {
+				[18] = 44,
+			},
+			[104278] = {
+				[10] = 56,
+			},
+			[197398] = {
+				[2] = 880,
+			},
+			[104247] = {
+				[4] = 24,
+			},
+			[104295] = {
+				365, -- [1]
+			},
+			[96677] = {
+				[4] = 5,
+			},
+			[107435] = {
+				[12] = 1,
+			},
+			[195265] = {
+				[10] = 29,
+			},
+			[111563] = {
+				[4] = 9,
+			},
+			[192333] = {
+				[8] = 127,
+			},
+			[187139] = {
+				[8] = 8,
+			},
+			[105699] = {
+				[2] = 152,
+			},
+			[105715] = {
+				[4] = 103,
+			},
+			[95834] = {
+				[3] = 196,
+			},
+			[59544] = {
+				[8] = 14,
+			},
+			[59552] = {
+				[8] = 15,
+			},
+			[196671] = {
+				[15] = 74,
+			},
+			[76104] = {
+				[6] = 91,
+			},
+			[195875] = {
+				49.8, -- [1]
+				0.1342177280000001, -- [2]
+			},
+			[75451] = {
+				[3] = 56,
+			},
+			[196577] = {
+				[5] = 234,
+			},
+			[197406] = {
+				[4] = 209,
+				[2] = 3.978585891278316e-10,
+			},
+			[188067] = {
+				[10] = 224,
+			},
+			[194315] = {
+				[10] = 26,
+			},
+			[101637] = {
+				[7] = 37,
+			},
+			[104251] = {
+				88.8, -- [1]
+				0.004722366482869651, -- [2]
+			},
+			[59545] = {
+				[8] = 16,
+			},
+			[62358] = {
+				170, -- [1]
+			},
+			[187240] = {
+				[8] = 113,
+			},
+			[197982] = {
+				[10] = 137,
+			},
+			[190205] = {
+				549.6, -- [1]
+				[10] = 1.214168057641087e-09,
+			},
+			[196102] = {
+				[5] = 342.2,
+				[8] = 4.271974071841847e-11,
+			},
+			[77700] = {
+				[8] = 63,
+			},
+			[198047] = {
+				[16] = 26,
+			},
+			[104300] = {
+				[4] = 75,
+			},
+			[197697] = {
+				[40] = 19,
+			},
+			[197219] = {
+				[9] = 124.8,
+				[2] = 5.444517870735032e-05,
+			},
+			[196263] = {
+				[5] = 2,
+			},
+			[190207] = {
+				[10] = 258,
+			},
+			[192789] = {
+				[5] = 166.6,
+				[6] = 0.003777893186295721,
+			},
+			[101639] = {
+				[4] = 71,
+			},
+			[197698] = {
+				[40] = 34,
+			},
+			[196200] = {
+				[8] = 195,
+			},
+			[191164] = {
+				[8] = 131,
+			},
+			[59546] = {
+				[8] = 13,
+			},
+			[194894] = {
+				[6] = 87,
+			},
+			[58319] = {
+				135, -- [1]
+			},
+			[191739] = {
+				[8] = 36,
+			},
+			[192791] = {
+				[6] = 181,
+			},
+			[59873] = {
+				[12] = 49,
+			},
+			[196202] = {
+				[5] = 154,
+			},
+			[104270] = {
+				[8] = 169,
+			},
+			[188011] = {
+				[10] = 195,
+			},
+			[196203] = {
+				[6] = 37,
+			},
+			[193462] = {
+				[16] = 16,
+			},
+			[196044] = {
+				[4] = 137,
+			},
+			[105705] = {
+				[3] = 51,
+			},
+			[97083] = {
+				[11] = 30,
+			},
+			[76444] = {
+				[4] = 81,
+			},
+			[196045] = {
+				[5] = 466,
+			},
+			[59547] = {
+				[5] = 14,
+			},
+			[59555] = {
+				[5] = 90,
+			},
+			[194898] = {
+				[6] = 139,
+			},
+			[200126] = {
+				[8] = 92,
+			},
+			[195855] = {
+				[5] = 155,
+			},
+			[97068] = {
+				[8] = 39,
+			},
+			[195696] = {
+				[12] = 30,
+			},
+			[57109] = {
+				[8] = 68,
+			},
+			[187154] = {
+				[8] = 112,
+			},
+			[192796] = {
+				[5] = 102,
+			},
+			[186740] = {
+				[5] = 116,
+			},
+			[65317] = {
+				[5] = 14,
+			},
+			[187155] = {
+				[5] = 181,
+			},
+			[186741] = {
+				[5] = 378,
+			},
+			[76446] = {
+				[6] = 85,
+			},
+			[95842] = {
+				[3] = 187,
+			},
+			[75713] = {
+				[6] = 21,
+			},
+			[75506] = {
+				[5] = 19,
+			},
+			[97197] = {
+				[5] = 75,
+			},
+			[169425] = {
+				1, -- [1]
+			},
+			[188100] = {
+				14, -- [1]
+			},
+			[97084] = {
+				[11] = 5,
+			},
+			[97081] = {
+				[11] = 27,
+			},
+			[196694] = {
+				[4] = 185,
+				[5] = 0.0001063382396627936,
+			},
+			[95832] = {
+				[4] = 272,
+			},
+			[99891] = {
+				[8] = 38,
+			},
+			[96574] = {
+				[6] = 125,
+			},
+			[96608] = {
+				[3] = 179,
+			},
+			[75459] = {
+				[5] = 124,
+			},
+			[96640] = {
+				[3] = 91,
+			},
+			[192800] = {
+				[10] = 90,
+			},
+			[105703] = {
+				321, -- [1]
+			},
+			[192794] = {
+				[5] = 80,
+			},
+			[195851] = {
+				[6] = 114,
+			},
+			[187246] = {
+				[5] = 235,
+			},
+			[194896] = {
+				[7] = 108,
+			},
+			[200387] = {
+				[18] = 30,
+			},
+			[187159] = {
+				5, -- [1]
+			},
+			[196116] = {
+				[5] = 171,
+			},
+			[105704] = {
+				[8] = 14,
+			},
+			[187969] = {
+				[10] = 149,
+			},
+			[97087] = {
+				[3] = 470,
+			},
+			[187242] = {
+				[3] = 350,
+			},
+			[96609] = {
+				22, -- [1]
+			},
+			[75715] = {
+				[5] = 89,
+			},
+			[77006] = {
+				586, -- [1]
+			},
+			[196117] = {
+				[8] = 47,
+			},
+			[188244] = {
+				[18] = 48,
+			},
+			[104277] = {
+				[2] = 69,
+			},
+			[196576] = {
+				[5] = 108,
+				[4] = 0.01152921504606849,
+			},
+			[196115] = {
+				[8] = 42,
+			},
+			[200131] = {
+				[8] = 70,
+			},
+			[187894] = {
+				108, -- [1]
+			},
+			[96934] = {
+				[3] = 6,
+			},
+			[195927] = {
+				[10] = 20,
+			},
+			[75652] = {
+				[10] = 23,
+			},
+			[191847] = {
+				[8] = 58,
+			},
+			[195876] = {
+				[2] = 117,
+				[6] = 0.0225179981368525,
+			},
+			[96664] = {
+				[3] = 176,
+			},
+			[194317] = {
+				[10] = 27,
+			},
+			[195878] = {
+				[6] = 21,
+			},
+			[187160] = {
+				[5] = 50,
+			},
+			[195877] = {
+				[5] = 103,
+				[2] = 0.03518437208883205,
+			},
+			[104246] = {
+				[4] = 185,
+			},
+			[195928] = {
+				[10] = 21,
+			},
+			[195842] = {
+				[5] = 162,
+			},
+			[197985] = {
+				[16] = 21,
+			},
+			[187897] = {
+				[40] = 35,
+			},
+			[59553] = {
+				[8] = 12,
+			},
+			[95843] = {
+				[11] = 28,
+			},
+			[190510] = {
+				[5] = 161,
+			},
+			[194622] = {
+				1, -- [1]
+			},
+			[195929] = {
+				[10] = 19,
+			},
+			[193457] = {
+				[16] = 4,
+			},
+			[189555] = {
+				[3] = 211,
+			},
+			[96611] = {
+				[4] = 53,
+			},
+			[194316] = {
+				[10] = 23.6,
+				[6] = 0.6400000000000001,
+			},
+		},
+		["color_chest_timeleft"] = "FF00FF00",
 	},
 }

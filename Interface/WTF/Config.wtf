@@ -1,6 +1,6 @@
 SET RAIDgroundEffectDist "200"
 SET CACHE-WQST-QuestObjectiveHotfixCount "0"
-SET Sound_MasterVolume "0.5"
+SET Sound_MasterVolume "0.1"
 SET groundEffectDist "320"
 SET raidGraphicsTextureResolution "2"
 SET ffxAntiAliasingMode "4"
@@ -20,8 +20,7 @@ SET raidGraphicsEnvironmentDetail "6"
 SET graphicsQuality "9"
 SET screenshotQuality "10"
 SET agentUID "wow"
-SET LibOpenRaidTempCache "^1^T^SgearInfo^S~}1~}T~}SThezdin~}T~}SnoEnchants~}T~}N1~}N10~}t~}Silevel~}N413~}SequippedGear~}T~}N1~}T~}SgemSlots~}N0~}SitemLevel~}N415~}SgemId~}N0~}SitemName~}SCasque~|`of~|`the~|`Walking~|`Mountain~}SenchantId~}N0~}SitemId~}N200426~}SitemLink~}S|cffa335ee|Hitem:200426::::::::70:73::35:7:6652:7937:8828:8973:7977:1489:8767|h[Casque~|`of~|`the~|`Walking~|`Mountain]|r~}SslotId~}N1~}SitemQuality~}N4~}t~}N2~}T~}SgemSlots~}N2~}SitemLevel~}N415~}SgemId~}N192952~}SitemName~}SChain~|`of~|`Scorched~|`Bones~}SenchantId~}N0~}SitemId~}N134529~}SitemLink~}S|cffa335ee|Hitem:134529::192952:192952:::::70:73::16:7:7977:9144:8784:8781:8973:3294:8767|h[Chain~|`of~|`Scorched~|`Bones]|r~}SslotId~}N2~}SitemQuality~}N4~}t~}N3~}T~}SgemSlots~}N0~}SitemLevel~}N418~}SgemId~}N0~}SitemName~}SPeaks~|`of~|`the~|`Walking~|`Mountain~}SenchantId~}N0~}SitemId~}N200428~}SitemLink~}S|cffa335ee|Hitem:200428::::::::70:73::35:6:6652:8826:8974:7977:1492:8767|h[Peaks~|`of~|`the~|`Walking~|`Mountain]|r~}SslotId~}N3~}SitemQuality~}N4~}t~}N4~}T~}SgemSlots~}N0~}SitemLevel~}N415~}SgemId~}N0~}SitemName~}SHusk~|`of~|`the~|`Walking~|`SET Sound_AmbienceVolume "1"
-SET Gamma "1.2000000476837"
+SET LibOpenRaidTempCache "^1^T^SgearInfo^S~}1~}T~}SThez~}T~}SnoEnchants~}T~}N1~}N5~}N2~}N7~}N3~}N8~}N4~}N9~}N5~}N10~}N6~}N11~}N7~}N12~}N8~}N15~}N9~}N16~}t~}Silevel~}N252~}SequippedGear~}T~}N1~}T~}SgemSlots~}N0~}SitemLevel~}N278~}SgemId~}N0~}SitemName~}SVision~|`of~|`Foreshadowed~|`Ends~}SenchantId~}N0~}SitemId~}N193800~}SitemLink~}S|cff0070dd|Hitem:193800::::::::65:104::18:5:9158:6652:7936:1500:4785|h[Vision~|`of~|`Foreshadowed~|`Ends]|r~}SslotId~}N1~}SitemQuality~}N3~}t~}N2~}T~}SgemSlots~}N0~}SitemLevel~}N278~}SgemId~}N0~}SitemName~}SBromach's~|`Disentombed~|`Locket~}SenchantId~}N0~}SitemId~}N193809~}SitemLink~}S|cff0070dd|Hitem:193809::::::::65:104::18:6:9158:6652:7937:8783:1500:4785|h[Bromach's~|`Disentombed~|`Locket]|r~}SslotId~}N2~}SitemQuality~}N3~}t~}N3~}T~}SgemSlots~}N0~}SitemLevel~}N252~}SgemId~}N0~}SitemName~}SDust~|`Devil~|`Epaulets~}SenchantId~}N0~}SitemId~}N199361~}SitemLink~}S|cff0070dd|Hitem:199361::::::::65:104::26:2:6652:8936|h[Dust~|`Devil~|`Epaulets]|r~}SslotId~}N3~}SitemQuality~}N3~}t~}N4~}T~}SgemSlots~}N0~}SitemLevel~}N252~}SgemId~}N0~}SitemName~}SDust~|`Devil~|`Raiment~}SenchantId~}N0~}SiteSET lastCharacterIndex "2"
 SET KioskLobbyKickSeconds "30"
 SET raidGraphicsGroundClutter "6"
 SET Sound_DialogVolume "0.5"
@@ -29,11 +28,11 @@ SET RAIDsunShafts "2"
 SET graphicsProjectedTextures "1"
 SET waterDetail "3"
 SET CACHE-WQST-QuestObjectiveRecordCount "52180"
-SET LibOpenRaidTempCacheDebug "17:47:19| SaveData() called.
-17:47:19| SaveData() units info serialized okay.
-17:47:19| SaveData() cooldowns info serialized okay.
-17:47:19| SaveData() gear info serialized okay.
-17:47:19| CVars Saved on saveCahceOnCVar(), Size: 13853
+SET LibOpenRaidTempCacheDebug "10:31:52| SaveData() called.
+10:31:52| SaveData() units info serialized okay.
+10:31:52| SaveData() cooldowns info serialized okay.
+10:31:52| SaveData() gear info serialized okay.
+10:31:52| CVars Saved on saveCahceOnCVar(), Size: 6386
 "
 SET Sound_MusicVolume "0.60000002384186"
 SET VoiceVADSensitivity "0"
@@ -82,7 +81,6 @@ SET videoOptionsVersion "36"
 SET raidGraphicsLiquidDetail "2"
 SET vsync "0"
 SET graphicsEnvironmentDetail "9"
-SET Sound_EnableMusic "0"
 SET gxApi "D3D12"
 SET shadowMode "4"
 SET graphicsComputeEffects "4"
@@ -93,7 +91,7 @@ SET SSAOType "1"
 SET movieSubtitle "0"
 SET Brightness "60"
 SET checkAddonVersion "0"
-SET gameTip "12"
+SET gameTip "32"
 SET spellClutter "0"
 SET RAIDgroundEffectDensity "80"
 SET expandUpgradePanel "0"

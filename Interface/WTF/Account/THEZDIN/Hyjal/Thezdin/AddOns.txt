@@ -176,3 +176,5 @@ Details_ChartViewer: disabled
 Details_DeathGraphs: disabled
 ElvUI_BuffHighlight: disabled
 ElvUI_TukUIStyle: disabled
+ElvUI_ChatTweaks: disabled
+WunderUI: disabled
