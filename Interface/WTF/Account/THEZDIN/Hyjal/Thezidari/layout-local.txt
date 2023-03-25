@@ -27,3 +27,10 @@ X: -161
 Y: 106
 W: 800
 H: 525
+Frame: scanner_button
+FrameLevel: 200
+Anchor: TOPLEFT
+X: 457
+Y: -170
+W: 200
+H: 50

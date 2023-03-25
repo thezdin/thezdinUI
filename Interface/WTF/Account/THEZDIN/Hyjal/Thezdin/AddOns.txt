@@ -178,3 +178,4 @@ ElvUI_BuffHighlight: disabled
 ElvUI_TukUIStyle: disabled
 ElvUI_ChatTweaks: disabled
 WunderUI: disabled
+ElvUI_ChatTweaks_Debug: enabled

@@ -7,10 +7,21 @@ ElvCharacterDB = {
 		"/p pro tip, don't release unless it's a full wipe :)", -- [3]
 		"GRATS!", -- [4]
 		"/p sonofa", -- [5]
+		"/dbm", -- [6]
+		"/p guys", -- [7]
+		"/p get over here", -- [8]
+		"/p can you guys just run and clump with me please so we don't have to single target 900 things", -- [9]
+		"/p hunter, ffs", -- [10]
+		"/p move with the group", -- [11]
+		"/sigh", -- [12]
+		"/i focus the add please", -- [13]
+		"/i los on pillar", -- [14]
+		"/i focus dragon", -- [15]
+		"/reload", -- [16]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted Stormforged Tactician's |cff71d5ff|Hspell:59166:0|h[Welding Beam]|h|r!", -- [1]
+			"Interrupted Soulharvester Mandakh's |cff71d5ff|Hspell:387411:0|h[Death Bolt Volley]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -20,7 +31,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			98, -- [11]
+			82, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -28,11 +39,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678507818,
+			[51] = 1679697103,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [1]
 		{
-			"Interrupted Stormforged Tactician's |cff71d5ff|Hspell:59166:0|h[Welding Beam]|h|r!", -- [1]
+			"Interrupted Risen Mystic's |cff71d5ff|Hspell:387596:0|h[Swift Wind]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -42,7 +53,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			109, -- [11]
+			91, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -50,11 +61,187 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678507839,
+			[51] = 1679697072,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [2]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:1834:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Lightning Struck]|h|r!", -- [1]
+			"Interrupted Soulharvester Tumen's |cff71d5ff|Hspell:387411:0|h[Death Bolt Volley]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			93, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679697155,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [3]
+		{
+			"Interrupted Teera's |cff71d5ff|Hspell:384808:0|h[Guardian Wind]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			111, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679697267,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [4]
+		{
+			">> SHOCKWAVE ON ME <<", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			124, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679697403,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [5]
+		{
+			"Interrupted Batak's |cff71d5ff|Hspell:373395:0|h[Bloodcurdling Shout]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			125, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679697414,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [6]
+		{
+			">> SHOCKWAVE ON ME <<", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			126, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679697416,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [7]
+		{
+			"aye", -- [1]
+			"Olenan-Mok'Nathal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Olenan-Mok'Nathal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			129, -- [11]
+			"Player-86-0A520E66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddOlenan-Mok'Nathal|r",
+			[51] = 1679697515,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [8]
+		{
+			"nice", -- [1]
+			"Olenan-Mok'Nathal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Olenan-Mok'Nathal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			130, -- [11]
+			"Player-86-0A520E66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddOlenan-Mok'Nathal|r",
+			[51] = 1679697516,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [9]
+		{
+			"Interrupted Nokhud Stormcaster's |cff71d5ff|Hspell:376725:0|h[Storm Bolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			136, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679697490,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [10]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:16275:Player-3661-091E66BD:1:3:24:23:4294967295:4294967295:4294967295:4294967295|h[The Nokhud Offensive]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -72,77 +259,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678507946,
+			[51] = 1679697588,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [3]
+		}, -- [11]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:1834:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Lightning Struck]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
+			"ty", -- [1]
+			"Kaikoura-Proudmoore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
+			"Kaikoura-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			146, -- [11]
-			"Player-3661-090ED303", -- [12]
+			154, -- [11]
+			"Player-5-0E51FF34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678507946,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [4]
+			[52] = "|cffaad372Kaikoura-Proudmoore|r",
+			[51] = 1679697595,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [12]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:2042:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Shatter Resistant]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
+			"LF crafter 418 |cffa335ee|Hitem:193526::::::::70:265::13:5:8836:8840:8902:8960:8802:3:28:2164:38:8:40:403::::Player-3661-086DE6DA:|h[Amice of the Blue |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r", -- [1]
+			"Numblock-Hyjal", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
+			"2. Trade - City", -- [4]
+			"Numblock-Hyjal", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
 			228, -- [11]
-			"Player-3661-091E66BD", -- [12]
+			"Player-3661-06CCD0DB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678508145,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [5]
+			true, -- [17]
+			[52] = "|cff8788eeNumblock|r",
+			[51] = 1679698111,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [13]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:2042:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Shatter Resistant]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			229, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678508145,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [6]
-		{
-			"Interrupted Titanium Thunderer's |cff71d5ff|Hspell:59179:0|h[Throw]|h|r!", -- [1]
+			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -152,7 +317,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			243, -- [11]
+			3275, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -160,11 +325,1111 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678508210,
+			[51] = 1679725047,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [7]
+		}, -- [14]
 		{
-			"Interrupted Storming Vortex's |cff71d5ff|Hspell:59169:0|h[Lightning Bolt]|h|r!", -- [1]
+			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374020:0|h[Containment Beam]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3281, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725085,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [15]
+		{
+			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374020:0|h[Containment Beam]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3287, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725106,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [16]
+		{
+			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374020:0|h[Containment Beam]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3295, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725195,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [17]
+		{
+			"Interrupted Primalist Ravager's |cff71d5ff|Hspell:374080:0|h[Blasting Gust]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3301, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725164,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [18]
+		{
+			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374020:0|h[Containment Beam]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3307, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725191,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [19]
+		{
+			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374020:0|h[Containment Beam]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3321, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725233,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [20]
+		{
+			"Power Overload on Thez", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3332, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725292,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [21]
+		{
+			"3", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3334, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725295,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [22]
+		{
+			"2", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3336, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725296,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [23]
+		{
+			"1", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3338, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725297,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [24]
+		{
+			"Interrupted Primalist Shocktrooper's |cff71d5ff|Hspell:395694:0|h[Elemental Focus]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3344, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725387,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [25]
+		{
+			"Interrupted Flamecaller Aymi's |cff71d5ff|Hspell:374706:0|h[Pyretic Burst]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3363, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725503,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [26]
+		{
+			"Interrupted Primalist Galesinger's |cff71d5ff|Hspell:385036:0|h[Wind Buffet]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3373, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725626,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [27]
+		{
+			"Interrupted Primalist Earthshaker's |cff71d5ff|Hspell:375384:0|h[Rumbling Earth]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3392, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725692,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [28]
+		{
+			"Interrupted Primalist Icecaller's |cff71d5ff|Hspell:375950:0|h[Ice Shards]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3431, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725874,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [29]
+		{
+			"Interrupted Primalist Icecaller's |cff71d5ff|Hspell:375950:0|h[Ice Shards]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3437, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725906,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [30]
+		{
+			"Interrupted Primalist Icecaller's |cff71d5ff|Hspell:375950:0|h[Ice Shards]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3442, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725930,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [31]
+		{
+			"Interrupted Infuser Sariya's |cff71d5ff|Hspell:377402:0|h[Aqueous Barrier]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3456, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679725951,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [32]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:16260:Player-3661-091E66BD:1:3:24:23:4294967295:4294967295:4294967295:4294967295|h[Halls of Infusion]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3465, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726026,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [33]
+		{
+			"ty", -- [1]
+			"Puppykai-Kel'Thuzad", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Puppykai-Kel'Thuzad", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3474, -- [11]
+			"Player-3693-0DD1EB25", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Puppykai-Kel'Thuzad|r",
+			[51] = 1679726095,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [34]
+		{
+			"Interrupted Stonevault Geomancer's |cff71d5ff|Hspell:369675:0|h[Chain Lightning]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3555, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726265,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [35]
+		{
+			"Interrupted Vicious Basilisk's |cff71d5ff|Hspell:369823:0|h[Spiked Carapace]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3564, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726310,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [36]
+		{
+			"Skullcracker on Thez", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3573, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726331,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [37]
+		{
+			"Ricocheting Shield on Bigdaddyclap", -- [1]
+			"Bigdaddyclap-Sargeras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bigdaddyclap-Sargeras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3576, -- [11]
+			"Player-76-0BA23330", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fBigdaddyclap-Sargeras|r",
+			[51] = 1679726396,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [38]
+		{
+			"Interrupted Olaf's |cff71d5ff|Hspell:369602:0|h[Defensive Bulwark]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3578, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726342,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [39]
+		{
+			"guys", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3595, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726404,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [40]
+		{
+			"get over here", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3597, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726407,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [41]
+		{
+			"Interrupted Stonevault Geomancer's |cff71d5ff|Hspell:369674:0|h[Stone Spike]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3601, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726420,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [42]
+		{
+			"Interrupted Earthen Weaver's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3633, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726607,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [43]
+		{
+			"can you guys just run and clump with me please so we don't have to single target 900 things", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3641, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726647,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [44]
+		{
+			"Interrupted Earthen Weaver's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3657, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726728,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [45]
+		{
+			"Interrupted Earthen Weaver's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3677, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726800,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [46]
+		{
+			"Interrupted Earthen Warder's |cff71d5ff|Hspell:369400:0|h[Earthen Ward]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3679, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726825,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [47]
+		{
+			"Unstable Embers on Bigdaddyclap", -- [1]
+			"Bigdaddyclap-Sargeras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bigdaddyclap-Sargeras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3703, -- [11]
+			"Player-76-0BA23330", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fBigdaddyclap-Sargeras|r",
+			[51] = 1679726905,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [48]
+		{
+			"3", -- [1]
+			"Bigdaddyclap-Sargeras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bigdaddyclap-Sargeras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3704, -- [11]
+			"Player-76-0BA23330", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fBigdaddyclap-Sargeras|r",
+			[51] = 1679726906,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [49]
+		{
+			"2", -- [1]
+			"Bigdaddyclap-Sargeras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bigdaddyclap-Sargeras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3705, -- [11]
+			"Player-76-0BA23330", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fBigdaddyclap-Sargeras|r",
+			[51] = 1679726907,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [50]
+		{
+			".dance", -- [1]
+			"Bigdaddyclap-Sargeras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bigdaddyclap-Sargeras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3715, -- [11]
+			"Player-76-0BA23330", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fBigdaddyclap-Sargeras|r",
+			[51] = 1679726999,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [51]
+		{
+			"Interrupted Earthen Weaver's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3716, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726942,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [52]
+		{
+			"hunter, ffs", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3717, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726972,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [53]
+		{
+			"move with the group", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3718, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679726974,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [54]
+		{
+			"Interrupted Earthen Warder's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3734, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679727061,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [55]
+		{
+			"Interrupted Earthen Warder's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3743, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679727096,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [56]
+		{
+			"Interrupted Infinite Agent's |cff71d5ff|Hspell:377500:0|h[Hasten]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3753, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679727154,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [57]
+		{
+			"i swear growl is off. not sure why bun bun still doing it", -- [1]
+			"Rivetspitter-Sargeras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rivetspitter-Sargeras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3760, -- [11]
+			"Player-76-0B9FDF33", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Rivetspitter-Sargeras|r",
+			[51] = 1679727188,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [58]
+		{
+			"its not on and blinky", -- [1]
+			"Rivetspitter-Sargeras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rivetspitter-Sargeras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3761, -- [11]
+			"Player-76-0B9FDF33", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Rivetspitter-Sargeras|r",
+			[51] = 1679727195,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [59]
+		{
+			"Interrupted Flashfrost Chillweaver's |cff71d5ff|Hspell:371984:0|h[Icebolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			237, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679776371,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [60]
+		{
+			"Interrupted Flashfrost Chillweaver's |cff71d5ff|Hspell:372743:0|h[Ice Shield]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			239, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679776326,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [61]
+		{
+			"Interrupted Flashfrost Chillweaver's |cff71d5ff|Hspell:371984:0|h[Icebolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			244, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679776407,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [62]
+		{
+			"Interrupted Flashfrost Chillweaver's |cff71d5ff|Hspell:371984:0|h[Icebolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			248, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679776437,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [63]
+		{
+			"Interrupted Flashfrost Chillweaver's |cff71d5ff|Hspell:371984:0|h[Icebolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			250, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679776454,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [64]
+		{
+			"Interrupted Flashfrost Chillweaver's |cff71d5ff|Hspell:371984:0|h[Icebolt]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -182,11 +1447,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678508249,
+			[51] = 1679776482,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [8]
+		}, -- [65]
 		{
-			"Interrupted Storming Vortex's |cff71d5ff|Hspell:59169:0|h[Lightning Bolt]|h|r!", -- [1]
+			"Interrupted Flashfrost Chillweaver's |cff71d5ff|Hspell:371984:0|h[Icebolt]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -196,7 +1461,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			266, -- [11]
+			265, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -204,33 +1469,143 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678508266,
+			[51] = 1679776520,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [9]
+		}, -- [66]
 		{
-			"Static Overload on Toadlock", -- [1]
-			"Toadlock-Stormrage", -- [2]
+			"Interrupted Flashfrost Chillweaver's |cff71d5ff|Hspell:371984:0|h[Icebolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toadlock-Stormrage", -- [5]
+			"Thez-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			276, -- [11]
-			"Player-60-0ECF3642", -- [12]
+			268, -- [11]
+			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8788eeToadlock-Stormrage|r",
-			[51] = 1678508297,
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679776535,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [67]
+		{
+			"Interrupted Primalist Cinderweaver's |cff71d5ff|Hspell:384194:0|h[Cinderbolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			297, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679776714,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [68]
+		{
+			"Living Bomb", -- [1]
+			"Willowtree-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowtree-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			298, -- [11]
+			"Player-3676-0E16825A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aWillowtree-Area52|r",
+			[51] = 1679776718,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [69]
 		{
-			"Interrupted Stormforged Construct's |cff71d5ff|Hspell:59152:0|h[Forked Lightning]|h|r!", -- [1]
+			"3", -- [1]
+			"Willowtree-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowtree-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			299, -- [11]
+			"Player-3676-0E16825A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aWillowtree-Area52|r",
+			[51] = 1679776721,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [70]
+		{
+			"2", -- [1]
+			"Willowtree-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowtree-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			300, -- [11]
+			"Player-3676-0E16825A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aWillowtree-Area52|r",
+			[51] = 1679776722,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [71]
+		{
+			"1", -- [1]
+			"Willowtree-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowtree-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			301, -- [11]
+			"Player-3676-0E16825A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aWillowtree-Area52|r",
+			[51] = 1679776723,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [72]
+		{
+			"Interrupted Primalist Cinderweaver's |cff71d5ff|Hspell:384194:0|h[Cinderbolt]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -240,7 +1615,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			289, -- [11]
+			306, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -248,11 +1623,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678508387,
+			[51] = 1679776751,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [11]
+		}, -- [73]
 		{
-			"Interrupted Stormforged Tactician's |cff71d5ff|Hspell:59166:0|h[Welding Beam]|h|r!", -- [1]
+			"Interrupted Primalist Cinderweaver's |cff71d5ff|Hspell:384194:0|h[Cinderbolt]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -262,7 +1637,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			305, -- [11]
+			318, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -270,11 +1645,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678508435,
+			[51] = 1679776799,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [12]
+		}, -- [74]
 		{
-			"Interrupted Stormforged Runeshaper's |cff71d5ff|Hspell:61581:0|h[Charged Flurry]|h|r!", -- [1]
+			"3", -- [1]
+			"Willowtree-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowtree-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			320, -- [11]
+			"Player-3676-0E16825A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aWillowtree-Area52|r",
+			[51] = 1679776743,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [75]
+		{
+			"2", -- [1]
+			"Willowtree-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowtree-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			321, -- [11]
+			"Player-3676-0E16825A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aWillowtree-Area52|r",
+			[51] = 1679776744,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"1", -- [1]
+			"Willowtree-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowtree-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			322, -- [11]
+			"Player-3676-0E16825A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aWillowtree-Area52|r",
+			[51] = 1679776745,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
+		{
+			"Interrupted Primalist Cinderweaver's |cff71d5ff|Hspell:384194:0|h[Cinderbolt]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -284,7 +1725,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			315, -- [11]
+			334, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -292,21 +1733,109 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678508459,
+			[51] = 1679776876,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [13]
+		}, -- [78]
 		{
-			"Interrupted Stormforged Construct's |cff71d5ff|Hspell:59152:0|h[Forked Lightning]|h|r!", -- [1]
+			"Interrupted Primalist Cinderweaver's |cff71d5ff|Hspell:384194:0|h[Cinderbolt]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			344, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679776914,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [79]
+		{
+			"3", -- [1]
+			"Willowtree-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowtree-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			345, -- [11]
+			"Player-3676-0E16825A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aWillowtree-Area52|r",
+			[51] = 1679776917,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [80]
+		{
+			"2", -- [1]
+			"Willowtree-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowtree-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			346, -- [11]
+			"Player-3676-0E16825A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aWillowtree-Area52|r",
+			[51] = 1679776918,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [81]
+		{
+			"1", -- [1]
+			"Willowtree-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowtree-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			347, -- [11]
+			"Player-3676-0E16825A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aWillowtree-Area52|r",
+			[51] = 1679776919,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [82]
+		{
+			"Interrupted Primalist Cinderweaver's |cff71d5ff|Hspell:384194:0|h[Cinderbolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			356, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -314,11 +1843,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678508543,
+			[51] = 1679776950,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [14]
+		}, -- [83]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:486:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Halls of Lightning]|h|r!", -- [1]
+			"focus the add please", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -328,7 +1857,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			368, -- [11]
+			367, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -336,33 +1865,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678508651,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [15]
+			[51] = 1679776997,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [84]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:497:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Halls of Lightning]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			369, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678508651,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [16]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:1867:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Timely Death]|h|r!", -- [1]
+			"Interrupted Blazebound Firestorm's |cff71d5ff|Hspell:373017:0|h[Roaring Blaze]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -380,847 +1887,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678508651,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [17]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:497:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Halls of Lightning]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			371, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678508651,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [18]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:1867:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Timely Death]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			372, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678508651,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [19]
-		{
-			"Interrupted Soulguard Adept's |cff71d5ff|Hspell:69068:0|h[Shadow Bolt]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			454, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678509458,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [20]
-		{
-			"Interrupted Soulguard Adept's |cff71d5ff|Hspell:69564:0|h[Shadow Mend]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			455, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678509473,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [21]
-		{
-			"Interrupted Soulguard Bonecaster's |cff71d5ff|Hspell:69080:0|h[Bone Volley]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			469, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678509543,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [22]
-		{
-			"waiting for mage", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			474, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678509555,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
-		{
-			"Interrupted Soulguard Animator's |cff71d5ff|Hspell:69131:0|h[Soul Sickness]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			475, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678509560,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [24]
-		{
-			"Interrupted Soulguard Adept's |cff71d5ff|Hspell:69068:0|h[Shadow Bolt]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			492, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678509654,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [25]
-		{
-			"Interrupted Soulguard Animator's |cff71d5ff|Hspell:69068:0|h[Shadow Bolt]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			498, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678509677,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [26]
-		{
-			"Interrupted Soulguard Animator's |cff71d5ff|Hspell:69128:0|h[Soul Siphon]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			499, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678509697,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [27]
-		{
-			"Interrupted Soulguard Adept's |cff71d5ff|Hspell:69068:0|h[Shadow Bolt]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			511, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678509752,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [28]
-		{
-			"still learning", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			546, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678510001,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
-		{
-			"Interrupted Soulguard Animator's |cff71d5ff|Hspell:69128:0|h[Soul Siphon]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			548, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510031,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [30]
-		{
-			"Interrupted Soulguard Animator's |cff71d5ff|Hspell:69068:0|h[Shadow Bolt]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			555, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510053,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [31]
-		{
-			"pro tip, don't release unless it's a full wipe :) ", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			576, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510195,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [32]
-		{
-			"Interrupted Devourer of Souls's |cff71d5ff|Hspell:68982:0|h[Phantom Blast]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			581, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510307,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [33]
-		{
-			"Interrupted Devourer of Souls's |cff71d5ff|Hspell:68982:0|h[Phantom Blast]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			585, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510329,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [34]
-		{
-			"Interrupted Devourer of Souls's |cff71d5ff|Hspell:68982:0|h[Phantom Blast]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			590, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510349,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [35]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:4519:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Forge of Souls]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			593, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510358,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [36]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:4516:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[The Forge of Souls]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			594, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510358,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [37]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:4519:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Forge of Souls]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			595, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678510358,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [38]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:4516:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[The Forge of Souls]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			596, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678510358,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [39]
-		{
-			"thanks sorry ", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			618, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678510381,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
-		{
-			"Interrupted Proto-Drake Handler's |cff71d5ff|Hspell:59696:0|h[Throw]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			680, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510755,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [41]
-		{
-			"Interrupted Proto-Drake Handler's |cff71d5ff|Hspell:59696:0|h[Throw]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			689, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510776,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [42]
-		{
-			"Interrupted Dragonflayer Strategist's |cff71d5ff|Hspell:60227:0|h[Ticking Time Bomb]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			696, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510793,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [43]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:1919:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[On The Rocks]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			713, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510822,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [44]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:1919:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[On The Rocks]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			714, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678510822,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [45]
-		{
-			"Interrupted Dragonflayer Runecaster's |cff71d5ff|Hspell:59616:0|h[Njord's Rune of Protection]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			774, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510886,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [46]
-		{
-			"Interrupted Dalronn the Controller's |cff71d5ff|Hspell:59575:0|h[Shadow Bolt]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			817, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510949,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [47]
-		{
-			"Interrupted Dragonflayer Heartsplitter's |cff71d5ff|Hspell:59603:0|h[Throw]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			830, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678510993,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [48]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:477:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Utgarde Keep]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			866, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678511113,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [49]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:489:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Utgarde Keep]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			867, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678511113,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [50]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:489:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Utgarde Keep]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			868, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678511113,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [51]
-		{
-			"|cffffd000|Htrade:Player-3661-06DA8DA6:3908:197|h[Tailoring]|h|r LFW", -- [1]
-			"Straik-Hyjal", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Straik-Hyjal", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			923, -- [11]
-			"Player-3661-06DA8DA6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffStraik|r",
-			[51] = 1678511812,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
-		{
-			"got KSM yay", -- [1]
-			"|Kq16|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			927, -- [11]
-			false, -- [12]
-			15, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dEtherlight|r",
-			[51] = 1678511935,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [53]
-		{
-			"GRATS!", -- [1]
-			"|Kq16|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			928, -- [11]
-			false, -- [12]
-			15, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dEtherlight|r",
-			[51] = 1678511947,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [54]
-		{
-			"Interrupted Spitting Cobra's |cff71d5ff|Hspell:59019:0|h[Venom Spit]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			939, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678512067,
+			[51] = 1679777015,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [55]
+		}, -- [85]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:2058:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Snakes. Why'd It Have To Be Snakes?]|h|r!", -- [1]
+			"Interrupted Blazebound Firestorm's |cff71d5ff|Hspell:373017:0|h[Roaring Blaze]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1230,7 +1901,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			973, -- [11]
+			375, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1238,143 +1909,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678512131,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [56]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:2058:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Snakes. Why'd It Have To Be Snakes?]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			974, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678512131,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [57]
-		{
-			"Interrupted Spitting Cobra's |cff71d5ff|Hspell:59019:0|h[Venom Spit]|h|r!", -- [1]
-			"Discordea-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Discordea-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1004, -- [11]
-			"Player-3661-092616C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Discordea|r",
-			[51] = 1678512190,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [58]
-		{
-			"Interrupted Drakkari Medicine Man's |cff71d5ff|Hspell:58980:0|h[Healing Wave]|h|r!", -- [1]
-			"Discordea-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Discordea-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1048, -- [11]
-			"Player-3661-092616C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Discordea|r",
-			[51] = 1678512317,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [59]
-		{
-			"Interrupted Moorabi's |cff71d5ff|Hspell:55098:0|h[Transformation]|h|r!", -- [1]
-			"Discordea-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Discordea-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1098, -- [11]
-			"Player-3661-092616C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Discordea|r",
-			[51] = 1678512434,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [60]
-		{
-			"Interrupted Moorabi's |cff71d5ff|Hspell:55098:0|h[Transformation]|h|r!", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1100, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1678512445,
+			[51] = 1679777049,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [61]
+		}, -- [86]
 		{
-			"we missed activating one", -- [1]
-			"Melissan-Gilneas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Melissan-Gilneas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1114, -- [11]
-			"Player-67-0900BE14", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Melissan-Gilneas|r",
-			[51] = 1678512488,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [62]
-		{
-			"sonofa", -- [1]
+			"Interrupted Tempest Channeler's |cff71d5ff|Hspell:392576:0|h[Thunder Bolt]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1384,7 +1923,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1115, -- [11]
+			385, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1392,55 +1931,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678512492,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
+			[51] = 1679777077,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [87]
 		{
-			"battle rez?", -- [1]
-			"Melissan-Gilneas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Melissan-Gilneas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1154, -- [11]
-			"Player-67-0900BE14", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Melissan-Gilneas|r",
-			[51] = 1678512620,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [64]
-		{
-			"there are 3 druids with battle rez", -- [1]
-			"Melissan-Gilneas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Melissan-Gilneas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1156, -- [11]
-			"Player-67-0900BE14", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Melissan-Gilneas|r",
-			[51] = 1678512636,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [65]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:484:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Gundrak]|h|r!", -- [1]
+			"Interrupted Tempest Channeler's |cff71d5ff|Hspell:392576:0|h[Thunder Bolt]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1450,7 +1945,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1159, -- [11]
+			387, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1458,11 +1953,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678512643,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [66]
+			[51] = 1679777093,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [88]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:4476:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Looking For More]|h|r!", -- [1]
+			"Interrupted Flame Channeler's |cff71d5ff|Hspell:392451:0|h[Flashfire]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1472,7 +1967,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1166, -- [11]
+			392, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1480,33 +1975,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678512643,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [67]
+			[51] = 1679777127,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [89]
 		{
-			"|cff0070dd|Hitem:127555::::::::64:105::22:3:8171:7756:6652:2:28:181:9:64:::::|h[Sash of Blood Removal]|h|r|cff0070dd|Hitem:127548::::::::64:105::22:3:8171:7756:6652:2:28:181:9:63:::::|h[Helm of Cheated Fate]|h|r|cff0070dd|Hitem:127534::::::::64:105::22:3:8171:7756:6652:2:28:181:9:63:::::|h[Shoulderguards of the Ice Troll]|h|r", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1178, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678512733,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:1297:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Hadronox Denied]|h|r!", -- [1]
+			"Interrupted Flame Channeler's |cff71d5ff|Hspell:392451:0|h[Flashfire]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1516,7 +1989,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1253, -- [11]
+			399, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1524,33 +1997,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678513504,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [69]
+			[51] = 1679777153,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [90]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:1297:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Hadronox Denied]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1254, -- [11]
-			"Player-3661-090ED303", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678513504,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [70]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:480:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Azjol-Nerub]|h|r!", -- [1]
+			"los on pillar", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1560,7 +2011,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1331, -- [11]
+			400, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1568,11 +2019,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678513757,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [71]
+			[51] = 1679777100,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [91]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:491:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Azjol-Nerub]|h|r!", -- [1]
+			"Interrupted Tempest Channeler's |cff71d5ff|Hspell:392576:0|h[Thunder Bolt]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1582,7 +2033,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1332, -- [11]
+			404, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1590,11 +2041,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678513757,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [72]
+			[51] = 1679777187,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [92]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:1860:Player-3661-091E66BD:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Gotta Go!]|h|r!", -- [1]
+			"Interrupted High Channeler Ryvati's |cff71d5ff|Hspell:392924:0|h[Shock Blast]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1604,7 +2055,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1333, -- [11]
+			409, -- [11]
 			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1612,52 +2063,140 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aThez|r",
-			[51] = 1678513757,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [73]
+			[51] = 1679777218,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [93]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:491:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Azjol-Nerub]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
+			"Interrupted High Channeler Ryvati's |cff71d5ff|Hspell:392924:0|h[Shock Blast]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
+			"Thez-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1334, -- [11]
-			"Player-3661-090ED303", -- [12]
+			412, -- [11]
+			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678513757,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [74]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679777241,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [94]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:1860:Player-3661-090ED303:1:3:10:23:4294967295:4294967295:4294967295:4294967295|h[Gotta Go!]|h|r!", -- [1]
-			"Ceylan-Hyjal", -- [2]
+			"focus dragon", -- [1]
+			"Thez-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ceylan-Hyjal", -- [5]
+			"Thez-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1335, -- [11]
-			"Player-3661-090ED303", -- [12]
+			420, -- [11]
+			"Player-3661-091E66BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCeylan|r",
-			[51] = 1678513757,
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679777295,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [95]
+		{
+			"Flamespit on Willowtree", -- [1]
+			"Willowtree-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Willowtree-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			424, -- [11]
+			"Player-3676-0E16825A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aWillowtree-Area52|r",
+			[51] = 1679777313,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [96]
+		{
+			"Flamespit on Thez", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			428, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679777280,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [97]
+		{
+			"Flamespit on Thez", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			431, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679777355,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [98]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:16266:Player-3661-091E66BD:1:3:25:23:4294967295:4294967295:4294967295:4294967295|h[Ruby Life Pools]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			438, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1679777364,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [75]
+		}, -- [99]
 	},
 }

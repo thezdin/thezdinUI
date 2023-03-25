@@ -14,13 +14,6 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
-			["global"] = {
-				["spellsOnCooldown"] = {
-				},
-				["lastTime"] = 160584.103,
-				["chargeSpellsOnCooldown"] = {
-				},
-			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -29,9 +22,9 @@ oRA3DB = {
 							[48707] = true,
 							[106898] = true,
 							[102359] = true,
-							[202137] = true,
-							[31821] = true,
 							[217832] = true,
+							[31821] = true,
+							[202137] = true,
 						},
 					},
 					["displays"] = {
@@ -51,6 +44,10 @@ oRA3DB = {
 				},
 			},
 		},
+		["Tanks"] = {
+		},
+		["Consumables"] = {
+		},
 		["Difficulty"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -58,28 +55,24 @@ oRA3DB = {
 				},
 			},
 		},
-		["Consumables"] = {
-		},
-		["Tanks"] = {
-		},
 	},
 	["profileKeys"] = {
 		["Úlfhédnar - Hyjal"] = "Default",
 		["Thezkin - Hyjal"] = "Default",
-		["Jägare - Hyjal"] = "Default",
+		["Thezdivh - Hyjal"] = "Default",
 		["Thezadin - Hyjal"] = "Default",
-		["Foulfellow - Hyjal"] = "Default",
+		["Thezbot - Azgalor"] = "Default",
 		["Thezbank - Mannoroth"] = "Default",
-		["Sigurdsson - Hyjal"] = "Default",
+		["Thezdgar - Hyjal"] = "Default",
 		["Thez - Hyjal"] = "Default",
 		["Thezdruid - Hyjal"] = "Default",
 		["Thezknight - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
-		["Thezdgar - Hyjal"] = "Default",
-		["Thezdin - Hyjal"] = "Default",
 		["Thezfu - Hyjal"] = "Default",
-		["Thezbot - Azgalor"] = "Default",
-		["Thezdivh - Hyjal"] = "Default",
+		["Thezdin - Hyjal"] = "Default",
+		["Sigurdsson - Hyjal"] = "Default",
+		["Foulfellow - Hyjal"] = "Default",
+		["Jägare - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -90,15 +83,15 @@ oRA3DB = {
 				},
 				["oRA3BattleResMonitor"] = {
 					["Height"] = 29.99996566772461,
-					["Width"] = 139.9998931884766,
-					["PosY"] = 112.5336684121157,
 					["PosX"] = 1278.401417986606,
+					["PosY"] = 112.5336684121157,
+					["Width"] = 139.9998931884766,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 387.4442138671875,
-					["Width"] = 244.5556030273438,
-					["PosY"] = 504.7105425163318,
 					["PosX"] = 11.5945191222238,
+					["PosY"] = 504.7105425163318,
+					["Width"] = 244.5556030273438,
 				},
 			},
 			["lastSelectedPanel"] = "Cooldowns",

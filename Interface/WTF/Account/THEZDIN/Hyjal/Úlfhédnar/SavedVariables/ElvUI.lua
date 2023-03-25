@@ -2,39 +2,36 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/kiss", -- [1]
-		"/invite Amplifi", -- [2]
-		"/p we should watch this with him, he's being clingy", -- [3]
-		"/p i'm gonna log off", -- [4]
-		"/invite amplifi", -- [5]
-		"/elvui", -- [6]
-		"/plater", -- [7]
+		"/cw Amplifi hi", -- [1]
+		"/reload", -- [2]
+		"/plater", -- [3]
+		"/wa", -- [4]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted Grim Inquisitor's |cff71d5ff|Hspell:209263:0|h[Burning Gaze]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
+			"hi", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			675, -- [11]
-			"Player-3661-091D2FD8", -- [12]
+			535, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1660108987,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1679778898,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [1]
 		{
-			"Interrupted Eredar Supplicant's |cff71d5ff|Hspell:185299:0|h[Incinerate]|h|r!", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:12741:Player-3661-091D2FD8:1:3:25:23:4294967295:4294967295:4294967295:4294967295|h[Giving a Scrap]|h|r!", -- [1]
 			"Úlfhédnar-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -44,41 +41,41 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			694, -- [11]
+			642, -- [11]
 			"Player-3661-091D2FD8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1660109043,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddÚlfhédnar|r",
+			[51] = 1679780507,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [2]
 		{
-			"Interrupted Eredar Supplicant's |cff71d5ff|Hspell:185299:0|h[Incinerate]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:12741:Player-3661-091D2FBC:1:3:25:23:4294967295:4294967295:4294967295:4294967295|h[Giving a Scrap]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			702, -- [11]
-			"Player-3661-091D2FD8", -- [12]
+			665, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1660109055,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1679780557,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [3]
 		{
-			"Interrupted Valiyaka the Stormbringer's |cff71d5ff|Hspell:9672:0|h[Frostbolt]|h|r!", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:12582:Player-3661-091D2FD8:1:3:25:23:4294967295:4294967295:4294967295:4294967295|h[Come Sail Away]|h|r!", -- [1]
 			"Úlfhédnar-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -88,610 +85,16 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			768, -- [11]
+			747, -- [11]
 			"Player-3661-091D2FD8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1660109447,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddÚlfhédnar|r",
+			[51] = 1679780813,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [4]
-		{
-			"Interrupted Valiyaka the Stormbringer's |cff71d5ff|Hspell:182333:0|h[Localized Storm]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			769, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1660109461,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [5]
-		{
-			"Interrupted Burrowing Leyworm's |cff71d5ff|Hspell:9591:0|h[Acid Spit]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			787, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1660109593,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [6]
-		{
-			"Interrupted Burrowing Leyworm's |cff71d5ff|Hspell:9591:0|h[Acid Spit]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			801, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1660109630,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
-		{
-			"Interrupted Burrowing Leyworm's |cff71d5ff|Hspell:9591:0|h[Acid Spit]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			859, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1660109751,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
-		{
-			"we should watch this with him, he's being clingy", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			931, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1660109988,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
-		{
-			"i'm gonna log off", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			932, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1660109991,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [10]
-		{
-			"Interrupted Daggerbeak's |cff71d5ff|Hspell:186332:0|h[Furious Screech]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			47, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663470873,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
-		{
-			"Interrupted Hatecoil Enchantress's |cff71d5ff|Hspell:179101:0|h[Ruin Bolt]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			83, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663471165,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
-		{
-			"Interrupted Salteye Tide-Shaman's |cff71d5ff|Hspell:32011:0|h[Water Bolt]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			145, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663471396,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
-		{
-			"Interrupted Salteye Tide-Shaman's |cff71d5ff|Hspell:182327:0|h[Mrgggrrrll!]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			152, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663471473,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
-		{
-			"Interrupted Salteye Tide-Shaman's |cff71d5ff|Hspell:32011:0|h[Water Bolt]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			176, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663471532,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
-		{
-			"Interrupted Salteye Tide-Shaman's |cff71d5ff|Hspell:32011:0|h[Water Bolt]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			192, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663471608,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
-		{
-			"Interrupted Salteye Tide-Shaman's |cff71d5ff|Hspell:182327:0|h[Mrgggrrrll!]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			201, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663471560,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [17]
-		{
-			"Interrupted Salteye Spearguard's |cff71d5ff|Hspell:38556:0|h[Throw]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			212, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663471622,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
-		{
-			"Interrupted Salteye Tide-Shaman's |cff71d5ff|Hspell:32011:0|h[Water Bolt]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			219, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663471707,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
-		{
-			"can i join you", -- [1]
-			"Voidstoper-Proudmoore", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Voidstoper-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			257, -- [11]
-			"Player-5-0E36BDBB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaVoidstoper-Proudmoore|r",
-			[51] = 1663471758,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"please", -- [1]
-			"Voidstoper-Proudmoore", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Voidstoper-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			261, -- [11]
-			"Player-5-0E36BDBB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaVoidstoper-Proudmoore|r",
-			[51] = 1663471833,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"ton of warmode horde around", -- [1]
-			"Rahji-Proudmoore", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Rahji-Proudmoore", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			262, -- [11]
-			"Player-5-0E38681B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Rahji-Proudmoore|r",
-			[51] = 1663471806,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
-		{
-			"Interrupted Hatecoil Harpooner's |cff71d5ff|Hspell:207064:0|h[Sashj'tar Blast]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			362, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663472219,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
-		{
-			"Interrupted Hatecoil Harpooner's |cff71d5ff|Hspell:207064:0|h[Sashj'tar Blast]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			370, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663472250,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
-		{
-			"Interrupted Hatecoil Stormcaller's |cff71d5ff|Hspell:182333:0|h[Localized Storm]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			425, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663472557,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [25]
-		{
-			"Interrupted Hatecoil Stormcaller's |cff71d5ff|Hspell:157534:0|h[Call Lightning]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			469, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663472811,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
-		{
-			"ephemeral crystal at 40.5 / 37.5 |cffffff00|Hworldmap:630:4153:3766|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
-			"Römana-Mok'Nathal", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Römana-Mok'Nathal", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			598, -- [11]
-			"Player-86-08FCD82E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Römana-Mok'Nathal|r",
-			[51] = 1663473776,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
-		{
-			"Interrupted Sea Skrog Drawing's |cff71d5ff|Hspell:219022:0|h[Deafening Roar]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			658, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663474273,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
-		{
-			"Interrupted Weeping Banshee's |cff71d5ff|Hspell:181468:0|h[Frozen Tears]|h|r!", -- [1]
-			"Úlfhédnar-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Úlfhédnar-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			704, -- [11]
-			"Player-3661-091D2FD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcÚlfhédnar|r",
-			[51] = 1663474505,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
-		{
-			" /way 38.69, 09.31 ", -- [1]
-			"Römana-Mok'Nathal", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Römana-Mok'Nathal", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			756, -- [11]
-			"Player-86-08FCD82E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Römana-Mok'Nathal|r",
-			[51] = 1663475085,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
-		{
-			"whoops sorry", -- [1]
-			"Römana-Mok'Nathal", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Römana-Mok'Nathal", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			757, -- [11]
-			"Player-86-08FCD82E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Römana-Mok'Nathal|r",
-			[51] = 1663475042,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
 	},
 }

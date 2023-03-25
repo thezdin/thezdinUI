@@ -5,13 +5,1082 @@ _detalhes_database = {
 	["mythic_dungeon_id"] = 0,
 	["tabela_historico"] = {
 		["tabelas"] = {
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006463,
+							["damage_from"] = {
+								["Hatecoil Spitespeaker"] = true,
+							},
+							["targets"] = {
+							},
+							["on_hold"] = false,
+							["pets"] = {
+							},
+							["GetSpellContainer"] = nil --[[ skipped inline function ]],
+							["friendlyfire_total"] = 0,
+							["aID"] = "3661-091D2FD8",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006463,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["classe"] = "SHAMAN",
+							["dps_started"] = false,
+							["end_time"] = 1679778731,
+							["spec"] = 263,
+							["damage_taken"] = 28.006463,
+							["nome"] = "Úlfhédnar",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["total"] = 0.006463,
+							["delay"] = 0,
+							["last_event"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1679778731,
+							["serial"] = "Player-3661-091D2FD8",
+							["last_dps"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.004688,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Úlfhédnar"] = 28,
+							},
+							["dps_started"] = false,
+							["pets"] = {
+							},
+							["GetSpellContainer"] = nil --[[ skipped inline function ]],
+							["aID"] = "89025",
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 28.004688,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["end_time"] = 1679778731,
+							["monster"] = true,
+							["damage_taken"] = 0.004688,
+							["nome"] = "Hatecoil Spitespeaker",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Úlfhédnar"] = 28,
+										},
+										["n_dmg"] = 28,
+										["n_min"] = 28,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 28,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["total"] = 28.004688,
+							["delay"] = 0,
+							["last_dps"] = 0,
+							["last_event"] = 1679778713,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1679778731,
+							["serial"] = "Creature-0-4212-1220-9-89025-00001F45E7",
+							["friendlyfire"] = {
+							},
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["GetSpellContainer"] = nil --[[ skipped inline function ]],
+							["pets"] = {
+							},
+							["aID"] = "3661-091D2FD8",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[387231] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 387231,
+										["uptime"] = 18,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[179336] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 179336,
+										["uptime"] = 18,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["nome"] = "Úlfhédnar",
+							["spec"] = 263,
+							["grupo"] = true,
+							["tipo"] = 4,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["last_event"] = 1679778731,
+							["buff_uptime"] = 36,
+							["buff_uptime_targets"] = {
+							},
+							["serial"] = "Player-3661-091D2FD8",
+							["classe"] = "SHAMAN",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Úlfhédnar"] = "Player-3661-091D2FD8",
+				},
+				["raid_roster_indexed"] = {
+					"Úlfhédnar", -- [1]
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					27.94702799999875, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "14:12:12",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Hatecoil Spitespeaker",
+				["TotalElapsedCombatTime"] = 434824.564,
+				["CombatEndedAt"] = 434824.564,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Úlfhédnar"] = 0.006463,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 434824.564,
+				["combat_id"] = 2,
+				["data_inicio"] = "14:11:54",
+				["tempo_start"] = 1679778713,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Hatecoil Spitespeaker",
+				["combat_counter"] = 5,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 434806.296,
+				["TimeData"] = {
+				},
+				["frags"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003634,
+							["damage_from"] = {
+								["Úlfhédnar"] = true,
+							},
+							["targets"] = {
+								["Úlfhédnar"] = 112,
+							},
+							["dps_started"] = false,
+							["pets"] = {
+							},
+							["GetSpellContainer"] = nil --[[ skipped inline function ]],
+							["classe"] = "UNKNOW",
+							["aID"] = "89025",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 112.003634,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["friendlyfire_total"] = 0,
+							["monster"] = true,
+							["end_time"] = 1679778656,
+							["on_hold"] = false,
+							["last_dps"] = 0,
+							["nome"] = "Hatecoil Spitespeaker",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 35,
+										["targets"] = {
+											["Úlfhédnar"] = 35,
+										},
+										["n_dmg"] = 35,
+										["n_min"] = 35,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 35,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[157534] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 77,
+										["targets"] = {
+											["Úlfhédnar"] = 77,
+										},
+										["n_dmg"] = 77,
+										["n_min"] = 77,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 77,
+										["c_max"] = 0,
+										["id"] = 157534,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["fight_component"] = true,
+							["total"] = 112.003634,
+							["delay"] = 0,
+							["damage_taken"] = 785.003634,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1679778656,
+							["serial"] = "Creature-0-4212-1220-9-89025-00001F46C4",
+							["last_event"] = 1679778651,
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007358,
+							["last_dps"] = 127.6971968452961,
+							["GetSpellContainer"] = nil --[[ skipped inline function ]],
+							["targets"] = {
+								["Hatecoil Spitespeaker"] = 785,
+								["Subjugated Murloc"] = 251,
+							},
+							["friendlyfire_total"] = 0,
+							["pets"] = {
+							},
+							["damage_from"] = {
+								["Hatecoil Spitespeaker"] = true,
+								["Subjugated Murloc"] = true,
+							},
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["aID"] = "3661-091D2FD8",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1036.007358,
+							["friendlyfire"] = {
+							},
+							["classe"] = "SHAMAN",
+							["dps_started"] = false,
+							["end_time"] = 1679778656,
+							["damage_taken"] = 177.007358,
+							["total"] = 1036.007358,
+							["nome"] = "Úlfhédnar",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 131,
+										["g_amt"] = 0,
+										["n_max"] = 30,
+										["targets"] = {
+											["Hatecoil Spitespeaker"] = 191,
+											["Subjugated Murloc"] = 43,
+										},
+										["n_dmg"] = 103,
+										["n_min"] = 14,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["ChartData"] = {
+											[5] = 191,
+										},
+										["total"] = 234,
+										["c_max"] = 70,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 61,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[188389] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 23,
+										["targets"] = {
+											["Hatecoil Spitespeaker"] = 37,
+										},
+										["n_dmg"] = 37,
+										["n_min"] = 14,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["ChartData"] = {
+											[5] = 37,
+										},
+										["total"] = 37,
+										["c_max"] = 0,
+										["id"] = 188389,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[17364] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 166,
+										["g_amt"] = 0,
+										["n_max"] = 86,
+										["targets"] = {
+											["Hatecoil Spitespeaker"] = 131,
+											["Subjugated Murloc"] = 206,
+										},
+										["n_dmg"] = 171,
+										["n_min"] = 40,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["ChartData"] = {
+											[5] = 131,
+										},
+										["total"] = 337,
+										["c_max"] = 166,
+										["id"] = 17364,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 166,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[196840] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 75,
+										["targets"] = {
+											["Hatecoil Spitespeaker"] = 75,
+										},
+										["n_dmg"] = 75,
+										["n_min"] = 75,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["ChartData"] = {
+											[5] = 75,
+										},
+										["total"] = 75,
+										["c_max"] = 0,
+										["id"] = 196840,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 16,
+									},
+									[188196] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 331,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Hatecoil Spitespeaker"] = 331,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["ChartData"] = {
+											[5] = 331,
+										},
+										["total"] = 331,
+										["c_max"] = 331,
+										["id"] = 188196,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 331,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[10444] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 10,
+										["g_amt"] = 0,
+										["n_max"] = 2,
+										["targets"] = {
+											["Hatecoil Spitespeaker"] = 20,
+											["Subjugated Murloc"] = 2,
+										},
+										["n_dmg"] = 12,
+										["n_min"] = 2,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["ChartData"] = {
+											[5] = 20,
+										},
+										["total"] = 22,
+										["c_max"] = 5,
+										["id"] = 10444,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 5,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["delay"] = 0,
+							["spec"] = 263,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1679778655,
+							["on_hold"] = false,
+							["start_time"] = 1679778656,
+							["serial"] = "Player-3661-091D2FD8",
+							["colocacao"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.002323,
+							["damage_from"] = {
+								["Úlfhédnar"] = true,
+							},
+							["targets"] = {
+								["Úlfhédnar"] = 65,
+							},
+							["dps_started"] = false,
+							["pets"] = {
+							},
+							["GetSpellContainer"] = nil --[[ skipped inline function ]],
+							["classe"] = "UNKNOW",
+							["aID"] = "89811",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 65.002323,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["friendlyfire_total"] = 0,
+							["monster"] = true,
+							["end_time"] = 1679778656,
+							["on_hold"] = false,
+							["last_dps"] = 0,
+							["nome"] = "Subjugated Murloc",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12,
+										["targets"] = {
+											["Úlfhédnar"] = 54,
+										},
+										["n_dmg"] = 54,
+										["n_min"] = 9,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 54,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[131103] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 11,
+										["targets"] = {
+											["Úlfhédnar"] = 11,
+										},
+										["n_dmg"] = 11,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 11,
+										["c_max"] = 0,
+										["id"] = 131103,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["fight_component"] = true,
+							["total"] = 65.002323,
+							["delay"] = 0,
+							["damage_taken"] = 251.002323,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1679778656,
+							["serial"] = "Creature-0-4212-1220-9-89811-00001F46C4",
+							["last_event"] = 1679778655,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["GetSpellContainer"] = nil --[[ skipped inline function ]],
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.006391,
+							["total_without_pet"] = 66.00639100000001,
+							["total"] = 66.00639100000001,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["on_hold"] = false,
+							["serial"] = "Player-3661-091D2FD8",
+							["totalabsorb"] = 0.006391,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Úlfhédnar"] = 66,
+							},
+							["totalover_without_pet"] = 0.006391,
+							["healing_taken"] = 66.00639100000001,
+							["fight_component"] = true,
+							["end_time"] = 1679778656,
+							["healing_from"] = {
+								["Úlfhédnar"] = true,
+							},
+							["spec"] = 263,
+							["nome"] = "Úlfhédnar",
+							["spells"] = {
+								["_ActorTable"] = {
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 33,
+										["targets"] = {
+											["Úlfhédnar"] = 66,
+										},
+										["n_min"] = 33,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 66,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 66,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["totaldenied"] = 0.006391,
+							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1679778655,
+							["aID"] = "3661-091D2FD8",
+							["start_time"] = 1679778656,
+							["delay"] = 0,
+							["classe"] = "SHAMAN",
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[196840] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 196840,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[188389] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["GetSpellContainer"] = nil --[[ skipped inline function ]],
+							["pets"] = {
+							},
+							["aID"] = "3661-091D2FD8",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[344179] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 344179,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[382889] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 6,
+										["id"] = 382889,
+										["uptime"] = 8,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[179336] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 179336,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 7,
+							["buff_uptime_targets"] = {
+							},
+							["nome"] = "Úlfhédnar",
+							["spec"] = 263,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[196840] = 1,
+								[17364] = 2,
+								[188389] = 1,
+								[188196] = 1,
+							},
+							["tipo"] = 4,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["last_event"] = 1679778656,
+							["buff_uptime"] = 22,
+							["classe"] = "SHAMAN",
+							["serial"] = "Player-3661-091D2FD8",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["nome"] = "Subjugated Murloc",
+							["GetSpellContainer"] = nil --[[ skipped inline function ]],
+							["monster"] = true,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[131103] = 1,
+							},
+							["last_event"] = 0,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["aID"] = "89811",
+							["serial"] = "Creature-0-4212-1220-9-89811-00001F46C4",
+							["tipo"] = 4,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["nome"] = "Hatecoil Spitespeaker",
+							["GetSpellContainer"] = nil --[[ skipped inline function ]],
+							["monster"] = true,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[157534] = 1,
+							},
+							["last_event"] = 0,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["aID"] = "89025",
+							["serial"] = "Creature-0-4212-1220-9-89025-00001F46C4",
+							["tipo"] = 4,
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Úlfhédnar"] = "Player-3661-091D2FD8",
+				},
+				["raid_roster_indexed"] = {
+					"Úlfhédnar", -- [1]
+				},
+				["CombatStartedAt"] = 434803.888,
+				["tempo_start"] = 1679778647,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					1213, -- [1]
+					66, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					1036, -- [1]
+					66, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "14:10:56",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Hatecoil Spitespeaker",
+				["TotalElapsedCombatTime"] = 434748.788,
+				["CombatEndedAt"] = 434748.788,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Úlfhédnar"] = 1036.007358,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Úlfhédnar"] = 66.00639100000001,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 434748.788,
+				["combat_id"] = 1,
+				["overall_added"] = true,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["combat_counter"] = 4,
+				["player_last_events"] = {
+				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "14:10:48",
+				["start_time"] = 434740.291,
+				["contra"] = "Hatecoil Spitespeaker",
+				["frags"] = {
+					["Hatecoil Spitespeaker"] = 1,
+					["Subjugated Murloc"] = 1,
+				},
+			}, -- [2]
 		},
 	},
 	["ocd_tracker"] = {
-		["enabled"] = false,
+		["show_title"] = true,
 		["current_cooldowns"] = {
 		},
 		["lines_per_column"] = 12,
+		["group_frames"] = true,
 		["frames"] = {
 			["defensive-raid"] = {
 			},
@@ -34,29 +1103,30 @@ _detalhes_database = {
 			["utility"] = false,
 			["defensive-personal"] = false,
 		},
-		["filters"] = {
-			["defensive-raid"] = false,
-			["ofensive"] = true,
-			["defensive-target"] = false,
-			["utility"] = false,
-			["defensive-personal"] = false,
-		},
 		["width"] = 120,
-		["height"] = 18,
 		["cooldowns"] = {
 		},
+		["height"] = 18,
+		["framme_locked"] = false,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
 		},
-		["framme_locked"] = false,
-		["pos"] = {
+		["enabled"] = false,
+		["filters"] = {
+			["itemutil"] = false,
+			["itempower"] = false,
+			["defensive-target"] = false,
+			["itemheal"] = false,
+			["defensive-personal"] = false,
+			["defensive-raid"] = false,
+			["ofensive"] = true,
+			["crowdcontrol"] = false,
+			["utility"] = false,
 		},
 	},
-	["last_version"] = "10.0.5 10410",
-	["SoloTablesSaved"] = {
-		["Mode"] = 1,
-	},
+	["combat_counter"] = 8,
+	["force_font_outline"] = "",
 	["tabela_instancias"] = {
 	},
 	["coach"] = {
@@ -65,17 +1135,52 @@ _detalhes_database = {
 		},
 		["last_coach_name"] = false,
 	},
-	["on_death_menu"] = false,
+	["local_instances_config"] = {
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = true,
+			["verticalSnap"] = false,
+			["isLocked"] = true,
+			["is_open"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -517.4444427490234,
+					["x"] = 1397.741455078125,
+					["w"] = 242.4465789794922,
+					["h"] = 181.1112213134766,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
 	["cached_talents"] = {
 	},
 	["last_instance_id"] = 0,
 	["data_harvest_for_charsts"] = {
 		["players"] = {
 			{
-				["name"] = "Damage of Each Individual Player",
-				["playerOnly"] = true,
 				["playerKey"] = "total",
 				["combatObjectContainer"] = 1,
+				["name"] = "Damage of Each Individual Player",
+				["playerOnly"] = true,
 			}, -- [1]
 		},
 		["totals"] = {
@@ -99,12 +1204,51 @@ _detalhes_database = {
 		["reverse"] = false,
 	},
 	["active_profile"] = "Thezdin-Hyjal",
-	["last_realversion"] = 148,
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
-	["last_day"] = "04",
+	["combat_log"] = {
+		["merge_gemstones_1007"] = false,
+		["inverse_deathlog_raid"] = false,
+		["inverse_deathlog_overalldata"] = false,
+		["track_hunter_frenzy"] = false,
+		["inverse_deathlog_mplus"] = false,
+	},
+	["last_version"] = "10.0.7 10730",
+	["mythic_plus_log"] = {
+	},
+	["ignore_nicktag"] = false,
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["character_data"] = {
+		["logons"] = 4,
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_realversion"] = 148,
+	["last_day"] = "25",
+	["combat_id"] = 2,
+	["savedStyles"] = {
+	},
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["enabled"] = true,
@@ -126,16 +1270,9 @@ _detalhes_database = {
 			["playSoundFile"] = "Details Threat Warning Volume 3",
 			["disable_gouge"] = false,
 		},
-		["DETAILS_PLUGIN_RAIDCHECK"] = {
+		["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
 			["enabled"] = true,
-			["food_tier1"] = true,
-			["mythic_1_4"] = true,
-			["food_tier2"] = true,
 			["author"] = "Terciob",
-			["use_report_panel"] = true,
-			["pre_pot_healers"] = false,
-			["pre_pot_tanks"] = false,
-			["food_tier3"] = true,
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["tank_block_size_height"] = 50,
@@ -175,9 +1312,16 @@ _detalhes_database = {
 			["opened"] = 0,
 			["hide_on_combat"] = false,
 		},
-		["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
 			["author"] = "Terciob",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["use_square_mode"] = false,
@@ -191,7 +1335,7 @@ _detalhes_database = {
 			},
 			["arrow_anchor_y"] = 0,
 			["main_frame_size"] = {
-				299.9997863769531, -- [1]
+				300.0000610351563, -- [1]
 				500.0000610351563, -- [2]
 			},
 			["minimap"] = {
@@ -201,30 +1345,20 @@ _detalhes_database = {
 			},
 			["main_frame_locked"] = false,
 			["arrow_anchor_x"] = 0,
+			["use_spark"] = true,
+			["row_texture"] = "Details Serenity",
+			["square_grow_direction"] = "right",
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["row_texture"] = "Details Serenity",
-			["square_grow_direction"] = "right",
-			["per_second"] = {
-				["enabled"] = true,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = -6.103515625e-05,
-				["x"] = -0.00018310546875,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
-				["size"] = 32,
-			},
 			["author"] = "Terciob",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["font_size"] = 10,
+			["y"] = -1.52587890625e-05,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -234,9 +1368,19 @@ _detalhes_database = {
 			},
 			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = 1.52587890625e-05,
-			["use_spark"] = true,
-			["x"] = -0.00018310546875,
+			["font_size"] = 10,
+			["per_second"] = {
+				["enabled"] = true,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 0,
+				["x"] = -0.0054931640625,
+				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+			},
+			["x"] = -0.002197265625,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
 			["point"] = "CENTER",
@@ -250,28 +1394,8 @@ _detalhes_database = {
 			["scale"] = 1,
 		},
 	},
-	["ignore_nicktag"] = false,
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["last_instance_time"] = 0,
 	["data_harvested_for_charts"] = {
 	},
-	["mythic_plus_log"] = {
-	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["force_font_outline"] = "",
-	["combat_id"] = 167,
-	["savedStyles"] = {
-	},
-	["character_data"] = {
-		["logons"] = 8,
-	},
-	["combat_counter"] = 185,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -282,11 +1406,484 @@ _detalhes_database = {
 		{
 			["tipo"] = 2,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.014436,
+					["GetSpellContainer"] = nil --[[ skipped inline function ]],
+					["targets"] = {
+						["Úlfhédnar"] = 140,
+					},
+					["last_dps"] = 0,
+					["pets"] = {
+					},
+					["damage_from"] = {
+						["Úlfhédnar"] = true,
+					},
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 140.014436,
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["classe"] = "UNKNOW",
+					["fight_component"] = true,
+					["end_time"] = 1679778656,
+					["friendlyfire"] = {
+					},
+					["damage_taken"] = 785.014436,
+					["nome"] = "Hatecoil Spitespeaker",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 35,
+								["targets"] = {
+									["Úlfhédnar"] = 63,
+								},
+								["n_dmg"] = 63,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 63,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 2,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+							[157534] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 77,
+								["targets"] = {
+									["Úlfhédnar"] = 77,
+								},
+								["n_dmg"] = 77,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 77,
+								["c_max"] = 0,
+								["id"] = 157534,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["monster"] = true,
+					["total"] = 140.014436,
+					["aID"] = "89025",
+					["dps_started"] = false,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1679778653,
+					["serial"] = "Creature-0-4212-1220-9-89025-00001F46C4",
+					["tipo"] = 1,
+				}, -- [1]
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.020193,
+					["damage_from"] = {
+						["Hatecoil Spitespeaker"] = true,
+						["Subjugated Murloc"] = true,
+					},
+					["targets"] = {
+						["Hatecoil Spitespeaker"] = 785,
+						["Subjugated Murloc"] = 251,
+					},
+					["end_time"] = 1679778656,
+					["pets"] = {
+					},
+					["GetSpellContainer"] = nil --[[ skipped inline function ]],
+					["friendlyfire_total"] = 0,
+					["aID"] = "3661-091D2FD8",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 1036.020193,
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["classe"] = "SHAMAN",
+					["dps_started"] = false,
+					["total"] = 1036.020193,
+					["damage_taken"] = 205.020193,
+					["delay"] = 0,
+					["nome"] = "Úlfhédnar",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 131,
+								["g_amt"] = 0,
+								["n_max"] = 30,
+								["targets"] = {
+									["Hatecoil Spitespeaker"] = 191,
+									["Subjugated Murloc"] = 43,
+								},
+								["n_dmg"] = 103,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 234,
+								["c_max"] = 70,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 5,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+							[188389] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 23,
+								["targets"] = {
+									["Hatecoil Spitespeaker"] = 37,
+								},
+								["n_dmg"] = 37,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 37,
+								["c_max"] = 0,
+								["id"] = 188389,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 2,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[17364] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 166,
+								["g_amt"] = 0,
+								["n_max"] = 86,
+								["targets"] = {
+									["Hatecoil Spitespeaker"] = 131,
+									["Subjugated Murloc"] = 206,
+								},
+								["n_dmg"] = 171,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 337,
+								["c_max"] = 166,
+								["id"] = 17364,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 3,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[196840] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 75,
+								["targets"] = {
+									["Hatecoil Spitespeaker"] = 75,
+								},
+								["n_dmg"] = 75,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 75,
+								["c_max"] = 0,
+								["id"] = 196840,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[188196] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 331,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Hatecoil Spitespeaker"] = 331,
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 331,
+								["c_max"] = 331,
+								["id"] = 188196,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[10444] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 10,
+								["g_amt"] = 0,
+								["n_max"] = 2,
+								["targets"] = {
+									["Hatecoil Spitespeaker"] = 20,
+									["Subjugated Murloc"] = 2,
+								},
+								["n_dmg"] = 12,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 8,
+								["total"] = 22,
+								["c_max"] = 5,
+								["id"] = 10444,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 6,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["grupo"] = true,
+					["last_dps"] = 0,
+					["spec"] = 263,
+					["tipo"] = 1,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1679778653,
+					["serial"] = "Player-3661-091D2FD8",
+					["on_hold"] = false,
+				}, -- [2]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.006536,
+					["damage_from"] = {
+						["Úlfhédnar"] = true,
+					},
+					["targets"] = {
+						["Úlfhédnar"] = 65,
+					},
+					["dps_started"] = false,
+					["pets"] = {
+					},
+					["GetSpellContainer"] = nil --[[ skipped inline function ]],
+					["friendlyfire_total"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 65.006536,
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["aID"] = "89811",
+					["fight_component"] = true,
+					["end_time"] = 1679778656,
+					["total"] = 65.006536,
+					["last_event"] = 0,
+					["nome"] = "Subjugated Murloc",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 12,
+								["targets"] = {
+									["Úlfhédnar"] = 54,
+								},
+								["n_dmg"] = 54,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 54,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 5,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+							[131103] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 11,
+								["targets"] = {
+									["Úlfhédnar"] = 11,
+								},
+								["n_dmg"] = 11,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 11,
+								["c_max"] = 0,
+								["id"] = 131103,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["monster"] = true,
+					["delay"] = 0,
+					["damage_taken"] = 251.006536,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["on_hold"] = false,
+					["start_time"] = 1679778653,
+					["serial"] = "Creature-0-4212-1220-9-89811-00001F46C4",
+					["last_dps"] = 0,
+				}, -- [3]
 			},
 		}, -- [1]
 		{
 			["tipo"] = 3,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["targets_overheal"] = {
+					},
+					["GetSpellContainer"] = nil --[[ skipped inline function ]],
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 0.009341,
+					["total_without_pet"] = 66.009341,
+					["total"] = 66.009341,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["on_hold"] = false,
+					["serial"] = "Player-3661-091D2FD8",
+					["totalabsorb"] = 0.009341,
+					["last_hps"] = 0,
+					["targets"] = {
+						["Úlfhédnar"] = 0,
+					},
+					["totalover_without_pet"] = 0.009341,
+					["healing_taken"] = 66.009341,
+					["fight_component"] = true,
+					["end_time"] = 1679778656,
+					["healing_from"] = {
+						["Úlfhédnar"] = true,
+					},
+					["spec"] = 263,
+					["nome"] = "Úlfhédnar",
+					["spells"] = {
+						["_ActorTable"] = {
+							[59913] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 33,
+								["targets"] = {
+									["Úlfhédnar"] = 66,
+								},
+								["n_min"] = 0,
+								["counter"] = 2,
+								["overheal"] = 0,
+								["total"] = 66,
+								["c_max"] = 0,
+								["id"] = 59913,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_curado"] = 0,
+								["n_curado"] = 66,
+								["totaldenied"] = 0,
+								["n_amt"] = 2,
+								["absorbed"] = 0,
+							},
+						},
+						["tipo"] = 3,
+					},
+					["grupo"] = true,
+					["totaldenied"] = 0.009341,
+					["tipo"] = 2,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["aID"] = "3661-091D2FD8",
+					["start_time"] = 1679778653,
+					["delay"] = 0,
+					["classe"] = "SHAMAN",
+				}, -- [1]
 			},
 		}, -- [2]
 		{
@@ -297,6 +1894,140 @@ _detalhes_database = {
 		{
 			["tipo"] = 9,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[196840] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 196840,
+								["uptime"] = 4,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[188389] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 188389,
+								["uptime"] = 3,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["GetSpellContainer"] = nil --[[ skipped inline function ]],
+					["pets"] = {
+					},
+					["classe"] = "SHAMAN",
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[344179] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 344179,
+								["uptime"] = 5,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[382889] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 382889,
+								["uptime"] = 8,
+								["targets"] = {
+								},
+								["refreshamt"] = 6,
+							},
+							[179336] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 179336,
+								["uptime"] = 27,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[387231] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 387231,
+								["uptime"] = 18,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 7,
+					["aID"] = "3661-091D2FD8",
+					["nome"] = "Úlfhédnar",
+					["spec"] = 263,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[196840] = 1,
+						[17364] = 2,
+						[188196] = 1,
+						[188389] = 1,
+					},
+					["buff_uptime_targets"] = {
+					},
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["buff_uptime"] = 58,
+					["serial"] = "Player-3661-091D2FD8",
+					["debuff_uptime_targets"] = {
+					},
+				}, -- [1]
+				{
+					["flag_original"] = 2632,
+					["nome"] = "Subjugated Murloc",
+					["GetSpellContainer"] = nil --[[ skipped inline function ]],
+					["fight_component"] = true,
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[131103] = 1,
+					},
+					["last_event"] = 0,
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["classe"] = "UNKNOW",
+					["monster"] = true,
+					["aID"] = "89811",
+					["serial"] = "Creature-0-4212-1220-9-89811-00001F46C4",
+					["tipo"] = 4,
+				}, -- [2]
+				{
+					["flag_original"] = 68168,
+					["nome"] = "Hatecoil Spitespeaker",
+					["GetSpellContainer"] = nil --[[ skipped inline function ]],
+					["fight_component"] = true,
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[157534] = 1,
+					},
+					["last_event"] = 0,
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["classe"] = "UNKNOW",
+					["monster"] = true,
+					["aID"] = "89025",
+					["serial"] = "Creature-0-4212-1220-9-89025-00001F46C4",
+					["tipo"] = 4,
+				}, -- [3]
 			},
 		}, -- [4]
 		{
@@ -308,36 +2039,48 @@ _detalhes_database = {
 		},
 		["raid_roster_indexed"] = {
 		},
-		["tempo_start"] = 929894.769,
-		["last_events_tables"] = {
+		["segments_added"] = {
+			{
+				["elapsed"] = 18.26799999998184,
+				["type"] = 0,
+				["name"] = "Hatecoil Spitespeaker",
+				["clock"] = "14:11:54",
+			}, -- [1]
+			{
+				["elapsed"] = 8.496999999973923,
+				["type"] = 0,
+				["name"] = "Hatecoil Spitespeaker",
+				["clock"] = "14:10:48",
+			}, -- [2]
+		},
+		["tempo_start"] = 1679778647,
+		["cleu_timeline"] = {
 		},
 		["alternate_power"] = {
 		},
-		["spells_cast_timeline"] = {
-		},
-		["combat_counter"] = 179,
+		["combat_counter"] = 3,
 		["totals"] = {
-			0, -- [1]
-			0, -- [2]
+			1241.026513, -- [1]
+			66.00639100000001, -- [2]
 			{
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[3] = 0,
 				[6] = 0,
+				[3] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
 			}, -- [4]
-			["frags_total"] = 0,
 			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
 		},
 		["player_last_events"] = {
 		},
@@ -346,148 +2089,70 @@ _detalhes_database = {
 		},
 		["__call"] = {
 		},
-		["data_inicio"] = 0,
-		["end_time"] = 929894.769,
+		["data_inicio"] = "14:10:48",
+		["end_time"] = 434824.564,
+		["last_events_tables"] = {
+		},
 		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
+			1036.013821, -- [1]
+			66.00639100000001, -- [2]
 			{
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[3] = 0,
 				[6] = 0,
+				[3] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
 			}, -- [4]
 		},
 		["overall_refreshed"] = true,
-		["hasSaved"] = true,
-		["frags"] = {
-		},
-		["data_fim"] = 0,
-		["cleu_timeline"] = {
-		},
-		["CombatSkillCache"] = {
-		},
-		["cleu_events"] = {
-			["n"] = 1,
-		},
-		["start_time"] = 929894.769,
-		["TimeData"] = {
-			["Player Damage Done"] = {
-			},
-		},
 		["PhaseData"] = {
 			{
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
-			["damage_section"] = {
+			["damage"] = {
 			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
-			["damage"] = {
+			["damage_section"] = {
 			},
 		},
+		["hasSaved"] = true,
+		["spells_cast_timeline"] = {
+		},
+		["data_fim"] = "14:12:12",
+		["overall_enemy_name"] = "Hatecoil Spitespeaker",
+		["CombatSkillCache"] = {
+		},
+		["frags"] = {
+		},
+		["start_time"] = 434797.7990000001,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["cleu_events"] = {
+			["n"] = 1,
+		},
 	},
+	["last_instance_time"] = 0,
 	["nick_tag_cache"] = {
-		["nextreset"] = 1676840739,
+		["nextreset"] = 1681074592,
 		["last_version"] = 15,
 	},
-	["local_instances_config"] = {
-		{
-			["modo"] = 2,
-			["sub_attribute"] = 1,
-			["horizontalSnap"] = false,
-			["verticalSnap"] = false,
-			["isLocked"] = true,
-			["is_open"] = true,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			},
-			["snap"] = {
-				[3] = 2,
-			},
-			["segment"] = 0,
-			["mode"] = 2,
-			["attribute"] = 1,
-			["pos"] = {
-				["normal"] = {
-					["y"] = -529.3333358764648,
-					["x"] = 1128.33349609375,
-					["w"] = 200.0000305175781,
-					["h"] = 177.3334503173828,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [1]
-		{
-			["modo"] = 2,
-			["sub_attribute"] = 1,
-			["horizontalSnap"] = false,
-			["verticalSnap"] = false,
-			["isLocked"] = true,
-			["is_open"] = true,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			},
-			["snap"] = {
-				1, -- [1]
-			},
-			["segment"] = 0,
-			["mode"] = 2,
-			["attribute"] = 1,
-			["pos"] = {
-				["normal"] = {
-					["y"] = -529.3333358764648,
-					["x"] = 1376.222412109375,
-					["w"] = 295.7777404785156,
-					["h"] = 177.3334503173828,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [2]
-	},
-	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "",
-		["started"] = false,
-		["segment_id"] = 0,
-		["ej_id"] = 0,
-		["started_at"] = 0,
-		["run_id"] = 0,
-		["level"] = 0,
-		["dungeon_zone_id"] = 0,
-		["previous_boss_killed_at"] = 0,
-	},
+	["on_death_menu"] = false,
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},

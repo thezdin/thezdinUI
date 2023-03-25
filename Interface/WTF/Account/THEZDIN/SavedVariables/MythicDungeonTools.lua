@@ -1,6 +1,7 @@
 
 MythicDungeonToolsDB = {
 	["profileKeys"] = {
+		["Úlfhédnar - Hyjal"] = "Úlfhédnar - Hyjal",
 		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Thezbank - Mannoroth"] = "Thezbank - Mannoroth",
@@ -9,76 +10,17 @@ MythicDungeonToolsDB = {
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
+		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 	},
 	["global"] = {
 		["anchorTo"] = "CENTER",
-		["colorPaletteInfo"] = {
-			["customPaletteValues"] = {
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [1]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [2]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [3]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [4]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [5]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [6]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [7]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [8]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [9]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [10]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [11]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				}, -- [12]
-			},
-		},
+		["scale"] = 1.689201286247185,
 		["anchorFrom"] = "CENTER",
+		["minimap"] = {
+			["lock"] = true,
+		},
 		["nonFullscreenScale"] = 1.689201286247185,
 		["MDI"] = {
 		},
@@ -91,27 +33,27 @@ MythicDungeonToolsDB = {
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
-						["riftOffsets"] = {
-							[3] = {
-							},
+						["pulls"] = {
+							{
+								["color"] = "ff3eff",
+							}, -- [1]
 						},
 						["currentDungeonIdx"] = 42,
 						["teeming"] = false,
 						["selection"] = {
 							1, -- [1]
 						},
-						["pulls"] = {
-							{
-								["color"] = "ff3eff",
-							}, -- [1]
+						["riftOffsets"] = {
+							[3] = {
+							},
 						},
 					},
+					["difficulty"] = 10,
 					["mdi"] = {
 						["freeholdJoined"] = false,
-						["beguiling"] = 1,
 						["freehold"] = 1,
+						["beguiling"] = 1,
 					},
-					["difficulty"] = 10,
 				}, -- [1]
 			},
 			[44] = {
@@ -121,15 +63,6 @@ MythicDungeonToolsDB = {
 					["value"] = {
 						["currentPull"] = 13,
 						["currentSublevel"] = 3,
-						["riftOffsets"] = {
-							[3] = {
-							},
-						},
-						["currentDungeonIdx"] = 44,
-						["teeming"] = false,
-						["selection"] = {
-							13, -- [1]
-						},
 						["pulls"] = {
 							{
 								{
@@ -203,10 +136,8 @@ MythicDungeonToolsDB = {
 							}, -- [5]
 							{
 								["color"] = "3eff3e",
-								[9] = {
+								[5] = {
 									2, -- [1]
-									1, -- [2]
-									3, -- [3]
 								},
 								[4] = {
 									4, -- [1]
@@ -214,8 +145,10 @@ MythicDungeonToolsDB = {
 									3, -- [3]
 									6, -- [4]
 								},
-								[5] = {
+								[9] = {
 									2, -- [1]
+									1, -- [2]
+									3, -- [3]
 								},
 							}, -- [6]
 							{
@@ -296,20 +229,92 @@ MythicDungeonToolsDB = {
 								},
 							}, -- [13]
 						},
+						["currentDungeonIdx"] = 44,
+						["teeming"] = false,
+						["selection"] = {
+							13, -- [1]
+						},
+						["riftOffsets"] = {
+							[3] = {
+							},
+						},
 					},
 					["mdi"] = {
 						["freeholdJoined"] = false,
-						["beguiling"] = 1,
 						["freehold"] = 1,
+						["beguiling"] = 1,
 					},
 					["difficulty"] = 10,
 				}, -- [1]
 			},
 		},
 		["currentDungeonIdx"] = 44,
-		["version"] = 4024,
-		["xoffset"] = -338.7595825195313,
-		["scale"] = 1.689201286247185,
-		["yoffset"] = 94.80330657958984,
+		["version"] = 4029,
+		["xoffset"] = -248.981689453125,
+		["colorPaletteInfo"] = {
+			["customPaletteValues"] = {
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [1]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [2]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [3]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [4]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [5]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [6]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [7]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [8]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [9]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [10]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [11]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [12]
+			},
+		},
+		["yoffset"] = 77.91449737548828,
 	},
 }
