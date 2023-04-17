@@ -1,16 +1,16 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0717,
+	["LastVersion"] = 2.0718,
 	["ItemLevels"] = {
 		{
-			["ID"] = 200345,
-			["Level"] = 385,
-			["Link"] = "|cffa335ee|Hitem:200345::::::::70:581::4:6:7982:6652:7935:8828:1459:8767::::::|h[Skybound Avenger's Visor]|h|r",
+			["ID"] = 199427,
+			["Level"] = 395,
+			["Link"] = "|cffa335ee|Hitem:199427::::::::70:581::14:8:8943:6652:7937:8822:8820:9344:1517:8767::::::|h[Cowl of Raging Tempests]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 193647,
-			["Level"] = 359,
-			["Link"] = "|cff0070dd|Hitem:193647::::::::70:581::2:6:7976:6652:7937:8784:1581:8766:1:28:2156:::::|h[Custodian's Medallion of Delusion]|h|r",
+			["ID"] = 201962,
+			["Level"] = 389,
+			["Link"] = "|cffa335ee|Hitem:201962::::::::70:581::14:5:7937:8784:9377:1489:8767::::::|h[Heat of Primal Winter]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 200347,
@@ -24,58 +24,58 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:193399::::::::70:581::13:6:8836:8840:8902:8800:8845:8792:7:28:2164:29:32:30:49:38:6:40:294:47:194569:45:197921:::::|h[Life-Bound Chestpiece |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 193744,
-			["Level"] = 359,
-			["Link"] = "|cff0070dd|Hitem:193744::::::::70:581::2:6:7976:42:7936:8814:1581:8766:1:28:2156:::::|h[Watcher's Clasp of Purpose]|h|r",
+			["ID"] = 199429,
+			["Level"] = 395,
+			["Link"] = "|cffa335ee|Hitem:199429::::::::70:581::14:8:8943:6652:7936:8822:8818:9344:1517:8767::::::|h[Sash of Raging Tempests]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 201944,
-			["Level"] = 343,
-			["Link"] = "|cff0070dd|Hitem:201944::::::::70:581::13:3:8851:8852:8802:5:28:2164:29:32:30:40:38:8:40:848:::::|h[Pioneer's Practiced Leggings |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["ID"] = 134194,
+			["Level"] = 395,
+			["Link"] = "|cffa335ee|Hitem:134194::::::::70:581::35:8:8967:7977:6652:8822:8820:9144:3274:8767::::::|h[Biornskin Leggings]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 200460,
-			["Level"] = 376,
-			["Link"] = "|cffa335ee|Hitem:200460::::::::70:581::25:1:1472:1:28:2078:::::|h[Ohn'ahran Plainswalker Moccasins]|h|r",
+			["ID"] = 199425,
+			["Level"] = 395,
+			["Link"] = "|cffa335ee|Hitem:199425::::::::70:581::14:7:8943:6652:8822:8818:9344:1517:8767::::::|h[Waders of Raging Tempests]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 193714,
-			["Level"] = 376,
-			["Link"] = "|cffa335ee|Hitem:193714::::::::70:581::33:9:8961:7977:6652:7936:8822:8819:9144:1598:8767:1:28:1279:::::|h[Frenzyroot Cuffs]|h|r",
+			["ID"] = 199430,
+			["Level"] = 385,
+			["Link"] = "|cffa335ee|Hitem:199430::::::::70:581::14:8:8943:6652:7937:8822:8819:9343:1507:8767::::::|h[Bindings of Raging Tempests]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 188418,
-			["Level"] = 359,
-			["Link"] = "|cff0070dd|Hitem:188418::::::::70:581::22:3:8171:7756:6652:2:9:70:28:181:::::|h[Grotto Mist Gloves]|h|r",
+			["ID"] = 195514,
+			["Level"] = 408,
+			["Link"] = "|cffa335ee|Hitem:195514::::::::70:581::5:6:6652:7980:8825:8817:1485:8767:1:28:2474:::::|h[Treacherous Totem Wraps]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 193633,
-			["Level"] = 359,
+			["ID"] = 203460,
+			["Level"] = 411,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:193633::::::::70:581::2:5:7976:6652:7937:1581:8766:1:28:2156:::::|h[Unstable Arcane Loop]|h|r",
+			["Link"] = "|cffa335ee|Hitem:203460::204000:204029:204027::::70:581::11:1:1478:1:28:2589:1:9367:1:9367:1:9367::|h[Onyx Annulet]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 193731,
-			["Level"] = 359,
+			["ID"] = 203460,
+			["Level"] = 409,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:193731::::::::70:581::2:5:7976:6652:7935:1581:8766:1:28:2156:::::|h[Circle of Ascended Frost]|h|r",
+			["Link"] = "|cffa335ee|Hitem:203460::204000:204029:::::70:581::11:1:1476:1:28:2589:1:9367:1:9367:::|h[Onyx Annulet]|h|r",
 		}, -- [12]
+		{
+			["ID"] = 194299,
+			["Level"] = 376,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cffa335ee|Hitem:194299::::::::70:581::4:4:7982:6652:1459:8767::::::|h[Decoration of Flame]|h|r",
+		}, -- [13]
 		{
 			["ID"] = 198089,
 			["Level"] = 372,
-			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:198089::::::::70:581:::::::::|h[Darkmoon Deck: Watcher]|h|r",
-		}, -- [13]
-		{
-			["ID"] = 193743,
-			["Level"] = 359,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:193743::::::::70:581::2:4:7976:6652:1581:8766:1:28:2156:::::|h[Irideus Fragment]|h|r",
+			["Link"] = "|cffa335ee|Hitem:198089::::::::70:581:::::::::|h[Darkmoon Deck: Watcher]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 195482,
-			["Level"] = 389,
-			["Link"] = "|cffa335ee|Hitem:195482::::::::70:581::3:6:6652:8821:8819:7979:1472:8767:1:28:2474:::::|h[Decorated Commander's Cindercloak]|h|r",
+			["Level"] = 402,
+			["Link"] = "|cffa335ee|Hitem:195482::::::::70:581::5:6:6652:8825:8819:7980:1485:8767:1:28:2474:::::|h[Decorated Commander's Cindercloak]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 190508,

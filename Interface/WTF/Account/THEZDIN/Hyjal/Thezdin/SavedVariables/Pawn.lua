@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0717,
+	["LastVersion"] = 2.0718,
 	["LastPlayerFullName"] = "Thezdin-Hyjal",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -46,15 +46,15 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:109878:6578:::::::70:73::33:9:7977:6652:7936:8822:8819:9144:8973:3300:8767:1:28:1279:::::|h[Goldsteel Bindings]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 190497,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:190497::::::::70:73::13:6:8836:8840:8902:8801:8846:8792:7:28:2164:29:40:30:32:38:7:40:169:44:198046:45:194569:::::|h[Primal Molten Gauntlets |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r",
+			["ID"] = 200425,
+			["Level"] = 421,
+			["Link"] = "|cffa335ee|Hitem:200425::::::::70:73::35:6:6652:8829:9130:7977:1498:8767::::::|h[Gauntlets of the Walking Mountain]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 134542,
-			["Level"] = 421,
+			["ID"] = 203460,
+			["Level"] = 424,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:134542::::::::70:73::35:7:9130:7977:41:7936:9144:3300:8767::::::|h[Jeweled Signet of Melandrus]|h|r",
+			["Link"] = "|cffa335ee|Hitem:203460:6556:204027:204002:204011::::70:73::11:1:1491:1:28:2589:2:9369:1472:2:9369:1472:2:9369:1472::|h[Onyx Annulet]|h|r",
 		}, -- [11]
 		{
 			["ID"] = 134542,

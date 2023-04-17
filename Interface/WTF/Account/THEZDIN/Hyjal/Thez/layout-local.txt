@@ -1,4 +1,11 @@
 Version: 1
+Frame: scanner_button
+FrameLevel: 200
+Anchor: TOPLEFT
+X: 82
+Y: -195
+W: 200
+H: 50
 Frame: PlayerPowerBarAlt
 FrameLevel: 2
 Anchor: TOP
@@ -6,6 +13,13 @@ X: 0
 Y: -186
 W: 10
 H: 10
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: CENTER
+X: 214
+Y: -8
+W: 128
+H: 64
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -13,10 +27,3 @@ X: 0
 Y: 0
 W: 365
 H: 239
-Frame: scanner_button
-FrameLevel: 200
-Anchor: LEFT
-X: 153
-Y: 102
-W: 200
-H: 50

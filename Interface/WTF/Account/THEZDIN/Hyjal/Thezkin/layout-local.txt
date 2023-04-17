@@ -1,4 +1,11 @@
 Version: 1
+Frame: scanner_button
+FrameLevel: 200
+Anchor: TOPLEFT
+X: 82
+Y: -195
+W: 200
+H: 50
 Frame: PlayerPowerBarAlt
 FrameLevel: 2
 Anchor: TOP

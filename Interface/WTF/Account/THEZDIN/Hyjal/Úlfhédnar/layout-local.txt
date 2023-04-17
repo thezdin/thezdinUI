@@ -13,17 +13,3 @@ X: 0
 Y: 0
 W: 365
 H: 239
-Frame: PlaterOptionsPanelFrame
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 77
-Y: -66
-W: 1100
-H: 670
-Frame: scanner_button
-FrameLevel: 200
-Anchor: LEFT
-X: 153
-Y: 102
-W: 200
-H: 50
