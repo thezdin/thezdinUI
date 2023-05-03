@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0718,
-	["LastPlayerFullName"] = "Thezidari-Hyjal",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 199427,
@@ -11,9 +8,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:199427::::::::70:581::14:8:8943:6652:7937:8822:8820:9344:1517:8767::::::|h[Cowl of Raging Tempests]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 201962,
-			["Level"] = 389,
-			["Link"] = "|cffa335ee|Hitem:201962::::::::70:581::14:5:7937:8784:9377:1489:8767::::::|h[Heat of Primal Winter]|h|r",
+			["ID"] = 195502,
+			["Level"] = 402,
+			["Link"] = "|cffa335ee|Hitem:195502::::::::70:581::5:6:6652:7936:8784:7980:1485:8767:1:28:2474:::::|h[Terros's Captive Core]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 200347,
@@ -22,9 +19,9 @@ PawnOptions = {
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 193399,
-			["Level"] = 399,
-			["Link"] = "|cffa335ee|Hitem:193399::::::::70:581::13:6:8836:8840:8902:8800:8845:8792:7:28:2164:29:32:30:49:38:6:40:294:47:194569:45:197921:::::|h[Life-Bound Chestpiece |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a]|h|r",
+			["ID"] = 200342,
+			["Level"] = 402,
+			["Link"] = "|cffa335ee|Hitem:200342::::::::70:581::35:6:6652:8830:8969:7977:1479:8767::::::|h[Skybound Avenger's Harness]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 199429,
@@ -42,9 +39,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:199425::::::::70:581::14:7:8943:6652:8822:8818:9344:1517:8767::::::|h[Waders of Raging Tempests]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 199430,
-			["Level"] = 385,
-			["Link"] = "|cffa335ee|Hitem:199430::::::::70:581::14:8:8943:6652:7937:8822:8819:9343:1507:8767::::::|h[Bindings of Raging Tempests]|h|r",
+			["ID"] = 200349,
+			["Level"] = 395,
+			["Link"] = "|cffa335ee|Hitem:200349::::::::70:581::14:6:6652:8943:7937:9344:1478:8767::::::|h[Skybound Avenger's Wristbands]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 195514,
@@ -93,7 +90,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:190508:6647:::::::70:581::13:5:8836:8840:8902:8801:8792:6:28:2164:29:49:30:40:38:7:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r",
 		}, -- [17]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Thezidari-Hyjal",
 	["Artifacts"] = {
 		[127829] = {
 			["Relics"] = {
@@ -124,6 +123,7 @@ PawnOptions = {
 			["Name"] = "The Aldrachi Warblades",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DEMONHUNTER",

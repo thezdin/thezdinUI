@@ -2,1086 +2,1086 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"pug life man", -- [1]
-		"that's at least a 33% handicap", -- [2]
-		"/p yessum?", -- [3]
-		"/p no I can def do more", -- [4]
-		"/p I am used to shit pugs where I have to hold for my interrupt", -- [5]
-		"/p my revenge is super low", -- [6]
-		"/p yep", -- [7]
-		"/p Will be nice to run battle stance for once", -- [8]
-		"/p my favorite bug", -- [9]
-		"/p oooh", -- [10]
-		"/p i thought only boomers could do it on purpose", -- [11]
-		"/p ok, just save sac for boss", -- [12]
-		"/p ugh, i'm bad, sorry", -- [13]
-		"/p god i played like shit sorry about your key guys :(", -- [14]
-		"/p that was my fault, not heals", -- [15]
-		"/p I bumblefucked this entire last area", -- [16]
-		"/p you too Chingiz, thanks", -- [17]
-		"/p yeah, tbh first time doing this on 20 also so timing CDs is different too", -- [18]
-		"/p I couldn't line up Spell Reflect right and just got dunked :/", -- [19]
-		"/p night all, thanks again!", -- [20]
+		"/p patch up", -- [1]
+		"/p please kill drake first <3", -- [2]
+		"/p thx all", -- [3]
+		"/p how big dps sticks you all got?", -- [4]
+		"/p I want lust for Crawth if we can, but that means nothing on Ancient", -- [5]
+		"/p not going nuts on first room, 2 pulls", -- [6]
+		"/p clockwise (left)", -- [7]
+		"/p my bad on that, I was betting on MD :/", -- [8]
+		"/p 3", -- [9]
+		"/p FIRE", -- [10]
+		"/p clean af", -- [11]
+		"/p big pull", -- [12]
+		"/p no idea", -- [13]
+		"/p i just melted", -- [14]
+		"/p not heals fault", -- [15]
+		"/p lust", -- [16]
+		"/p lust go gogo", -- [17]
+		"/p gg, coulda pulled faster there for sure, my bad all", -- [18]
+		"/p same to you", -- [19]
+		"/p good luck all", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"<EH> Amount of avoidable damage:", -- [1]
-			"Strelokz-Area52", -- [2]
+			"{rt7}4", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Strelokz-Area52", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4329, -- [11]
-			"Player-3676-0DEC6C8F", -- [12]
+			2553, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Strelokz-Area52|r",
-			[51] = 1680843085,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009545,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [1]
 		{
-			"1. Strelokz 127.4k", -- [1]
-			"Strelokz-Area52", -- [2]
+			"Clear", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Strelokz-Area52", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4330, -- [11]
-			"Player-3676-0DEC6C8F", -- [12]
+			2554, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Strelokz-Area52|r",
-			[51] = 1680843085,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009546,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [2]
 		{
-			"2. Seyka-Hyjal 1137.5k", -- [1]
-			"Strelokz-Area52", -- [2]
+			"Clear", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Strelokz-Area52", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4331, -- [11]
-			"Player-3676-0DEC6C8F", -- [12]
+			2555, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Strelokz-Area52|r",
-			[51] = 1680843085,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009546,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"3. Hólynova-Sen'jin 1422.2k", -- [1]
-			"Strelokz-Area52", -- [2]
+			"{rt7}3", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Strelokz-Area52", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4332, -- [11]
-			"Player-3676-0DEC6C8F", -- [12]
+			2556, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Strelokz-Area52|r",
-			[51] = 1680843085,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009546,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [4]
 		{
-			"4. Thezdin-Hyjal 2624.9k", -- [1]
-			"Strelokz-Area52", -- [2]
+			"Clear", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Strelokz-Area52", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4333, -- [11]
-			"Player-3676-0DEC6C8F", -- [12]
+			2557, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Strelokz-Area52|r",
-			[51] = 1680843085,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009546,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"5. Chingiz-Dunemaul 6254.4k", -- [1]
-			"Strelokz-Area52", -- [2]
+			">> PURGE Ethereal Restorer <<", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Strelokz-Area52", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4334, -- [11]
-			"Player-3676-0DEC6C8F", -- [12]
+			2566, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Strelokz-Area52|r",
-			[51] = 1680843085,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009645,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"healer", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4337, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2572, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843088,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1683009604,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:399:19:10:7:124:132|h[Keystone: Ruby Life Pools (19)]|h|r", -- [1]
-			"Chingiz-Dunemaul", -- [2]
+			"{rt7}", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4338, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
+			2573, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843089,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009604,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"so", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt6}", -- [1]
+			"Savóg-Aegwynn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Savóg-Aegwynn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4339, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2574, -- [11]
+			"Player-1136-0920CD40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843089,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dSavóg-Aegwynn|r",
+			[51] = 1683009604,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"you need to dispell hunters as prio", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4340, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2575, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843097,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009604,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"in that", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt6}", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4341, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2578, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843100,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009604,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"ok", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4343, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2582, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843105,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009606,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"They have the least survival rate", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4344, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2586, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843113,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1683009606,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"god i played like shit sorry about your key guys :(", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4345, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			2587, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1680843113,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1683009606,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"its all good", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Cleared", -- [1]
+			"Savóg-Aegwynn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Savóg-Aegwynn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4349, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2588, -- [11]
+			"Player-1136-0920CD40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843061,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dSavóg-Aegwynn|r",
+			[51] = 1683009606,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"no worries my friend", -- [1]
-			"Chingiz-Dunemaul", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4350, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
+			2590, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843062,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009607,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"i will swap that up, what other tips", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4351, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2595, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843063,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009609,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"since you are running improved cleanse", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Clear", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4352, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2598, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843138,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009609,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"we have pugged all the way up so any feedback is good", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4353, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2599, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843139,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009609,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"you can dispell everything", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Clear", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4354, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2600, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843144,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009609,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [20]
 		{
-			"ruin", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"lust", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4355, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2602, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843148,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009688,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"RUINNNN", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"lust go gogo", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4356, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2604, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843150,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009692,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [22]
 		{
-			"the torch", -- [1]
-			"Strelokz-Area52", -- [2]
+			"¡Bomba de energía en Ecorococo!", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Strelokz-Area52", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4357, -- [11]
-			"Player-3676-0DEC6C8F", -- [12]
+			2605, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Strelokz-Area52|r",
-			[51] = 1680843155,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009700,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"That needs to be dispelled asap", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4358, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2612, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843157,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009675,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
-			"is also dispellable", -- [1]
-			"Strelokz-Area52", -- [2]
+			"{rt7}", -- [1]
+			"Savóg-Aegwynn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Strelokz-Area52", -- [5]
+			"Savóg-Aegwynn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4359, -- [11]
-			"Player-3676-0DEC6C8F", -- [12]
+			2613, -- [11]
+			"Player-1136-0920CD40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Strelokz-Area52|r",
-			[51] = 1680843159,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dSavóg-Aegwynn|r",
+			[51] = 1683009676,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
-			"and torch too", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4360, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2614, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843160,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009676,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"my fault for not running cleanse to help", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4361, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2615, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843168,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009676,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"it wont take it off", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Energy Bomb on Thezdin", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4362, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2617, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843169,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009676,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"not used to it yet", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Clear", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4363, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2619, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843172,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009677,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"yes", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Clear", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4364, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2620, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843121,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1683009677,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"it will", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4365, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2621, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843123,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1683009677,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"thehealing debuff i thought it was a curse", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4366, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2622, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843133,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009678,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [32]
 		{
-			"torch on those 2 guys in the long hallway", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4367, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2624, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843135,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009679,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [33]
 		{
-			"ahhh", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt6}", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4368, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2626, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843201,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009679,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"ok that i didnt know", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"3", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4369, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2627, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843208,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009679,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"Can you link your decurse", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Cleared", -- [1]
+			"Savóg-Aegwynn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Savóg-Aegwynn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4371, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2628, -- [11]
+			"Player-1136-0920CD40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843264,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dSavóg-Aegwynn|r",
+			[51] = 1683009680,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
-			"i really appreciate the info", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4373, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2629, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843267,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009680,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"no prob", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"2", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4374, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2630, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843273,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009680,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"Im just used to higher keys tbh", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Clear", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4375, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2631, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843281,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009681,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"|cff71d5ff|Hspell:4987:0|h[Cleanse]|h|r", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"3", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4376, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2635, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843282,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009754,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
-			"and Ive been playing the game a long time", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"2", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4377, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2636, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843289,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009755,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"|cff71d5ff|Hspell:4987:0|h[Cleanse]|h|r", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Energy Bomb on Thezdin", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4378, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2640, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843290,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009720,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
 		{
-			"so info just builds", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt6}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4379, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2646, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843294,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1683009804,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"|cff71d5ff|Hspell:4987:0|h[Cleanse]|h|r", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4380, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2647, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843240,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009804,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [44]
 		{
-			"Torch is magic damage", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt6}", -- [1]
+			"Savóg-Aegwynn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Savóg-Aegwynn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4381, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2648, -- [11]
+			"Player-1136-0920CD40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843244,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dSavóg-Aegwynn|r",
+			[51] = 1683009804,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"|cff71d5ff|Hspell:393024:0|h[Improved Cleanse]|h|r", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4382, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2650, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843323,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009804,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"That adds disease poisons", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4383, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2652, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843336,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009804,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"i have both, not sure why i didnt pick up on that ", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4384, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2658, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843340,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009806,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"that i could do that ", -- [1]
+			"Clear", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1091,7 +1091,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4385, -- [11]
+			2661, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1099,99 +1099,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843347,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1683009807,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"mhm", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Clear", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4386, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2662, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843381,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009807,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [50]
 		{
-			"mhm", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Cleared", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4387, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2663, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843395,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1683009807,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"i might need to tweak my frames make sure i am showing it", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4388, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2664, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843399,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009807,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"thank you so much. i am so sorry we didnt time this place for your key", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4389, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2668, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843416,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009809,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"that was my fault, not heals", -- [1]
+			"{rt7}8", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1201,7 +1201,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4390, -- [11]
+			2672, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1209,77 +1209,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1680843366,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1683009811,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [54]
 		{
-			"its okay", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}8", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4391, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2673, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843366,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009811,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [55]
 		{
-			"I am checking something quick", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}7", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4392, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2674, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843372,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009812,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [56]
 		{
-			"all good. y'all take care", -- [1]
-			"Chingiz-Dunemaul", -- [2]
+			"{rt7}7", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4393, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
+			2675, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843373,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009812,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [57]
 		{
-			"I bumblefucked this entire last area", -- [1]
+			"{rt7}6", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1289,7 +1289,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4394, -- [11]
+			2676, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1297,165 +1297,165 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1680843374,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1683009813,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [58]
 		{
-			"you too Chingiz, thanks", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"{rt7}6", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4395, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			2678, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1680843442,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009813,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [59]
 		{
-			"that last pull before the boss is the toughest", -- [1]
-			"Chingiz-Dunemaul", -- [2]
+			"{rt7}5", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4396, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
+			2679, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843453,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009814,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [60]
 		{
-			"stay in group seyka", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}5", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4397, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2680, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843466,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009814,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [61]
 		{
-			"can always try to kite back to the 3rd boss area", -- [1]
-			"Chingiz-Dunemaul", -- [2]
+			"{rt7}4", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4398, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
+			2682, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843469,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009815,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [62]
 		{
-			"just need more runs at it", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}4", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4399, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2683, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843471,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009815,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [63]
 		{
-			"Im checking something online for ya quick", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}3", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4400, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2684, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843472,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009816,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [64]
 		{
-			"once you run out of defensives", -- [1]
-			"Chingiz-Dunemaul", -- [2]
+			"{rt7}3", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4401, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
+			2686, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843474,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009816,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [65]
 		{
-			"yeah, tbh first time doing this on 20 also so timing CDs is different too", -- [1]
+			"{rt7}2", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1465,7 +1465,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4402, -- [11]
+			2687, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1473,77 +1473,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1680843421,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1683009817,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [66]
 		{
-			"thanks will do", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt7}2", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4403, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2688, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843423,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009817,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [67]
 		{
-			"yeah it's all a learning process as you push higher keys", -- [1]
-			"Chingiz-Dunemaul", -- [2]
+			"Cleared", -- [1]
+			"Savóg-Aegwynn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
+			"Savóg-Aegwynn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4404, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
+			2689, -- [11]
+			"Player-1136-0920CD40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843435,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dSavóg-Aegwynn|r",
+			[51] = 1683009817,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"more dmg", -- [1]
-			"Chingiz-Dunemaul", -- [2]
+			"Clear", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4405, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
+			2690, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843500,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009818,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
 		{
-			"I couldn't line up Spell Reflect right and just got dunked :/", -- [1]
+			"{rt7}1", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1553,7 +1553,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4406, -- [11]
+			2692, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1561,99 +1561,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1680843500,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1683009818,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [70]
 		{
-			"figure out when to use certain CDs", -- [1]
-			"Chingiz-Dunemaul", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4407, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843508,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
-		{
-			"happens", -- [1]
-			"Chingiz-Dunemaul", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4408, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843516,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
-		{
-			"dont sweat it", -- [1]
-			"Chingiz-Dunemaul", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4409, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843519,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
-		{
-			"peace", -- [1]
-			"Chingiz-Dunemaul", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chingiz-Dunemaul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4410, -- [11]
-			"Player-1185-0D6A7ED6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Chingiz-Dunemaul|r",
-			[51] = 1680843490,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [74]
-		{
-			"night all, thanks again!", -- [1]
+			"Clear", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1663,7 +1575,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4412, -- [11]
+			2693, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1671,55 +1583,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1680843496,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1683009818,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [71]
+		{
+			"¡Bomba de energía en Ecorococo!", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ecorococo-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2694, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009824,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [72]
+		{
+			"Energy Bomb on Thezdin", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2700, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009867,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [73]
+		{
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2705, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009875,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [74]
+		{
+			"{rt7}", -- [1]
+			"Frostcrack-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Frostcrack-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2706, -- [11]
+			"Player-57-0D793F1A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009875,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"Swap |cff71d5ff|Hspell:383388:0|h[Relentless Inquisitor]|h|r for |cff71d5ff|Hspell:387879:0|h[Breaking Dawn]|h|r", -- [1]
-			"Hólynova-Sen'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4413, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843586,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
-		{
-			"allows for a little more range in heals", -- [1]
-			"Hólynova-Sen'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4419, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843592,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [77]
-		{
-			"k", -- [1]
+			"{rt7}", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1729,7 +1685,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4420, -- [11]
+			2707, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1737,187 +1693,231 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843599,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1683009875,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"{rt6}", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ecorococo-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2708, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009875,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
+		{
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2710, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009876,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"also", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Clear", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4421, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2713, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843549,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009877,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"give up |cff71d5ff|Hspell:1044:0|h[Blessing of Freedom]|h|r for|cff71d5ff|Hspell:234299:0|h[Fist of Justice]|h|r only in this key", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4422, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2715, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843625,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009878,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [80]
 		{
-			"and maybe a few others", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4423, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2721, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843629,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009879,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [81]
 		{
-			"just ones that dont give slows", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"gg", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4424, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2723, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843636,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009879,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [82]
 		{
-			"https://raider.io/characters/us/area-52/Ellesm%C3%AAre#season=season-df-1", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"gg", -- [1]
+			"Savóg-Aegwynn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Savóg-Aegwynn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4426, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2726, -- [11]
+			"Player-1136-0920CD40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843677,
+			[52] = "|cffc69b6dSavóg-Aegwynn|r",
+			[51] = 1683009880,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [83]
 		{
-			"That is the number 1 HPal in the world", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}8", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4427, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2728, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843691,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1683009882,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [84]
 		{
-			"try to mimmick what he does", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}8", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4428, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2729, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843696,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009882,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [85]
 		{
-			"he is a literal legend and has been the best Hpal for the last 2 xpacs", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt6}8", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4430, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2730, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843715,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009882,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [86]
 		{
-			"i actually read his site but not as close as i should apparently. First Mythic season, learning this class in a different way", -- [1]
+			"Clear", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1927,7 +1927,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4431, -- [11]
+			2731, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1935,231 +1935,165 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843763,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1683009882,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"Yeahhh", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Clear", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4434, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2732, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843723,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009882,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [88]
 		{
-			"Hpal is weird ", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"{rt7}7", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4437, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2734, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843736,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009883,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [89]
 		{
-			"raided forever, and it feels like you can \"be less responsible in e healer team\"", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Clear", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4438, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2735, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843803,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009883,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [90]
 		{
-			"Not many are actually good at it", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"gg, coulda pulled faster there for sure, my bad all", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4439, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2737, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843804,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009894,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"but those that are, are acutal gods", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"Not a worries friend", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4441, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2740, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843826,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009858,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"anyways, I wish yall best of luck!", -- [1]
-			"Hólynova-Sen'jin", -- [2]
+			"thanks for invite", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4442, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
+			2745, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843834,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009861,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"thank you so much, I hope we cross paths with you guys in season 2", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"good luck season 2", -- [1]
+			"Frostcrack-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Frostcrack-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4443, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			2746, -- [11]
+			"Player-57-0D793F1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843794,
+			[52] = "|cffc41e3aFrostcrack-Illidan|r",
+			[51] = 1683009924,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			"Keep reeading up on some keys and trying to spam some lower ones to get used to mechs if yopu need too", -- [1]
-			"Hólynova-Sen'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4444, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843795,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
-		{
-			"it will help", -- [1]
-			"Hólynova-Sen'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4445, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843858,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
-		{
-			"Seeya then!", -- [1]
-			"Hólynova-Sen'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hólynova-Sen'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4446, -- [11]
-			"Player-1185-0B4BCD02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaHólynova-Sen'jin|r",
-			[51] = 1680843862,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
-		{
-			"night", -- [1]
+			"thank you for the group", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2169,7 +2103,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4449, -- [11]
+			2748, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2177,30 +2111,96 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1680843867,
+			[51] = 1683009927,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [95]
 		{
-			"|cffa335ee|Hitem:191985::::::::70:252::13:1:3524:2:40:160:38:4:::::|h[Infurious Warboots of Impunity |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r up for crafting", -- [1]
-			"Saltsdkx-Hyjal", -- [2]
+			"ty", -- [1]
+			"Ecorococo-Ragnaros", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Saltsdkx-Hyjal", -- [5]
+			"", -- [4]
+			"Ecorococo-Ragnaros", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			4499, -- [11]
-			"Player-3661-09349C8C", -- [12]
+			2749, -- [11]
+			"Player-1427-0CC0DBA7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc41e3aSaltsdkx|r",
-			[51] = 1680845479,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffaad372Ecorococo-Ragnaros|r",
+			[51] = 1683009929,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [96]
+		{
+			"same to you", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2750, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009930,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [97]
+		{
+			" same to you", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2752, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1683009932,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [98]
+		{
+			"good luck all", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2753, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1683009933,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [99]
 	},
 }

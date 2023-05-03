@@ -14,16 +14,34 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
+			["global"] = {
+				["spellsOnCooldown"] = {
+					[198067] = {
+						["Player-5-0E3246CA"] = 1074282.596,
+					},
+					[32182] = {
+						["Player-3661-091D2FBC"] = 1074316.833,
+					},
+					[79206] = {
+						["Player-5-0E3246CA"] = 1074194.424,
+					},
+				},
+				["lastTime"] = 1145582.901,
+				["chargeSpellsOnCooldown"] = {
+				},
+			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
 						["Default"] = {
-							[32375] = true,
-							[48707] = true,
-							[106898] = true,
 							[102359] = true,
 							[217832] = true,
+							[48707] = true,
+							[6940] = true,
 							[31821] = true,
+							[106898] = true,
+							[853] = true,
+							[32375] = true,
 							[202137] = true,
 						},
 					},
@@ -43,10 +61,6 @@ oRA3DB = {
 				},
 			},
 		},
-		["Tanks"] = {
-		},
-		["Consumables"] = {
-		},
 		["Difficulty"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -54,27 +68,39 @@ oRA3DB = {
 				},
 			},
 		},
+		["Consumables"] = {
+			["profiles"] = {
+				["Default"] = {
+					["checkRune"] = true,
+					["checkReadyCheck"] = 3,
+					["output"] = 2,
+				},
+			},
+		},
+		["Tanks"] = {
+		},
 	},
 	["profileKeys"] = {
 		["Úlfhédnar - Hyjal"] = "Default",
 		["Thezkin - Hyjal"] = "Default",
-		["Thezdivh - Hyjal"] = "Default",
+		["Jägare - Hyjal"] = "Default",
 		["Thezadin - Hyjal"] = "Default",
-		["Thezbot - Azgalor"] = "Default",
+		["Foulfellow - Hyjal"] = "Default",
 		["Thezbank - Mannoroth"] = "Default",
-		["Thezfu - Hyjal"] = "Default",
 		["Sigurdsson - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
 		["Thezdruid - Hyjal"] = "Default",
 		["Thezknight - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
 		["Thezdgar - Hyjal"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
-		["Thez - Hyjal"] = "Default",
-		["Foulfellow - Hyjal"] = "Default",
-		["Jägare - Hyjal"] = "Default",
+		["Thezfu - Hyjal"] = "Default",
+		["Thezbot - Azgalor"] = "Default",
+		["Thezdivh - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["lastSelectedList"] = 1,
 			["positions"] = {
 				["oRA3ReadyCheck"] = {
 					["PosY"] = 645.0669689920323,
@@ -82,18 +108,18 @@ oRA3DB = {
 				},
 				["oRA3BattleResMonitor"] = {
 					["Height"] = 29.99996566772461,
-					["PosX"] = 1278.401417986606,
-					["PosY"] = 112.5336684121157,
 					["Width"] = 139.9998931884766,
+					["PosY"] = 663.4669453091192,
+					["PosX"] = 1346.667680464889,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 536.4446411132812,
-					["PosX"] = 16.75003118316454,
-					["PosY"] = 713.6250283569098,
 					["Width"] = 258.6666259765625,
+					["PosY"] = 713.6250283569098,
+					["PosX"] = 16.75003118316454,
 				},
 			},
-			["lastSelectedPanel"] = "Cooldowns",
+			["lastSelectedPanel"] = "Checks",
 		},
 	},
 }

@@ -16,8 +16,8 @@ PawnOptions = {
 		}, -- [2]
 		{
 			["ID"] = 200428,
-			["Level"] = 418,
-			["Link"] = "|cffa335ee|Hitem:200428::::::::70:73::35:6:6652:8826:8974:7977:1492:8767::::::|h[Peaks of the Walking Mountain]|h|r",
+			["Level"] = 421,
+			["Link"] = "|cffa335ee|Hitem:200428::::::::70:73::35:6:41:8826:9130:7977:1495:8767::::::|h[Peaks of the Walking Mountain]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
@@ -27,8 +27,8 @@ PawnOptions = {
 		}, -- [5]
 		{
 			["ID"] = 200429,
-			["Level"] = 418,
-			["Link"] = "|cffa335ee|Hitem:200429::192952::::::70:73::35:5:6652:7977:8974:7935:1501::::::|h[Core of the Walking Mountain]|h|r",
+			["Level"] = 421,
+			["Link"] = "|cffa335ee|Hitem:200429::::::::70:73::35:5:6652:7936:9130:7977:1504::::::|h[Core of the Walking Mountain]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 200427,
@@ -36,9 +36,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:200427:6490:::::::70:73::35:6:6652:8827:7977:8973:1498:8767::::::|h[Poleyns of the Walking Mountain]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 200424,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:200424::::::::70:73::33:5:6652:7977:8973:1498:8767::::::|h[Boots of the Walking Mountain]|h|r",
+			["ID"] = 136772,
+			["Level"] = 421,
+			["Link"] = "|cffa335ee|Hitem:136772::::::::70:73::35:8:9130:7977:6652:8822:8818:9144:3300:8767::::::|h[Valkyra Protector Greatboots]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 109878,
