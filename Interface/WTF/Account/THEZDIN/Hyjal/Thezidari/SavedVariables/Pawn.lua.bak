@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0718,
-	["LastPlayerFullName"] = "Thezidari-Hyjal",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 199427,
@@ -93,7 +90,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:190508:6647:::::::70:581::13:5:8836:8840:8902:8801:8792:6:28:2164:29:49:30:40:38:7:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r",
 		}, -- [17]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Thezidari-Hyjal",
 	["Artifacts"] = {
 		[127829] = {
 			["Relics"] = {
@@ -124,6 +123,7 @@ PawnOptions = {
 			["Name"] = "The Aldrachi Warblades",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DEMONHUNTER",

@@ -27,13 +27,6 @@ X: -405
 Y: 0
 W: 365
 H: 240
-Frame: LootHistoryFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 440
-Y: 113
-W: 210
-H: 175
 Frame: FloatingBattlePetTooltip
 FrameLevel: 1
 Anchor: BOTTOM
@@ -46,7 +39,7 @@ FrameLevel: 1
 Anchor: CENTER
 X: -386
 Y: -2
-W: 775
+W: 850
 H: 490
 Frame: AstralOptionsFrame
 FrameLevel: 5
@@ -69,6 +62,13 @@ X: -536
 Y: -178
 W: 900
 H: 500
+Frame: PawnUIFrame
+FrameLevel: 1
+Anchor: CENTER
+X: -161
+Y: 106
+W: 800
+H: 525
 Frame: RSExplorerFrame
 FrameLevel: 1
 Anchor: CENTER

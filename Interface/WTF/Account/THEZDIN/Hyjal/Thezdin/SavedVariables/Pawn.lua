@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0718,
+	["LastVersion"] = 2.08,
 	["LastPlayerFullName"] = "Thezdin-Hyjal",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -10,9 +10,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:200426::::::::70:73::35:7:6652:7937:8828:8973:7977:1489:8767::::::|h[Casque of the Walking Mountain]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 134529,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:134529::192952:192952:::::70:73::16:7:7977:9144:8784:8781:8973:3294:8767:1:28:1279:::::|h[Chain of Scorched Bones]|h|r",
+			["ID"] = 193001,
+			["Level"] = 417,
+			["Link"] = "|cffa335ee|Hitem:193001::192991:192952:192952::::70:73::13:10:8836:8840:8902:8960:8784:8782:9404:8792:8846:9365:8:28:2164:29:40:30:36:38:7:40:260:48:194569:49:198046:50:190453:::::|h[Elemental Lariat |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 200428,
@@ -87,8 +87,8 @@ PawnOptions = {
 		}, -- [16]
 		{
 			["ID"] = 190503,
-			["Level"] = 418,
-			["Link"] = "|cffa335ee|Hitem:190503::::::::70:73::13:7:8836:8840:8902:8802:8846:8792:8174:8:28:2164:29:32:30:49:38:8:40:122:44:198046:45:194569:46:200652:::::|h[Primal Molten Defender |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["Level"] = 421,
+			["Link"] = "|cffa335ee|Hitem:190503::::::::70:73::13:8:8836:8840:8902:9405:8846:8792:8174:9365:9:28:2164:29:32:30:49:38:8:40:122:44:198046:45:194569:46:200652:49:190453:::::|h[Primal Molten Defender |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,
