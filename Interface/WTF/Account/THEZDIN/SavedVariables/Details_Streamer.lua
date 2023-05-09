@@ -5,16 +5,16 @@ Details_StreamerDB = {
 		["Foulfellow - Hyjal"] = "Thezidari - Hyjal",
 		["Thezadin - Hyjal"] = "Thezidari - Hyjal",
 		["Thezbank - Mannoroth"] = "Thezidari - Hyjal",
-		["Jägare - Hyjal"] = "Thezidari - Hyjal",
+		["Thezdivh - Hyjal"] = "Thezidari - Hyjal",
 		["Thez - Hyjal"] = "Thezidari - Hyjal",
 		["Thezdruid - Hyjal"] = "Thezidari - Hyjal",
 		["Thezknight - Hyjal"] = "Thezidari - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezidari - Hyjal",
-		["Thezbot - Azgalor"] = "Thezidari - Hyjal",
-		["Thezdgar - Hyjal"] = "Thezidari - Hyjal",
 		["Thezkin - Hyjal"] = "Thezidari - Hyjal",
-		["Thezdivh - Hyjal"] = "Thezidari - Hyjal",
+		["Thezdgar - Hyjal"] = "Thezidari - Hyjal",
+		["Thezbot - Azgalor"] = "Thezidari - Hyjal",
+		["Jägare - Hyjal"] = "Thezidari - Hyjal",
 	},
 	["profiles"] = {
 		["Thezidari - Hyjal"] = {
@@ -27,11 +27,11 @@ Details_StreamerDB = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["arrow_anchor_y"] = 0,
 			["main_frame_size"] = {
 				300.0000610351563, -- [1]
 				500.0000610351563, -- [2]
 			},
+			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 163.6956331208669,
 				["radius"] = 160,
@@ -39,14 +39,19 @@ Details_StreamerDB = {
 			},
 			["main_frame_locked"] = false,
 			["arrow_anchor_x"] = 0,
+			["author"] = "Terciob",
+			["row_texture"] = "Details Serenity",
+			["square_grow_direction"] = "right",
+			["y"] = -1.52587890625e-05,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["row_texture"] = "Details Serenity",
-			["square_grow_direction"] = "right",
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
 			["per_second"] = {
 				["enabled"] = true,
 				["point"] = "CENTER",
@@ -58,11 +63,6 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["author"] = "Terciob",
-			["square_amount"] = 5,
-			["enabled"] = false,
-			["arrow_size"] = 10,
-			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -72,8 +72,8 @@ Details_StreamerDB = {
 			},
 			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = -1.52587890625e-05,
 			["use_spark"] = true,
+			["font_size"] = 10,
 			["x"] = -0.002197265625,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,

@@ -1,11 +1,14 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0718,
+	["LastVersion"] = 2.08,
+	["LastPlayerFullName"] = "Thezidari-Hyjal",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
-			["ID"] = 199427,
-			["Level"] = 395,
-			["Link"] = "|cffa335ee|Hitem:199427::::::::70:581::14:8:8943:6652:7937:8822:8820:9344:1517:8767::::::|h[Cowl of Raging Tempests]|h|r",
+			["ID"] = 193751,
+			["Level"] = 408,
+			["Link"] = "|cffa335ee|Hitem:193751::::::::70:581::35:8:8971:6652:7936:8822:8820:9144:1630:8767::::::|h[Crown of Roaring Storms]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 195502,
@@ -79,20 +82,18 @@ PawnOptions = {
 		}, -- [15]
 		{
 			["ID"] = 190508,
-			["Level"] = 392,
+			["Level"] = 395,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:190508:6647:::::::70:581::13:5:8836:8840:8902:8802:8792:6:28:2164:29:32:30:40:38:8:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["Link"] = "|cffa335ee|Hitem:190508:6647:::::::70:581::13:6:8836:8840:8902:9405:8792:9365:7:28:2164:29:32:30:40:38:8:40:193:45:194569:49:190453:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 190508,
-			["Level"] = 389,
+			["Level"] = 392,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cffa335ee|Hitem:190508:6647:::::::70:581::13:5:8836:8840:8902:8801:8792:6:28:2164:29:49:30:40:38:7:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r",
+			["Link"] = "|cffa335ee|Hitem:190508:6647:::::::70:581::13:5:8836:8840:8902:8802:8792:6:28:2164:29:32:30:40:38:8:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Thezidari-Hyjal",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[127829] = {
 			["Relics"] = {
@@ -123,7 +124,6 @@ PawnOptions = {
 			["Name"] = "The Aldrachi Warblades",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DEMONHUNTER",

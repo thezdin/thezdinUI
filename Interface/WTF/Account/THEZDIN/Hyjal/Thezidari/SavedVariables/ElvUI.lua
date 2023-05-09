@@ -25,94 +25,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"1", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2945, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1682829041,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"1", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2947, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1682829041,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"1", -- [1]
-			"Zenborg-Dath'Remar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zenborg-Dath'Remar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2948, -- [11]
-			"Player-3726-08F1130F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffZenborg-Dath'Remar|r",
-			[51] = 1682829041,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Icy Devastator on Proxyon", -- [1]
-			"Proxyon-Alleria", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Proxyon-Alleria", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2950, -- [11]
-			"Player-52-0D6C0E56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fProxyon-Alleria|r",
-			[51] = 1682829046,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
 			"Frost Bomb on Thezidari", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
@@ -133,7 +45,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829115,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [1]
 		{
 			"3", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -155,7 +67,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829117,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [2]
 		{
 			"3", -- [1]
 			"Zenborg-Dath'Remar", -- [2]
@@ -177,7 +89,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZenborg-Dath'Remar|r",
 			[51] = 1682829117,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [3]
 		{
 			"2", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -199,7 +111,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829118,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [4]
 		{
 			"{rt6}", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -221,7 +133,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829118,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [5]
 		{
 			"{rt7}", -- [1]
 			"Proxyon-Alleria", -- [2]
@@ -243,7 +155,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fProxyon-Alleria|r",
 			[51] = 1682829118,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [6]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -265,7 +177,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829118,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [7]
 		{
 			"{rt7}", -- [1]
 			"Zenborg-Dath'Remar", -- [2]
@@ -287,7 +199,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZenborg-Dath'Remar|r",
 			[51] = 1682829118,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [8]
 		{
 			"1", -- [1]
 			"Proxyon-Alleria", -- [2]
@@ -309,7 +221,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fProxyon-Alleria|r",
 			[51] = 1682829119,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [9]
 		{
 			"1", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -331,7 +243,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829119,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [10]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -353,7 +265,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829060,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [11]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -375,7 +287,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829061,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [12]
 		{
 			"Clear", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -397,7 +309,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829061,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [13]
 		{
 			"Clear", -- [1]
 			"Proxyon-Alleria", -- [2]
@@ -419,7 +331,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fProxyon-Alleria|r",
 			[51] = 1682829061,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [14]
 		{
 			"Cleared", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -441,7 +353,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829061,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [15]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -463,7 +375,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829063,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [16]
 		{
 			"{rt7}8", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -485,7 +397,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829065,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [21]
+		}, -- [17]
 		{
 			"{rt7}8", -- [1]
 			"Zenborg-Dath'Remar", -- [2]
@@ -507,7 +419,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZenborg-Dath'Remar|r",
 			[51] = 1682829065,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [22]
+		}, -- [18]
 		{
 			"Clear", -- [1]
 			"Zenborg-Dath'Remar", -- [2]
@@ -529,7 +441,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZenborg-Dath'Remar|r",
 			[51] = 1682829066,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [19]
 		{
 			"{rt7}7", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -551,7 +463,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829066,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [24]
+		}, -- [20]
 		{
 			"Clear", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -573,7 +485,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829066,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [21]
 		{
 			"Frost Bomb on Thezidari", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -595,7 +507,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829078,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [22]
 		{
 			"3", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -617,7 +529,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829080,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [23]
 		{
 			"2", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -639,7 +551,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829081,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [24]
 		{
 			"1", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -661,7 +573,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829082,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [25]
 		{
 			"Frost Bomb on Thezidari", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -683,7 +595,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829097,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [26]
 		{
 			"Frost Bomb on Amplifi", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -705,7 +617,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829097,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [27]
 		{
 			"3", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -727,7 +639,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829099,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [28]
 		{
 			"2", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -749,7 +661,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829100,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [29]
 		{
 			"1", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -771,7 +683,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829102,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [30]
 		{
 			"lust as soon as it's up", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -793,7 +705,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829178,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [35]
+		}, -- [31]
 		{
 			"focus crystals no matter what", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -815,7 +727,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829123,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
+		}, -- [32]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -837,7 +749,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829154,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [33]
 		{
 			"{rt7}", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -859,7 +771,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829154,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [34]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -881,7 +793,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829155,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [35]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -903,7 +815,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829157,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [36]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -925,7 +837,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829158,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [37]
 		{
 			"{rt7}8", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -947,7 +859,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829161,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [42]
+		}, -- [38]
 		{
 			"{rt7}8", -- [1]
 			"Proxyon-Alleria", -- [2]
@@ -969,7 +881,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fProxyon-Alleria|r",
 			[51] = 1682829161,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [43]
+		}, -- [39]
 		{
 			"{rt7}7", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -991,7 +903,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829162,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [44]
+		}, -- [40]
 		{
 			"{rt7}6", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1013,7 +925,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829163,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [45]
+		}, -- [41]
 		{
 			"{rt7}5", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1035,7 +947,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829164,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [46]
+		}, -- [42]
 		{
 			"{rt7}4", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1057,7 +969,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829165,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [47]
+		}, -- [43]
 		{
 			"{rt7}3", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1079,7 +991,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829166,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [48]
+		}, -- [44]
 		{
 			"{rt7}2", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1101,7 +1013,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829167,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [49]
+		}, -- [45]
 		{
 			"{rt7}1", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1123,7 +1035,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829168,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [50]
+		}, -- [46]
 		{
 			"Clear", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1145,7 +1057,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829169,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [47]
 		{
 			"wipe it", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1167,7 +1079,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829220,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [52]
+		}, -- [48]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1189,7 +1101,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829223,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [49]
 		{
 			"{rt7}", -- [1]
 			"Zenborg-Dath'Remar", -- [2]
@@ -1211,7 +1123,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZenborg-Dath'Remar|r",
 			[51] = 1682829223,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [50]
 		{
 			"Clear", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1233,7 +1145,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829224,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [51]
 		{
 			"Clear", -- [1]
 			"Zenborg-Dath'Remar", -- [2]
@@ -1255,7 +1167,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZenborg-Dath'Remar|r",
 			[51] = 1682829224,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [52]
 		{
 			"its a rip when u die from erupt ", -- [1]
 			"Felhashira-Zul'jin", -- [2]
@@ -1277,7 +1189,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Felhashira-Zul'jin|r",
 			[51] = 1682829229,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [53]
 		{
 			"i feel dumb", -- [1]
 			"Felhashira-Zul'jin", -- [2]
@@ -1299,7 +1211,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Felhashira-Zul'jin|r",
 			[51] = 1682829294,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
+		}, -- [54]
 		{
 			"yeah you have to avoid that", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1321,7 +1233,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829241,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [59]
+		}, -- [55]
 		{
 			"wait 20s for patching up", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1343,7 +1255,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829280,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
+		}, -- [56]
 		{
 			"lust on pull", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1365,7 +1277,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829308,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [61]
+		}, -- [57]
 		{
 			"don't hit crystals, kill them after they spawn :)", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1387,7 +1299,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829315,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [62]
+		}, -- [58]
 		{
 			"i can", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1409,7 +1321,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829315,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
+		}, -- [59]
 		{
 			"k", -- [1]
 			"Proxyon-Alleria", -- [2]
@@ -1431,7 +1343,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fProxyon-Alleria|r",
 			[51] = 1682829315,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [60]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1453,7 +1365,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829383,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [61]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1475,7 +1387,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829385,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [62]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1497,7 +1409,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829386,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [63]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1519,7 +1431,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829388,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [64]
 		{
 			"{rt7}8", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1541,7 +1453,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829390,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [69]
+		}, -- [65]
 		{
 			"Clear", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1563,7 +1475,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829390,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [66]
 		{
 			"omg retard tank, so sorry", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1585,7 +1497,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829439,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
+		}, -- [67]
 		{
 			"{rt7}8", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1607,7 +1519,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829460,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [72]
+		}, -- [68]
 		{
 			"{rt6}8", -- [1]
 			"Zenborg-Dath'Remar", -- [2]
@@ -1629,7 +1541,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZenborg-Dath'Remar|r",
 			[51] = 1682829460,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [73]
+		}, -- [69]
 		{
 			"{rt7}7", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1651,7 +1563,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829461,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [74]
+		}, -- [70]
 		{
 			"{rt6}7", -- [1]
 			"Zenborg-Dath'Remar", -- [2]
@@ -1673,7 +1585,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZenborg-Dath'Remar|r",
 			[51] = 1682829461,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [75]
+		}, -- [71]
 		{
 			"Clear", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1695,7 +1607,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829468,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [72]
 		{
 			"Cleared", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1717,7 +1629,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829468,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [73]
 		{
 			"Clear", -- [1]
 			"Proxyon-Alleria", -- [2]
@@ -1739,7 +1651,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fProxyon-Alleria|r",
 			[51] = 1682829468,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [74]
 		{
 			"same thing I just wont' be an idiot, that's my fault", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1761,7 +1673,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829538,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [79]
+		}, -- [75]
 		{
 			"patch up, Proxyon is your lust up?", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1783,7 +1695,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829487,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [80]
+		}, -- [76]
 		{
 			"1:40 left", -- [1]
 			"Proxyon-Alleria", -- [2]
@@ -1805,7 +1717,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fProxyon-Alleria|r",
 			[51] = 1682829520,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [77]
 		{
 			"ok just use it when it's up :)", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1827,7 +1739,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829527,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
+		}, -- [78]
 		{
 			"Thundering 0:03", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1849,7 +1761,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829584,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
+		}, -- [79]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1871,7 +1783,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829653,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [80]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1893,7 +1805,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [81]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1915,7 +1827,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829656,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [82]
 		{
 			"Clear", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1937,7 +1849,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829657,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [83]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1959,7 +1871,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829662,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [84]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1981,7 +1893,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829664,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [85]
 		{
 			"{rt7}", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2003,7 +1915,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829665,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [86]
 		{
 			"Clear", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2025,7 +1937,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829666,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [87]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16274:Player-3661-091C86DD:1:4:29:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: The Azure Vault]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2047,7 +1959,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829722,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [92]
+		}, -- [88]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:180653:402:12:9:7:3:132|h[Keystone: Algeth'ar Academy (12)]|h|r", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2069,7 +1981,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1682829726,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [93]
+		}, -- [89]
 		{
 			"Thanks for carrying these guys lol", -- [1]
 			"Zenborg-Dath'Remar", -- [2]
@@ -2091,7 +2003,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZenborg-Dath'Remar|r",
 			[51] = 1682829733,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [94]
+		}, -- [90]
 		{
 			"ha ha nps :)", -- [1]
 			"Zenborg-Dath'Remar", -- [2]
@@ -2113,7 +2025,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZenborg-Dath'Remar|r",
 			[51] = 1682829744,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [95]
+		}, -- [91]
 		{
 			"ty ty ty", -- [1]
 			"Felhashira-Zul'jin", -- [2]
@@ -2135,7 +2047,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Felhashira-Zul'jin|r",
 			[51] = 1682829745,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [92]
 		{
 			"gg", -- [1]
 			"Zenborg-Dath'Remar", -- [2]
@@ -2157,7 +2069,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZenborg-Dath'Remar|r",
 			[51] = 1682829749,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
+		}, -- [93]
 		{
 			"gg, thx", -- [1]
 			"Proxyon-Alleria", -- [2]
@@ -2179,7 +2091,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fProxyon-Alleria|r",
 			[51] = 1682829754,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [94]
 		{
 			"gg gl everyone", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -2201,6 +2113,94 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682829760,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [95]
+		{
+			"LF blade spec'd crafter for primal molten spellbalde", -- [1]
+			"Recons-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Recons-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			761, -- [11]
+			"Player-3661-093604B4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aRecons|r",
+			[51] = 1683406291,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"|cffa335ee|Hitem:205981::::::::70:65::::1:28:2614:::::|h[Molten Primal Fang]|h|r", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			845, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1683406918,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [97]
+		{
+			"Who goes there?!", -- [1]
+			"Mykorax-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mykorax-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1105, -- [11]
+			"Player-3661-07CDB435", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Mykorax|r",
+			[51] = 1683408833,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [98]
+		{
+			"LF LW for recraft |cffa335ee|Hitem:193424::::::::70:253::13:6:3524:8846:8960:8932:8790:9365:2:40:356:38:4:::::|h[Flame-Touched Spaulders |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r", -- [1]
+			"Shaqdiesel-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shaqdiesel-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1181, -- [11]
+			"Player-3661-093684B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffaad372Shaqdiesel|r",
+			[51] = 1683409679,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }

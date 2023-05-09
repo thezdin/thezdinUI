@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.08,
-	["LastPlayerFullName"] = "Thezidari-Hyjal",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 193751,
@@ -64,16 +61,16 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:203460::204000:204029:::::70:581::11:1:1476:1:28:2589:1:9367:1:9367:::|h[Onyx Annulet]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 194299,
-			["Level"] = 376,
+			["ID"] = 204728,
+			["Level"] = 379,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:194299::::::::70:581::4:4:7982:6652:1459:8767::::::|h[Decoration of Flame]|h|r",
+			["Link"] = "|cff1eff00|Hitem:204728::::::::70:581::25:3:6652:9295:1601:1:28:2474:::::|h[Friendship Censer]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 198089,
-			["Level"] = 372,
+			["ID"] = 194299,
+			["Level"] = 376,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:198089::::::::70:581:::::::::|h[Darkmoon Deck: Watcher]|h|r",
+			["Link"] = "|cffa335ee|Hitem:194299::::::::70:581::4:4:7982:6652:1459:8767::::::|h[Decoration of Flame]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 195482,
@@ -93,7 +90,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:190508:6647:::::::70:581::13:5:8836:8840:8902:8802:8792:6:28:2164:29:32:30:40:38:8:40:193:45:194569:::::|h[Primal Molten Warglaive |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [17]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Thezidari-Hyjal",
 	["Artifacts"] = {
 		[127829] = {
 			["Relics"] = {
@@ -124,6 +123,7 @@ PawnOptions = {
 			["Name"] = "The Aldrachi Warblades",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DEMONHUNTER",

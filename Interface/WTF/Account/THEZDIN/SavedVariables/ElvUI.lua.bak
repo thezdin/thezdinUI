@@ -92,7 +92,6 @@ ElvDB = {
 				["bottomPanelSettings"] = {
 					["height"] = 128,
 				},
-				["autoRepair"] = "GUILD",
 				["minimap"] = {
 					["locationFont"] = "Ubuntu Condensed",
 					["locationText"] = "SHOW",
@@ -108,6 +107,7 @@ ElvDB = {
 				},
 				["talkingHeadFrameScale"] = 1,
 				["bonusObjectivePosition"] = "AUTO",
+				["autoRepair"] = "GUILD",
 			},
 			["bags"] = {
 				["itemLevelFont"] = "ElvUI C",
@@ -172,7 +172,7 @@ ElvDB = {
 					["override"] = true,
 				},
 			},
-			["dbConverted"] = 13.3,
+			["dbConverted"] = 13.31,
 			["locplus"] = {
 				["spacingManual"] = 5,
 				["dtwidth"] = 150,
@@ -182,16 +182,9 @@ ElvDB = {
 				["lpauto"] = false,
 			},
 			["layoutSet"] = "tank",
-			["eel"] = {
-				["minimap"] = {
-					["minimapbar"] = {
-						["skinStyle"] = "VERTICAL",
-						["enable"] = true,
-						["buttonsPerRow"] = 20,
-						["mouseover"] = true,
-						["layoutDirection"] = "REVERSED",
-					},
-				},
+			["AutoLog"] = {
+				["raid"] = true,
+				["party"] = true,
 			},
 			["movers"] = {
 				["ElvAB_8"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-4,332",
@@ -288,8 +281,13 @@ ElvDB = {
 				["targetInfo"] = false,
 				["itemQuality"] = true,
 			},
+			["mMT"] = {
+				["quicksetup"] = true,
+				["version"] = "3.1",
+			},
 			["mMediaTag"] = {
 				["mSavedAffixes"] = {
+					["season"] = 9,
 					["affixes"] = {
 						{
 							["id"] = 10,
@@ -309,14 +307,13 @@ ElvDB = {
 						}, -- [4]
 					},
 					["year"] = "23",
-					["season"] = 9,
 					["reset"] = true,
 				},
 				["mPluginVersion"] = "2.95.2",
 			},
 			["unitframe"] = {
 				["fontSize"] = 12,
-				["statusbar"] = "Minimalist",
+				["smoothbars"] = true,
 				["units"] = {
 					["tank"] = {
 						["enable"] = false,
@@ -759,7 +756,7 @@ ElvDB = {
 					["castClassColor"] = true,
 				},
 				["fontOutline"] = "OUTLINE",
-				["smoothbars"] = true,
+				["statusbar"] = "Minimalist",
 				["cooldown"] = {
 					["checkSeconds"] = true,
 					["fonts"] = {
@@ -946,9 +943,16 @@ ElvDB = {
 				["tabSelector"] = "BOX",
 				["copyChatLines"] = true,
 			},
-			["AutoLog"] = {
-				["raid"] = true,
-				["party"] = true,
+			["eel"] = {
+				["minimap"] = {
+					["minimapbar"] = {
+						["skinStyle"] = "VERTICAL",
+						["enable"] = true,
+						["buttonsPerRow"] = 20,
+						["mouseover"] = true,
+						["layoutDirection"] = "REVERSED",
+					},
+				},
 			},
 		},
 		["Hyjal"] = {
@@ -1053,7 +1057,13 @@ ElvDB = {
 							nil, -- [3]
 							true, -- [4]
 						},
-						[24] = {
+						[20] = {
+							nil, -- [1]
+							nil, -- [2]
+							nil, -- [3]
+							true, -- [4]
+						},
+						[25] = {
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]

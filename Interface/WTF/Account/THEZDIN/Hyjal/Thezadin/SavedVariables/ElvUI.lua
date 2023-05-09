@@ -2,94 +2,28 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p thanks all", -- [1]
-		"/p Sorry about your key :/", -- [2]
-		"/p guys", -- [3]
-		"/p stay with me", -- [4]
-		"/p clump it up :)", -- [5]
-		"/i lol", -- [6]
-		"/p hey all", -- [7]
-		"yeah, need the deeps", -- [8]
-		"we've failed like 5 or 6 runs now because DPS is too low", -- [9]
-		"pugs will only take pally tank 90% of the time too so queues are fooooooooooooooooooorever", -- [10]
-		"I gotta get a guild lol", -- [11]
-		"you guys ready for next tier?", -- [12]
-		"/p big pull to start", -- [13]
-		"/p 2 yaks inc", -- [14]
-		"/p i'll interrupt Tor", -- [15]
-		"/p thanks for the carry", -- [16]
-		"/p !keys", -- [17]
-		"/p That's it for me, thanks though", -- [18]
-		"/p Gotta try to get 20 RLP on my warr again", -- [19]
-		"/p gg all", -- [20]
+		"/p Sorry about your key :/", -- [1]
+		"/p guys", -- [2]
+		"/p stay with me", -- [3]
+		"/p clump it up :)", -- [4]
+		"/i lol", -- [5]
+		"/p hey all", -- [6]
+		"yeah, need the deeps", -- [7]
+		"we've failed like 5 or 6 runs now because DPS is too low", -- [8]
+		"pugs will only take pally tank 90% of the time too so queues are fooooooooooooooooooorever", -- [9]
+		"I gotta get a guild lol", -- [10]
+		"you guys ready for next tier?", -- [11]
+		"/p big pull to start", -- [12]
+		"/p 2 yaks inc", -- [13]
+		"/p i'll interrupt Tor", -- [14]
+		"/p thanks for the carry", -- [15]
+		"/p !keys", -- [16]
+		"/p That's it for me, thanks though", -- [17]
+		"/p Gotta try to get 20 RLP on my warr again", -- [18]
+		"/p gg all", -- [19]
+		"/cw Seyka 8==========D", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Cleared", -- [1]
-			"Voxvos-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Voxvos-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3887, -- [11]
-			"Player-3676-0CCF774C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddVoxvos-Area52|r",
-			[51] = 1682833254,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"{rt7}4", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3888, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1682833254,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [2]
-		{
-			"Clear", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3889, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1682833254,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
 		{
 			"Interrupted King Haldor's |cff71d5ff|Hspell:199726:0|h[Unruly Yell]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -111,7 +45,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833217,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
+		}, -- [1]
 		{
 			"i'll interrupt Tor", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -133,7 +67,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833217,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [5]
+		}, -- [2]
 		{
 			"Interrupted King Tor's |cff71d5ff|Hspell:199726:0|h[Unruly Yell]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -155,7 +89,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833241,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [6]
+		}, -- [3]
 		{
 			"{rt7}", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -177,7 +111,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833260,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [4]
 		{
 			"{rt6}", -- [1]
 			"Voxvos-Area52", -- [2]
@@ -199,7 +133,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoxvos-Area52|r",
 			[51] = 1682833260,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [5]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -221,7 +155,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833260,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [6]
 		{
 			"{rt7}", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -243,7 +177,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833260,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [7]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -265,7 +199,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833261,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [8]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -287,7 +221,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833263,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [9]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -309,7 +243,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833264,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [10]
 		{
 			"Interrupted King Tor's |cff71d5ff|Hspell:199726:0|h[Unruly Yell]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -331,7 +265,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833265,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
+		}, -- [11]
 		{
 			"{rt7}8", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -353,7 +287,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833267,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [15]
+		}, -- [12]
 		{
 			"{rt7}8", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -375,7 +309,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833267,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [16]
+		}, -- [13]
 		{
 			"{rt7}8", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -397,7 +331,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833267,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [17]
+		}, -- [14]
 		{
 			"{rt7}7", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -419,7 +353,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833268,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [18]
+		}, -- [15]
 		{
 			"{rt7}7", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -441,7 +375,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833268,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [19]
+		}, -- [16]
 		{
 			"{rt7}7", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -463,7 +397,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833268,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [20]
+		}, -- [17]
 		{
 			"{rt7}6", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -485,7 +419,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833269,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [21]
+		}, -- [18]
 		{
 			"{rt7}6", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -507,7 +441,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833269,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [22]
+		}, -- [19]
 		{
 			"{rt7}6", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -529,7 +463,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833269,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [23]
+		}, -- [20]
 		{
 			"{rt7}5", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -551,7 +485,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833270,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [24]
+		}, -- [21]
 		{
 			"{rt7}5", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -573,7 +507,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833270,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [25]
+		}, -- [22]
 		{
 			"{rt7}4", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -595,7 +529,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833271,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [26]
+		}, -- [23]
 		{
 			"{rt7}4", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -617,7 +551,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833271,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [27]
+		}, -- [24]
 		{
 			"{rt7}3", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -639,7 +573,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833272,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [28]
+		}, -- [25]
 		{
 			"{rt7}3", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -661,7 +595,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833272,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [29]
+		}, -- [26]
 		{
 			"Clear", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -683,7 +617,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833272,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [27]
 		{
 			"Clear", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -705,7 +639,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833272,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [28]
 		{
 			"Felblaze Rush on Voxvos", -- [1]
 			"Voxvos-Area52", -- [2]
@@ -727,7 +661,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoxvos-Area52|r",
 			[51] = 1682833374,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [29]
 		{
 			"Felblaze Rush on Rembrandt", -- [1]
 			"Rembrandt-Gorefiend", -- [2]
@@ -749,7 +683,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Rembrandt-Gorefiend|r",
 			[51] = 1682833351,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [30]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -771,7 +705,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833358,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [31]
 		{
 			"{rt7}", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -793,7 +727,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833358,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [32]
 		{
 			"{rt6}", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -815,7 +749,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833360,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [33]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -837,7 +771,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833360,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [34]
 		{
 			"{rt6}", -- [1]
 			"Voxvos-Area52", -- [2]
@@ -859,7 +793,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoxvos-Area52|r",
 			[51] = 1682833361,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [35]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -881,7 +815,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833361,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [36]
 		{
 			"Clear", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -903,7 +837,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833363,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [37]
 		{
 			"Cleared", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -925,7 +859,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833363,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [38]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -947,7 +881,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833363,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [39]
 		{
 			"{rt7}8", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -969,7 +903,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833365,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [43]
+		}, -- [40]
 		{
 			"{rt7}8", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -991,7 +925,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833365,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [44]
+		}, -- [41]
 		{
 			"{rt7}7", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1013,7 +947,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833366,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [45]
+		}, -- [42]
 		{
 			"{rt7}7", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -1035,7 +969,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833366,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [46]
+		}, -- [43]
 		{
 			"{rt7}6", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1057,7 +991,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833367,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [47]
+		}, -- [44]
 		{
 			"{rt7}6", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -1079,7 +1013,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833367,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [48]
+		}, -- [45]
 		{
 			"{rt7}5", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1101,7 +1035,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833368,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [49]
+		}, -- [46]
 		{
 			"{rt7}5", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -1123,7 +1057,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833368,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [50]
+		}, -- [47]
 		{
 			"{rt7}4", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1145,7 +1079,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833369,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [51]
+		}, -- [48]
 		{
 			"{rt7}4", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -1167,7 +1101,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833369,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [52]
+		}, -- [49]
 		{
 			"Cleared", -- [1]
 			"Voxvos-Area52", -- [2]
@@ -1189,7 +1123,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoxvos-Area52|r",
 			[51] = 1682833370,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [50]
 		{
 			"Clear", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -1211,7 +1145,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833370,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [51]
 		{
 			"{rt7}3", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1233,7 +1167,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833370,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [55]
+		}, -- [52]
 		{
 			"Clear", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1255,7 +1189,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833370,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [53]
 		{
 			"{rt6}", -- [1]
 			"Voxvos-Area52", -- [2]
@@ -1277,7 +1211,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoxvos-Area52|r",
 			[51] = 1682833475,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [54]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1299,7 +1233,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833475,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [55]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1321,7 +1255,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833476,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [56]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1343,7 +1277,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833478,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [57]
 		{
 			"Clear", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1365,7 +1299,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833479,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [58]
 		{
 			"Cleared", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1387,7 +1321,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833479,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [59]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1409,7 +1343,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833479,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [60]
 		{
 			"{rt7}8", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1431,7 +1365,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833482,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [64]
+		}, -- [61]
 		{
 			"{rt7}8", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -1453,7 +1387,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833482,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [65]
+		}, -- [62]
 		{
 			"Clear", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1475,7 +1409,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833483,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [63]
 		{
 			"Cleared", -- [1]
 			"Voxvos-Area52", -- [2]
@@ -1497,7 +1431,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoxvos-Area52|r",
 			[51] = 1682833483,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [64]
 		{
 			"{rt7}7", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -1519,7 +1453,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833483,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [68]
+		}, -- [65]
 		{
 			"Clear", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -1541,7 +1475,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833483,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [66]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1563,7 +1497,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833545,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [67]
 		{
 			"{rt6}", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1585,7 +1519,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833545,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [68]
 		{
 			"{rt6}", -- [1]
 			"Voxvos-Area52", -- [2]
@@ -1607,7 +1541,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoxvos-Area52|r",
 			[51] = 1682833547,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [69]
 		{
 			"{rt7}", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1629,7 +1563,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833547,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [70]
 		{
 			"Clear", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1651,7 +1585,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833548,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [71]
 		{
 			"Clear", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1673,7 +1607,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833548,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [72]
 		{
 			"Cleared", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1695,7 +1629,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833548,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [73]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10786:Player-3661-091D3EB8:1:4:29:23:4294967295:4294967295:4294967295:4294967295|h[Halls of Valor]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1717,7 +1651,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833550,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [77]
+		}, -- [74]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10788:Player-3661-091D3EB8:1:4:29:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Halls of Valor]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1739,7 +1673,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833550,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [78]
+		}, -- [75]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10789:Player-3661-091D3EB8:1:4:29:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Halls of Valor]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1761,7 +1695,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833550,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [79]
+		}, -- [76]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10543:Player-3661-091D3EB8:1:4:29:23:4294967295:4294967295:4294967295:4294967295|h[Surge Protector]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1783,7 +1717,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833550,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [80]
+		}, -- [77]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:180653:402:14:9:7:3:132|h[Keystone: Algeth'ar Academy (14)]|h|r", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1805,7 +1739,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833614,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [81]
+		}, -- [78]
 		{
 			"Clear", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -1827,7 +1761,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833560,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [79]
 		{
 			"gg", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -1849,7 +1783,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833564,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
+		}, -- [80]
 		{
 			"ggs", -- [1]
 			"Voxvos-Area52", -- [2]
@@ -1871,7 +1805,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoxvos-Area52|r",
 			[51] = 1682833568,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
+		}, -- [81]
 		{
 			"gg's ", -- [1]
 			"Rembrandt-Gorefiend", -- [2]
@@ -1893,7 +1827,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Rembrandt-Gorefiend|r",
 			[51] = 1682833571,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [82]
 		{
 			"thnx for the key", -- [1]
 			"Rembrandt-Gorefiend", -- [2]
@@ -1915,7 +1849,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Rembrandt-Gorefiend|r",
 			[51] = 1682833575,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
+		}, -- [83]
 		{
 			"you guys doing any other low ones?", -- [1]
 			"Rembrandt-Gorefiend", -- [2]
@@ -1937,7 +1871,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Rembrandt-Gorefiend|r",
 			[51] = 1682833583,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
+		}, -- [84]
 		{
 			"thanks for the carry", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1959,7 +1893,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833585,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [88]
+		}, -- [85]
 		{
 			"!keys", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1981,7 +1915,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833592,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [89]
+		}, -- [86]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:180653:401:13:9:7:3:132|h[Keystone: The Azure Vault (13)]|h|r", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -2003,7 +1937,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833592,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [90]
+		}, -- [87]
 		{
 			"|cffa335ee|Hkeystone:180653:401:13:9:7:3:132|h[Keystone: The Azure Vault (13)]|h|r", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -2025,7 +1959,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1682833592,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [91]
+		}, -- [88]
 		{
 			"|cffa335ee|Hkeystone:180653:402:14:9:7:3:132|h[Keystone: Algeth'ar Academy (14)]|h|r", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2047,7 +1981,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833592,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
+		}, -- [89]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:180653:400:7:9:7:3:0|h[Keystone: The Nokhud Offensive (7)]|h|r", -- [1]
 			"Voxvos-Area52", -- [2]
@@ -2069,7 +2003,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoxvos-Area52|r",
 			[51] = 1682833592,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [90]
 		{
 			"I am down for whatever", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -2091,7 +2025,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833610,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [91]
 		{
 			"That's it for me, thanks though", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2113,7 +2047,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833678,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
+		}, -- [92]
 		{
 			"alright gg", -- [1]
 			"Synnbeard-BleedingHollow", -- [2]
@@ -2135,7 +2069,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSynnbeard-BleedingHollow|r",
 			[51] = 1682833624,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [93]
 		{
 			"for sure ggs", -- [1]
 			"Rembrandt-Gorefiend", -- [2]
@@ -2157,7 +2091,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Rembrandt-Gorefiend|r",
 			[51] = 1682833628,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
+		}, -- [94]
 		{
 			"Gotta try to get 20 RLP on my warr again", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2179,7 +2113,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833630,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [98]
+		}, -- [95]
 		{
 			"gg all", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2201,6 +2135,72 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1682833632,
 			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [96]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:4519:Player-3661-091D2FBC:1:5:6:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Forge of Souls]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Amplifi-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			137, -- [11]
+			"Player-3661-091D2FBC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1683418517,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [97]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:4516:Player-3661-091D2FBC:1:5:6:23:4294967295:4294967295:4294967295:4294967295|h[The Forge of Souls]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Amplifi-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			138, -- [11]
+			"Player-3661-091D2FBC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1683418517,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [98]
+		{
+			"8==========D", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			312, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1683419311,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [99]
 	},
 }

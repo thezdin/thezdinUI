@@ -14,6 +14,14 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
+			["global"] = {
+				["spellsOnCooldown"] = {
+					[20608] = {
+						["Player-76-0B9E46D5"] = 1590676.266,
+					},
+				},
+				["lastTime"] = 1668644.401,
+			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {

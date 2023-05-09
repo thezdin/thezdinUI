@@ -92,7 +92,6 @@ ElvDB = {
 				["bottomPanelSettings"] = {
 					["height"] = 128,
 				},
-				["autoRepair"] = "GUILD",
 				["minimap"] = {
 					["locationFont"] = "Ubuntu Condensed",
 					["locationText"] = "SHOW",
@@ -108,6 +107,7 @@ ElvDB = {
 				},
 				["talkingHeadFrameScale"] = 1,
 				["bonusObjectivePosition"] = "AUTO",
+				["autoRepair"] = "GUILD",
 			},
 			["bags"] = {
 				["itemLevelFont"] = "ElvUI C",
@@ -172,7 +172,7 @@ ElvDB = {
 					["override"] = true,
 				},
 			},
-			["dbConverted"] = 13.3,
+			["dbConverted"] = 13.31,
 			["locplus"] = {
 				["spacingManual"] = 5,
 				["dtwidth"] = 150,
@@ -182,31 +182,9 @@ ElvDB = {
 				["lpauto"] = false,
 			},
 			["layoutSet"] = "tank",
-			["mMediaTag"] = {
-				["mSavedAffixes"] = {
-					["year"] = "23",
-					["season"] = 9,
-					["affixes"] = {
-						{
-							["id"] = 10,
-							["seasonID"] = 0,
-						}, -- [1]
-						{
-							["id"] = 8,
-							["seasonID"] = 0,
-						}, -- [2]
-						{
-							["id"] = 3,
-							["seasonID"] = 0,
-						}, -- [3]
-						{
-							["id"] = 132,
-							["seasonID"] = 9,
-						}, -- [4]
-					},
-					["reset"] = true,
-				},
-				["mPluginVersion"] = "2.95.2",
+			["mMT"] = {
+				["quicksetup"] = true,
+				["version"] = "3.1",
 			},
 			["movers"] = {
 				["ElvAB_8"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-4,332",
@@ -303,13 +281,41 @@ ElvDB = {
 				["fontSize"] = 14,
 				["itemQuality"] = true,
 			},
-			["AutoLog"] = {
-				["raid"] = true,
-				["party"] = true,
+			["eel"] = {
+				["minimap"] = {
+					["minimapbar"] = {
+						["skinStyle"] = "VERTICAL",
+						["enable"] = true,
+						["buttonsPerRow"] = 20,
+						["mouseover"] = true,
+						["layoutDirection"] = "REVERSED",
+					},
+				},
+			},
+			["chat"] = {
+				["pinVoiceButtons"] = false,
+				["tabSelectorColor"] = {
+					["b"] = 0.4274510145187378,
+					["g"] = 0.6078431606292725,
+					["r"] = 0.7764706611633301,
+				},
+				["panelHeightRight"] = 210,
+				["font"] = "Roboto BoldCondensed",
+				["panelWidth"] = 650,
+				["panelHeight"] = 210,
+				["panelWidthRight"] = 600,
+				["panelBackdrop"] = "LEFT",
+				["panelTabBackdrop"] = true,
+				["panelSnapLeftID"] = 1,
+				["fontSize"] = 14,
+				["panelSnapRightID"] = 4,
+				["tabFont"] = "ElvUI C",
+				["tabSelector"] = "BOX",
+				["copyChatLines"] = true,
 			},
 			["unitframe"] = {
 				["fontSize"] = 12,
-				["smoothbars"] = true,
+				["statusbar"] = "Minimalist",
 				["units"] = {
 					["tank"] = {
 						["enable"] = false,
@@ -752,7 +758,7 @@ ElvDB = {
 					["castClassColor"] = true,
 				},
 				["fontOutline"] = "OUTLINE",
-				["statusbar"] = "Minimalist",
+				["smoothbars"] = true,
 				["cooldown"] = {
 					["checkSeconds"] = true,
 					["fonts"] = {
@@ -918,37 +924,35 @@ ElvDB = {
 					},
 				},
 			},
-			["chat"] = {
-				["pinVoiceButtons"] = false,
-				["tabSelectorColor"] = {
-					["b"] = 0.4274510145187378,
-					["g"] = 0.6078431606292725,
-					["r"] = 0.7764706611633301,
-				},
-				["panelHeightRight"] = 210,
-				["font"] = "Roboto BoldCondensed",
-				["panelWidth"] = 650,
-				["panelHeight"] = 210,
-				["panelWidthRight"] = 600,
-				["panelBackdrop"] = "LEFT",
-				["panelTabBackdrop"] = true,
-				["panelSnapLeftID"] = 1,
-				["fontSize"] = 14,
-				["panelSnapRightID"] = 4,
-				["tabFont"] = "ElvUI C",
-				["tabSelector"] = "BOX",
-				["copyChatLines"] = true,
-			},
-			["eel"] = {
-				["minimap"] = {
-					["minimapbar"] = {
-						["skinStyle"] = "VERTICAL",
-						["enable"] = true,
-						["buttonsPerRow"] = 20,
-						["mouseover"] = true,
-						["layoutDirection"] = "REVERSED",
+			["mMediaTag"] = {
+				["mSavedAffixes"] = {
+					["affixes"] = {
+						{
+							["id"] = 10,
+							["seasonID"] = 0,
+						}, -- [1]
+						{
+							["id"] = 8,
+							["seasonID"] = 0,
+						}, -- [2]
+						{
+							["id"] = 3,
+							["seasonID"] = 0,
+						}, -- [3]
+						{
+							["id"] = 132,
+							["seasonID"] = 9,
+						}, -- [4]
 					},
+					["year"] = "23",
+					["season"] = 9,
+					["reset"] = true,
 				},
+				["mPluginVersion"] = "2.95.2",
+			},
+			["AutoLog"] = {
+				["raid"] = true,
+				["party"] = true,
 			},
 		},
 		["Hyjal"] = {
@@ -1028,7 +1032,13 @@ ElvDB = {
 							nil, -- [3]
 							true, -- [4]
 						},
-						[24] = {
+						[20] = {
+							nil, -- [1]
+							nil, -- [2]
+							nil, -- [3]
+							true, -- [4]
+						},
+						[25] = {
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]

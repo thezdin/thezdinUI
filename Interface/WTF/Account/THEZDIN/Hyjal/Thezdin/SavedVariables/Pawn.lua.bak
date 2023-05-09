@@ -1,13 +1,13 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.08,
+	["LastVersion"] = 2.0801,
 	["LastPlayerFullName"] = "Thezdin-Hyjal",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 200426,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:200426::::::::70:73::35:7:6652:7937:8828:8973:7977:1489:8767::::::|h[Casque of the Walking Mountain]|h|r",
+			["ID"] = 204948,
+			["Level"] = 421,
+			["Link"] = "|cffa335ee|Hitem:204948::::::::70:73::42:5:6652:9415:9319:1643:8767:1:28:2633:::::|h[Starless Fullhelm]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 193001,
