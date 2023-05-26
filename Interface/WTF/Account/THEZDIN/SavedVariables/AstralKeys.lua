@@ -32,7 +32,7 @@ AstralKeys = {
 		["dungeon_id"] = 251,
 		["week"] = 305,
 		["faction"] = 0,
-		["time_stamp"] = 215086,
+		["time_stamp"] = 215555,
 	}, -- [3]
 	{
 		["btag"] = "Etherlight#1575",
@@ -111,20 +111,20 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["faction"] = 0,
 		["unit"] = "Thezadin-Hyjal",
+		["faction"] = 0,
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DEMONHUNTER",
-		["unit"] = "Thezidari-Hyjal",
 		["faction"] = 0,
+		["unit"] = "Thezidari-Hyjal",
 	}, -- [2]
 	{
 		["weekly_best"] = 15,
 		["class"] = "WARRIOR",
-		["faction"] = 0,
 		["unit"] = "Thezdin-Hyjal",
+		["faction"] = 0,
 	}, -- [3]
 }
 AstralKeysSettings = {
@@ -138,10 +138,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["party"] = true,
-			["raid"] = false,
-			["guild"] = false,
 			["no_key"] = false,
+			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -166,7 +166,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -175,11 +177,8 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 	},
-	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
@@ -188,6 +187,7 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -202,8 +202,8 @@ AstralMinimap = {
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
+		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Jägare - Hyjal"] = "Jägare - Hyjal",
 	},
 	["profiles"] = {
@@ -229,9 +229,9 @@ AstralMinimap = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
-		["Thezbot - Azgalor"] = {
-		},
 		["Thezdgar - Hyjal"] = {
+		},
+		["Thezbot - Azgalor"] = {
 		},
 		["Jägare - Hyjal"] = {
 		},
@@ -248,10 +248,10 @@ AstralLists = {
 			["Ceylan-Hyjal"] = "Aisleng#1990",
 			["Thez-Hyjal"] = true,
 			["Seyka-Hyjal"] = "Aisleng#1990",
-			["Thezdin-Hyjal"] = true,
+			["Thezadin-Hyjal"] = true,
 			["Thezidari-Hyjal"] = true,
 			["Amplifi-Hyjal"] = "Aisleng#1990",
-			["Thezadin-Hyjal"] = true,
+			["Thezdin-Hyjal"] = true,
 		},
 	}, -- [1]
 	{
@@ -269,15 +269,15 @@ AstralLists = {
 			["Qujamm-Proudmoore"] = "qujamm#1800",
 			["Aleo-MoonGuard"] = "Etherlight#1575",
 			["Foetem-Haomarush"] = "Foeslayer#1716",
-			["Magejamm-Proudmoore"] = "qujamm#1800",
-			["Clawelley-Andorhal"] = "Hige#1743",
+			["Sigborn-MoonGuard"] = "Etherlight#1575",
+			["Amplifi-Hyjal"] = "Aisleng#1990",
 			["Nimbostratos-MoonGuard"] = "Etherlight#1575",
 			["Foeslayer-Kel'Thuzad"] = "Foeslayer#1716",
 			["Foestriker-Sargeras"] = "Foeslayer#1716",
 			["Foebeacon-Stormrage"] = "Foeslayer#1716",
 			["Etherstratus-Kil'jaeden"] = "Etherlight#1575",
-			["Amplifi-Hyjal"] = "Aisleng#1990",
-			["Sigborn-MoonGuard"] = "Etherlight#1575",
+			["Clawelley-Andorhal"] = "Hige#1743",
+			["Magejamm-Proudmoore"] = "qujamm#1800",
 		},
 	}, -- [2]
 }
