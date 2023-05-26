@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.08,
+	["LastVersion"] = 2.0801,
 	["LastPlayerFullName"] = "Thez-Hyjal",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -26,9 +26,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:195478::::::::70:104::5:6:7980:6652:8825:8820:1485:8767:1:28:2474:::::|h[Valdrakken Protector's Turncoat]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 199429,
-			["Level"] = 385,
-			["Link"] = "|cffa335ee|Hitem:199429::::::::70:104::74:7:6652:7936:8822:8818:9345:1507:8767:1:28:2474:::::|h[Sash of Raging Tempests]|h|r",
+			["ID"] = 204595,
+			["Level"] = 398,
+			["Link"] = "|cff0070dd|Hitem:204595::::::::70:104::11:4:8902:9301:1491:8766:1:28:2588:::::|h[Inherited Cincture]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 200355,
@@ -41,14 +41,14 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:199425::::::::70:104::14:7:8943:6652:8822:8818:9344:1517:8767::::::|h[Waders of Raging Tempests]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 200358,
-			["Level"] = 395,
-			["Link"] = "|cffa335ee|Hitem:200358::::::::70:104::14:6:6652:8943:7936:9344:1478:8767::::::|h[Lost Landcaller's Bindings]|h|r",
+			["ID"] = 204596,
+			["Level"] = 398,
+			["Link"] = "|cff0070dd|Hitem:204596::::::::70:104::11:4:8902:9301:1491:8766:1:28:2588:::::|h[Inherited Wristbands]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 199426,
-			["Level"] = 385,
-			["Link"] = "|cffa335ee|Hitem:199426::::::::70:104::14:7:8943:6652:8822:8817:9343:1507:8767::::::|h[Handguards of Raging Tempests]|h|r",
+			["ID"] = 204591,
+			["Level"] = 398,
+			["Link"] = "|cff0070dd|Hitem:204591::::::::70:104::11:4:8902:9301:1491:8766:1:28:2588:::::|h[Inherited Gloves]|h|r",
 		}, -- [10]
 		{
 			["ID"] = 203460,
@@ -63,21 +63,21 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:203460::204027:204011:::::70:104::11:1:1476:1:28:2589:1:9367:1:9367:::|h[Onyx Annulet]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 202015,
-			["Level"] = 389,
+			["ID"] = 204387,
+			["Level"] = 398,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:202015::::::::70:104::14:3:9377:1489:8767::::::|h[Sands of Temporal Perfection]|h|r",
+			["Link"] = "|cff0070dd|Hitem:204387::::::::70:104::11:5:8902:6652:9301:1491:8766:1:28:2650:::::|h[Buzzing Orb Core]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 193757,
-			["Level"] = 379,
+			["ID"] = 204728,
+			["Level"] = 398,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:193757::::::::70:104::33:6:7977:6652:9144:8962:1601:8767:1:28:1279:::::|h[Ruby Whelp Shell]|h|r",
+			["Link"] = "|cff0070dd|Hitem:204728::::::::70:104::25:4:6652:9301:1620:8766:1:28:2474:::::|h[Friendship Censer]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 144094,
-			["Level"] = 405,
-			["Link"] = "|cffa335ee|Hitem:144094::::::::70:104::35:8:8970:7977:6652:8822:8819:9144:3295:8767::::::|h[Cape of Entanglement]|h|r",
+			["ID"] = 204915,
+			["Level"] = 408,
+			["Link"] = "|cffa335ee|Hitem:204915::::::::70:104::42:4:6652:9315:1630:8767:1:28:2649:::::|h[Deeprock Cape]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 195504,

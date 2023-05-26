@@ -2,72 +2,28 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p LoS the wall", -- [1]
-		"/p follow the shaman", -- [2]
-		"/p clump on me before every move, literally clump", -- [3]
-		"/p clump, interrupt, fire balls, move, regroup, rinse repeat", -- [4]
-		"/p literally. clump on me.", -- [5]
-		"/p CLUMP", -- [6]
-		"/p stun the bats", -- [7]
-		"/p moving boss to this room FYI", -- [8]
-		"/p frogs", -- [9]
-		"/p lust", -- [10]
-		"/p thanks all", -- [11]
-		"/p hey all", -- [12]
-		"/elvui", -- [13]
-		"/p bruh", -- [14]
-		"/p WARLOCK", -- [15]
-		"/p move", -- [16]
-		"/p up", -- [17]
-		"/p stand in melee on this to drop puddles", -- [18]
-		"/p thx for the carry", -- [19]
-		"/p gg all", -- [20]
+		"/p follow the shaman", -- [1]
+		"/p clump on me before every move, literally clump", -- [2]
+		"/p clump, interrupt, fire balls, move, regroup, rinse repeat", -- [3]
+		"/p literally. clump on me.", -- [4]
+		"/p CLUMP", -- [5]
+		"/p stun the bats", -- [6]
+		"/p moving boss to this room FYI", -- [7]
+		"/p frogs", -- [8]
+		"/p lust", -- [9]
+		"/p thanks all", -- [10]
+		"/p hey all", -- [11]
+		"/elvui", -- [12]
+		"/p bruh", -- [13]
+		"/p WARLOCK", -- [14]
+		"/p move", -- [15]
+		"/p up", -- [16]
+		"/p stand in melee on this to drop puddles", -- [17]
+		"/p thx for the carry", -- [18]
+		"/p gg all", -- [19]
+		"/RELOADUI", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3076, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683010863,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Clear", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3079, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683010864,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
 		{
 			"Cleared", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -89,7 +45,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683010864,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+		}, -- [1]
 		{
 			"Clear", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -111,7 +67,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683010864,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+		}, -- [2]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -133,7 +89,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010865,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [3]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -155,7 +111,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010866,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [4]
 		{
 			"{rt7}8", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -177,7 +133,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010869,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [7]
+		}, -- [5]
 		{
 			"{rt7}7", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -199,7 +155,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010870,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [8]
+		}, -- [6]
 		{
 			"{rt7}6", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -221,7 +177,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010871,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [9]
+		}, -- [7]
 		{
 			"Cleared", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -243,7 +199,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683010871,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [8]
 		{
 			"{rt7}5", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -265,7 +221,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010872,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [11]
+		}, -- [9]
 		{
 			"Clear", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -287,7 +243,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010872,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [10]
 		{
 			"Interrupted Monstrous Corpse Spider's |cff71d5ff|Hspell:156718:0|h[Necrotic Burst]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -309,7 +265,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683010883,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
+		}, -- [11]
 		{
 			"Interrupted Monstrous Corpse Spider's |cff71d5ff|Hspell:156718:0|h[Necrotic Burst]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -331,7 +287,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010903,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
+		}, -- [12]
 		{
 			"Interrupted Monstrous Corpse Spider's |cff71d5ff|Hspell:156718:0|h[Necrotic Burst]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -353,7 +309,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683010966,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+		}, -- [13]
 		{
 			"Interrupted Plagued Bat's |cff71d5ff|Hspell:153524:0|h[Plague Spit]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -375,7 +331,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683010923,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
+		}, -- [14]
 		{
 			">> SHOCKWAVE ON ME <<", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -397,7 +353,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010927,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [15]
 		{
 			"{rt7}", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -419,7 +375,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683010939,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [16]
 		{
 			"{rt7}", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -441,7 +397,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683010939,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [17]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -463,7 +419,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010939,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [18]
 		{
 			"{rt6}", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -485,7 +441,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683010939,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [19]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -507,7 +463,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010941,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [20]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -529,7 +485,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010942,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [21]
 		{
 			"Cleared", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -551,7 +507,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683010943,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [22]
 		{
 			"Clear", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -573,7 +529,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683010943,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [23]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -595,7 +551,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010943,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [24]
 		{
 			"Clear", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -617,7 +573,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683010944,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [25]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -639,7 +595,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011018,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [26]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -661,7 +617,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011020,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [27]
 		{
 			"Clear", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -683,7 +639,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011020,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [28]
 		{
 			"{rt7}8", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -705,7 +661,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011086,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [31]
+		}, -- [29]
 		{
 			"{rt6}", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -727,7 +683,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011148,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [30]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -749,7 +705,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011148,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [31]
 		{
 			"{rt7}", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -771,7 +727,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683011148,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [32]
 		{
 			"{rt7}", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -793,7 +749,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011148,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [33]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -815,7 +771,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011150,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [34]
 		{
 			"Clear", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -837,7 +793,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011150,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [35]
 		{
 			"Clear", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -859,7 +815,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011150,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [36]
 		{
 			"Cleared", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -881,7 +837,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011150,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [37]
 		{
 			"{rt7}8", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -903,7 +859,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011155,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [40]
+		}, -- [38]
 		{
 			"{rt7}7", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -925,7 +881,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011156,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [41]
+		}, -- [39]
 		{
 			"Cleared", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -947,7 +903,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683011157,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [40]
 		{
 			"Clear", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -969,7 +925,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011157,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [41]
 		{
 			"stand in melee on this to drop puddles", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -991,7 +947,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011130,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [44]
+		}, -- [42]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1013,7 +969,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011218,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [43]
 		{
 			"{rt7}", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -1035,7 +991,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683011218,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [44]
 		{
 			"{rt7}", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1057,7 +1013,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011218,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [45]
 		{
 			"{rt6}", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -1079,7 +1035,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011218,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [46]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1101,7 +1057,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011160,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [47]
 		{
 			"Clear", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1123,7 +1079,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011161,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [48]
 		{
 			"Cleared", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1145,7 +1101,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011161,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [49]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1167,7 +1123,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011161,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [50]
 		{
 			"Cleared", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -1189,7 +1145,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683011162,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [51]
 		{
 			"Clear", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -1211,7 +1167,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011162,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [52]
 		{
 			"Clear", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1233,7 +1189,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011162,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [53]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1255,7 +1211,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011240,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [54]
 		{
 			"{rt6}", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -1277,7 +1233,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683011240,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [55]
 		{
 			"{rt6}", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1299,7 +1255,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011240,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [56]
 		{
 			"{rt7}", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -1321,7 +1277,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011240,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [57]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1343,7 +1299,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011241,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [58]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1365,7 +1321,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011243,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [59]
 		{
 			"Clear", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1387,7 +1343,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011243,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [60]
 		{
 			"Cleared", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1409,7 +1365,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011243,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [61]
 		{
 			"Clear", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -1431,7 +1387,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011243,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [62]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1453,7 +1409,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011244,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [63]
 		{
 			"Clear", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1475,7 +1431,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011247,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [64]
 		{
 			"Cleared", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -1497,7 +1453,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683011247,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [65]
 		{
 			"Omen of Death on Mabok", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -1519,7 +1475,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011330,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [66]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1541,7 +1497,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011387,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [67]
 		{
 			"{rt7}", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1563,7 +1519,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011387,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [68]
 		{
 			"{rt6}", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -1585,7 +1541,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683011387,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [69]
 		{
 			"{rt7}", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -1607,7 +1563,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011387,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [70]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1629,7 +1585,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011388,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [71]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1651,7 +1607,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011390,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [72]
 		{
 			"{rt7}", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1673,7 +1629,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011391,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [73]
 		{
 			"Cleared", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -1695,7 +1651,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683011394,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [74]
 		{
 			"Clear", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -1717,7 +1673,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011394,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [75]
 		{
 			"{rt7}8", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1739,7 +1695,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011394,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [78]
+		}, -- [76]
 		{
 			"{rt7}8", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1761,7 +1717,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011394,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [79]
+		}, -- [77]
 		{
 			"{rt7}7", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1783,7 +1739,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011395,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [80]
+		}, -- [78]
 		{
 			"{rt7}7", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1805,7 +1761,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011395,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [81]
+		}, -- [79]
 		{
 			"{rt7}6", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1827,7 +1783,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011396,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [82]
+		}, -- [80]
 		{
 			"{rt7}6", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1849,7 +1805,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011396,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [83]
+		}, -- [81]
 		{
 			"{rt7}5", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1871,7 +1827,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011397,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [84]
+		}, -- [82]
 		{
 			"{rt7}5", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1893,7 +1849,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011397,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [85]
+		}, -- [83]
 		{
 			"{rt7}4", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1915,7 +1871,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011398,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [86]
+		}, -- [84]
 		{
 			"{rt7}4", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1937,7 +1893,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011398,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [87]
+		}, -- [85]
 		{
 			"{rt7}3", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1959,7 +1915,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011399,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [88]
+		}, -- [86]
 		{
 			"{rt7}2", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1981,7 +1937,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011340,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [89]
+		}, -- [87]
 		{
 			"{rt7}2", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -2003,7 +1959,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011340,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [90]
+		}, -- [88]
 		{
 			"Clear", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -2025,7 +1981,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683011340,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [89]
 		{
 			"{rt7}1", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -2047,7 +2003,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011341,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [92]
+		}, -- [90]
 		{
 			"Clear", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -2069,7 +2025,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011341,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [91]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:180653:2:15:9:7:3:132|h[Keystone: Temple of the Jade Serpent (15)]|h|r", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -2091,7 +2047,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011384,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [94]
+		}, -- [92]
 		{
 			"ty for key", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -2113,7 +2069,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683011448,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+		}, -- [93]
 		{
 			"ty all", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -2135,7 +2091,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011451,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [94]
 		{
 			"thx for the carry", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -2157,7 +2113,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011455,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
+		}, -- [95]
 		{
 			"gg all", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -2179,7 +2135,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011457,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [98]
+		}, -- [96]
 		{
 			"o/", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -2201,6 +2157,50 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683011402,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [97]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:546:Player-3661-091E66BD:1:5:12:23:4294967295:4294967295:4294967295:4294967295|h[Safe Deposit]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1424, -- [11]
+			"Player-3661-091E66BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1683959720,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [98]
+		{
+			"Is the !00% just a display bug or will the boss never spawn?", -- [1]
+			"Loganith-Hyjal", -- [2]
+			"", -- [3]
+			"1. General - Ohn'ahran Plains", -- [4]
+			"Loganith-Hyjal", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Ohn'ahran Plains", -- [9]
+			0, -- [10]
+			195, -- [11]
+			"Player-3661-07C55EEE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaLoganith|r",
+			[51] = 1684036322,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }

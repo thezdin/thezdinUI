@@ -14,14 +14,6 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
-			["global"] = {
-				["spellsOnCooldown"] = {
-					[20608] = {
-						["Player-76-0B9E46D5"] = 1590676.266,
-					},
-				},
-				["lastTime"] = 1668644.401,
-			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -32,9 +24,9 @@ oRA3DB = {
 							[6940] = true,
 							[31821] = true,
 							[106898] = true,
-							[202137] = true,
-							[32375] = true,
 							[853] = true,
+							[32375] = true,
+							[202137] = true,
 						},
 					},
 					["displays"] = {
@@ -53,17 +45,6 @@ oRA3DB = {
 				},
 			},
 		},
-		["Tanks"] = {
-		},
-		["Consumables"] = {
-			["profiles"] = {
-				["Default"] = {
-					["checkReadyCheck"] = 3,
-					["checkRune"] = true,
-					["output"] = 2,
-				},
-			},
-		},
 		["Difficulty"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -71,24 +52,35 @@ oRA3DB = {
 				},
 			},
 		},
+		["Consumables"] = {
+			["profiles"] = {
+				["Default"] = {
+					["checkRune"] = true,
+					["checkReadyCheck"] = 3,
+					["output"] = 2,
+				},
+			},
+		},
+		["Tanks"] = {
+		},
 	},
 	["profileKeys"] = {
 		["Úlfhédnar - Hyjal"] = "Default",
 		["Thezkin - Hyjal"] = "Default",
-		["Thezdivh - Hyjal"] = "Default",
+		["Jägare - Hyjal"] = "Default",
 		["Thezadin - Hyjal"] = "Default",
-		["Thezbot - Azgalor"] = "Default",
+		["Foulfellow - Hyjal"] = "Default",
 		["Thezbank - Mannoroth"] = "Default",
-		["Thezfu - Hyjal"] = "Default",
 		["Sigurdsson - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
 		["Thezdruid - Hyjal"] = "Default",
 		["Thezknight - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
 		["Thezdgar - Hyjal"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
-		["Thez - Hyjal"] = "Default",
-		["Foulfellow - Hyjal"] = "Default",
-		["Jägare - Hyjal"] = "Default",
+		["Thezfu - Hyjal"] = "Default",
+		["Thezbot - Azgalor"] = "Default",
+		["Thezdivh - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -100,18 +92,18 @@ oRA3DB = {
 				},
 				["oRA3BattleResMonitor"] = {
 					["Height"] = 29.99996566772461,
-					["PosX"] = 1346.667680464889,
-					["PosY"] = 663.4669453091192,
 					["Width"] = 139.9998931884766,
+					["PosY"] = 234.6669160631063,
+					["PosX"] = 167.4677922991032,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 536.4446411132812,
-					["PosX"] = 16.75003118316454,
-					["PosY"] = 713.6250283569098,
 					["Width"] = 258.6666259765625,
+					["PosY"] = 755.143902077034,
+					["PosX"] = 21.03569038056094,
 				},
 			},
-			["lastSelectedPanel"] = "Checks",
+			["lastSelectedPanel"] = "Cooldowns",
 		},
 	},
 }

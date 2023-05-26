@@ -2,74 +2,52 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p yes", -- [1]
-		"/p clockwise/left please", -- [2]
-		"/p fuck me", -- [3]
-		"/p sorry", -- [4]
-		"/p trapped :/", -- [5]
-		"/p up to heals", -- [6]
-		"/p HOW BIG CAN WE GO NEXT?", -- [7]
-		"/p 2 PULLS", -- [8]
-		"/p BIG ONE", -- [9]
-		"/p left", -- [10]
-		"/p we can still time, i won't go nuts anymore", -- [11]
-		"/p careful going left", -- [12]
-		"/p save lust", -- [13]
-		"/p lust this pull on stairs", -- [14]
-		"/p !keys", -- [15]
-		"/p heya", -- [16]
-		"/p np", -- [17]
-		"/p DO NOT LUST THIS", -- [18]
-		"/p lol why you pulling Exhumer", -- [19]
-		"/sigh", -- [20]
+		"/p guys", -- [1]
+		"/p they leap to people", -- [2]
+		"/p stack the hell up", -- [3]
+		"/p pillars for LOS", -- [4]
+		"/p ugh", -- [5]
+		"/p worst trinket ever", -- [6]
+		"/p thx all, gg!", -- [7]
+		"/invite Amplifi", -- [8]
+		"/p !keys", -- [9]
+		"/p yeah you should dps, I didn't even catch that lol", -- [10]
+		"/p lol my bad", -- [11]
+		"/p been farming 11s all day not paying attention anymore haha", -- [12]
+		"/p cheater", -- [13]
+		"/p mage?", -- [14]
+		"/p let's try to 4man I guess", -- [15]
+		"/p big pull", -- [16]
+		"/p yeah i sucked", -- [17]
+		"/p your burst was batshit there lol", -- [18]
+		"/p gg, thx all!", -- [19]
+		"/invite Seyka", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"{rt6} 7 {rt6}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"1", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4381, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			847, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527193,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993685,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [1]
 		{
-			"{rt6}8", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4382, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527193,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [2]
-		{
-			"{rt7}7", -- [1]
+			"REFLECTED |cff71d5ff|Hspell:369006:0|h[Burning Heat]|h|r !", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -79,7 +57,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4383, -- [11]
+			850, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -87,121 +65,143 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527194,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1684993687,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [2]
+		{
+			"REFLECTED |cff71d5ff|Hspell:369006:0|h[Burning Heat]|h|r !", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			851, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993687,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"{rt7}7", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
+			"Unstable Embers on Thezdin", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4384, -- [11]
-			"Player-76-0B9E46D5", -- [12]
+			860, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527194,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993753,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"{rt6} 6 {rt6}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"Unstable Embers on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4385, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			861, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527194,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1684993754,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"{rt6}7", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"1", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4386, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			862, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527194,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993755,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"{rt7}6", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"2", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4387, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			863, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527195,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1684993755,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"{rt7}6", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
+			"1", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4388, -- [11]
-			"Player-76-0B9E46D5", -- [12]
+			864, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527195,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1684993756,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"Clear", -- [1]
+			"REFLECTED |cff71d5ff|Hspell:369006:0|h[Burning Heat]|h|r !", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -211,7 +211,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4389, -- [11]
+			865, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -219,77 +219,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527195,
+			[51] = 1684993758,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"{rt7}5", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
+			"REFLECTED |cff71d5ff|Hspell:369006:0|h[Burning Heat]|h|r !", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4390, -- [11]
-			"Player-76-0B9E46D5", -- [12]
+			866, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527196,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993758,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"Clear", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
+			"Unstable Embers on Thezdin", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4391, -- [11]
-			"Player-76-0B9E46D5", -- [12]
+			868, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527196,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993766,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			">> SHOCKWAVE ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"¡Ascuas inestables en Aquilêsz!", -- [1]
+			"Aquilêsz-Quel'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Aquilêsz-Quel'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4392, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			870, -- [11]
+			"Player-1428-0E09B332", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527202,
+			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
+			[51] = 1684993766,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"{rt7}", -- [1]
+			"Interrupted Earthen Weaver's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -299,7 +299,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4400, -- [11]
+			876, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -307,121 +307,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527256,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1684993778,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [13]
 		{
-			"{rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"REFLECTED |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r !", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4401, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			878, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527256,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993784,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"{rt6}", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"REFLECTED |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r 99.29 K!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4403, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			879, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527256,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993784,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"{rt7}", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4404, -- [11]
-			"Player-76-0B9E46D5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527256,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"{rt7} 14 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4405, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527256,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"{rt7} 13 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4407, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527257,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"{rt7}", -- [1]
+			"Interrupted Earthen Weaver's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -431,7 +365,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4411, -- [11]
+			882, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -439,187 +373,253 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527258,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1684993824,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [16]
+		{
+			"Interrupted Earthen Weaver's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			883, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993841,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [17]
+		{
+			"Interrupted Earthen Warder's |cff71d5ff|Hspell:369400:0|h[Earthen Ward]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			886, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993875,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [18]
+		{
+			"Interrupted Incorporeal Being's |cff71d5ff|Hspell:408805:0|h[Destabilize]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			888, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993945,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [19]
 		{
-			"{rt7} 12 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"Interrupted Earthen Warder's |cff71d5ff|Hspell:369400:0|h[Earthen Ward]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4414, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			895, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527258,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684993972,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [20]
 		{
-			"Clear", -- [1]
-			"Horihunter-Tichondrius", -- [2]
+			"¡Atrapado en piedra en Aquilêsz!", -- [1]
+			"Aquilêsz-Quel'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
+			"Aquilêsz-Quel'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4415, -- [11]
-			"Player-11-0E081169", -- [12]
+			896, -- [11]
+			"Player-1428-0E09B332", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527258,
+			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
+			[51] = 1684993986,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"Cleared", -- [1]
-			"Horihunter-Tichondrius", -- [2]
+			"Interrupted Infinite Agent's |cff71d5ff|Hspell:377500:0|h[Hasten]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4416, -- [11]
-			"Player-11-0E081169", -- [12]
+			897, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527259,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684994045,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [22]
 		{
-			"Clear", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
+			"pillars for LOS", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4417, -- [11]
-			"Player-76-0B9E46D5", -- [12]
+			901, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527259,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684994134,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [23]
 		{
-			"{rt7} 11 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"Time Sink on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4419, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			903, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527259,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1684994182,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"¡Pérdida de tiempo en Frostchan!", -- [1]
+			"Frostchan-Quel'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Frostchan-Quel'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4420, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			904, -- [11]
+			"Player-1428-0DFE7674", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527259,
+			[52] = "|cff3fc7ebFrostchan-Quel'Thalas|r",
+			[51] = 1684994182,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
-			"{rt7} 10 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"DRAC BL", -- [1]
+			"Frostchan-Quel'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Frostchan-Quel'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4423, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			918, -- [11]
+			"Player-1428-0DFE7674", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527260,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc7ebFrostchan-Quel'Thalas|r",
+			[51] = 1684994294,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [26]
 		{
-			"Clear", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"¡Pérdida de tiempo en Aquilêsz!", -- [1]
+			"Aquilêsz-Quel'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Aquilêsz-Quel'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4424, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			920, -- [11]
+			"Player-1428-0E09B332", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527260,
+			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
+			[51] = 1684994296,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"Clear", -- [1]
+			"Interrupted Incorporeal Being's |cff71d5ff|Hspell:408805:0|h[Destabilize]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -629,7 +629,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4425, -- [11]
+			927, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -637,209 +637,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527260,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1684994399,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [28]
 		{
-			"Cleared", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"ugh", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4426, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			937, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527260,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684994372,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [29]
 		{
-			"{rt7} 9 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4428, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527261,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"Clear", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4429, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527261,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"{rt7} 8 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4430, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527262,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"{rt7} 7 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4431, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527263,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"{rt7} 6 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4432, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527264,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"{rt7} 5 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4433, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527265,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"{rt7} 3 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4434, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527267,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"{rt7} 0 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4438, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527270,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"Interrupted Monstrous Corpse Spider's |cff71d5ff|Hspell:156718:0|h[Necrotic Burst]|h|r!", -- [1]
+			"worst trinket ever", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -849,7 +673,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4439, -- [11]
+			938, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -857,11 +681,209 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527272,
+			[51] = 1684994378,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [30]
+		{
+			"thx all, gg!", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			939, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684994380,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [31]
+		{
+			"f", -- [1]
+			"Aquilêsz-Quel'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aquilêsz-Quel'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			940, -- [11]
+			"Player-1428-0E09B332", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
+			[51] = 1684994384,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [32]
+		{
+			"ggs", -- [1]
+			"Aquilêsz-Quel'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aquilêsz-Quel'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			941, -- [11]
+			"Player-1428-0E09B332", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
+			[51] = 1684994386,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [33]
+		{
+			"ty for info", -- [1]
+			"Aquilêsz-Quel'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aquilêsz-Quel'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			942, -- [11]
+			"Player-1428-0E09B332", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
+			[51] = 1684994388,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [34]
+		{
+			":D", -- [1]
+			"Aquilêsz-Quel'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aquilêsz-Quel'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			943, -- [11]
+			"Player-1428-0E09B332", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
+			[51] = 1684994389,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [35]
+		{
+			"ty all", -- [1]
+			"Drakchyro-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Drakchyro-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			944, -- [11]
+			"Player-1427-0DFD7099", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fDrakchyro-Ragnaros|r",
+			[51] = 1684994453,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [36]
+		{
+			"gg thanks for the group", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			945, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1684994454,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [37]
+		{
+			"!keys", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			971, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684994872,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [38]
 		{
-			"Interrupted Plagued Bat's |cff71d5ff|Hspell:153524:0|h[Plague Spit]|h|r!", -- [1]
+			"Astral Keys: |cffa335ee|Hkeystone:180653:251:17:9:136:123:0|h[Keystone: The Underrot (17)]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			972, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684994872,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [39]
+		{
+			"Astral Keys: |cffa335ee|Hkeystone:180653:206:13:9:136:0:0|h[Keystone: Neltharion's Lair (13)]|h|r", -- [1]
 			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -871,7 +893,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4440, -- [11]
+			973, -- [11]
 			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -879,99 +901,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527221,
+			[51] = 1684994872,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
-		{
-			"Interrupted Plagued Bat's |cff71d5ff|Hspell:153524:0|h[Plague Spit]|h|r!", -- [1]
-			"Horihunter-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4441, -- [11]
-			"Player-11-0E081169", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527224,
-			[50] = "CHAT_MSG_EMOTE",
 		}, -- [40]
 		{
-			"Interrupted Monstrous Corpse Spider's |cff71d5ff|Hspell:156718:0|h[Necrotic Burst]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"ty", -- [1]
+			"Erïs-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Erïs-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4442, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1008, -- [11]
+			"Player-1427-0E1E36A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527233,
+			[52] = "|cffffffffErïs-Ragnaros|r",
+			[51] = 1684995277,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [41]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"so which one of u is dps xD", -- [1]
+			"Junkmagex-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Junkmagex-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4446, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1013, -- [11]
+			"Player-3676-0E0EB2A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527287,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc7ebJunkmagex-Area52|r",
+			[51] = 1684995303,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [42]
 		{
-			"{rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"lol", -- [1]
+			"Erïs-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Erïs-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4448, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1014, -- [11]
+			"Player-1427-0E1E36A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527287,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffErïs-Ragnaros|r",
+			[51] = 1684995311,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [43]
 		{
-			"{rt7}", -- [1]
+			"I can be, I dont mind either way", -- [1]
+			"Erïs-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Erïs-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1015, -- [11]
+			"Player-1427-0E1E36A2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffErïs-Ragnaros|r",
+			[51] = 1684995320,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [44]
+		{
+			"oh my lol ", -- [1]
 			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -981,7 +1003,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4449, -- [11]
+			1016, -- [11]
 			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -989,165 +1011,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527287,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"{rt7} 14 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4451, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527287,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1684995332,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [45]
 		{
-			"{rt6}", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
+			"yeah you should dps, I didn't even catch that lol", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4452, -- [11]
-			"Player-76-0B9E46D5", -- [12]
+			1017, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527287,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684995333,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [46]
 		{
-			"{rt7} 13 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"haha", -- [1]
+			"Junkmagex-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Junkmagex-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4453, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1018, -- [11]
+			"Player-3676-0E0EB2A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527288,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc7ebJunkmagex-Area52|r",
+			[51] = 1684995338,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [47]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"yeah i am a huge noob ", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4458, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1019, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527288,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1684995341,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [48]
 		{
-			"{rt7} 12 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4461, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527289,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"Clear", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4462, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527289,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
-		{
-			"Clear", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4463, -- [11]
-			"Player-76-0B9E46D5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527289,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
-		{
-			"{rt7}", -- [1]
+			"lol my bad", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1157,7 +1091,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4467, -- [11]
+			1020, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1165,187 +1099,253 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527290,
+			[51] = 1684995343,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [49]
+		{
+			"been farming 11s all day not paying attention anymore haha", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1022, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684995367,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [50]
+		{
+			"i need too many ):", -- [1]
+			"Junkmagex-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Junkmagex-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1026, -- [11]
+			"Player-3676-0E0EB2A2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebJunkmagex-Area52|r",
+			[51] = 1684995387,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [51]
+		{
+			"lol", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dalstrongz-Tichondrius", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1028, -- [11]
+			"Player-11-0BB61111", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684995398,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"{rt7}", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"i got glirtch down", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Dalstrongz-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4472, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1031, -- [11]
+			"Player-11-0BB61111", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527291,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684995479,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [53]
 		{
-			"{rt6}8", -- [1]
-			"Horihunter-Tichondrius", -- [2]
+			"gg", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
+			"Dalstrongz-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4476, -- [11]
-			"Player-11-0E081169", -- [12]
+			1032, -- [11]
+			"Player-11-0BB61111", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527294,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684995421,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [54]
 		{
-			"{rt7}8", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"cheater", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4477, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			1038, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527294,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684995519,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [55]
 		{
-			"{rt7}8", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"shh", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Dalstrongz-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4478, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1040, -- [11]
+			"Player-11-0BB61111", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527294,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684995522,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [56]
 		{
-			"Clear", -- [1]
-			"Horihunter-Tichondrius", -- [2]
+			"mage?", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4479, -- [11]
-			"Player-11-0E081169", -- [12]
+			1043, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527294,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684995548,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [57]
 		{
-			"Clear", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"wow", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Dalstrongz-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4480, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			1044, -- [11]
+			"Player-11-0BB61111", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527294,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684995551,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [58]
 		{
-			"Cleared", -- [1]
-			"Horihunter-Tichondrius", -- [2]
+			"wtf dude", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
+			"Dalstrongz-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4481, -- [11]
-			"Player-11-0E081169", -- [12]
+			1045, -- [11]
+			"Player-11-0BB61111", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527294,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684995560,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [59]
 		{
-			"Cleared", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"we can do that?", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Dalstrongz-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4482, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			1046, -- [11]
+			"Player-11-0BB61111", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527294,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684995569,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [60]
 		{
-			"{rt7}7", -- [1]
+			"let's try to 4man I guess", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1355,7 +1355,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4483, -- [11]
+			1047, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1363,11 +1363,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527295,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1684995584,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [61]
 		{
-			"Clear", -- [1]
+			">> FRONTAL ON ME <<", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1377,7 +1377,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4484, -- [11]
+			1053, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1385,77 +1385,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527295,
+			[51] = 1684995611,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [62]
 		{
-			"Omen of Death on Horihunter", -- [1]
-			"Horihunter-Tichondrius", -- [2]
+			"stupid game", -- [1]
+			"Junkmagex-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
+			"Junkmagex-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4488, -- [11]
-			"Player-11-0E081169", -- [12]
+			1054, -- [11]
+			"Player-3676-0E0EB2A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527421,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc7ebJunkmagex-Area52|r",
+			[51] = 1684995612,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [63]
 		{
-			"{rt6}", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			">> FRONTAL ON ME <<", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4490, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			1055, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527432,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684995615,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [64]
 		{
-			"{rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"runnin", -- [1]
+			"Junkmagex-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Junkmagex-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4491, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1056, -- [11]
+			"Player-3676-0E0EB2A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527432,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc7ebJunkmagex-Area52|r",
+			[51] = 1684995621,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [65]
 		{
-			"{rt7}", -- [1]
+			"it kept crashing me on the waterfall", -- [1]
+			"Junkmagex-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Junkmagex-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1058, -- [11]
+			"Player-3676-0E0EB2A2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebJunkmagex-Area52|r",
+			[51] = 1684995640,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [66]
+		{
+			">> FRONTAL ON ME <<", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1465,7 +1487,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4492, -- [11]
+			1060, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1473,77 +1495,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527432,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
-		{
-			"{rt7} 14 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4494, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527432,
+			[51] = 1684995641,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"{rt7}", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
+			">> FRONTAL ON ME <<", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4495, -- [11]
-			"Player-76-0B9E46D5", -- [12]
+			1061, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527432,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684995644,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"{rt7} 13 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			">> FRONTAL ON ME <<", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4496, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1065, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527433,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684995670,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
 		{
-			"{rt7}", -- [1]
+			"Interrupted Blightshard Shaper's |cff71d5ff|Hspell:186269:0|h[Stone Bolt]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1553,7 +1553,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4500, -- [11]
+			1076, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1561,55 +1561,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527433,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1684995835,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [70]
 		{
-			"{rt7} 12 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4502, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527434,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
-		{
-			"{rt7} 11 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4504, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527435,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
-		{
-			"{rt7}", -- [1]
+			"big pull", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1619,7 +1575,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4505, -- [11]
+			1077, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1627,33 +1583,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527435,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+			[51] = 1684995806,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [71]
 		{
-			"{rt7} 10 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"k sir", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Dalstrongz-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4509, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1079, -- [11]
+			"Player-11-0BB61111", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527436,
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684995809,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [72]
+		{
+			"Interrupted Incorporeal Being's |cff71d5ff|Hspell:408805:0|h[Destabilize]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1082, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684995842,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [73]
+		{
+			"REFLECTED |cff71d5ff|Hspell:198496:0|h[Sunder]|h|r !", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1085, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684995900,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [74]
 		{
-			"{rt7}", -- [1]
+			"REFLECTED |cff71d5ff|Hspell:198496:0|h[Sunder]|h|r 342.84 K!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1663,7 +1663,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4513, -- [11]
+			1086, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1671,253 +1671,209 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527436,
+			[51] = 1684995900,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"{rt7} 9 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"Interrupted Blightshard Shaper's |cff71d5ff|Hspell:186269:0|h[Stone Bolt]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4515, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1091, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527437,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996017,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [76]
 		{
-			"Clear", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"Interrupted Incorporeal Being's |cff71d5ff|Hspell:408805:0|h[Destabilize]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4516, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			1093, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527437,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684995995,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [77]
 		{
-			"Clear", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
+			"big pull", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4517, -- [11]
-			"Player-76-0B9E46D5", -- [12]
+			1108, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527437,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996125,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [78]
 		{
-			"Cleared", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"Interrupted Rockbound Trapper's |cff71d5ff|Hspell:193585:0|h[Bound]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4518, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			1112, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527437,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996148,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [79]
 		{
-			"{rt6}", -- [1]
-			"Horihunter-Tichondrius", -- [2]
+			"Interrupted Rockbound Trapper's |cff71d5ff|Hspell:193585:0|h[Bound]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4519, -- [11]
-			"Player-11-0E081169", -- [12]
+			1117, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527438,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996188,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [80]
 		{
-			"{rt7} 8 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"i got high aggro", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Dalstrongz-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4520, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1121, -- [11]
+			"Player-11-0BB61111", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527438,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684996205,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [81]
 		{
-			"{rt6}8", -- [1]
-			"Horihunter-Tichondrius", -- [2]
+			"yeah i sucked", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4521, -- [11]
-			"Player-11-0E081169", -- [12]
+			1122, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527439,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996210,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [82]
 		{
-			"{rt7}8", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"all good bro", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Dalstrongz-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4522, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1125, -- [11]
+			"Player-11-0BB61111", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527439,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684996214,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [83]
 		{
-			"{rt7} 7 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"<3", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Dalstrongz-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4523, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1126, -- [11]
+			"Player-11-0BB61111", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527439,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684996216,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [84]
 		{
-			"{rt7}8", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4524, -- [11]
-			"Player-76-0B93BCA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527439,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [85]
-		{
-			"{rt6}7", -- [1]
-			"Horihunter-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4526, -- [11]
-			"Player-11-0E081169", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527440,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [86]
-		{
-			"Clear", -- [1]
+			"your burst was batshit there lol", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1927,7 +1883,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4527, -- [11]
+			1127, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1935,253 +1891,253 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1683527440,
+			[51] = 1684996228,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [85]
+		{
+			"XD", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dalstrongz-Tichondrius", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1128, -- [11]
+			"Player-11-0BB61111", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684996234,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [86]
+		{
+			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r !", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1131, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996293,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"Clear", -- [1]
-			"Horihunter-Tichondrius", -- [2]
+			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r 455.88 K!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4528, -- [11]
-			"Player-11-0E081169", -- [12]
+			1132, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527440,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996293,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [88]
 		{
-			"Cleared", -- [1]
-			"Horihunter-Tichondrius", -- [2]
+			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r !", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4529, -- [11]
-			"Player-11-0E081169", -- [12]
+			1134, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527440,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996310,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [89]
 		{
-			"{rt7}7", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r 454.04 K!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4530, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1135, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527440,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996310,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [90]
 		{
-			"{rt7} 6 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r !", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4531, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1137, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527440,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996330,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [91]
 		{
-			"{rt7} 3 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r 441.83 K!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4533, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1138, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527443,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996330,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [92]
 		{
-			"{rt7} 2 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"who want cape", -- [1]
+			"Dalstrongz-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Dalstrongz-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4534, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1151, -- [11]
+			"Player-11-0BB61111", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527444,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
+			[51] = 1684996369,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"{rt7} 1 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"gg", -- [1]
+			"Erïs-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Erïs-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4535, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1152, -- [11]
+			"Player-1427-0E1E36A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527445,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffErïs-Ragnaros|r",
+			[51] = 1684996370,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			"{rt7} 0 {rt7}", -- [1]
-			"Freshwasabi-Sargeras", -- [2]
+			"gg, thx all!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Freshwasabi-Sargeras", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4536, -- [11]
-			"Player-76-0B93BCA2", -- [12]
+			1155, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff98Freshwasabi-Sargeras|r",
-			[51] = 1683527446,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996385,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [95]
 		{
-			"rt", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
+			"doing more?", -- [1]
+			"Junkmagex-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
+			"Junkmagex-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4548, -- [11]
-			"Player-76-0B9E46D5", -- [12]
+			1156, -- [11]
+			"Player-3676-0E0EB2A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527510,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebJunkmagex-Area52|r",
+			[51] = 1684996389,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [96]
 		{
-			"ty", -- [1]
-			"Picallopeezy-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Picallopeezy-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4549, -- [11]
-			"Player-76-0B9E46D5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddPicallopeezy-Sargeras|r",
-			[51] = 1683527511,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
-		{
-			"ty all", -- [1]
-			"Horihunter-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Horihunter-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4550, -- [11]
-			"Player-11-0E081169", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Horihunter-Tichondrius|r",
-			[51] = 1683527514,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
-		{
-			"thanks for the invite", -- [1]
+			"im good thank you for taking me", -- [1]
 			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2191,7 +2147,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4551, -- [11]
+			1157, -- [11]
 			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2199,8 +2155,52 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683527519,
+			[51] = 1684996389,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [97]
+		{
+			"Interrupted Cascade Proto-Drake's |cff71d5ff|Hspell:386993:0|h[Sand Spray]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1191, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1684996711,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [98]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:16545:Player-3661-090ED1C0:1:5:24:23:4294967295:4294967295:4294967295:4294967295|h[The Best at What I Do]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1216, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1684996838,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [99]
 	},
 }

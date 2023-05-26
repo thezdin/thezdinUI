@@ -14,9 +14,9 @@ HandyNotes_BattleForAzerothTreasuresDB = {
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
-		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
-		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Jägare - Hyjal"] = "Jägare - Hyjal",
 	},
 	["profiles"] = {
@@ -46,11 +46,11 @@ HandyNotes_BattleForAzerothTreasuresDB = {
 		},
 		["Thezdgar - Hyjal"] = {
 		},
-		["Foulfellow - Hyjal"] = {
+		["Sigurdsson - Hyjal"] = {
 		},
 		["Thezadin - Hyjal"] = {
 		},
-		["Sigurdsson - Hyjal"] = {
+		["Foulfellow - Hyjal"] = {
 		},
 		["Jägare - Hyjal"] = {
 		},
