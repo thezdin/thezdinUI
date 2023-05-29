@@ -36,9 +36,8 @@ def main(argv: Sequence[str] | None = None) -> int:
     os.system('find . -name "*Prat*" -exec /bin/rm {} \;')
 
     print("Fetching latest ElvUI")
-    os.system('git -C ~/code/ElvUI checkout main')
-    os.system('git -C ~/code/ElvUI reset --hard')
-    os.system('git -C ~/code/ElvUI pull')
+    os.system(
+        'git -C ~/code/ElvUI pull || git clone git@github.com:tukui-org/ElvUI.git ~/code/ElvUI')
 
     print("Updating World of Warcraft ElvUI version")
     os.system('cp -R ~/code/ElvUI/* ' + WOW_PATH +
