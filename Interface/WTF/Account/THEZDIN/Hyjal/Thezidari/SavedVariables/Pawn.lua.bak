@@ -65,15 +65,15 @@ PawnOptions = {
 		}, -- [12]
 		{
 			["ID"] = 193652,
-			["Level"] = 415,
+			["Level"] = 418,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:193652::::::::70:581::16:4:9144:9317:1637:8767:1:28:1279:::::|h[Treemouth's Festering Splinter]|h|r",
+			["Link"] = "|cffa335ee|Hitem:193652::::::::70:581::16:4:9144:9318:1640:8767:1:28:1279:::::|h[Treemouth's Festering Splinter]|h|r",
 		}, -- [13]
 		{
 			["ID"] = 193652,
-			["Level"] = 411,
+			["Level"] = 415,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:193652::::::::70:581::16:4:9144:9316:1633:8767:1:28:1279:::::|h[Treemouth's Festering Splinter]|h|r",
+			["Link"] = "|cffa335ee|Hitem:193652::::::::70:581::16:4:9144:9317:1637:8767:1:28:1279:::::|h[Treemouth's Festering Splinter]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 134408,

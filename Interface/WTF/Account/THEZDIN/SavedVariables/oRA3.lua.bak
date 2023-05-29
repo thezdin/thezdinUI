@@ -14,6 +14,13 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
+			["global"] = {
+				["spellsOnCooldown"] = {
+				},
+				["lastTime"] = 332739.668,
+				["chargeSpellsOnCooldown"] = {
+				},
+			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -71,14 +78,14 @@ oRA3DB = {
 		["Thezadin - Hyjal"] = "Default",
 		["Foulfellow - Hyjal"] = "Default",
 		["Thezbank - Mannoroth"] = "Default",
-		["Sigurdsson - Hyjal"] = "Default",
 		["Thez - Hyjal"] = "Default",
+		["Sigurdsson - Hyjal"] = "Default",
 		["Thezdruid - Hyjal"] = "Default",
 		["Thezknight - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
-		["Thezdgar - Hyjal"] = "Default",
-		["Thezdin - Hyjal"] = "Default",
 		["Thezfu - Hyjal"] = "Default",
+		["Thezdin - Hyjal"] = "Default",
+		["Thezdgar - Hyjal"] = "Default",
 		["Thezbot - Azgalor"] = "Default",
 		["Thezdivh - Hyjal"] = "Default",
 	},
@@ -93,8 +100,8 @@ oRA3DB = {
 				["oRA3BattleResMonitor"] = {
 					["Height"] = 29.99996566772461,
 					["Width"] = 139.9998931884766,
-					["PosY"] = 234.6669160631063,
-					["PosX"] = 167.4677922991032,
+					["PosY"] = 339.2002942403269,
+					["PosX"] = 1191.467845196239,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 536.4446411132812,

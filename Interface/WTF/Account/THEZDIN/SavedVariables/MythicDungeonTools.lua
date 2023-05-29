@@ -17,7 +17,7 @@ MythicDungeonToolsDB = {
 	},
 	["global"] = {
 		["anchorTo"] = "CENTER",
-		["currentDungeonIdx"] = 44,
+		["scale"] = 1.689201286247185,
 		["anchorFrom"] = "CENTER",
 		["minimap"] = {
 			["lock"] = true,
@@ -146,16 +146,16 @@ MythicDungeonToolsDB = {
 							}, -- [5]
 							{
 								["color"] = "3eff3e",
-								[9] = {
-									2, -- [1]
-									1, -- [2]
-									3, -- [3]
-								},
 								[4] = {
 									4, -- [1]
 									5, -- [2]
 									3, -- [3]
 									6, -- [4]
+								},
+								[9] = {
+									2, -- [1]
+									1, -- [2]
+									3, -- [3]
 								},
 								[5] = {
 									2, -- [1]
@@ -251,10 +251,6 @@ MythicDungeonToolsDB = {
 					["mdiEnabled"] = false,
 					["week"] = 6,
 					["objects"] = {
-					},
-					["colorPaletteInfo"] = {
-						["autoColoring"] = true,
-						["colorPaletteIdx"] = 4,
 					},
 					["value"] = {
 						["currentPull"] = 15,
@@ -401,7 +397,7 @@ MythicDungeonToolsDB = {
 								},
 								[13] = {
 								},
-								[4] = {
+								[14] = {
 								},
 								[10] = {
 									3, -- [1]
@@ -409,14 +405,14 @@ MythicDungeonToolsDB = {
 									5, -- [3]
 									6, -- [4]
 								},
-								[12] = {
-									1, -- [1]
-								},
-								[14] = {
+								["color"] = "3effff",
+								[4] = {
 								},
 								[5] = {
 								},
-								["color"] = "3effff",
+								[12] = {
+									1, -- [1]
+								},
 							}, -- [8]
 							{
 								[11] = {
@@ -546,6 +542,10 @@ MythicDungeonToolsDB = {
 							},
 						},
 					},
+					["colorPaletteInfo"] = {
+						["autoColoring"] = true,
+						["colorPaletteIdx"] = 4,
+					},
 					["text"] = "Frog 2",
 					["difficulty"] = 10,
 					["mdi"] = {
@@ -560,9 +560,6 @@ MythicDungeonToolsDB = {
 				}, -- [3]
 			},
 		},
-		["scale"] = 1.689201286247185,
-		["version"] = 40211,
-		["xoffset"] = -248.981689453125,
 		["colorPaletteInfo"] = {
 			["customPaletteValues"] = {
 				{
@@ -627,6 +624,9 @@ MythicDungeonToolsDB = {
 				}, -- [12]
 			},
 		},
+		["version"] = 40211,
+		["xoffset"] = -248.981689453125,
+		["currentDungeonIdx"] = 44,
 		["currentPreset"] = {
 			[44] = 2,
 		},

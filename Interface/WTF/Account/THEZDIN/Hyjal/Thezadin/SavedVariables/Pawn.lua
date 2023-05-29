@@ -1,8 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0801,
-	["LastPlayerFullName"] = "Thezadin-Hyjal",
-	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
 			["ID"] = 204608,
@@ -86,11 +84,14 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:190507:6648:::::::70:66::13:6:8836:8840:8902:9404:8792:9365:7:28:2164:29:40:30:49:38:7:40:189:45:194569:49:190453:::::|h[Primal Molten Longsword |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 204965,
-			["Level"] = 411,
-			["Link"] = "|cffa335ee|Hitem:204965::::::::70:66::54:4:6652:9316:1633:8767:1:28:2649:::::|h[Neltharic Shield]|h|r",
+			["ID"] = 202571,
+			["Level"] = 418,
+			["Link"] = "|cffa335ee|Hitem:202571::::::::70:66::3:5:6652:7979:9322:1472:8767:1:28:2474:::::|h[Experiment 1, Kitewing]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Thezadin-Hyjal",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

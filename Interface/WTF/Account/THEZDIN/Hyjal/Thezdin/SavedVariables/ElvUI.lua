@@ -2,30 +2,30 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p guys", -- [1]
-		"/p they leap to people", -- [2]
-		"/p stack the hell up", -- [3]
-		"/p pillars for LOS", -- [4]
-		"/p ugh", -- [5]
-		"/p worst trinket ever", -- [6]
-		"/p thx all, gg!", -- [7]
-		"/invite Amplifi", -- [8]
-		"/p !keys", -- [9]
-		"/p yeah you should dps, I didn't even catch that lol", -- [10]
-		"/p lol my bad", -- [11]
-		"/p been farming 11s all day not paying attention anymore haha", -- [12]
-		"/p cheater", -- [13]
-		"/p mage?", -- [14]
-		"/p let's try to 4man I guess", -- [15]
-		"/p big pull", -- [16]
-		"/p yeah i sucked", -- [17]
-		"/p your burst was batshit there lol", -- [18]
-		"/p gg, thx all!", -- [19]
-		"/invite Seyka", -- [20]
+		"/p Chain Lightning is gonna melt on a key this high, so if you get it, you need to personal every time", -- [1]
+		"/p if Chain Lightning is happening during an add, if you don't personal, you die", -- [2]
+		"/cw Stönertank-Area52 yep", -- [3]
+		"/p yeah", -- [4]
+		"/p let me rally 2nd, I've been doing that every time", -- [5]
+		"/p you rally 3rd", -- [6]
+		"/p We just need to bomb the add and we're fine, it's getting too crazy", -- [7]
+		"/p Save lust for the 2nd add, NOT THE FIRST", -- [8]
+		"/cw Stönertank-Area52 only that time was terrible", -- [9]
+		"/cw Stönertank-Area52 I hear you", -- [10]
+		"/cw Stönertank-Area52 problem is after 200 wipes everyone is gonna fuck up eventually", -- [11]
+		"/cw Stönertank-Area52 I bet I facefuck it this time :/", -- [12]
+		"/p I mean evoker was dead early but I did the same dmg to add as evoker", -- [13]
+		"/p that add is the consistent problem", -- [14]
+		"/p the only damage worth a damn is the add, just kill the add and you won't need heals", -- [15]
+		"/p like ffs", -- [16]
+		"/p that fucking guy sabotaged it", -- [17]
+		"/p you see that?", -- [18]
+		"/p he literally ran out during the add", -- [19]
+		"/p gg all, rough", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"1", -- [1]
+			"Chain Lightning is gonna melt on a key this high, so if you get it, you need to personal every time", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -35,7 +35,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			847, -- [11]
+			990, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -43,55 +43,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993685,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1685323194,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [1]
 		{
-			"REFLECTED |cff71d5ff|Hspell:369006:0|h[Burning Heat]|h|r !", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"drink some water", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			850, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			991, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993687,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323196,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [2]
 		{
-			"REFLECTED |cff71d5ff|Hspell:369006:0|h[Burning Heat]|h|r !", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"mhm", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			851, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			992, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993687,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323202,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [3]
 		{
-			"Unstable Embers on Thezdin", -- [1]
+			"if Chain Lightning is happening during an add, if you don't personal, you die", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -101,7 +101,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			860, -- [11]
+			993, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -109,187 +109,187 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993753,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1685323206,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [4]
 		{
-			"Unstable Embers on Seyka", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"i think its a slight heals issue 2 or is it just dieing to chain,lightnign", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			861, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			994, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1684993754,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323206,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [5]
 		{
-			"1", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"yep", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			862, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			7, -- [10]
+			995, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993755,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323222,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [6]
 		{
-			"2", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"if only they all had spell reflect", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			863, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			996, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1684993755,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323246,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [7]
 		{
-			"1", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"so how long on lust", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			864, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			997, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1684993756,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323280,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [8]
 		{
-			"REFLECTED |cff71d5ff|Hspell:369006:0|h[Burning Heat]|h|r !", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"everyone understand?", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			865, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			998, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993758,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323280,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [9]
 		{
-			"REFLECTED |cff71d5ff|Hspell:369006:0|h[Burning Heat]|h|r !", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"50", -- [1]
+			"Gaylibrul-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Gaylibrul-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			866, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			999, -- [11]
+			"Player-3676-0DFF813B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993758,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fGaylibrul-Area52|r",
+			[51] = 1685323284,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [10]
 		{
-			"Unstable Embers on Thezdin", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"we should prob save for first add", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			868, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1000, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993766,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323287,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [11]
 		{
-			"¡Ascuas inestables en Aquilêsz!", -- [1]
-			"Aquilêsz-Quel'Thalas", -- [2]
+			"sounds good", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Aquilêsz-Quel'Thalas", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			870, -- [11]
-			"Player-1428-0E09B332", -- [12]
+			1001, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
-			[51] = 1684993766,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323296,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"Interrupted Earthen Weaver's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
+			"yeah", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -299,7 +299,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			876, -- [11]
+			1002, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -307,715 +307,319 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993778,
+			[51] = 1685323299,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [13]
 		{
-			"REFLECTED |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r !", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"ill rally 2nd and thezdin got 3rd", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			878, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1003, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993784,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323307,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [14]
 		{
-			"REFLECTED |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r 99.29 K!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"hell yeah", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			879, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1004, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993784,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323317,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [15]
 		{
-			"Interrupted Earthen Weaver's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"and maybe even darkness on the one after", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			882, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1005, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993824,
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323324,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [16]
 		{
-			"Interrupted Earthen Weaver's |cff71d5ff|Hspell:369399:0|h[Stone Bolt]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"my pots ran out lol", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			883, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1006, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993841,
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323329,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [17]
 		{
-			"Interrupted Earthen Warder's |cff71d5ff|Hspell:369400:0|h[Earthen Ward]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"idk if that works", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			886, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1007, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993875,
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323331,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [18]
 		{
-			"Interrupted Incorporeal Being's |cff71d5ff|Hspell:408805:0|h[Destabilize]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"ill try", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			888, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993945,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
-		{
-			"Interrupted Earthen Warder's |cff71d5ff|Hspell:369400:0|h[Earthen Ward]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			895, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684993972,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
-		{
-			"¡Atrapado en piedra en Aquilêsz!", -- [1]
-			"Aquilêsz-Quel'Thalas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aquilêsz-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			896, -- [11]
-			"Player-1428-0E09B332", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
-			[51] = 1684993986,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"Interrupted Infinite Agent's |cff71d5ff|Hspell:377500:0|h[Hasten]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			897, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684994045,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
-		{
-			"pillars for LOS", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			901, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684994134,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
-		{
-			"Time Sink on Seyka", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			903, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1684994182,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"¡Pérdida de tiempo en Frostchan!", -- [1]
-			"Frostchan-Quel'Thalas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Frostchan-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			904, -- [11]
-			"Player-1428-0DFE7674", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebFrostchan-Quel'Thalas|r",
-			[51] = 1684994182,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"DRAC BL", -- [1]
-			"Frostchan-Quel'Thalas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Frostchan-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			918, -- [11]
-			"Player-1428-0DFE7674", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebFrostchan-Quel'Thalas|r",
-			[51] = 1684994294,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
-		{
-			"¡Pérdida de tiempo en Aquilêsz!", -- [1]
-			"Aquilêsz-Quel'Thalas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aquilêsz-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			920, -- [11]
-			"Player-1428-0E09B332", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
-			[51] = 1684994296,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"Interrupted Incorporeal Being's |cff71d5ff|Hspell:408805:0|h[Destabilize]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			927, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684994399,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
-		{
-			"ugh", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			937, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684994372,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
-		{
-			"worst trinket ever", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			938, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684994378,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
-		{
-			"thx all, gg!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			939, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684994380,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
-		{
-			"f", -- [1]
-			"Aquilêsz-Quel'Thalas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aquilêsz-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			940, -- [11]
-			"Player-1428-0E09B332", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
-			[51] = 1684994384,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [32]
-		{
-			"ggs", -- [1]
-			"Aquilêsz-Quel'Thalas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aquilêsz-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			941, -- [11]
-			"Player-1428-0E09B332", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
-			[51] = 1684994386,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
-		{
-			"ty for info", -- [1]
-			"Aquilêsz-Quel'Thalas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aquilêsz-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			942, -- [11]
-			"Player-1428-0E09B332", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
-			[51] = 1684994388,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
-		{
-			":D", -- [1]
-			"Aquilêsz-Quel'Thalas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aquilêsz-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			943, -- [11]
-			"Player-1428-0E09B332", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffAquilêsz-Quel'Thalas|r",
-			[51] = 1684994389,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [35]
-		{
-			"ty all", -- [1]
-			"Drakchyro-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drakchyro-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			944, -- [11]
-			"Player-1427-0DFD7099", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fDrakchyro-Ragnaros|r",
-			[51] = 1684994453,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
-		{
-			"gg thanks for the group", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			945, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1684994454,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
-		{
-			"!keys", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			971, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684994872,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
-		{
-			"Astral Keys: |cffa335ee|Hkeystone:180653:251:17:9:136:123:0|h[Keystone: The Underrot (17)]|h|r", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			972, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684994872,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
-		{
-			"Astral Keys: |cffa335ee|Hkeystone:180653:206:13:9:136:0:0|h[Keystone: Neltharion's Lair (13)]|h|r", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			973, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1684994872,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
-		{
-			"ty", -- [1]
-			"Erïs-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Erïs-Ragnaros", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1008, -- [11]
-			"Player-1427-0E1E36A2", -- [12]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffErïs-Ragnaros|r",
-			[51] = 1684995277,
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323334,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [19]
 		{
-			"so which one of u is dps xD", -- [1]
-			"Junkmagex-Area52", -- [2]
+			"let me rally 2nd, I've been doing that every time", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Junkmagex-Area52", -- [5]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1009, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1685323339,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [20]
+		{
+			"kk", -- [1]
+			"Stönertank-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stönertank-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1010, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323339,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [21]
+		{
+			"you rally 3rd", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1011, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1685323341,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [22]
+		{
+			"kk", -- [1]
+			"Stönertank-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stönertank-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1012, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323343,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [23]
+		{
+			"ill save for 3rd", -- [1]
+			"Stönertank-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1013, -- [11]
-			"Player-3676-0E0EB2A2", -- [12]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebJunkmagex-Area52|r",
-			[51] = 1684995303,
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323347,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [24]
 		{
-			"lol", -- [1]
-			"Erïs-Ragnaros", -- [2]
+			"We just need to bomb the add and we're fine, it's getting too crazy", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Erïs-Ragnaros", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1014, -- [11]
-			"Player-1427-0E1E36A2", -- [12]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffErïs-Ragnaros|r",
-			[51] = 1684995311,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1685323358,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
+		}, -- [25]
 		{
-			"I can be, I dont mind either way", -- [1]
-			"Erïs-Ragnaros", -- [2]
+			"lust rdy?", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Erïs-Ragnaros", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1015, -- [11]
-			"Player-1427-0E1E36A2", -- [12]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffErïs-Ragnaros|r",
-			[51] = 1684995320,
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323358,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
+		}, -- [26]
 		{
-			"oh my lol ", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"y", -- [1]
+			"Gaylibrul-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Gaylibrul-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1016, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			"Player-3676-0DFF813B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1684995332,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+			[52] = "|cff33937fGaylibrul-Area52|r",
+			[51] = 1685323364,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [27]
 		{
-			"yeah you should dps, I didn't even catch that lol", -- [1]
+			"Save lust for the 2nd add, NOT THE FIRST", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1033,637 +637,791 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995333,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
+			[51] = 1685323365,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [28]
 		{
-			"haha", -- [1]
-			"Junkmagex-Area52", -- [2]
+			"kk 2nd", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Junkmagex-Area52", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1018, -- [11]
-			"Player-3676-0E0EB2A2", -- [12]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebJunkmagex-Area52|r",
-			[51] = 1684995338,
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323372,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [29]
 		{
-			"yeah i am a huge noob ", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"Chain Lightning on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1019, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1684995341,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
-		{
-			"lol my bad", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1020, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995343,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [49]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1685323396,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [30]
 		{
-			"been farming 11s all day not paying attention anymore haha", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Chain Lightning on Gaylibrul", -- [1]
+			"Gaylibrul-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Gaylibrul-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1022, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1024, -- [11]
+			"Player-3676-0DFF813B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995367,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [50]
+			[52] = "|cff33937fGaylibrul-Area52|r",
+			[51] = 1685323433,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [31]
 		{
-			"i need too many ):", -- [1]
-			"Junkmagex-Area52", -- [2]
+			"Chain Lightning on Feltodeaths", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Junkmagex-Area52", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1026, -- [11]
-			"Player-3676-0E0EB2A2", -- [12]
+			1027, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebJunkmagex-Area52|r",
-			[51] = 1684995387,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323452,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [32]
 		{
-			"lol", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
+			"Chain Lightning on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1028, -- [11]
-			"Player-11-0BB61111", -- [12]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684995398,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1685323471,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [33]
 		{
-			"i got glirtch down", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
+			"rally was lil late", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1031, -- [11]
-			"Player-11-0BB61111", -- [12]
+			1036, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684995479,
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323516,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [34]
 		{
-			"gg", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
+			"sry was waiting for everyone to get closer", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1032, -- [11]
-			"Player-11-0BB61111", -- [12]
+			1037, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684995421,
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323524,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
+		}, -- [35]
 		{
-			"cheater", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"idk how he healer dies everytime", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1038, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995519,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [55]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323573,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [36]
 		{
-			"shh", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
+			"like i get he has to heal the shit evoker but like rather let him die", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
+			"Stönertank-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1039, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323590,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [37]
+		{
+			"like we could prob 4 man if healer could live", -- [1]
+			"Stönertank-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1040, -- [11]
-			"Player-11-0BB61111", -- [12]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684995522,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323600,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [38]
 		{
-			"mage?", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"only that time was terrible", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			1041, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323606,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [39]
+		{
+			"did it in a 17", -- [1]
+			"Stönertank-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1043, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1042, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995548,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [57]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323607,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [40]
 		{
-			"wow", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
+			"I hear you", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
+			"Stönertank-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			1043, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323614,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [41]
+		{
+			"yeah true he has lasted longer", -- [1]
+			"Stönertank-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1044, -- [11]
-			"Player-11-0BB61111", -- [12]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684995551,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323679,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [42]
 		{
-			"wtf dude", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
+			"just bad timing i guess lighning and that", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1045, -- [11]
-			"Player-11-0BB61111", -- [12]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684995560,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323629,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [43]
 		{
-			"we can do that?", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
+			"problem is after 200 wipes everyone is gonna fuck up eventually", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
+			7, -- [10]
 			1046, -- [11]
-			"Player-11-0BB61111", -- [12]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684995569,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323637,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [44]
 		{
-			"let's try to 4man I guess", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"I bet I facefuck it this time :/", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
+			7, -- [10]
 			1047, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995584,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [61]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323642,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [45]
 		{
-			">> FRONTAL ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"yeah def true", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1053, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1048, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995611,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323649,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [46]
 		{
-			"stupid game", -- [1]
-			"Junkmagex-Area52", -- [2]
+			"r?", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Junkmagex-Area52", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1054, -- [11]
-			"Player-3676-0E0EB2A2", -- [12]
+			1049, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebJunkmagex-Area52|r",
-			[51] = 1684995612,
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323649,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
+		}, -- [47]
 		{
-			">> FRONTAL ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"nooooo", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1055, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1050, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995615,
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323654,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [48]
+		{
+			"dont", -- [1]
+			"Stönertank-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stönertank-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1051, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323655,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [49]
+		{
+			"Chain Lightning on Feltodeaths", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1057, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323586,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [50]
 		{
-			"runnin", -- [1]
-			"Junkmagex-Area52", -- [2]
+			"Turn Evil cast on {Circle}", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Junkmagex-Area52", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1056, -- [11]
-			"Player-3676-0E0EB2A2", -- [12]
+			1063, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebJunkmagex-Area52|r",
-			[51] = 1684995621,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
-		{
-			"it kept crashing me on the waterfall", -- [1]
-			"Junkmagex-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Junkmagex-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1058, -- [11]
-			"Player-3676-0E0EB2A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebJunkmagex-Area52|r",
-			[51] = 1684995640,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
-		{
-			">> FRONTAL ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1060, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995641,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1685323679,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [51]
 		{
-			">> FRONTAL ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			">>> DARKNESS <<<", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1061, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1068, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995644,
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323635,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [52]
+		{
+			"Chain Lightning on Stönertank", -- [1]
+			"Stönertank-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stönertank-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1069, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323653,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [53]
 		{
-			">> FRONTAL ON ME <<", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Chain Lightning on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1065, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1075, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995670,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1685323672,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [54]
 		{
-			"Interrupted Blightshard Shaper's |cff71d5ff|Hspell:186269:0|h[Stone Bolt]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"reset", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1076, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995835,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [70]
-		{
-			"big pull", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1077, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995806,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323684,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [55]
 		{
-			"k sir", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
+			"im giving this one more attempt", -- [1]
+			"Gaylibrul-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
+			"Gaylibrul-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1079, -- [11]
-			"Player-11-0BB61111", -- [12]
+			1078, -- [11]
+			"Player-3676-0DFF813B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684995809,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+			[52] = "|cff33937fGaylibrul-Area52|r",
+			[51] = 1685323685,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [56]
 		{
-			"Interrupted Incorporeal Being's |cff71d5ff|Hspell:408805:0|h[Destabilize]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"yeah same", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1082, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995842,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [73]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323689,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [57]
 		{
-			"REFLECTED |cff71d5ff|Hspell:198496:0|h[Sunder]|h|r !", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"idk wtf is happening", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1083, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323694,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [58]
+		{
+			"i used all defensives on the chain lighting", -- [1]
+			"Gaylibrul-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gaylibrul-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1084, -- [11]
+			"Player-3676-0DFF813B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fGaylibrul-Area52|r",
+			[51] = 1685323704,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [59]
+		{
+			"still died", -- [1]
+			"Gaylibrul-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gaylibrul-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1085, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			"Player-3676-0DFF813B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995900,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+			[52] = "|cff33937fGaylibrul-Area52|r",
+			[51] = 1685323712,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [60]
 		{
-			"REFLECTED |cff71d5ff|Hspell:198496:0|h[Sunder]|h|r 342.84 K!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"add is living waaaayyy too long", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1086, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323731,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [61]
+		{
+			"are you guys all targeting it?", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1087, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323735,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [62]
+		{
+			"yeah lol", -- [1]
+			"Stönertank-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stönertank-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1088, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323752,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [63]
+		{
+			"I mean evoker was dead early but I did the same dmg to add as evoker", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1089, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1671,43 +1429,175 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995900,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+			[51] = 1685323754,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [64]
 		{
-			"Interrupted Blightshard Shaper's |cff71d5ff|Hspell:186269:0|h[Stone Bolt]|h|r!", -- [1]
+			"that add is the consistent problem", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1090, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1685323773,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [65]
+		{
+			"like add over boss", -- [1]
+			"Stönertank-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1091, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996017,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323780,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [66]
 		{
-			"Interrupted Incorporeal Being's |cff71d5ff|Hspell:408805:0|h[Destabilize]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"please full damage add", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1092, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323783,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [67]
+		{
+			"im literally spending globals healing myself", -- [1]
+			"Gaylibrul-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gaylibrul-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1093, -- [11]
+			"Player-3676-0DFF813B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fGaylibrul-Area52|r",
+			[51] = 1685323784,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [68]
+		{
+			"yes", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1094, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323784,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [69]
+		{
+			"because im not getting any healing", -- [1]
+			"Gaylibrul-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gaylibrul-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1095, -- [11]
+			"Player-3676-0DFF813B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fGaylibrul-Area52|r",
+			[51] = 1685323793,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [70]
+		{
+			"the faster we kill add the more health we will have for lightning", -- [1]
+			"Stönertank-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stönertank-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1096, -- [11]
+			"Player-3676-0DD41A5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323796,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [71]
+		{
+			"the only damage worth a damn is the add, just kill the add and you won't need heals", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1097, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1715,209 +1605,231 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684995995,
+			[51] = 1685323804,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [72]
+		{
+			"like ffs", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1098, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1685323808,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [73]
+		{
+			"yeah dw about healing focus the add", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1099, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323808,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [74]
+		{
+			"leggo", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1100, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323816,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [75]
+		{
+			"i have been", -- [1]
+			"Gaylibrul-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gaylibrul-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1101, -- [11]
+			"Player-3676-0DFF813B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fGaylibrul-Area52|r",
+			[51] = 1685323818,
 			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [76]
+		{
+			"Chain Lightning on Gaylibrul", -- [1]
+			"Gaylibrul-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gaylibrul-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1107, -- [11]
+			"Player-3676-0DFF813B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fGaylibrul-Area52|r",
+			[51] = 1685323880,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"big pull", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Chain Lightning on Feltodeaths", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1108, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1110, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996125,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323917,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"Interrupted Rockbound Trapper's |cff71d5ff|Hspell:193585:0|h[Bound]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			">>> DARKNESS <<<", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1112, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			1116, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996148,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323949,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [79]
 		{
-			"Interrupted Rockbound Trapper's |cff71d5ff|Hspell:193585:0|h[Bound]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"whelp guys looks like it wasnt meant to be", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1117, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996188,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [80]
-		{
-			"i got high aggro", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1121, -- [11]
-			"Player-11-0BB61111", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684996205,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
-		{
-			"yeah i sucked", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1122, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996210,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
-		{
-			"all good bro", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1125, -- [11]
-			"Player-11-0BB61111", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684996214,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
-		{
-			"<3", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1126, -- [11]
-			"Player-11-0BB61111", -- [12]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684996216,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
-		{
-			"your burst was batshit there lol", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1127, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996228,
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685324038,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [85]
+		}, -- [80]
 		{
-			"XD", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
+			"sheez that evoker was awful", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1128, -- [11]
-			"Player-11-0BB61111", -- [12]
+			1129, -- [11]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684996234,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323984,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [81]
 		{
-			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r !", -- [1]
+			"Chain Lightning on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1130, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1685323985,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [82]
+		{
+			"that fucking guy sabotaged it", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1935,33 +1847,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996293,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+			[51] = 1685323986,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [83]
 		{
-			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r 455.88 K!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"lol", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1132, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996293,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323987,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [84]
 		{
-			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r !", -- [1]
+			"you see that?", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1979,33 +1891,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996310,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+			[51] = 1685323988,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [85]
 		{
-			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r 454.04 K!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"THEY WERE SO BAD", -- [1]
+			"Stönertank-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Stönertank-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1135, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			"Player-3676-0DD41A5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996310,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+			[52] = "|cffc69b6dStönertank-Area52|r",
+			[51] = 1685323989,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [86]
 		{
-			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r !", -- [1]
+			"wasted 60mins cuz he died first", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1136, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323995,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [87]
+		{
+			"he literally ran out during the add", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2023,165 +1957,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996330,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+			[51] = 1685323996,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [88]
 		{
-			"REFLECTED |cff71d5ff|Hspell:200732:0|h[Molten Crash]|h|r 441.83 K!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"every pull", -- [1]
+			"Feltodeaths-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Feltodeaths-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			1138, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			"Player-57-0D64398C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996330,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685323996,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [89]
+		{
+			"complained about healer but ik you were doing amazing <3", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1139, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685324007,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [90]
+		{
+			"keep it up folks lol", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1140, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685324010,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [91]
+		{
+			"ggs ", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1141, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685324011,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [92]
 		{
-			"who want cape", -- [1]
-			"Dalstrongz-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dalstrongz-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1151, -- [11]
-			"Player-11-0BB61111", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Dalstrongz-Tichondrius|r",
-			[51] = 1684996369,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
-		{
-			"gg", -- [1]
-			"Erïs-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Erïs-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1152, -- [11]
-			"Player-1427-0E1E36A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffErïs-Ragnaros|r",
-			[51] = 1684996370,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
-		{
-			"gg, thx all!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1155, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996385,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
-		{
-			"doing more?", -- [1]
-			"Junkmagex-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Junkmagex-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1156, -- [11]
-			"Player-3676-0E0EB2A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebJunkmagex-Area52|r",
-			[51] = 1684996389,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
-		{
-			"im good thank you for taking me", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1157, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1684996389,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
-		{
-			"Interrupted Cascade Proto-Drake's |cff71d5ff|Hspell:386993:0|h[Sand Spray]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1191, -- [11]
-			"Player-3661-090EB9B6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1684996711,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [98]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16545:Player-3661-090ED1C0:1:5:24:23:4294967295:4294967295:4294967295:4294967295|h[The Best at What I Do]|h|r!", -- [1]
+			"ugh", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2191,7 +2059,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1216, -- [11]
+			1142, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2199,8 +2067,140 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1684996838,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1685324016,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [93]
+		{
+			"gg all, rough", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1143, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1685324020,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [94]
+		{
+			"not easy to heal that mess", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1144, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1685324022,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [95]
+		{
+			"some keys just arent carryable i suppose lol", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1148, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685324065,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [96]
+		{
+			"gl thanks for trying", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1149, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1685324065,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [97]
+		{
+			"yup yup", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1150, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685324069,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [98]
+		{
+			"gg", -- [1]
+			"Feltodeaths-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Feltodeaths-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1151, -- [11]
+			"Player-57-0D64398C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Feltodeaths-Illidan|r",
+			[51] = 1685324075,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [99]
 	},
 }

@@ -7,14 +7,14 @@ HandyNotes_ArgusDB = {
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Thezbank - Mannoroth"] = "Thezbank - Mannoroth",
-		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
-		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
+		["Thez - Hyjal"] = "Thez - Hyjal",
 		["Thezdruid - Hyjal"] = "Thezdruid - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
-		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
+		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Jägare - Hyjal"] = "Jägare - Hyjal",
 	},
@@ -31,9 +31,9 @@ HandyNotes_ArgusDB = {
 		},
 		["Thezbank - Mannoroth"] = {
 		},
-		["Thezfu - Hyjal"] = {
+		["Thezdgar - Hyjal"] = {
 		},
-		["Sigurdsson - Hyjal"] = {
+		["Thez - Hyjal"] = {
 		},
 		["Thezdruid - Hyjal"] = {
 		},
@@ -41,11 +41,11 @@ HandyNotes_ArgusDB = {
 		},
 		["Thezidari - Hyjal"] = {
 		},
-		["Thezdgar - Hyjal"] = {
+		["Thezfu - Hyjal"] = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
-		["Thez - Hyjal"] = {
+		["Sigurdsson - Hyjal"] = {
 		},
 		["Thezkin - Hyjal"] = {
 		},

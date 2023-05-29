@@ -2,7 +2,7 @@
 AstralKeys = {
 	{
 		["btag"] = "Foeslayer#1716",
-		["weekly_best"] = 14,
+		["weekly_best"] = 19,
 		["class"] = "DRUID",
 		["key_level"] = 19,
 		["unit"] = "Foestriker-Sargeras",
@@ -21,38 +21,38 @@ AstralKeys = {
 		["dungeon_id"] = 404,
 		["week"] = 305,
 		["faction"] = 0,
-		["time_stamp"] = 205669,
+		["time_stamp"] = 391721,
 	}, -- [2]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 15,
+		["weekly_best"] = 17,
 		["class"] = "WARRIOR",
-		["key_level"] = 17,
+		["key_level"] = 19,
 		["unit"] = "Thezdin-Hyjal",
-		["dungeon_id"] = 251,
+		["dungeon_id"] = 406,
 		["week"] = 305,
 		["faction"] = 0,
-		["time_stamp"] = 215555,
+		["time_stamp"] = 470100,
 	}, -- [3]
 	{
 		["btag"] = "Etherlight#1575",
 		["weekly_best"] = 16,
 		["class"] = "WARRIOR",
-		["key_level"] = 15,
+		["key_level"] = 16,
 		["unit"] = "Sigborn-MoonGuard",
-		["dungeon_id"] = 251,
+		["dungeon_id"] = 206,
 		["week"] = 305,
 		["faction"] = "0",
-		["time_stamp"] = 140326,
+		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [4]
 	{
 		["btag"] = "Etherlight#1575",
 		["weekly_best"] = 13,
 		["class"] = "SHAMAN",
-		["key_level"] = 14,
+		["key_level"] = 15,
 		["unit"] = "Nimbostratos-MoonGuard",
-		["dungeon_id"] = 404,
+		["dungeon_id"] = 405,
 		["week"] = 305,
 		["faction"] = "1",
 		["time_stamp"] = 0,
@@ -60,7 +60,7 @@ AstralKeys = {
 	}, -- [5]
 	{
 		["btag"] = "qujamm#1800",
-		["weekly_best"] = 14,
+		["weekly_best"] = 16,
 		["class"] = "WARRIOR",
 		["key_level"] = 16,
 		["unit"] = "Qujamm-Proudmoore",
@@ -72,14 +72,14 @@ AstralKeys = {
 	}, -- [6]
 	{
 		["btag"] = "Aisleng#1990",
-		["weekly_best"] = 15,
+		["weekly_best"] = 17,
 		["class"] = "PALADIN",
-		["key_level"] = 17,
+		["key_level"] = 18,
 		["unit"] = "Seyka-Hyjal",
-		["dungeon_id"] = 405,
+		["dungeon_id"] = 404,
 		["week"] = 305,
 		["faction"] = "0",
-		["time_stamp"] = 0,
+		["time_stamp"] = 470116,
 		["source"] = "friend",
 	}, -- [7]
 	{
@@ -96,7 +96,7 @@ AstralKeys = {
 	}, -- [8]
 	{
 		["btag"] = "qujamm#1800",
-		["weekly_best"] = 0,
+		["weekly_best"] = 10,
 		["class"] = "MAGE",
 		["key_level"] = 8,
 		["unit"] = "Magejamm-Proudmoore",
@@ -106,6 +106,18 @@ AstralKeys = {
 		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [9]
+	{
+		["btag"] = "Foeslayer#1716",
+		["weekly_best"] = 0,
+		["class"] = "PALADIN",
+		["key_level"] = 11,
+		["unit"] = "Foebeacon-Stormrage",
+		["dungeon_id"] = 403,
+		["week"] = 305,
+		["faction"] = "0",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [10]
 }
 AstralCharacters = {
 	{
@@ -121,11 +133,17 @@ AstralCharacters = {
 		["unit"] = "Thezidari-Hyjal",
 	}, -- [2]
 	{
-		["weekly_best"] = 15,
+		["weekly_best"] = 17,
 		["class"] = "WARRIOR",
 		["unit"] = "Thezdin-Hyjal",
 		["faction"] = 0,
 	}, -- [3]
+	{
+		["weekly_best"] = 0,
+		["class"] = "DRUID",
+		["unit"] = "Thez-Hyjal",
+		["faction"] = 0,
+	}, -- [4]
 }
 AstralKeysSettings = {
 	["wipedOldTables"] = true,
@@ -138,10 +156,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = false,
-			["party"] = true,
 			["guild"] = false,
 			["raid"] = false,
+			["no_key"] = false,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -248,9 +266,9 @@ AstralLists = {
 			["Ceylan-Hyjal"] = "Aisleng#1990",
 			["Thez-Hyjal"] = true,
 			["Seyka-Hyjal"] = "Aisleng#1990",
-			["Thezadin-Hyjal"] = true,
-			["Thezidari-Hyjal"] = true,
 			["Amplifi-Hyjal"] = "Aisleng#1990",
+			["Thezidari-Hyjal"] = true,
+			["Thezadin-Hyjal"] = true,
 			["Thezdin-Hyjal"] = true,
 		},
 	}, -- [1]

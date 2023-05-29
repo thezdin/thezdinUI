@@ -2,1150 +2,28 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"yeah, need the deeps", -- [1]
-		"we've failed like 5 or 6 runs now because DPS is too low", -- [2]
-		"pugs will only take pally tank 90% of the time too so queues are fooooooooooooooooooorever", -- [3]
-		"I gotta get a guild lol", -- [4]
-		"you guys ready for next tier?", -- [5]
-		"/p big pull to start", -- [6]
-		"/p 2 yaks inc", -- [7]
-		"/p i'll interrupt Tor", -- [8]
-		"/p thanks for the carry", -- [9]
-		"/p !keys", -- [10]
-		"/p That's it for me, thanks though", -- [11]
-		"/p Gotta try to get 20 RLP on my warr again", -- [12]
-		"/p gg all", -- [13]
-		"/cw Seyka 8==========D", -- [14]
-		"/p quit in shame", -- [15]
-		"/p poor guy", -- [16]
-		"/p lol", -- [17]
-		"/p don't follow me", -- [18]
-		"/p MOVE UP PLEASE", -- [19]
-		"/reloadui", -- [20]
+		"pugs will only take pally tank 90% of the time too so queues are fooooooooooooooooooorever", -- [1]
+		"I gotta get a guild lol", -- [2]
+		"you guys ready for next tier?", -- [3]
+		"/p big pull to start", -- [4]
+		"/p 2 yaks inc", -- [5]
+		"/p i'll interrupt Tor", -- [6]
+		"/p thanks for the carry", -- [7]
+		"/p !keys", -- [8]
+		"/p That's it for me, thanks though", -- [9]
+		"/p Gotta try to get 20 RLP on my warr again", -- [10]
+		"/p gg all", -- [11]
+		"/cw Seyka 8==========D", -- [12]
+		"/p quit in shame", -- [13]
+		"/p poor guy", -- [14]
+		"/p lol", -- [15]
+		"/p don't follow me", -- [16]
+		"/p MOVE UP PLEASE", -- [17]
+		"/reloadui", -- [18]
+		"/lick", -- [19]
+		"/i move out", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"poor guy", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3510, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683610695,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [1]
-		{
-			"i had been playing monk", -- [1]
-			"Stardream-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Stardream-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3512, -- [11]
-			"Player-60-0EA10F1C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aStardream-Stormrage|r",
-			[51] = 1683610698,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [2]
-		{
-			"wbu?", -- [1]
-			"Stardream-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Stardream-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3513, -- [11]
-			"Player-60-0EA10F1C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aStardream-Stormrage|r",
-			[51] = 1683610705,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [3]
-		{
-			"holy paladin", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3514, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683610718,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [4]
-		{
-			"nice! i played that in bfa/sl", -- [1]
-			"Stardream-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Stardream-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3515, -- [11]
-			"Player-60-0EA10F1C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aStardream-Stormrage|r",
-			[51] = 1683610730,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [5]
-		{
-			"lol", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3553, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683610827,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [6]
-		{
-			"don't follow me", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3555, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683610829,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
-		{
-			"Interrupted Proto-Drake Handler's |cff71d5ff|Hspell:59696:0|h[Throw]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3556, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683610842,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [8]
-		{
-			"Interrupted Proto-Drake Handler's |cff71d5ff|Hspell:59696:0|h[Throw]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3558, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683610853,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [9]
-		{
-			"Interrupted Proto-Drake Handler's |cff71d5ff|Hspell:59696:0|h[Throw]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3559, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683610854,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [10]
-		{
-			"Interrupted Dragonflayer Runecaster's |cff71d5ff|Hspell:59617:0|h[Bolthorn's Rune of Flame]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3634, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683610933,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [11]
-		{
-			"Interrupted Dalronn the Controller's |cff71d5ff|Hspell:59575:0|h[Shadow Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3654, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683611031,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [12]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:477:Player-3661-091D3EB8:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Utgarde Keep]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3697, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683611189,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [13]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:489:Player-3661-091D3EB8:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Utgarde Keep]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3698, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683611189,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [14]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:477:Player-3661-091D2FBC:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Utgarde Keep]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3699, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683611189,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [15]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:489:Player-3661-091D2FBC:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Utgarde Keep]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3700, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683611189,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [16]
-		{
-			"sweet", -- [1]
-			"Stardream-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Stardream-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3719, -- [11]
-			"Player-60-0EA10F1C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aStardream-Stormrage|r",
-			[51] = 1683611195,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [17]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:2058:Player-3661-091D3EB8:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Snakes. Why'd It Have To Be Snakes?]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3758, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683611586,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [18]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:2058:Player-3661-091D2FBC:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Snakes. Why'd It Have To Be Snakes?]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3759, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683611586,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [19]
-		{
-			"Interrupted Moorabi's |cff71d5ff|Hspell:55098:0|h[Transformation]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3820, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683611848,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [20]
-		{
-			"Interrupted Moorabi's |cff71d5ff|Hspell:55098:0|h[Transformation]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3823, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683611856,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [21]
-		{
-			"Interrupted Moorabi's |cff71d5ff|Hspell:55098:0|h[Transformation]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3825, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683611862,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [22]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:2040:Player-3661-091D3EB8:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Less-rabi]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3827, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683611866,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [23]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:2040:Player-3661-091D2FBC:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Less-rabi]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3828, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683611866,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [24]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:484:Player-3661-091D2FBC:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Gundrak]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3862, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683611943,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [25]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:484:Player-3661-091D3EB8:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Gundrak]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3863, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683611943,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [26]
-		{
-			"Interrupted Stormforged Tactician's |cff71d5ff|Hspell:59166:0|h[Welding Beam]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3892, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612122,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [27]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:1834:Player-3661-091D3EB8:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Lightning Struck]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3913, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612192,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [28]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:1834:Player-3661-091D2FBC:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Lightning Struck]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3914, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683612192,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [29]
-		{
-			"Interrupted Stormforged Tactician's |cff71d5ff|Hspell:59166:0|h[Welding Beam]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3929, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612272,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [30]
-		{
-			"Interrupted Stormforged Tactician's |cff71d5ff|Hspell:59166:0|h[Welding Beam]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3933, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612247,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [31]
-		{
-			"Interrupted Stormforged Tactician's |cff71d5ff|Hspell:59166:0|h[Welding Beam]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3941, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612332,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [32]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:2042:Player-3661-091D2FBC:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Shatter Resistant]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3985, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683612463,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [33]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:2042:Player-3661-091D3EB8:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Shatter Resistant]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3986, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612463,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [34]
-		{
-			"Interrupted Titanium Thunderer's |cff71d5ff|Hspell:59179:0|h[Throw]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3996, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612508,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [35]
-		{
-			"MOVE UP PLEASE", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3997, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612512,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
-		{
-			"Interrupted Titanium Thunderer's |cff71d5ff|Hspell:59179:0|h[Throw]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4007, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683612488,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [37]
-		{
-			"Interrupted Storming Vortex's |cff71d5ff|Hspell:59169:0|h[Lightning Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4013, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612564,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [38]
-		{
-			"Interrupted Stormfury Revenant's |cff71d5ff|Hspell:59167:0|h[Thunderbolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4015, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612567,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [39]
-		{
-			"Interrupted Storming Vortex's |cff71d5ff|Hspell:59169:0|h[Lightning Bolt]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4017, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683612571,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [40]
-		{
-			"Interrupted Storming Vortex's |cff71d5ff|Hspell:59169:0|h[Lightning Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4020, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612584,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [41]
-		{
-			"Interrupted Storming Vortex's |cff71d5ff|Hspell:60236:0|h[Cyclone]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4022, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612591,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [42]
-		{
-			"Interrupted Stormforged Construct's |cff71d5ff|Hspell:59152:0|h[Forked Lightning]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4041, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683612697,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [43]
-		{
-			"Interrupted Stormforged Runeshaper's |cff71d5ff|Hspell:61581:0|h[Charged Flurry]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4048, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612738,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [44]
-		{
-			"Interrupted Stormforged Tactician's |cff71d5ff|Hspell:59166:0|h[Welding Beam]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4049, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612741,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [45]
-		{
-			"Interrupted Stormforged Runeshaper's |cff71d5ff|Hspell:61581:0|h[Charged Flurry]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4050, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612741,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [46]
-		{
-			"Interrupted Stormforged Runeshaper's |cff71d5ff|Hspell:61581:0|h[Charged Flurry]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4053, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612756,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [47]
-		{
-			"Interrupted Stormforged Runeshaper's |cff71d5ff|Hspell:61581:0|h[Charged Flurry]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4069, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612831,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [48]
-		{
-			"Interrupted Stormforged Construct's |cff71d5ff|Hspell:59152:0|h[Forked Lightning]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4073, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683612856,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [49]
-		{
-			"Interrupted Stormforged Construct's |cff71d5ff|Hspell:59152:0|h[Forked Lightning]|h|r!", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4074, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683612873,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [50]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:486:Player-3661-091D3EB8:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Halls of Lightning]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4096, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1683612955,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [51]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:497:Player-3661-091D3EB8:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Halls of Lightning]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1167,7 +45,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1683612955,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [52]
+		}, -- [1]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:1867:Player-3661-091D3EB8:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Timely Death]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1189,7 +67,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1683612955,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [53]
+		}, -- [2]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:486:Player-3661-091D2FBC:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Halls of Lightning]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1211,7 +89,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683612955,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [54]
+		}, -- [3]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:497:Player-3661-091D2FBC:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Halls of Lightning]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1233,7 +111,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683612955,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [55]
+		}, -- [4]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:1867:Player-3661-091D2FBC:1:5:8:23:4294967295:4294967295:4294967295:4294967295|h[Timely Death]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1255,7 +133,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1683612955,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [56]
+		}, -- [5]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14797:Player-3661-091D3EB8:1:5:13:23:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1277,7 +155,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684034259,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [57]
+		}, -- [6]
 		{
 			"makes some strange gestures.", -- [1]
 			"Demønsoul-Tichondrius", -- [2]
@@ -1299,7 +177,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Demønsoul-Tichondrius|r",
 			[51] = 1684111141,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [58]
+		}, -- [7]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:18209:Player-3661-091D3EB8:1:5:21:23:4294967295:4294967295:4294967295:4294967295|h[Nothing Stops the Research]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1321,7 +199,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684716262,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [59]
+		}, -- [8]
 		{
 			"Any Tailoring ?", -- [1]
 			"Guccibelucci-Hyjal", -- [2]
@@ -1343,7 +221,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffGuccibelucci|r",
 			[51] = 1684721117,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [9]
 		{
 			"so may be dumb question but does the experience elimator actually work ", -- [1]
 			"Tazatraz-Hyjal", -- [2]
@@ -1365,7 +243,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fTazatraz|r",
 			[51] = 1684721196,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [10]
 		{
 			"eliminator**", -- [1]
 			"Tazatraz-Hyjal", -- [2]
@@ -1387,7 +265,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fTazatraz|r",
 			[51] = 1684721217,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [11]
 		{
 			"not working for ReCraf", -- [1]
 			"Guccibelucci-Hyjal", -- [2]
@@ -1409,7 +287,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffGuccibelucci|r",
 			[51] = 1684721171,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [12]
 		{
 			"nice ", -- [1]
 			"Guccibelucci-Hyjal", -- [2]
@@ -1431,7 +309,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffGuccibelucci|r",
 			[51] = 1684721234,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [13]
 		{
 			"LF WepMaster ReCraft SpellBlade r5", -- [1]
 			"Guccibelucci-Hyjal", -- [2]
@@ -1453,7 +331,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffGuccibelucci|r",
 			[51] = 1684721273,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [14]
 		{
 			"LF WepMaster RefCraft SpellBlade r5", -- [1]
 			"Guccibelucci-Hyjal", -- [2]
@@ -1475,7 +353,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffGuccibelucci|r",
 			[51] = 1684721229,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [15]
 		{
 			"any max rod skilled enchanters?", -- [1]
 			"Desscurses-Hyjal", -- [2]
@@ -1497,7 +375,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeDesscurses|r",
 			[51] = 1684721282,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [16]
 		{
 			"Need a |cffffd000|Henchant:367618|h[Dragon Isles Blacksmithing: Unstable Frostfire Belt]|h|r? Can Rank 5 all armor and weapons!  |cffffd000|Htrade:Player-3661-0922971C:2018:164|h[Blacksmithing]|h|r PST :)", -- [1]
 			"Zegle-Hyjal", -- [2]
@@ -1519,7 +397,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dZegle|r",
 			[51] = 1684721877,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [17]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5752:Player-3661-091D3EB8:1:5:21:23:4294967295:4294967295:4294967295:4294967295|h[Justly Rewarded]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1541,7 +419,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684723766,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [69]
+		}, -- [18]
 		{
 			"anyone for an 18 halls of infusion?", -- [1]
 			"|Kq3|k", -- [2]
@@ -1564,7 +442,7 @@ ElvCharacterDB = {
 			[51] = 1684729190,
 			[50] = "CHAT_MSG_BN_INLINE_TOAST_BROADCAST",
 			[53] = "Foeslayer",
-		}, -- [70]
+		}, -- [19]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:17830:Player-3661-091D3EB8:1:5:21:23:4294967295:4294967295:4294967295:4294967295|h[Stones Can't Fly!]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1586,7 +464,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684729799,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [71]
+		}, -- [20]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:17766:Player-3661-091D3EB8:1:5:21:23:4294967295:4294967295:4294967295:4294967295|h[Explore Zaralek Cavern]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1608,7 +486,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684729813,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [72]
+		}, -- [21]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16518:Player-3661-091D3EB8:1:5:21:23:4294967295:4294967295:4294967295:4294967295|h[Explore Thaldraszus]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1630,7 +508,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684732823,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [73]
+		}, -- [22]
 		{
 			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1652,7 +530,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684735405,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [74]
+		}, -- [23]
 		{
 			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374045:0|h[Expulse]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1674,7 +552,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684735409,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [75]
+		}, -- [24]
 		{
 			"[FIS] Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -1696,7 +574,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684735489,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [76]
+		}, -- [25]
 		{
 			"[FIS] Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -1718,7 +596,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684735506,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [77]
+		}, -- [26]
 		{
 			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1740,7 +618,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684735510,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [78]
+		}, -- [27]
 		{
 			"[FIS] Interrupted Primalist Shocktrooper's |cff71d5ff|Hspell:395694:0|h[Elemental Focus]|h|r", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -1762,7 +640,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684735617,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [79]
+		}, -- [28]
 		{
 			"[FIS] Interrupted Dazzling Dragonfly's |cff71d5ff|Hspell:374563:0|h[Dazzle]|h|r", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -1784,7 +662,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684735633,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [80]
+		}, -- [29]
 		{
 			"Interrupted Dazzling Dragonfly's |cff71d5ff|Hspell:374563:0|h[Dazzle]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1806,7 +684,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684735635,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [81]
+		}, -- [30]
 		{
 			"[FIS] Interrupted Dazzling Dragonfly's |cff71d5ff|Hspell:374563:0|h[Dazzle]|h|r", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -1828,7 +706,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684735667,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [82]
+		}, -- [31]
 		{
 			"Interrupted Flamecaller Aymi's |cff71d5ff|Hspell:374706:0|h[Pyretic Burst]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1850,7 +728,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684735715,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [83]
+		}, -- [32]
 		{
 			"Interrupted Flamecaller Aymi's |cff71d5ff|Hspell:374699:0|h[Cauterize]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1872,7 +750,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684735721,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [84]
+		}, -- [33]
 		{
 			"Wistéria-Area52 used |cff71d5ff|Hspell:80353:0|h[Time Warp]|h|r!", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -1894,7 +772,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684735779,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [85]
+		}, -- [34]
 		{
 			"[FIS] Interrupted Primalist Galesinger's |cff71d5ff|Hspell:385036:0|h[Wind Buffet]|h|r", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -1916,7 +794,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684735828,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [86]
+		}, -- [35]
 		{
 			"Interrupted Primalist Galesinger's |cff71d5ff|Hspell:385036:0|h[Wind Buffet]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1938,7 +816,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684735843,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [87]
+		}, -- [36]
 		{
 			"need that ring king?", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -1960,7 +838,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684735960,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [88]
+		}, -- [37]
 		{
 			"nyet", -- [1]
 			"Tiamât-Frostmourne", -- [2]
@@ -1982,7 +860,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddTiamât-Frostmourne|r",
 			[51] = 1684735922,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [89]
+		}, -- [38]
 		{
 			"mind if i get it off u at the end?", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -2004,7 +882,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684736000,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [90]
+		}, -- [39]
 		{
 			"Interrupted Aqua Rager's |cff71d5ff|Hspell:377341:0|h[Tidal Divergence]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2026,7 +904,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684736025,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [91]
+		}, -- [40]
 		{
 			"[FIS] Interrupted Infuser Sariya's |cff71d5ff|Hspell:377402:0|h[Aqueous Barrier]|h|r", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -2048,7 +926,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684736034,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [92]
+		}, -- [41]
 		{
 			"Tiamât used |cff71d5ff|Hspell:32182:0|h[Heroism]|h|r!", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -2070,7 +948,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684736065,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [93]
+		}, -- [42]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16261:Player-3661-091D3EB8:1:5:21:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Halls of Infusion]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2092,7 +970,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1684736105,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [94]
+		}, -- [43]
 		{
 			"ty :)", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -2114,7 +992,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684736146,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [95]
+		}, -- [44]
 		{
 			"sorry ui bugged out", -- [1]
 			"Tiamât-Frostmourne", -- [2]
@@ -2136,7 +1014,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddTiamât-Frostmourne|r",
 			[51] = 1684736149,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [96]
+		}, -- [45]
 		{
 			"ggs", -- [1]
 			"Tiamât-Frostmourne", -- [2]
@@ -2158,7 +1036,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddTiamât-Frostmourne|r",
 			[51] = 1684736149,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [97]
+		}, -- [46]
 		{
 			"same", -- [1]
 			"Painheal-Frostmourne", -- [2]
@@ -2180,7 +1058,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPainheal-Frostmourne|r",
 			[51] = 1684736153,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [98]
+		}, -- [47]
 		{
 			"Expedition Scout's Pack |cffffff00|Hworldmap:2023:6681:5002|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Banesslayer-Hyjal", -- [2]
@@ -2202,6 +1080,1128 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBanesslayer|r",
 			[51] = 1684736743,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [48]
+		{
+			"lvl 60 healy priest LFguild.  This is an alt that i rarely play, i have no Raider IO on this toon and haven't raided on this toon other than LFR.  LF 7/10 mythic guild", -- [1]
+			"Dacoolalestr-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dacoolalestr-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-3661-06D03382", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffffffffDacoolalestr|r",
+			[51] = 1685293128,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [49]
+		{
+			"|cffa335ee|Hitem:192985::::::::70:65::::2:38:3:40:240:::::|h[Fierce Illimited Diamond |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a]|h|r", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1685293090,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [50]
+		{
+			"hi", -- [1]
+			"Gigahurts-Whisperwind", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gigahurts-Whisperwind", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			101, -- [11]
+			"Player-55-093BEAA2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddGigahurts-Whisperwind|r",
+			[51] = 1685293608,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [51]
+		{
+			"Interrupted Neferset Darkcaster's |cff71d5ff|Hspell:82765:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			127, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685293800,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [52]
+		{
+			"Interrupted Neferset Theurgist's |cff71d5ff|Hspell:82753:0|h[Ritual of Bloodletting]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			132, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685293877,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [53]
+		{
+			"Interrupted Servant of Siamat's |cff71d5ff|Hspell:84521:0|h[Thunder Crash]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			145, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294034,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [54]
+		{
+			"Interrupted Minion of Siamat's |cff71d5ff|Hspell:83455:0|h[Chain Lightning]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			146, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685293982,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [55]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:4848:Player-3661-091D3EB8:1:5:28:23:4294967295:4294967295:4294967295:4294967295|h[Lost City of the Tol'vir]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			148, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294086,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [56]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:5066:Player-3661-091D3EB8:1:5:28:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Lost City of the Tol'vir]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			149, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294086,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [57]
+		{
+			"move out", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			205, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294186,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [58]
+		{
+			"Interrupted Echo of Tyrande's |cff71d5ff|Hspell:102173:0|h[Stardust]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			235, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294545,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [59]
+		{
+			"Interrupted Echo of Tyrande's |cff71d5ff|Hspell:102173:0|h[Stardust]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			242, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294581,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [60]
+		{
+			"Interrupted Infinite Suppressor's |cff71d5ff|Hspell:102601:0|h[Arcane Wave]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			249, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294684,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [61]
+		{
+			"Interrupted Infinite Suppressor's |cff71d5ff|Hspell:102600:0|h[Temporal Vortex]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			250, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294695,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [62]
+		{
+			"Interrupted Infinite Suppressor's |cff71d5ff|Hspell:102601:0|h[Arcane Wave]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			251, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294695,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [63]
+		{
+			"Interrupted Infinite Suppressor's |cff71d5ff|Hspell:102600:0|h[Temporal Vortex]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			252, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294646,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [64]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6117:Player-3661-091D3EB8:1:5:28:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: End Time]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			262, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294727,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [65]
+		{
+			"Interrupted Millhouse Manastorm's |cff71d5ff|Hspell:81439:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			286, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294867,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [66]
+		{
+			"Interrupted Millhouse Manastorm's |cff71d5ff|Hspell:81439:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			290, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294834,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [67]
+		{
+			"Interrupted Millhouse Manastorm's |cff71d5ff|Hspell:81439:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			292, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294842,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [68]
+		{
+			"Interrupted Stonecore Earthshaper's |cff71d5ff|Hspell:81459:0|h[Force of Earth]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			297, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294928,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [69]
+		{
+			"Interrupted Millhouse Manastorm's |cff71d5ff|Hspell:81440:0|h[Frostbolt Volley]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			298, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685294928,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [70]
+		{
+			"grats", -- [1]
+			"Joodaloo-Sargeras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Joodaloo-Sargeras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			311, -- [11]
+			"Player-76-05AB11CA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebJoodaloo-Sargeras|r",
+			[51] = 1685295093,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [71]
+		{
+			"Interrupted Stonecore Rift Conjurer's |cff71d5ff|Hspell:80279:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			315, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295117,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [72]
+		{
+			"Interrupted Stonecore Rift Conjurer's |cff71d5ff|Hspell:80279:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			317, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295068,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [73]
+		{
+			"Interrupted Stonecore Rift Conjurer's |cff71d5ff|Hspell:80279:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			319, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295073,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [74]
+		{
+			"Interrupted Stonecore Rift Conjurer's |cff71d5ff|Hspell:80279:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			322, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295088,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [75]
+		{
+			"Interrupted Stonecore Rift Conjurer's |cff71d5ff|Hspell:80279:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			325, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295155,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [76]
+		{
+			"Interrupted Stonecore Rift Conjurer's |cff71d5ff|Hspell:80279:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			329, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295174,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [77]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:5063:Player-3661-091D3EB8:1:5:28:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Stonecore]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			341, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295266,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [78]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:4846:Player-3661-091D3EB8:1:5:28:23:4294967295:4294967295:4294967295:4294967295|h[The Stonecore]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			342, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295266,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [79]
+		{
+			"Interrupted Naz'jar Spiritmender's |cff71d5ff|Hspell:76815:0|h[Wrath]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			379, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295390,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [80]
+		{
+			"Interrupted Naz'jar Spiritmender's |cff71d5ff|Hspell:76813:0|h[Healing Wave]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			380, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295406,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [81]
+		{
+			"Interrupted Naz'jar Spiritmender's |cff71d5ff|Hspell:76813:0|h[Healing Wave]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			381, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295412,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [82]
+		{
+			"Interrupted Naz'jar Spiritmender's |cff71d5ff|Hspell:76813:0|h[Healing Wave]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			382, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295414,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [83]
+		{
+			"Interrupted Naz'jar Spiritmender's |cff71d5ff|Hspell:76815:0|h[Wrath]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			389, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295441,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [84]
+		{
+			"Interrupted Naz'jar Spiritmender's |cff71d5ff|Hspell:76813:0|h[Healing Wave]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			390, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295446,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [85]
+		{
+			"Interrupted Naz'jar Spiritmender's |cff71d5ff|Hspell:76813:0|h[Healing Wave]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			391, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295513,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [86]
+		{
+			"Interrupted Naz'jar Spiritmender's |cff71d5ff|Hspell:76813:0|h[Healing Wave]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			393, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295516,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [87]
+		{
+			"Interrupted Naz'jar Tempest Witch's |cff71d5ff|Hspell:75813:0|h[Chain Lightning]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			397, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295539,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [88]
+		{
+			"Interrupted Naz'jar Tempest Witch's |cff71d5ff|Hspell:75813:0|h[Chain Lightning]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			398, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295481,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [89]
+		{
+			"Interrupted Naz'jar Tempest Witch's |cff71d5ff|Hspell:75992:0|h[Lightning Surge]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			399, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295486,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [90]
+		{
+			"Interrupted Naz'jar Spiritmender's |cff71d5ff|Hspell:76815:0|h[Wrath]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			402, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295503,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [91]
+		{
+			"Interrupted Naz'jar Spiritmender's |cff71d5ff|Hspell:76820:0|h[Hex]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			404, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295580,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [92]
+		{
+			"Interrupted Naz'jar Spiritmender's |cff71d5ff|Hspell:76813:0|h[Healing Wave]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			405, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295587,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [93]
+		{
+			"Interrupted Naz'jar Tempest Witch's |cff71d5ff|Hspell:75813:0|h[Chain Lightning]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			413, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295630,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [94]
+		{
+			"Interrupted Naz'jar Tempest Witch's |cff71d5ff|Hspell:75813:0|h[Chain Lightning]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			416, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295656,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [95]
+		{
+			"Interrupted Vicious Mindlasher's |cff71d5ff|Hspell:83914:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			437, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295804,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [96]
+		{
+			"Interrupted Vicious Mindlasher's |cff71d5ff|Hspell:83914:0|h[Shadow Bolt]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			439, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685295896,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [97]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:5061:Player-3661-091D3EB8:1:5:28:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Throne of the Tides]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			452, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685296003,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [98]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:4839:Player-3661-091D3EB8:1:5:28:23:4294967295:4294967295:4294967295:4294967295|h[Throne of the Tides]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			453, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1685296003,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [99]
 	},
 }

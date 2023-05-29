@@ -14,6 +14,40 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
+			["global"] = {
+				["spellsOnCooldown"] = {
+					[196718] = {
+						["Player-57-0D64398C"] = 336672.027,
+					},
+					[59752] = {
+						["Player-3661-090EB9B6"] = 336620.184,
+					},
+					[97462] = {
+						["Player-3661-090EB9B6"] = 336618.906,
+					},
+					[642] = {
+						["Player-3661-090ED1C0"] = 336806.625,
+					},
+					[187827] = {
+						["Player-57-0D64398C"] = 336624.872,
+					},
+					[12975] = {
+						["Player-3661-090EB9B6"] = 336641.34,
+					},
+					[871] = {
+						["Player-3661-090EB9B6"] = 336701.079,
+					},
+					[6940] = {
+						["Player-3661-090ED1C0"] = 336628.176,
+					},
+					[633] = {
+						["Player-3661-090ED1C0"] = 336814.736,
+					},
+				},
+				["lastTime"] = 336625.475,
+				["chargeSpellsOnCooldown"] = {
+				},
+			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -71,14 +105,14 @@ oRA3DB = {
 		["Thezadin - Hyjal"] = "Default",
 		["Thezbot - Azgalor"] = "Default",
 		["Thezbank - Mannoroth"] = "Default",
-		["Thezfu - Hyjal"] = "Default",
-		["Sigurdsson - Hyjal"] = "Default",
+		["Thezdgar - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
 		["Thezdruid - Hyjal"] = "Default",
 		["Thezknight - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
-		["Thezdgar - Hyjal"] = "Default",
+		["Thezfu - Hyjal"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
-		["Thez - Hyjal"] = "Default",
+		["Sigurdsson - Hyjal"] = "Default",
 		["Foulfellow - Hyjal"] = "Default",
 		["Jägare - Hyjal"] = "Default",
 	},
@@ -92,14 +126,14 @@ oRA3DB = {
 				},
 				["oRA3BattleResMonitor"] = {
 					["Height"] = 29.99996566772461,
-					["PosX"] = 167.4677922991032,
-					["PosY"] = 234.6669160631063,
+					["PosX"] = 1191.467845196239,
+					["PosY"] = 339.2002942403269,
 					["Width"] = 139.9998931884766,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 536.4446411132812,
-					["PosX"] = 21.03569038056094,
-					["PosY"] = 755.143902077034,
+					["PosX"] = 19.72096101923626,
+					["PosY"] = 707.9475134828681,
 					["Width"] = 258.6666259765625,
 				},
 			},
