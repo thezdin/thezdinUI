@@ -8,11 +8,11 @@ _detalhes_database = {
 		},
 	},
 	["ocd_tracker"] = {
-		["show_title"] = true,
+		["enabled"] = false,
 		["current_cooldowns"] = {
 		},
-		["group_frames"] = true,
 		["lines_per_column"] = 12,
+		["group_frames"] = true,
 		["frames"] = {
 			["defensive-raid"] = {
 			},
@@ -36,15 +36,15 @@ _detalhes_database = {
 			["defensive-personal"] = false,
 		},
 		["width"] = 120,
+		["framme_locked"] = false,
 		["cooldowns"] = {
 		},
 		["height"] = 18,
-		["framme_locked"] = false,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
 		},
-		["enabled"] = false,
+		["show_title"] = true,
 		["filters"] = {
 			["defensive-raid"] = false,
 			["ofensive"] = true,
@@ -1202,10 +1202,10 @@ _detalhes_database = {
 	["data_harvest_for_charsts"] = {
 		["players"] = {
 			{
-				["playerKey"] = "total",
-				["combatObjectContainer"] = 1,
 				["name"] = "Damage of Each Individual Player",
 				["playerOnly"] = true,
+				["playerKey"] = "total",
+				["combatObjectContainer"] = 1,
 			}, -- [1]
 		},
 		["totals"] = {
@@ -1244,16 +1244,16 @@ _detalhes_database = {
 		["frame"] = {
 		},
 	},
-	["last_realversion"] = 151,
+	["combat_counter"] = 12518,
 	["combat_log"] = {
 		["track_hunter_frenzy"] = false,
 		["inverse_deathlog_overalldata"] = false,
-		["merge_critical_heals"] = false,
-		["merge_gemstones_1007"] = false,
 		["inverse_deathlog_raid"] = false,
+		["merge_gemstones_1007"] = false,
+		["merge_critical_heals"] = false,
 		["inverse_deathlog_mplus"] = false,
 	},
-	["last_day"] = "17",
+	["last_realversion"] = 151,
 	["mythic_plus_log"] = {
 		"17/06/23 22:47:51|MythicDungeonFinished() | merge_boss_trash = true", -- [1]
 		"17/06/23 22:47:51|MergeTrashCleanup started.", -- [2]
@@ -1305,159 +1305,10 @@ _detalhes_database = {
 		"13/06/23 20:45:22|MergeTrashCleanup started.", -- [48]
 		"13/06/23 20:45:22|BossDefeated | key level: | 19 | Hackclaw's War-Band | Brackenhide Hollow", -- [49]
 	},
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["cached_roles"] = {
 	},
+	["last_day"] = "18",
 	["last_encounter"] = "Magmorax",
-	["nick_tag_cache"] = {
-		["last_version"] = 15,
-		["nextreset"] = 1688332270,
-	},
-	["force_font_outline"] = "",
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["character_data"] = {
-		["logons"] = 436,
-	},
-	["ignore_nicktag"] = true,
-	["combat_id"] = 0,
-	["savedStyles"] = {
-	},
-	["data_harvested_for_charts"] = {
-	},
-	["plugin_database"] = {
-	},
-	["announce_deaths"] = {
-		["enabled"] = false,
-		["last_hits"] = 1,
-		["only_first"] = 5,
-		["where"] = 1,
-	},
-	["tabela_overall"] = {
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [1]
-		{
-			["tipo"] = 3,
-			["_ActorTable"] = {
-			},
-		}, -- [2]
-		{
-			["tipo"] = 7,
-			["_ActorTable"] = {
-			},
-		}, -- [3]
-		{
-			["tipo"] = 9,
-			["_ActorTable"] = {
-			},
-		}, -- [4]
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [5]
-		["raid_roster"] = {
-		},
-		["raid_roster_indexed"] = {
-		},
-		["tempo_start"] = 1687068185,
-		["last_events_tables"] = {
-		},
-		["alternate_power"] = {
-		},
-		["trinketProcs"] = {
-		},
-		["totals"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-			["frags_total"] = 0,
-			["voidzone_damage"] = 0,
-		},
-		["player_last_events"] = {
-		},
-		["spells_cast_timeline"] = {
-		},
-		["frags_need_refresh"] = false,
-		["aura_timeline"] = {
-		},
-		["__call"] = {
-		},
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
-			["damage"] = {
-			},
-		},
-		["amountCasts"] = {
-		},
-		["cleu_timeline"] = {
-		},
-		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-		},
-		["frags"] = {
-		},
-		["data_fim"] = 0,
-		["cleu_events"] = {
-			["n"] = 1,
-		},
-		["data_inicio"] = 0,
-		["start_time"] = 0,
-		["TimeData"] = {
-		},
-		["combat_counter"] = 12515,
-	},
-	["combat_counter"] = 12516,
-	["last_instance_time"] = 1687064672,
 	["local_instances_config"] = {
 		{
 			["modo"] = 2,
@@ -1482,7 +1333,7 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -522.7780227661133,
-					["x"] = 1403.109375,
+					["x"] = 1403.105712890625,
 					["w"] = 240.6691284179688,
 					["h"] = 179.3334808349609,
 				},
@@ -1518,7 +1369,7 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -522.7780227661133,
-					["x"] = 1173.10791015625,
+					["x"] = 1173.1044921875,
 					["w"] = 219.3332214355469,
 					["h"] = 179.3334808349609,
 				},
@@ -1553,7 +1404,7 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -522.7780227661133,
-					["x"] = 968.8857421875,
+					["x"] = 968.88232421875,
 					["w"] = 189.1112823486328,
 					["h"] = 179.3334808349609,
 				},
@@ -1600,10 +1451,159 @@ _detalhes_database = {
 			},
 		}, -- [4]
 	},
+	["last_instance_time"] = 1687064672,
+	["character_data"] = {
+		["logons"] = 437,
+	},
+	["ignore_nicktag"] = true,
+	["combat_id"] = 0,
+	["savedStyles"] = {
+	},
+	["plugin_database"] = {
+	},
+	["data_harvested_for_charts"] = {
+	},
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["raid_roster_indexed"] = {
+		},
+		["tempo_start"] = 1687068185,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+		},
+		["trinketProcs"] = {
+		},
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["data_inicio"] = 0,
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+		},
+		["amountCasts"] = {
+		},
+		["combat_counter"] = 12515,
+		["overall_refreshed"] = true,
+		["hasSaved"] = true,
+		["spells_cast_timeline"] = {
+		},
+		["data_fim"] = 0,
+		["frags"] = {
+		},
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["start_time"] = 0,
+		["TimeData"] = {
+		},
+		["cleu_timeline"] = {
+		},
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["force_font_outline"] = "",
+	["nick_tag_cache"] = {
+		["last_version"] = 15,
+		["nextreset"] = 1688332270,
+	},
 	["announce_cooldowns"] = {
+		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
-		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -1611,7 +1611,9 @@ _detalhes_database = {
 		["last_difficulty"] = 15,
 		["last_raid"] = "",
 	},
-	["cached_roles"] = {
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
 		["Player-3661-090EB9B6"] = 73,

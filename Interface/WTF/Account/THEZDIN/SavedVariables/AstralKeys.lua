@@ -9,7 +9,7 @@ AstralKeys = {
 		["dungeon_id"] = 405,
 		["week"] = 308,
 		["faction"] = "0",
-		["time_stamp"] = 456551,
+		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [1]
 	{
@@ -21,7 +21,7 @@ AstralKeys = {
 		["dungeon_id"] = 406,
 		["week"] = 308,
 		["faction"] = 0,
-		["time_stamp"] = 399781,
+		["time_stamp"] = 463335,
 	}, -- [2]
 	{
 		["btag"] = "Etherlight#1575",
@@ -94,25 +94,37 @@ AstralKeys = {
 		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [8]
+	{
+		["btag"] = "Etherlight#1575",
+		["weekly_best"] = 0,
+		["class"] = "DEATHKNIGHT",
+		["key_level"] = 12,
+		["unit"] = "Denaos-MoonGuard",
+		["dungeon_id"] = 406,
+		["week"] = 308,
+		["faction"] = "0",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [9]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 11,
 		["class"] = "DEMONHUNTER",
-		["faction"] = 0,
 		["unit"] = "Thezidari-Hyjal",
+		["faction"] = 0,
 	}, -- [1]
 	{
 		["weekly_best"] = 19,
 		["class"] = "WARRIOR",
-		["unit"] = "Thezdin-Hyjal",
 		["faction"] = 0,
+		["unit"] = "Thezdin-Hyjal",
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["unit"] = "Thezadin-Hyjal",
 		["faction"] = 0,
+		["unit"] = "Thezadin-Hyjal",
 	}, -- [3]
 }
 AstralKeysSettings = {
@@ -129,8 +141,8 @@ AstralKeysSettings = {
 			["party"] = true,
 			["no_key"] = false,
 			["raid"] = false,
-			["all_characters"] = false,
 			["guild"] = false,
+			["all_characters"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -155,9 +167,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -166,8 +176,11 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
+	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
@@ -176,7 +189,6 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 	},
-	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -191,8 +203,8 @@ AstralMinimap = {
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
 		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
+		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
 		["Jägare - Hyjal"] = "Jägare - Hyjal",
 	},
 	["profiles"] = {
@@ -218,9 +230,9 @@ AstralMinimap = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
-		["Thezdgar - Hyjal"] = {
-		},
 		["Thezbot - Azgalor"] = {
+		},
+		["Thezdgar - Hyjal"] = {
 		},
 		["Jägare - Hyjal"] = {
 		},
@@ -237,10 +249,10 @@ AstralLists = {
 			["Ceylan-Hyjal"] = "Aisleng#1990",
 			["Thez-Hyjal"] = true,
 			["Seyka-Hyjal"] = "Aisleng#1990",
-			["Amplifi-Hyjal"] = "Aisleng#1990",
-			["Thezidari-Hyjal"] = true,
-			["Thezadin-Hyjal"] = true,
 			["Thezdin-Hyjal"] = true,
+			["Thezidari-Hyjal"] = true,
+			["Amplifi-Hyjal"] = "Aisleng#1990",
+			["Thezadin-Hyjal"] = true,
 		},
 	}, -- [1]
 	{
@@ -258,15 +270,15 @@ AstralLists = {
 			["Qujamm-Proudmoore"] = "qujamm#1800",
 			["Aleo-MoonGuard"] = "Etherlight#1575",
 			["Foetem-Haomarush"] = "Foeslayer#1716",
-			["Sigborn-MoonGuard"] = "Etherlight#1575",
-			["Amplifi-Hyjal"] = "Aisleng#1990",
+			["Magejamm-Proudmoore"] = "qujamm#1800",
+			["Clawelley-Andorhal"] = "Hige#1743",
 			["Nimbostratos-MoonGuard"] = "Etherlight#1575",
 			["Foeslayer-Kel'Thuzad"] = "Foeslayer#1716",
 			["Foestriker-Sargeras"] = "Foeslayer#1716",
 			["Foebeacon-Stormrage"] = "Foeslayer#1716",
 			["Etherstratus-Kil'jaeden"] = "Etherlight#1575",
-			["Clawelley-Andorhal"] = "Hige#1743",
-			["Magejamm-Proudmoore"] = "qujamm#1800",
+			["Amplifi-Hyjal"] = "Aisleng#1990",
+			["Sigborn-MoonGuard"] = "Etherlight#1575",
 		},
 	}, -- [2]
 }
