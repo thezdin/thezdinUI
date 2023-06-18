@@ -31,23 +31,21 @@ RaiderIO_Config = {
 	["showRaiderIOProfile"] = true,
 	["showClientGuildBest"] = true,
 }
-RaiderIO_LastCharacter = "us-Thezdin-hyjal"
+RaiderIO_LastCharacter = "us-Thezidari-hyjal"
 RaiderIO_MissingCharacters = {
-	["us-Braveth-illidan"] = true,
-	["us-Léxys-ragnaros"] = true,
-	["us-Tyravoker-tichondrius"] = true,
-	["us-Yezar-area-52"] = true,
-	["us-Randoliño-ragnaros"] = true,
-	["us-party5-hyjal"] = true,
-	["us-Vallysse-dalaran"] = true,
-	["us-Zalz-Kel"] = true,
-	["us-Seyka-hyjal"] = true,
-	["us-Lís-wyrmrest-accord"] = true,
-	["us-Xenjaztok-azgalor"] = true,
-	["us-Gajartbek-blood-furnace"] = true,
-	["us-Apretadito-drakkari"] = true,
-	["us-Dreamdk-tichondrius"] = true,
-	["us-Nibbits-area-52"] = true,
+	["us-Fipray-malganis"] = true,
+	["us-Pikiboy-bronzebeard"] = true,
+	["us-Vladja-blackrock"] = true,
+	["us-Anny-hyjal"] = true,
+	["us-Beastshizz-tichondrius"] = true,
+	["us-Tanterous-akama"] = true,
+	["us-Bestchen-illidan"] = true,
+	["us-Mantar-quelthalas"] = true,
+	["us-Haland-azralon"] = true,
+	["us-Jyotirnbrez-garrosh"] = true,
+	["us-Eponin-nazgrel"] = true,
+	["us-Dethphuc-trollbane"] = true,
+	["us-Wunderbar-azjolnerub"] = true,
 }
 RaiderIO_MissingServers = {
 }

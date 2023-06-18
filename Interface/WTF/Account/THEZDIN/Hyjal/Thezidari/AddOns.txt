@@ -29,3 +29,6 @@ RaiderIO_DB_EU_F: disabled
 ElvUI_Options: enabled
 ElvUI_ChatTweaks: disabled
 WunderUI: disabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled

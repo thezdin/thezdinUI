@@ -79,9 +79,9 @@ ElvDB = {
 				},
 				["autoTrackReputation"] = true,
 				["valuecolor"] = {
-					["b"] = 0.4274510145187378,
-					["g"] = 0.6078431606292725,
-					["r"] = 0.7764706611633301,
+					["b"] = 0.7882353663444519,
+					["g"] = 0.1882353127002716,
+					["r"] = 0.6392157077789307,
 				},
 				["font"] = "Roboto BoldCondensed",
 				["altPowerBar"] = {
@@ -92,6 +92,7 @@ ElvDB = {
 				["bottomPanelSettings"] = {
 					["height"] = 128,
 				},
+				["autoRepair"] = "GUILD",
 				["minimap"] = {
 					["locationFont"] = "Ubuntu Condensed",
 					["locationText"] = "SHOW",
@@ -107,7 +108,6 @@ ElvDB = {
 				},
 				["talkingHeadFrameScale"] = 1,
 				["bonusObjectivePosition"] = "AUTO",
-				["autoRepair"] = "GUILD",
 			},
 			["bags"] = {
 				["itemLevelFont"] = "ElvUI C",
@@ -172,7 +172,7 @@ ElvDB = {
 					["override"] = true,
 				},
 			},
-			["dbConverted"] = 13.32,
+			["dbConverted"] = 13.33,
 			["locplus"] = {
 				["spacingManual"] = 5,
 				["dtwidth"] = 150,
@@ -209,10 +209,10 @@ ElvDB = {
 				["ElvUIBankMover"] = "BOTTOMLEFT,LeftChatPanel,BOTTOMLEFT,0,26",
 				["LossControlMover"] = "BOTTOM,ElvUIParent,BOTTOM,-1,505",
 				["MirrorTimer1Mover"] = "TOP,UIParent,TOP,0,-153",
-				["ElvUF_Raid1Mover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,4,269",
+				["ElvUF_Raid1Mover"] = "BOTTOMLEFT,UIParent,BOTTOMLEFT,4,244",
 				["ElvAB_4"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-4,239",
 				["AzeriteBarMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-3,-245",
-				["ElvUF_Raid2Mover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,4,269",
+				["ElvUF_Raid2Mover"] = "BOTTOMLEFT,UIParent,BOTTOMLEFT,4,244",
 				["ReputationBarMover"] = "BOTTOM,UIParent,BOTTOM,-281,72",
 				["ObjectiveFrameMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-163,-325",
 				["BNETMover"] = "TOPLEFT,UIParent,TOPLEFT,524,-4",
@@ -252,7 +252,7 @@ ElvDB = {
 				["VehicleLeaveButton"] = "BOTTOM,UIParent,BOTTOM,0,51",
 				["TooltipMover"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-4,311",
 				["PetAB"] = "BOTTOMLEFT,UIParent,BOTTOMLEFT,672,28",
-				["ElvUF_Raid3Mover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,4,269",
+				["ElvUF_Raid3Mover"] = "BOTTOMLEFT,UIParent,BOTTOMLEFT,4,242",
 				["TotemTrackerMover"] = "TOPLEFT,UIParent,TOPLEFT,818,-612",
 				["VOICECHAT"] = "TOPLEFT,ElvUIParent,TOPLEFT,368,-210",
 				["MinimapClusterMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-3,-3",
@@ -295,9 +295,9 @@ ElvDB = {
 			["chat"] = {
 				["pinVoiceButtons"] = false,
 				["tabSelectorColor"] = {
-					["b"] = 0.4274510145187378,
-					["g"] = 0.6078431606292725,
-					["r"] = 0.7764706611633301,
+					["b"] = 0.7882353663444519,
+					["g"] = 0.1882353127002716,
+					["r"] = 0.6392157077789307,
 				},
 				["panelHeightRight"] = 210,
 				["font"] = "Roboto BoldCondensed",
@@ -315,7 +315,7 @@ ElvDB = {
 			},
 			["unitframe"] = {
 				["fontSize"] = 12,
-				["smoothbars"] = true,
+				["statusbar"] = "Minimalist",
 				["units"] = {
 					["tank"] = {
 						["enable"] = false,
@@ -329,6 +329,7 @@ ElvDB = {
 							["disableFocusGlow"] = false,
 							["disableTargetGlow"] = false,
 						},
+						["threatStyle"] = "BORDERS",
 						["customTexts"] = {
 							["PartyHealth"] = {
 								["attachTextTo"] = "Health",
@@ -375,6 +376,7 @@ ElvDB = {
 							["yOffset"] = 16,
 							["font"] = "Ubuntu Condensed",
 						},
+						["growthDirection"] = "UP_LEFT",
 						["roleIcon"] = {
 							["yOffset"] = 0,
 							["position"] = "LEFT",
@@ -667,7 +669,10 @@ ElvDB = {
 							["defaultColor"] = true,
 							["yOffset"] = 0,
 						},
-						["verticalSpacing"] = 5,
+						["privateAuras"] = {
+							["countdownNumbers"] = true,
+						},
+						["verticalSpacing"] = 10,
 						["petsGroup"] = {
 							["threatStyle"] = "GLOW",
 							["disableTargetGlow"] = false,
@@ -753,16 +758,25 @@ ElvDB = {
 							["text_format"] = "",
 						},
 						["height"] = 40,
-						["horizontalSpacing"] = 5,
+						["raidicon"] = {
+							["attachTo"] = "TOPLEFT",
+							["size"] = 20,
+							["yOffset"] = 0,
+						},
+						["horizontalSpacing"] = 10,
 						["rdebuffs"] = {
 							["enable"] = false,
 							["font"] = "Ubuntu Condensed",
 						},
-						["power"] = {
+						["raidRoleIcons"] = {
+							["position"] = "CENTER",
 							["enable"] = false,
+							["yOffset"] = 10,
 						},
 						["roleIcon"] = {
-							["enable"] = false,
+							["yOffset"] = 16,
+							["position"] = "CENTER",
+							["xOffset"] = 0,
 						},
 						["castbar"] = {
 							["hidetext"] = false,
@@ -929,14 +943,14 @@ ElvDB = {
 				["colors"] = {
 					["healthclass"] = true,
 					["auraBarBuff"] = {
-						["b"] = 0.4274510145187378,
-						["g"] = 0.6078431606292725,
-						["r"] = 0.7764706611633301,
+						["b"] = 0.7882353663444519,
+						["g"] = 0.1882353127002716,
+						["r"] = 0.6392157077789307,
 					},
 					["castClassColor"] = true,
 				},
 				["fontOutline"] = "OUTLINE",
-				["statusbar"] = "Minimalist",
+				["smoothbars"] = true,
 				["cooldown"] = {
 					["checkSeconds"] = true,
 					["fonts"] = {
@@ -1130,7 +1144,7 @@ ElvDB = {
 			},
 			["mMT"] = {
 				["quicksetup"] = true,
-				["version"] = "3.13",
+				["version"] = "3.15",
 			},
 		},
 		["Hyjal"] = {
@@ -1206,7 +1220,12 @@ ElvDB = {
 						nil, -- [7]
 						nil, -- [8]
 						nil, -- [9]
-						nil, -- [10]
+						{
+							nil, -- [1]
+							nil, -- [2]
+							nil, -- [3]
+							true, -- [4]
+						}, -- [10]
 						nil, -- [11]
 						nil, -- [12]
 						{
@@ -1225,7 +1244,12 @@ ElvDB = {
 						}, -- [16]
 						nil, -- [17]
 						nil, -- [18]
-						nil, -- [19]
+						{
+							nil, -- [1]
+							nil, -- [2]
+							nil, -- [3]
+							true, -- [4]
+						}, -- [19]
 						nil, -- [20]
 						nil, -- [21]
 						nil, -- [22]
@@ -1376,6 +1400,12 @@ ElvPrivateDB = {
 			["general"] = {
 				["totemTracker"] = false,
 			},
+			["auras"] = {
+				["masque"] = {
+					["debuffs"] = true,
+					["buffs"] = true,
+				},
+			},
 			["actionbar"] = {
 				["masque"] = {
 					["stanceBar"] = true,
@@ -1385,12 +1415,6 @@ ElvPrivateDB = {
 			},
 			["nameplates"] = {
 				["enable"] = false,
-			},
-			["auras"] = {
-				["masque"] = {
-					["debuffs"] = true,
-					["buffs"] = true,
-				},
 			},
 			["install_complete"] = 13.27,
 		},
@@ -1415,23 +1439,17 @@ ElvPrivateDB = {
 		},
 		["Thezdin - Hyjal"] = {
 			["general"] = {
-				["chatBubbleName"] = true,
-				["nameplateLargeFont"] = "Accidental Presidency",
-				["normTex"] = "Clean",
-				["nameplateFontSize"] = 11,
-				["chatBubbleFont"] = "Roboto BoldCondensed",
-				["dmgfont"] = "ElvUI C",
 				["totemTracker"] = false,
-				["nameplateFont"] = "Roboto BoldCondensed",
-				["namefont"] = "Roboto BoldCondensed",
+				["nameplateLargeFont"] = "Accidental Presidency",
+				["chatBubbleName"] = true,
+				["dmgfont"] = "ElvUI C",
+				["normTex"] = "Clean",
 				["nameplateLargeFontSize"] = 14,
+				["nameplateFontSize"] = 11,
+				["nameplateFont"] = "Roboto BoldCondensed",
+				["chatBubbleFont"] = "Roboto BoldCondensed",
+				["namefont"] = "Roboto BoldCondensed",
 				["glossTex"] = "Minimalist",
-			},
-			["auras"] = {
-				["masque"] = {
-					["buffs"] = true,
-					["debuffs"] = true,
-				},
 			},
 			["actionbar"] = {
 				["masque"] = {
@@ -1442,6 +1460,12 @@ ElvPrivateDB = {
 			},
 			["nameplates"] = {
 				["enable"] = false,
+			},
+			["auras"] = {
+				["masque"] = {
+					["buffs"] = true,
+					["debuffs"] = true,
+				},
 			},
 			["theme"] = "class",
 			["install_complete"] = 13.27,

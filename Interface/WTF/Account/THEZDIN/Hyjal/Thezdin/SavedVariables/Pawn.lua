@@ -2,17 +2,17 @@
 PawnOptions = {
 	["LastVersion"] = 2.0801,
 	["LastPlayerFullName"] = "Thezdin-Hyjal",
-	["AutoSelectScales"] = true,
+	["AutoSelectScales"] = false,
 	["ItemLevels"] = {
 		{
-			["ID"] = 193663,
-			["Level"] = 437,
-			["Link"] = "|cffa335ee|Hitem:193663::::::::70:73::16:8:6652:9414:9223:9221:9144:9329:1659:8767:1:28:1279:::::|h[Decay Mother's Wrathful Gaze]|h|r",
+			["ID"] = 202443,
+			["Level"] = 441,
+			["Link"] = "|cffa335ee|Hitem:202443::::::::70:73::5:7:6652:9414:9229:9409:9334:1498:8767:1:28:1040:::::|h[Thraexhelm of the Onyx Crucible]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 193001,
-			["Level"] = 417,
-			["Link"] = "|cffa335ee|Hitem:193001::192991:192952:192952::::70:73::13:10:8836:8840:8902:8960:8784:8782:9404:8792:8846:9365:8:28:2164:29:40:30:36:38:7:40:260:48:194569:49:198046:50:190453:::::|h[Elemental Lariat |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r",
+			["ID"] = 206181,
+			["Level"] = 437,
+			["Link"] = "|cffa335ee|Hitem:206181::::::::70:73::16:7:6652:9415:8784:9144:9329:1659:8767:1:28:1279:::::|h[Ionized Choker]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 202441,
@@ -21,9 +21,9 @@ PawnOptions = {
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 205271,
-			["Level"] = 424,
-			["Link"] = "|cffa335ee|Hitem:205271:6625:::::::70:73::14:3:9320:1514:8767:1:28:2627:::::|h[Speleothemic Cataphract]|h|r",
+			["ID"] = 202446,
+			["Level"] = 441,
+			["Link"] = "|cffa335ee|Hitem:202446::::::::70:73::35:5:6652:9231:9334:1492:8767::::::|h[Battlechest of the Onyx Crucible]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 158360,
@@ -31,19 +31,19 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:158360::::::::70:73::16:8:6652:9414:9223:9219:9144:9329:3307:8767:1:28:1279:::::|h[Sharkbait Harness Girdle]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 193789,
-			["Level"] = 428,
-			["Link"] = "|cffa335ee|Hitem:193789::::::::70:73::33:7:6652:9223:9221:9144:9325:1650:8767:1:28:1279:::::|h[Fural's Blazing Faulds]|h|r",
+			["ID"] = 202597,
+			["Level"] = 441,
+			["Link"] = "|cffa335ee|Hitem:202597:6490:::::::70:73::5:7:9409:40:9226:9221:9334:1498:8767::::::|h[Obsidian Guard's Chausses]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 159436,
-			["Level"] = 437,
-			["Link"] = "|cffa335ee|Hitem:159436:6613:::::::70:73::33:7:6652:9223:9219:9144:9329:3307:8767:1:28:1279:::::|h[Fluorescent Flora Stompers]|h|r",
+			["ID"] = 202576,
+			["Level"] = 441,
+			["Link"] = "|cffa335ee|Hitem:202576:6613:::::::70:73::5:7:9409:6652:9226:9219:9334:1498:8767::::::|h[Dreadrift Stompers]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 109878,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:109878:6578:::::::70:73::33:9:7977:6652:7936:8822:8819:9144:8973:3300:8767:1:28:1279:::::|h[Goldsteel Bindings]|h|r",
+			["ID"] = 190526,
+			["Level"] = 437,
+			["Link"] = "|cffa335ee|Hitem:190526:6580:::::::70:73::13:8:8836:8840:8902:8960:9405:9373:9366:9415:6:28:2164:38:8:40:161:44:204682:47:204440:49:206041:::::|h[Allied Wristguard of Companionship |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 202444,
@@ -54,25 +54,25 @@ PawnOptions = {
 			["ID"] = 193731,
 			["Level"] = 441,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:193731::::::::70:73::35:6:9380:6652:9414:9144:1663:8767::::::|h[Circle of Ascended Frost]|h|r",
+			["Link"] = "|cffa335ee|Hitem:193731:6556:::::::70:73::35:6:9380:6652:9414:9144:1663:8767::::::|h[Circle of Ascended Frost]|h|r",
 		}, -- [11]
 		{
 			["ID"] = 193731,
 			["Level"] = 441,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:193731:6556:::::::70:73::35:6:9380:6652:9414:9144:1663:8767::::::|h[Circle of Ascended Frost]|h|r",
+			["Link"] = "|cffa335ee|Hitem:193731:6568:::::::70:73::35:6:9380:6652:9414:9144:1663:8767::::::|h[Circle of Ascended Frost]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 193652,
-			["Level"] = 437,
+			["ID"] = 202613,
+			["Level"] = 441,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:193652::::::::70:73::16:5:6652:9144:9329:1659:8767:1:28:1279:::::|h[Treemouth's Festering Splinter]|h|r",
+			["Link"] = "|cffa335ee|Hitem:202613::::::::70:73::5:5:9409:6652:9334:1498:8767::::::|h[Zaqali Chaos Grapnel]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 159626,
-			["Level"] = 437,
+			["ID"] = 203729,
+			["Level"] = 441,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:159626::::::::70:73::33:5:6652:9144:9329:3307:8767:1:28:1279:::::|h[Lingering Sporepods]|h|r",
+			["Link"] = "|cffa335ee|Hitem:203729::::::::70:73::5:5:9409:6652:9334:1495:8767::::::|h[Ominous Chromatic Essence]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 133247,
@@ -80,10 +80,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:133247:6598:::::::70:73::16:8:41:9223:9220:9144:6652:9334:9458:8767:1:28:1279:::::|h[Shadow of Perfect Bliss]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 190511,
-			["Level"] = 447,
+			["ID"] = 193785,
+			["Level"] = 437,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:190511:6649:::::::70:73::13:7:8836:8840:8902:9405:9376:8792:9366:8:28:2164:29:36:30:32:38:8:40:187:45:204697:46:194569:50:204440:::::|h[Obsidian Seared Hexsword |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
+			["Link"] = "|cffa335ee|Hitem:193785:6649:::::::70:73::33:5:6652:9147:9329:1659:8767:1:28:1279:::::|h[Forgestorm]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 190503,

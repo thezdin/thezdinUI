@@ -2,118 +2,118 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p nah this is you guys getting melted by downwind", -- [1]
-		"/p and biting cold", -- [2]
-		"/p rofl", -- [3]
-		"/p scrub", -- [4]
-		"/p wipe it out guys, gg", -- [5]
-		"/cw Tigu-Aman'Thul You should read up the mechanics on that fight. Being downwind half the fight is bad", -- [6]
-		"/p Hey all, I've got drums", -- [7]
-		"/p 2s for cage", -- [8]
-		"/p Gashtooth first plz", -- [9]
-		"/p jesus, sorry", -- [10]
-		"/p I should be fine x2", -- [11]
-		"/p gg, thx all!", -- [12]
-		"/invite Seyka", -- [13]
-		"/p we should sheep/TurnEvil every incorp", -- [14]
-		"/p shouldn't need to be stunning or interrupting", -- [15]
-		"/p it's fine, mage/pally can get 90% of them", -- [16]
-		"/p just need to actually", -- [17]
-		"/p lol", -- [18]
-		"/p same", -- [19]
-		"/reloadui", -- [20]
+		"/p wait", -- [1]
+		"/p lust when he pops", -- [2]
+		"/p lust", -- [3]
+		"/p this is why you zerg grubs", -- [4]
+		"/p aftera", -- [5]
+		"/p lust on pull", -- [6]
+		"/p \"watch your step\" means frontal", -- [7]
+		"/p fml, no trinket ever", -- [8]
+		"/p !keys", -- [9]
+		"/p brb, bio", -- [10]
+		"/p lust this", -- [11]
+		"/p this pull is bullshit", -- [12]
+		"/p the beams have to die stupid fast", -- [13]
+		"/p I almost killed priest too :/", -- [14]
+		"/p plz plz plz help interrupt", -- [15]
+		"/p zerg dragons", -- [16]
+		"/p lust this next one", -- [17]
+		"/p dragon then ice callers", -- [18]
+		"/wa", -- [19]
+		"/invite Seyka", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"sup!", -- [1]
-			"Haikal-Proudmoore", -- [2]
+			"lust on pull", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Haikal-Proudmoore", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1044, -- [11]
-			"Player-5-0A6CC884", -- [12]
+			821, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Haikal-Proudmoore|r",
-			[51] = 1685249492,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1686809757,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [1]
 		{
-			"ty", -- [1]
-			"Haikal-Proudmoore", -- [2]
+			"man", -- [1]
+			"Koiler-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Haikal-Proudmoore", -- [5]
+			"Koiler-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1045, -- [11]
-			"Player-5-0A6CC884", -- [12]
+			842, -- [11]
+			"Player-3676-0DEEDDF1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Haikal-Proudmoore|r",
-			[51] = 1685249502,
+			[52] = "|cff00ff98Koiler-Area52|r",
+			[51] = 1686809958,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [2]
 		{
-			"thanks for the feasts", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"\"watch your step\" means frontal", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1057, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			852, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685249627,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1686809966,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [3]
 		{
-			"|cff71d5ff|Hspell:367500:0|h[Hideous Cackle]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"nice", -- [1]
+			"Nocturnus-BoreanTundra", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Nocturnus-BoreanTundra", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1081, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			853, -- [11]
+			"Player-86-0A6861FA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685249745,
+			[52] = "|cff33937fNocturnus-BoreanTundra|r",
+			[51] = 1686809967,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [4]
 		{
-			"2s for cage", -- [1]
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:406:20:10:124:11:0|h[Keystone: Halls of Infusion (20)]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -123,7 +123,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1085, -- [11]
+			854, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -131,143 +131,143 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685249701,
+			[51] = 1686809968,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [5]
 		{
-			"that sucked to drop combat", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:406:20:10:124:11:0|h[Keystone: Halls of Infusion (20)]|h|r", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1092, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			855, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685249723,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1686809968,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [6]
 		{
-			"|cff71d5ff|Hspell:382249:0|h[Earth Bolt]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"GG", -- [1]
+			"Kaborya-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Kaborya-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1094, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			856, -- [11]
+			"Player-3676-0E201591", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685249730,
+			[52] = "|cfff48cbaKaborya-Area52|r",
+			[51] = 1686809970,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [7]
 		{
-			"Interrupted Decay Speaker's |cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"most unfortunate", -- [1]
+			"Nocturnus-BoreanTundra", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Nocturnus-BoreanTundra", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1110, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			857, -- [11]
+			"Player-86-0A6861FA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685249768,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fNocturnus-BoreanTundra|r",
+			[51] = 1686809971,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [8]
 		{
-			"Withering Burst on Haikal", -- [1]
-			"Haikal-Proudmoore", -- [2]
+			"lol", -- [1]
+			"Koiler-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Haikal-Proudmoore", -- [5]
+			"Koiler-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1111, -- [11]
-			"Player-5-0A6CC884", -- [12]
+			858, -- [11]
+			"Player-3676-0DEEDDF1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Haikal-Proudmoore|r",
-			[51] = 1685249777,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff98Koiler-Area52|r",
+			[51] = 1686809972,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [9]
 		{
-			"Interrupted Bracken Warscourge's |cff71d5ff|Hspell:367500:0|h[Hideous Cackle]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"nice", -- [1]
+			"Nocturnus-BoreanTundra", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Nocturnus-BoreanTundra", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1115, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			859, -- [11]
+			"Player-86-0A6861FA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685249795,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fNocturnus-BoreanTundra|r",
+			[51] = 1686809977,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [10]
 		{
-			"|cff71d5ff|Hspell:367500:0|h[Hideous Cackle]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"grats", -- [1]
+			"Nocturnus-BoreanTundra", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Nocturnus-BoreanTundra", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1127, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			860, -- [11]
+			"Player-86-0A6861FA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685249832,
+			[52] = "|cff33937fNocturnus-BoreanTundra|r",
+			[51] = 1686809978,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [11]
 		{
-			"Interrupted Trickclaw Mystic's |cff71d5ff|Hspell:382249:0|h[Earth Bolt]|h|r!", -- [1]
+			"fml, no trinket ever", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -277,7 +277,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1136, -- [11]
+			865, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -285,55 +285,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685249859,
+			[51] = 1686809991,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [12]
 		{
-			"|cff71d5ff|Hspell:382249:0|h[Earth Bolt]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:405:18:10:124:11:0|h[Keystone: Brackenhide Hollow (18)]|h|r", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1137, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			866, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685249924,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1686809994,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [13]
 		{
-			"Interrupted Decay Speaker's |cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"gl in future keys", -- [1]
+			"Koiler-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Koiler-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1152, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			867, -- [11]
+			"Player-3676-0DEEDDF1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685249895,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff00ff98Koiler-Area52|r",
+			[51] = 1686809999,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [14]
 		{
-			"Withering Burst on Seyka", -- [1]
+			"u2", -- [1]
+			"Nocturnus-BoreanTundra", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nocturnus-BoreanTundra", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			869, -- [11]
+			"Player-86-0A6861FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fNocturnus-BoreanTundra|r",
+			[51] = 1686809949,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [15]
+		{
+			"night guys thank you", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -343,7 +365,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1156, -- [11]
+			871, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -351,77 +373,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685249901,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"|cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1158, -- [11]
-			"Player-5-09A36F5A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685249908,
+			[51] = 1686810042,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [16]
 		{
-			"Interrupted Trickclaw Mystic's |cff71d5ff|Hspell:382410:0|h[Witherbolt]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"anyone for Aquifon?", -- [1]
+			"Hashtagswerv-Eldre'Thalas", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"1. General - Zaralek Cavern", -- [4]
+			"Hashtagswerv-Eldre'Thalas", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Zaralek Cavern", -- [9]
 			0, -- [10]
-			1159, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			875, -- [11]
+			"Player-84-0964C582", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685249912,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff8788eeHashtagswerv-Eldre'Thalas|r",
+			[51] = 1686810081,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [17]
 		{
-			"Turn Evil cast on {Circle}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"|cffffff00|Hworldmap:2133:4828:7461|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r drops a pet", -- [1]
+			"Hashtagswerv-Eldre'Thalas", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"1. General - Zaralek Cavern", -- [4]
+			"Hashtagswerv-Eldre'Thalas", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Zaralek Cavern", -- [9]
 			0, -- [10]
-			1169, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			876, -- [11]
+			"Player-84-0964C582", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685249994,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff8788eeHashtagswerv-Eldre'Thalas|r",
+			[51] = 1686810085,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [18]
 		{
-			"Interrupted Incorporeal Being's |cff71d5ff|Hspell:408805:0|h[Destabilize]|h|r!", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:17832:Player-3661-090EB9B6:1:6:16:23:4294967295:4294967295:4294967295:4294967295|h[Sniffen Around]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -431,7 +431,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1171, -- [11]
+			197, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -439,11 +439,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685249995,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1686953492,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [19]
 		{
-			"Interrupted Trickclaw Mystic's |cff71d5ff|Hspell:382249:0|h[Earth Bolt]|h|r!", -- [1]
+			"!keys", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -453,7 +453,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1177, -- [11]
+			17, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -461,11 +461,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685249954,
+			[51] = 1687064132,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [20]
 		{
-			"Interrupted Trickclaw Mystic's |cff71d5ff|Hspell:382249:0|h[Earth Bolt]|h|r!", -- [1]
+			"Astral Keys: |cffa335ee|Hkeystone:180653:405:18:10:124:11:0|h[Keystone: Brackenhide Hollow (18)]|h|r", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -475,7 +475,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1179, -- [11]
+			18, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -483,11 +483,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685249958,
+			[51] = 1687064132,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"Interrupted Bracken Warscourge's |cff71d5ff|Hspell:367500:0|h[Hideous Cackle]|h|r!", -- [1]
+			"Astral Keys: |cffa335ee|Hkeystone:180653:406:20:10:124:11:0|h[Keystone: Halls of Infusion (20)]|h|r", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -497,7 +497,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1192, -- [11]
+			19, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -505,55 +505,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250027,
+			[51] = 1687064132,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [22]
 		{
-			"Gashtooth first plz", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"hi thanks for the invite", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1202, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			35, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250107,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687064457,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [23]
 		{
-			"Interrupted Tricktotem's |cff71d5ff|Hspell:378155:0|h[Earth Bolt]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"np evening yall", -- [1]
+			"Valyriá-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Valyriá-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1204, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			36, -- [11]
+			"Player-57-0D7A10C7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250060,
+			[52] = "|cffffffffValyriá-Illidan|r",
+			[51] = 1687064405,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [24]
 		{
-			"REFLECTED |cff71d5ff|Hspell:378155:0|h[Earth Bolt]|h|r 190.18 K!", -- [1]
+			"brb, bio", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -563,7 +563,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1209, -- [11]
+			37, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -571,55 +571,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250087,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1687064415,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [25]
 		{
-			"{rt2} Lust Detector: Thezdin used |cff71d5ff|Hspell:381301:0|h[Feral Hide Drums]|h|r and increased +15% haste on party!! {rt2}", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"thanks for the feast", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1210, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			51, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685250092,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687064727,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [26]
 		{
-			"Interrupted Tricktotem's |cff71d5ff|Hspell:377950:0|h[Greater Healing Rapids]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"ofc ^^", -- [1]
+			"Valyriá-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Valyriá-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1212, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			52, -- [11]
+			"Player-57-0D7A10C7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250093,
+			[52] = "|cffffffffValyriá-Illidan|r",
+			[51] = 1687064732,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [27]
 		{
-			"Interrupted Tricktotem's |cff71d5ff|Hspell:377950:0|h[Greater Healing Rapids]|h|r!", -- [1]
+			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374045:0|h[Expulse]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -629,7 +629,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1219, -- [11]
+			55, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -637,33 +637,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250176,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1687064774,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [28]
 		{
-			"|cff71d5ff|Hspell:378155:0|h[Earth Bolt]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1220, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			60, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685250177,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687064923,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [29]
 		{
-			"REFLECTED |cff71d5ff|Hspell:378155:0|h[Earth Bolt]|h|r 190.18 K!", -- [1]
+			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374045:0|h[Expulse]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -673,7 +673,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1221, -- [11]
+			62, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -681,11 +681,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250125,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1687064938,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [30]
 		{
-			"REFLECTED |cff71d5ff|Hspell:378155:0|h[Earth Bolt]|h|r !", -- [1]
+			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374045:0|h[Expulse]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -695,7 +695,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1222, -- [11]
+			68, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -703,77 +703,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250125,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1687064914,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [31]
 		{
-			"|cff71d5ff|Hspell:378155:0|h[Earth Bolt]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1227, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			73, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685250149,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687064945,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [32]
 		{
-			"Savage Charge on Kellindor", -- [1]
-			"Kellindor-Aggramar", -- [2]
+			"lust this", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kellindor-Aggramar", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1232, -- [11]
-			"Player-106-0483E190", -- [12]
+			76, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffKellindor-Aggramar|r",
-			[51] = 1685250226,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065027,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"|cff71d5ff|Hspell:373897:0|h[Decaying Roots]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1244, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			79, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685250208,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065032,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [34]
 		{
-			"jesus, sorry", -- [1]
+			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -783,7 +783,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1255, -- [11]
+			85, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -791,11 +791,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250247,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1687065069,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [35]
 		{
-			"Interrupted Decayed Elder's |cff71d5ff|Hspell:373897:0|h[Decaying Roots]|h|r!", -- [1]
+			"this pull is bullshit", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -805,7 +805,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1263, -- [11]
+			91, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -813,99 +813,143 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250281,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1687065173,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [36]
 		{
-			"|cff71d5ff|Hspell:373897:0|h[Decaying Roots]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"the beams have to die stupid fast", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1276, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			92, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685250339,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065179,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [37]
 		{
-			"|cff71d5ff|Hspell:382712:0|h[Necrotic Breath]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"i will kick moon", -- [1]
+			"Valyriá-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Valyriá-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1282, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			93, -- [11]
+			"Player-57-0D7A10C7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685250361,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffffffffValyriá-Illidan|r",
+			[51] = 1687065121,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [38]
 		{
-			"Interrupted Decayed Elder's |cff71d5ff|Hspell:373897:0|h[Decaying Roots]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"someone get circle", -- [1]
+			"Valyriá-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Valyriá-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1298, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			97, -- [11]
+			"Player-57-0D7A10C7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250464,
+			[52] = "|cffffffffValyriá-Illidan|r",
+			[51] = 1687065124,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [39]
 		{
-			"takn you want anyone else to get eatyen?", -- [1]
-			"Haikal-Proudmoore", -- [2]
+			"dragon's up", -- [1]
+			"Sennia-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Haikal-Proudmoore", -- [5]
+			"Sennia-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1301, -- [11]
-			"Player-5-0A6CC884", -- [12]
+			101, -- [11]
+			"Player-57-0B136906", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Haikal-Proudmoore|r",
-			[51] = 1685250475,
+			[52] = "|cffc41e3aSennia-Illidan|r",
+			[51] = 1687065127,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [40]
 		{
-			"I should be fine x2", -- [1]
+			"bshout fort", -- [1]
+			"Sennia-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sennia-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			106, -- [11]
+			"Player-57-0B136906", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aSennia-Illidan|r",
+			[51] = 1687065135,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [41]
+		{
+			"i have X", -- [1]
+			"Valyriá-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Valyriá-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-57-0D7A10C7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffValyriá-Illidan|r",
+			[51] = 1687065138,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [42]
+		{
+			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374045:0|h[Expulse]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -915,7 +959,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1303, -- [11]
+			108, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -923,55 +967,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250428,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [41]
-		{
-			"Turn Evil cast on {Circle}", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1317, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685250481,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"|cff71d5ff|Hspell:381770:0|h[Gushing Ooze]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1336, -- [11]
-			"Player-5-09A36F5A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685250542,
+			[51] = 1687065152,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [43]
 		{
-			"Interrupted Filth Caller's |cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r!", -- [1]
+			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -981,7 +981,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1397, -- [11]
+			109, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -989,275 +989,253 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250875,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1687065182,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [44]
 		{
-			"|cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"Power Overload on Sennia", -- [1]
+			"Sennia-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Sennia-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1398, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			113, -- [11]
+			"Player-57-0B136906", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685250880,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc41e3aSennia-Illidan|r",
+			[51] = 1687065245,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"Withering Contagion on Menbo", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"Power Overload on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1403, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			114, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685250952,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687065245,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"REFLECTED |cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r !", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"3", -- [1]
+			"Sennia-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Sennia-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1405, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			115, -- [11]
+			"Player-57-0B136906", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250959,
+			[52] = "|cffc41e3aSennia-Illidan|r",
+			[51] = 1687065248,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"REFLECTED |cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r 165.37 K!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"3", -- [1]
+			"Manties-Frostmourne", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Manties-Frostmourne", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1406, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			116, -- [11]
+			"Player-3725-00C4F864", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250900,
+			[52] = "|cff0070ddManties-Frostmourne|r",
+			[51] = 1687065248,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"|cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"2", -- [1]
+			"Sennia-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Sennia-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1407, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			117, -- [11]
+			"Player-57-0B136906", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685250905,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc41e3aSennia-Illidan|r",
+			[51] = 1687065249,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"Withering Contagion on Seyka", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"1", -- [1]
+			"Sennia-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Sennia-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1408, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			118, -- [11]
+			"Player-57-0B136906", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685250908,
+			[52] = "|cffc41e3aSennia-Illidan|r",
+			[51] = 1687065250,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [50]
 		{
-			"Interrupted Filth Caller's |cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Power Overload on Manties", -- [1]
+			"Manties-Frostmourne", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Manties-Frostmourne", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1409, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			123, -- [11]
+			"Player-3725-00C4F864", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250916,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddManties-Frostmourne|r",
+			[51] = 1687065274,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"Withering Contagion on Haikal", -- [1]
-			"Haikal-Proudmoore", -- [2]
+			"2", -- [1]
+			"Manties-Frostmourne", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Haikal-Proudmoore", -- [5]
+			"Manties-Frostmourne", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1411, -- [11]
-			"Player-5-0A6CC884", -- [12]
+			127, -- [11]
+			"Player-3725-00C4F864", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Haikal-Proudmoore|r",
-			[51] = 1685250924,
+			[52] = "|cff0070ddManties-Frostmourne|r",
+			[51] = 1687065337,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"Interrupted Filth Caller's |cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"1", -- [1]
+			"Manties-Frostmourne", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Manties-Frostmourne", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1417, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			128, -- [11]
+			"Player-3725-00C4F864", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685250933,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddManties-Frostmourne|r",
+			[51] = 1687065338,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"Interrupted Filth Caller's |cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"Power Overload on Valyriá", -- [1]
+			"Valyriá-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Valyriá-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1420, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			135, -- [11]
+			"Player-57-0D7A10C7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685251008,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffValyriá-Illidan|r",
+			[51] = 1687065397,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"|cff71d5ff|Hspell:367500:0|h[Hideous Cackle]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"Power Overload on Sennia", -- [1]
+			"Sennia-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Sennia-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1421, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			136, -- [11]
+			"Player-57-0B136906", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685251012,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc41e3aSennia-Illidan|r",
+			[51] = 1687065397,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"|cff71d5ff|Hspell:367500:0|h[Hideous Cackle]|h|r interrupted!", -- [1]
-			"Menbo-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1427, -- [11]
-			"Player-5-09A36F5A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685250981,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
-		{
-			"Turn Evil cast on {Circle}", -- [1]
+			"Power Overload on Seyka", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1267,7 +1245,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1435, -- [11]
+			137, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1275,77 +1253,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685251002,
+			[51] = 1687065398,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [56]
+		{
+			"3", -- [1]
+			"Sennia-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sennia-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			138, -- [11]
+			"Player-57-0B136906", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aSennia-Illidan|r",
+			[51] = 1687065400,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"Interrupted Bracken Warscourge's |cff71d5ff|Hspell:367500:0|h[Hideous Cackle]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"3", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1439, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			139, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685251079,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687065401,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [58]
 		{
-			"Withering Contagion on Kellindor", -- [1]
-			"Kellindor-Aggramar", -- [2]
+			"2", -- [1]
+			"Sennia-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kellindor-Aggramar", -- [5]
+			"Sennia-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1442, -- [11]
-			"Player-106-0483E190", -- [12]
+			140, -- [11]
+			"Player-57-0B136906", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffKellindor-Aggramar|r",
-			[51] = 1685251023,
+			[52] = "|cffc41e3aSennia-Illidan|r",
+			[51] = 1687065401,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"Interrupted Filth Caller's |cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"1", -- [1]
+			"Sennia-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Sennia-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1452, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			146, -- [11]
+			"Player-57-0B136906", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685251039,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc41e3aSennia-Illidan|r",
+			[51] = 1687065370,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"Interrupted Filth Caller's |cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r!", -- [1]
+			"i fatfingerd that", -- [1]
 			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1355,7 +1355,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1454, -- [11]
+			154, -- [11]
 			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1363,55 +1363,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685251047,
+			[51] = 1687065475,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [61]
 		{
-			"Withering Contagion on Menbo", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"I almost killed priest too :/", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1455, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			155, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685251050,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065425,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [62]
 		{
-			"Interrupted Filth Caller's |cff71d5ff|Hspell:382474:0|h[Decay Surge]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"last dispel", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1458, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			156, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685251061,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687065427,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [63]
 		{
-			"Interrupted Bracken Warscourge's |cff71d5ff|Hspell:367500:0|h[Hideous Cackle]|h|r!", -- [1]
+			"Interrupted Primalist Shocktrooper's |cff71d5ff|Hspell:395694:0|h[Elemental Focus]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1421,7 +1421,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1462, -- [11]
+			159, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1429,121 +1429,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685251089,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1687065438,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [64]
 		{
-			"{rt2} Lust Detector: Thezdin used |cff71d5ff|Hspell:381301:0|h[Feral Hide Drums]|h|r and increased +15% haste on party!! {rt2}", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"Interrupted Primalist Shocktrooper's |cff71d5ff|Hspell:395694:0|h[Elemental Focus]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1464, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			160, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685251109,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065519,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [65]
 		{
-			"Turn Evil cast on {Circle}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Interrupted Dazzling Dragonfly's |cff71d5ff|Hspell:374563:0|h[Dazzle]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1486, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			164, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685251229,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065507,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [66]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:404:18:9:136:123:0|h[Keystone: Neltharus (18)]|h|r", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Interrupted Dazzling Dragonfly's |cff71d5ff|Hspell:374563:0|h[Dazzle]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1498, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			165, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685251266,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065586,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [67]
 		{
-			"nice", -- [1]
-			"Haikal-Proudmoore", -- [2]
+			"Interrupted Dazzling Dragonfly's |cff71d5ff|Hspell:374563:0|h[Dazzle]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Haikal-Proudmoore", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1499, -- [11]
-			"Player-5-0A6CC884", -- [12]
+			168, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Haikal-Proudmoore|r",
-			[51] = 1685251268,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065571,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [68]
 		{
-			"gg", -- [1]
-			"Kellindor-Aggramar", -- [2]
+			"Interrupted Primalist Shocktrooper's |cff71d5ff|Hspell:395694:0|h[Elemental Focus]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kellindor-Aggramar", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1502, -- [11]
-			"Player-106-0483E190", -- [12]
+			172, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffKellindor-Aggramar|r",
-			[51] = 1685251278,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065611,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [69]
 		{
-			"gg, thx all!", -- [1]
+			"Interrupted Primalist Shocktrooper's |cff71d5ff|Hspell:395694:0|h[Elemental Focus]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1553,7 +1553,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1504, -- [11]
+			173, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1561,209 +1561,209 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685251281,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1687065631,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [70]
 		{
-			"thx grp", -- [1]
-			"Menbo-Proudmoore", -- [2]
+			"Interrupted Flamecaller Aymi's |cff71d5ff|Hspell:374706:0|h[Pyretic Burst]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Menbo-Proudmoore", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1505, -- [11]
-			"Player-5-09A36F5A", -- [12]
+			177, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMenbo-Proudmoore|r",
-			[51] = 1685251285,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065712,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [71]
 		{
-			"gg", -- [1]
-			"Haikal-Proudmoore", -- [2]
+			"Interrupted Flamecaller Aymi's |cff71d5ff|Hspell:374706:0|h[Pyretic Burst]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Haikal-Proudmoore", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1506, -- [11]
-			"Player-5-0A6CC884", -- [12]
+			178, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Haikal-Proudmoore|r",
-			[51] = 1685251285,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065668,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [72]
 		{
-			"thanks friends", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Interrupted Flamecaller Aymi's |cff71d5ff|Hspell:374706:0|h[Pyretic Burst]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1510, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			179, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685251300,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065694,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [73]
 		{
-			"heya", -- [1]
-			"Zalz-Kel'Thuzad", -- [2]
+			"Interrupted Flamecaller Aymi's |cff71d5ff|Hspell:374699:0|h[Cauterize]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zalz-Kel'Thuzad", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			290, -- [11]
-			"Player-3693-0860B19D", -- [12]
+			180, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebZalz-Kel'Thuzad|r",
-			[51] = 1685319371,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065721,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [74]
 		{
-			"o/", -- [1]
-			"Cythisia-MoonGuard", -- [2]
+			"Belly Slam on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cythisia-MoonGuard", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			291, -- [11]
-			"Player-3675-0A5A8971", -- [12]
+			183, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCythisia-MoonGuard|r",
-			[51] = 1685319375,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687065798,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"heya", -- [1]
-			"Monkeynips-Thrall", -- [2]
+			"Belly Slam on Valyriá", -- [1]
+			"Valyriá-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Monkeynips-Thrall", -- [5]
+			"Valyriá-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			293, -- [11]
-			"Player-3678-0D466858", -- [12]
+			186, -- [11]
+			"Player-57-0D7A10C7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dMonkeynips-Thrall|r",
-			[51] = 1685319403,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffffffffValyriá-Illidan|r",
+			[51] = 1687065897,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [76]
 		{
-			"\\o", -- [1]
-			"Cythisia-MoonGuard", -- [2]
+			"plz plz plz help interrupt", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cythisia-MoonGuard", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			294, -- [11]
-			"Player-3675-0A5A8971", -- [12]
+			189, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCythisia-MoonGuard|r",
-			[51] = 1685319407,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065907,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [77]
 		{
-			"|cffa335ee|Hkeystone:180653:406:16:9:136:123:0|h[Keystone: Halls of Infusion (16)]|h|r", -- [1]
-			"Cythisia-MoonGuard", -- [2]
+			"zerg dragons", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cythisia-MoonGuard", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			308, -- [11]
-			"Player-3675-0A5A8971", -- [12]
+			190, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCythisia-MoonGuard|r",
-			[51] = 1685319566,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687065910,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [78]
 		{
-			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374045:0|h[Expulse]|h|r!", -- [1]
-			"Thezdin-Hyjal", -- [2]
+			"stack for MD PLS", -- [1]
+			"Valyriá-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezdin-Hyjal", -- [5]
+			"Valyriá-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			316, -- [11]
-			"Player-3661-090EB9B6", -- [12]
+			191, -- [11]
+			"Player-57-0D7A10C7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319612,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffffffffValyriá-Illidan|r",
+			[51] = 1687065913,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [79]
 		{
-			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
+			"Interrupted Primalist Galesinger's |cff71d5ff|Hspell:385036:0|h[Wind Buffet]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1773,7 +1773,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			348, -- [11]
+			197, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1781,11 +1781,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319674,
+			[51] = 1687066042,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [80]
 		{
-			"Interrupted Containment Apparatus's |cff71d5ff|Hspell:374045:0|h[Expulse]|h|r!", -- [1]
+			"Interrupted Primalist Galesinger's |cff71d5ff|Hspell:385036:0|h[Wind Buffet]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1795,7 +1795,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			364, -- [11]
+			205, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1803,55 +1803,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319716,
+			[51] = 1687066127,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [81]
 		{
-			"Turn Evil cast on {Circle}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Interrupted Primalist Icecaller's |cff71d5ff|Hspell:376171:0|h[Refreshing Tides]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			385, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			211, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685319744,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687066156,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [82]
 		{
-			"Interrupted Incorporeal Being's |cff71d5ff|Hspell:408805:0|h[Destabilize]|h|r!", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"fort please", -- [1]
+			"Sennia-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Sennia-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			390, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			212, -- [11]
+			"Player-57-0B136906", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1685319759,
+			[52] = "|cffc41e3aSennia-Illidan|r",
+			[51] = 1687066252,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [83]
 		{
-			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
+			"lust this next one", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1861,7 +1861,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			391, -- [11]
+			213, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1869,11 +1869,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319759,
+			[51] = 1687066255,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [84]
 		{
-			"Interrupted Incorporeal Being's |cff71d5ff|Hspell:408805:0|h[Destabilize]|h|r!", -- [1]
+			"dragon then ice callers", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1883,7 +1883,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			395, -- [11]
+			216, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1891,11 +1891,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319792,
+			[51] = 1687066217,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [85]
 		{
-			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
+			"Interrupted Aqua Rager's |cff71d5ff|Hspell:377384:0|h[Boiling Rage]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1905,7 +1905,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			403, -- [11]
+			232, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1913,11 +1913,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319810,
+			[51] = 1687066473,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [86]
 		{
-			"we should sheep/TurnEvil every incorp", -- [1]
+			"Interrupted Aqua Rager's |cff71d5ff|Hspell:377341:0|h[Tidal Divergence]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1927,7 +1927,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			417, -- [11]
+			240, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1935,11 +1935,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319830,
+			[51] = 1687066629,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [87]
 		{
-			"shouldn't need to be stunning or interrupting", -- [1]
+			"Interrupted Aqua Rager's |cff71d5ff|Hspell:377384:0|h[Boiling Rage]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1949,7 +1949,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			418, -- [11]
+			241, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1957,99 +1957,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319899,
+			[51] = 1687066737,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [88]
 		{
-			"i forgot", -- [1]
-			"Cythisia-MoonGuard", -- [2]
+			"Interrupted Aqua Rager's |cff71d5ff|Hspell:377341:0|h[Tidal Divergence]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cythisia-MoonGuard", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			419, -- [11]
-			"Player-3675-0A5A8971", -- [12]
+			242, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCythisia-MoonGuard|r",
-			[51] = 1685319841,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687066693,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"yeah i dont have a good way to deal with them", -- [1]
-			"Monkeynips-Thrall", -- [2]
+			"Interrupted Aqua Rager's |cff71d5ff|Hspell:377384:0|h[Boiling Rage]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Monkeynips-Thrall", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			420, -- [11]
-			"Player-3678-0D466858", -- [12]
+			250, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dMonkeynips-Thrall|r",
-			[51] = 1685319843,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687066919,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [90]
 		{
-			"uh hibernate", -- [1]
-			"Cythisia-MoonGuard", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cythisia-MoonGuard", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			421, -- [11]
-			"Player-3675-0A5A8971", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCythisia-MoonGuard|r",
-			[51] = 1685319844,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [91]
-		{
-			"i can go respec", -- [1]
-			"Cythisia-MoonGuard", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cythisia-MoonGuard", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			423, -- [11]
-			"Player-3675-0A5A8971", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCythisia-MoonGuard|r",
-			[51] = 1685319851,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
-		{
-			"it's fine, mage/pally can get 90% of them", -- [1]
+			"Interrupted Aqua Rager's |cff71d5ff|Hspell:377384:0|h[Boiling Rage]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2059,7 +2015,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			424, -- [11]
+			251, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2067,11 +2023,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319860,
+			[51] = 1687066963,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [91]
+		{
+			"Interrupted Aqua Rager's |cff71d5ff|Hspell:377341:0|h[Tidal Divergence]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			254, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687066941,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [92]
+		{
+			"Interrupted Infuser Sariya's |cff71d5ff|Hspell:377402:0|h[Aqueous Barrier]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezdin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			265, -- [11]
+			"Player-3661-090EB9B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687067143,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"just need to actually", -- [1]
+			"Interrupted Infuser Sariya's |cff71d5ff|Hspell:377402:0|h[Aqueous Barrier]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2081,7 +2081,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			426, -- [11]
+			266, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2089,11 +2089,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319866,
+			[51] = 1687067101,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			"Interrupted Refti Defender's |cff71d5ff|Hspell:374339:0|h[Demoralizing Shout]|h|r!", -- [1]
+			"Interrupted Infuser Sariya's |cff71d5ff|Hspell:377402:0|h[Aqueous Barrier]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2103,7 +2103,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			427, -- [11]
+			267, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2111,11 +2111,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319867,
+			[51] = 1687067120,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [95]
 		{
-			"lol", -- [1]
+			"Interrupted Infuser Sariya's |cff71d5ff|Hspell:377402:0|h[Aqueous Barrier]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2125,7 +2125,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			446, -- [11]
+			268, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2133,55 +2133,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685319896,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1687067197,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [96]
 		{
-			"relogging rq", -- [1]
-			"Stönertank-Area52", -- [2]
+			"Interrupted Infuser Sariya's |cff71d5ff|Hspell:377402:0|h[Aqueous Barrier]|h|r!", -- [1]
+			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Stönertank-Area52", -- [5]
+			"Thezdin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			457, -- [11]
-			"Player-3676-0DD41A5E", -- [12]
+			271, -- [11]
+			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dStönertank-Area52|r",
-			[51] = 1685320120,
+			[52] = "|cffc69b6dThezdin|r",
+			[51] = 1687067216,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [97]
 		{
-			"already inside", -- [1]
-			"Feltodeaths-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Feltodeaths-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			465, -- [11]
-			"Player-57-0D64398C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Feltodeaths-Illidan|r",
-			[51] = 1685320257,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
-		{
-			"same", -- [1]
+			"Interrupted Infuser Sariya's |cff71d5ff|Hspell:377402:0|h[Aqueous Barrier]|h|r!", -- [1]
 			"Thezdin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2191,7 +2169,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			466, -- [11]
+			272, -- [11]
 			"Player-3661-090EB9B6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2199,8 +2177,30 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dThezdin|r",
-			[51] = 1685320201,
+			[51] = 1687067174,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [98]
+		{
+			"ah well", -- [1]
+			"Manties-Frostmourne", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Manties-Frostmourne", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			279, -- [11]
+			"Player-3725-00C4F864", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddManties-Frostmourne|r",
+			[51] = 1687067256,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [99]
 	},
 }

@@ -1,11 +1,4 @@
 Version: 1
-Frame: DBMWarning
-FrameLevel: 1
-Anchor: TOP
-X: 4
-Y: -250
-W: 1
-H: 1
 Frame: PlayerPowerBarAlt
 FrameLevel: 2
 Anchor: TOP

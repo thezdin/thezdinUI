@@ -5,7 +5,7 @@ PawnCommon = {
 	["ShowBagUpgradeAdvisor"] = true,
 	["ShowItemID"] = false,
 	["ShowRelicUpgrades"] = false,
-	["ShowValuesForUpgradesOnly"] = true,
+	["ShowValuesForUpgradesOnly"] = false,
 	["IgnoreGemsWhileLeveling"] = true,
 	["ShowItemLevelUpgrades"] = true,
 	["ShownGettingStarted"] = true,
@@ -271,6 +271,21 @@ PawnCommon = {
 			["SpecID"] = 3,
 			["UnenchantedColor"] = "bfb74e",
 		},
+		["\"MrRobot\":DEATHKNIGHT3"] = {
+			["IconTexturePath"] = 135775,
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "ff4d6b",
+			["ClassID"] = 6,
+			["LocalizedName"] = "Death Knight: Unholy",
+			["DoNotShow1HUpgrades"] = true,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["SpecID"] = 3,
+			["UnenchantedColor"] = "bf3950",
+		},
 		["\"MrRobot\":WARRIOR3"] = {
 			["IconTexturePath"] = 132341,
 			["PerCharacterOptions"] = {
@@ -505,6 +520,9 @@ PawnCommon = {
 		["\"MrRobot\":WARRIOR2"] = {
 			["IconTexturePath"] = 132347,
 			["PerCharacterOptions"] = {
+				["Thezdin-Hyjal"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "c69b6d",
 			["ClassID"] = 1,
@@ -547,20 +565,36 @@ PawnCommon = {
 			["SpecID"] = 2,
 			["UnenchantedColor"] = "bf3950",
 		},
-		["\"MrRobot\":DEATHKNIGHT3"] = {
-			["IconTexturePath"] = 135775,
-			["PerCharacterOptions"] = {
+		["noxxic-legacy-warrior-protection"] = {
+			["IconTexturePath"] = 132341,
+			["Values"] = {
+				["Str"] = 4.67,
+				["Leech"] = 0,
+				["CritRating"] = 2.66,
+				["Bonusarmor"] = 0.25,
+				["HasteRating"] = 2.65,
+				["MasteryRating"] = 2.25,
+				["IsCrossbow"] = -1000000,
+				["IsGun"] = -1000000,
+				["IsFrill"] = -1000000,
+				["IsWarglaive"] = -1000000,
+				["IsOffHand"] = -1000000,
+				["Versatility"] = 2.49,
+				["IsBow"] = -1000000,
+				["Stamina"] = 0,
+				["Dps"] = 25.49,
+				["IsWand"] = -1000000,
 			},
-			["Color"] = "ff4d6b",
-			["ClassID"] = 6,
-			["LocalizedName"] = "Death Knight: Unholy",
-			["DoNotShow1HUpgrades"] = true,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
+			["Color"] = "c69b6d",
+			["ClassID"] = 1,
+			["Role"] = "TANK",
 			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
 			["SpecID"] = 3,
-			["UnenchantedColor"] = "bf3950",
+			["PerCharacterOptions"] = {
+				["Thezdin-Hyjal"] = {
+					["Visible"] = true,
+				},
+			},
 		},
 		["\"MrRobot\":DEMONHUNTER2"] = {
 			["IconTexturePath"] = 1247265,
@@ -583,6 +617,9 @@ PawnCommon = {
 		["\"MrRobot\":WARRIOR1"] = {
 			["IconTexturePath"] = 132355,
 			["PerCharacterOptions"] = {
+				["Thezdin-Hyjal"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "c69b6d",
 			["ClassID"] = 1,
@@ -598,10 +635,10 @@ PawnCommon = {
 		["\"MrRobot\":DRUID3"] = {
 			["IconTexturePath"] = 132276,
 			["PerCharacterOptions"] = {
-				["Thezdruid-Hyjal"] = {
+				["Thez-Hyjal"] = {
 					["Visible"] = true,
 				},
-				["Thez-Hyjal"] = {
+				["Thezdruid-Hyjal"] = {
 					["Visible"] = true,
 				},
 			},

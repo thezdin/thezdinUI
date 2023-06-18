@@ -1,0 +1,56 @@
+
+BigWigs3DB = {
+	["namespaces"] = {
+		["BigWigs_Plugins_Victory"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["BigWigs_Plugins_Colors"] = {
+		},
+		["BigWigs_Plugins_Wipe"] = {
+		},
+		["BigWigs_Plugins_BossBlock"] = {
+		},
+		["BigWigs_Plugins_Bars"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BigWigsAnchor_width"] = 220.0000762939453,
+					["BigWigsEmphasizeAnchor_width"] = 319.9999694824219,
+					["BigWigsEmphasizeAnchor_height"] = 22.00006675720215,
+					["BigWigsAnchor_height"] = 15.9999942779541,
+				},
+			},
+		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Plugins_AltPower"] = {
+		},
+		["BigWigs_Plugins_Sounds"] = {
+		},
+		["BigWigs_Plugins_Proximity"] = {
+		},
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Plugins_AutoReply"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+		},
+		["BigWigs_Plugins_InfoBox"] = {
+		},
+		["BigWigs_Plugins_Pull"] = {
+		},
+		["BigWigs_Plugins_Countdown"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Thezdin - Hyjal"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+BigWigsIconDB = {
+}
+BigWigsStatsDB = {
+}

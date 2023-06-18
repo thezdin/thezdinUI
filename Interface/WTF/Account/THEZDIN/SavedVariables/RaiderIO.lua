@@ -31,23 +31,15 @@ RaiderIO_Config = {
 	["hidePersonalRaiderIOProfile"] = false,
 	["showClientGuildBest"] = true,
 }
-RaiderIO_LastCharacter = "us-Thezdin-hyjal"
+RaiderIO_LastCharacter = "us-Thezidari-hyjal"
 RaiderIO_MissingCharacters = {
-	["us-Executor of the Caliph-hyjal"] = true,
-	["us-Temple Adept-hyjal"] = true,
-	["us-nertank-area-52"] = true,
-	["us-Incorporeal Being-hyjal"] = true,
-	["us-Davernz-hyjal"] = true,
-	["us-party5-hyjal"] = true,
-	["us-Thezdin-hyjal"] = true,
-	["us-Asaad-hyjal"] = true,
-	["us-Gaylibrul-area-52"] = true,
-	["us-Servant of Asaad-hyjal"] = true,
+	["us-Damasen-whisperwind"] = true,
+	["us-Magisen-hyjal"] = true,
 	["us-Seyka-hyjal"] = true,
-	["us-Skyfall Nova-hyjal"] = true,
-	["us-Young Storm Dragon-hyjal"] = true,
-	["us-Turbulent Squall-hyjal"] = true,
-	["us-Grounding Field-hyjal"] = true,
+	["us-Ailmorick-ysera"] = true,
+	["us-Bakesie-hyjal"] = true,
+	["us-Trixxa-terokkar"] = true,
+	["us-Sarcini-hyjal"] = true,
 }
 RaiderIO_MissingServers = {
 }
