@@ -11,7 +11,6 @@
 
     pip install --user -r requirements.txt
     cp .env.example .env
-    python bin/thezui
 
 ## Config via  .env
 
@@ -22,3 +21,7 @@ Open `.env` and set values
 - WOW_PATH=/path/to/WoW
 - SERVER={SERVER}-US
 - CHARACTER=
+
+## Run
+
+    python bin/thezui
