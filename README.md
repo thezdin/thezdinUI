@@ -1,4 +1,4 @@
-# Thezdin WoW UI Helpers
+# Thezdin WoW Interface
 
 ## Requirements
 
