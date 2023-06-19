@@ -11,6 +11,7 @@
 
     pip install --user -r requirements.txt
     cp .env.example .env
+    python bin/thezui
 
 ## Config via  .env
 
