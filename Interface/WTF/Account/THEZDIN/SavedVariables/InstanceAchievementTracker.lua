@@ -5,23 +5,23 @@ AchievementTrackerOptions = {
 	["trackingFrameXPos"] = 1733.444213867188,
 	["enableAutomaticCombatLogging"] = false,
 	["greyOutCompletedAchievements"] = false,
-	["enableAddon"] = true,
+	["enableAddon"] = false,
 	["trackingFrameYPos"] = 848.1664428710938,
 	["InfoFramex"] = -596.1116027832031,
 	["onlyTrackMissingAchievements"] = true,
 	["minimapPos"] = 91.77158653982137,
 	["toggleSoundFailed"] = false,
 	["displayInfoFrame"] = false,
+	["toggleSound"] = false,
 	["InfoFramescale"] = 1,
-	["announceTrackedAchievements"] = true,
 	["hideCompletedAchievements"] = true,
 	["InfoFramepoint"] = "CENTER",
-	["InfoFramey"] = -115.0003662109375,
+	["announceToRaidWarning"] = true,
 	["changeMinimapIcon"] = false,
 	["trackAchievementsAutomatically"] = false,
-	["announceToRaidWarning"] = true,
+	["InfoFramey"] = -115.0003662109375,
 	["trackAchievementsInBlizzardUI"] = true,
-	["toggleSound"] = false,
+	["announceTrackedAchievements"] = true,
 }
 AchievementTrackerDebug = {
 	nil, -- [1]
@@ -20624,101 +20624,101 @@ AchievementTrackerDebug = {
 	nil, -- [20598]
 	nil, -- [20599]
 	nil, -- [20600]
-	"28/11/2022 23:42 [DEBUG] Function failed, error text: ...nstanceAchievementTracker/AchievementTrackerCore.lua:3846: attempt to call method 'clearVariables' (a nil value).", -- [20601]
-	"28/11/2022 23:42 [DEBUG] Clearing Instance Variables if exists", -- [20602]
-	"28/11/2022 23:42 [DEBUG] Function failed, error text: ...nstanceAchievementTracker/AchievementTrackerCore.lua:3854: attempt to call method 'ClearVariables' (a nil value).", -- [20603]
-	"28/11/2022 23:42 [DEBUG] Resetting Global Variables", -- [20604]
-	"28/11/2022 23:42 [DEBUG] InfoFrame does not need to be reset", -- [20605]
-	"28/11/2022 23:42 [DEBUG] Resetting PlayerRank", -- [20606]
-	"28/11/2022 23:42 [DEBUG] InfoFrame was not active", -- [20607]
-	"28/11/2022 23:42 [DEBUG] 6", -- [20608]
-	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [20609]
-	"0/0/1999 -1:-1 [DEBUG] Version: 4.6.0", -- [20610]
-	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [20611]
-	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [20612]
-	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [20613]
-	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20614]
-	"29/11/2022 8:49 [DEBUG] Showing Minimap Icon", -- [20615]
-	"29/11/2022 8:49 [DEBUG] ---IAT Runtime---", -- [20616]
-	"29/11/2022 8:49 [DEBUG] Version: 4.6.0", -- [20617]
-	"29/11/2022 8:49 [DEBUG] Attempting to load from local NPC Cache", -- [20618]
-	"29/11/2022 8:49 [DEBUG] Generating NPC Cache...", -- [20619]
-	"29/11/2022 8:49 [DEBUG] Enabling Addon", -- [20620]
-	"29/11/2022 8:49 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20621]
-	"29/11/2022 8:50 [DEBUG] Showing Minimap Icon", -- [20622]
-	"29/11/2022 8:57 [DEBUG] ---IAT Runtime---", -- [20623]
-	"29/11/2022 8:57 [DEBUG] Version: 4.6.0", -- [20624]
-	"29/11/2022 8:57 [DEBUG] Attempting to load from local NPC Cache", -- [20625]
-	"29/11/2022 8:57 [DEBUG] Generating NPC Cache...", -- [20626]
-	"29/11/2022 8:57 [DEBUG] Enabling Addon", -- [20627]
-	"29/11/2022 8:57 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20628]
-	"29/11/2022 8:58 [DEBUG] Showing Minimap Icon", -- [20629]
-	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [20630]
-	"0/0/1999 -1:-1 [DEBUG] Version: 4.6.0", -- [20631]
-	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [20632]
-	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [20633]
-	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [20634]
-	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20635]
-	"29/11/2022 9:42 [DEBUG] Showing Minimap Icon", -- [20636]
-	"29/11/2022 9:53 [DEBUG] ---IAT Runtime---", -- [20637]
-	"29/11/2022 9:53 [DEBUG] Version: 4.6.0", -- [20638]
-	"29/11/2022 9:53 [DEBUG] Attempting to load from local NPC Cache", -- [20639]
-	"29/11/2022 9:53 [DEBUG] Generating NPC Cache...", -- [20640]
-	"29/11/2022 9:53 [DEBUG] Enabling Addon", -- [20641]
-	"29/11/2022 9:53 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20642]
-	"29/11/2022 9:53 [DEBUG] Showing Minimap Icon", -- [20643]
-	"29/11/2022 10:2 [DEBUG] ---IAT Runtime---", -- [20644]
-	"29/11/2022 10:2 [DEBUG] Version: 4.6.0", -- [20645]
-	"29/11/2022 10:2 [DEBUG] Attempting to load from local NPC Cache", -- [20646]
-	"29/11/2022 10:2 [DEBUG] Generating NPC Cache...", -- [20647]
-	"29/11/2022 10:2 [DEBUG] Enabling Addon", -- [20648]
-	"29/11/2022 10:2 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20649]
-	"29/11/2022 10:2 [DEBUG] Showing Minimap Icon", -- [20650]
-	"29/11/2022 10:8 [DEBUG] ---IAT Runtime---", -- [20651]
-	"29/11/2022 10:8 [DEBUG] Version: 4.6.0", -- [20652]
-	"29/11/2022 10:8 [DEBUG] Attempting to load from local NPC Cache", -- [20653]
-	"29/11/2022 10:8 [DEBUG] Generating NPC Cache...", -- [20654]
-	"29/11/2022 10:8 [DEBUG] Enabling Addon", -- [20655]
-	"29/11/2022 10:8 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20656]
-	"29/11/2022 10:9 [DEBUG] Showing Minimap Icon", -- [20657]
-	"29/11/2022 10:16 [DEBUG] ---IAT Runtime---", -- [20658]
-	"29/11/2022 10:16 [DEBUG] Version: 4.6.0", -- [20659]
-	"29/11/2022 10:16 [DEBUG] Attempting to load from local NPC Cache", -- [20660]
-	"29/11/2022 10:16 [DEBUG] Generating NPC Cache...", -- [20661]
-	"29/11/2022 10:16 [DEBUG] Enabling Addon", -- [20662]
-	"29/11/2022 10:16 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20663]
-	"29/11/2022 10:45 [DEBUG] Showing Minimap Icon", -- [20664]
-	"29/11/2022 10:59 [DEBUG] ---IAT Runtime---", -- [20665]
-	"29/11/2022 10:59 [DEBUG] Version: 4.6.0", -- [20666]
-	"29/11/2022 10:59 [DEBUG] Attempting to load from local NPC Cache", -- [20667]
-	"29/11/2022 10:59 [DEBUG] Generating NPC Cache...", -- [20668]
-	"29/11/2022 10:59 [DEBUG] Enabling Addon", -- [20669]
-	"29/11/2022 10:59 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20670]
-	"29/11/2022 10:59 [DEBUG] Showing Minimap Icon", -- [20671]
-	"29/11/2022 13:17 [DEBUG] ---IAT Runtime---", -- [20672]
-	"29/11/2022 13:17 [DEBUG] Version: 4.6.0", -- [20673]
-	"29/11/2022 13:17 [DEBUG] Attempting to load from local NPC Cache", -- [20674]
-	"29/11/2022 13:17 [DEBUG] Generating NPC Cache...", -- [20675]
-	"29/11/2022 13:17 [DEBUG] Enabling Addon", -- [20676]
-	"29/11/2022 13:17 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20677]
-	"29/11/2022 13:17 [DEBUG] Showing Minimap Icon", -- [20678]
-	"29/11/2022 14:51 [DEBUG] ---IAT Runtime---", -- [20679]
-	"29/11/2022 14:51 [DEBUG] Version: 4.6.0", -- [20680]
-	"29/11/2022 14:51 [DEBUG] Attempting to load from local NPC Cache", -- [20681]
-	"29/11/2022 14:51 [DEBUG] Generating NPC Cache...", -- [20682]
-	"29/11/2022 14:51 [DEBUG] Enabling Addon", -- [20683]
-	"29/11/2022 14:51 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20684]
-	"29/11/2022 14:51 [DEBUG] Showing Minimap Icon", -- [20685]
-	"29/11/2022 15:13 [DEBUG] ---IAT Runtime---", -- [20686]
-	"29/11/2022 15:13 [DEBUG] Version: 4.6.0", -- [20687]
-	"29/11/2022 15:13 [DEBUG] Attempting to load from local NPC Cache", -- [20688]
-	"29/11/2022 15:13 [DEBUG] Generating NPC Cache...", -- [20689]
-	"29/11/2022 15:13 [DEBUG] Enabling Addon", -- [20690]
-	"29/11/2022 15:13 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20691]
-	"29/11/2022 15:13 [DEBUG] Showing Minimap Icon", -- [20692]
-	"29/11/2022 16:51 [DEBUG] ---IAT Runtime---", -- [20693]
-	"29/11/2022 16:51 [DEBUG] Version: 4.6.0", -- [20694]
-	"29/11/2022 16:51 [DEBUG] Attempting to load from local NPC Cache", -- [20695]
+	nil, -- [20601]
+	nil, -- [20602]
+	nil, -- [20603]
+	nil, -- [20604]
+	nil, -- [20605]
+	nil, -- [20606]
+	nil, -- [20607]
+	nil, -- [20608]
+	nil, -- [20609]
+	nil, -- [20610]
+	nil, -- [20611]
+	nil, -- [20612]
+	nil, -- [20613]
+	nil, -- [20614]
+	nil, -- [20615]
+	nil, -- [20616]
+	nil, -- [20617]
+	nil, -- [20618]
+	nil, -- [20619]
+	nil, -- [20620]
+	nil, -- [20621]
+	nil, -- [20622]
+	nil, -- [20623]
+	nil, -- [20624]
+	nil, -- [20625]
+	nil, -- [20626]
+	nil, -- [20627]
+	nil, -- [20628]
+	nil, -- [20629]
+	nil, -- [20630]
+	nil, -- [20631]
+	nil, -- [20632]
+	nil, -- [20633]
+	nil, -- [20634]
+	nil, -- [20635]
+	nil, -- [20636]
+	nil, -- [20637]
+	nil, -- [20638]
+	nil, -- [20639]
+	nil, -- [20640]
+	nil, -- [20641]
+	nil, -- [20642]
+	nil, -- [20643]
+	nil, -- [20644]
+	nil, -- [20645]
+	nil, -- [20646]
+	nil, -- [20647]
+	nil, -- [20648]
+	nil, -- [20649]
+	nil, -- [20650]
+	nil, -- [20651]
+	nil, -- [20652]
+	nil, -- [20653]
+	nil, -- [20654]
+	nil, -- [20655]
+	nil, -- [20656]
+	nil, -- [20657]
+	nil, -- [20658]
+	nil, -- [20659]
+	nil, -- [20660]
+	nil, -- [20661]
+	nil, -- [20662]
+	nil, -- [20663]
+	nil, -- [20664]
+	nil, -- [20665]
+	nil, -- [20666]
+	nil, -- [20667]
+	nil, -- [20668]
+	nil, -- [20669]
+	nil, -- [20670]
+	nil, -- [20671]
+	nil, -- [20672]
+	nil, -- [20673]
+	nil, -- [20674]
+	nil, -- [20675]
+	nil, -- [20676]
+	nil, -- [20677]
+	nil, -- [20678]
+	nil, -- [20679]
+	nil, -- [20680]
+	nil, -- [20681]
+	nil, -- [20682]
+	nil, -- [20683]
+	nil, -- [20684]
+	nil, -- [20685]
+	nil, -- [20686]
+	nil, -- [20687]
+	nil, -- [20688]
+	nil, -- [20689]
+	nil, -- [20690]
+	nil, -- [20691]
+	nil, -- [20692]
+	nil, -- [20693]
+	nil, -- [20694]
+	nil, -- [20695]
 	"29/11/2022 16:51 [DEBUG] Generating NPC Cache...", -- [20696]
 	"29/11/2022 16:51 [DEBUG] Enabling Addon", -- [20697]
 	"29/11/2022 16:51 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [20698]
@@ -70624,6 +70624,367 @@ AchievementTrackerDebug = {
 	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [70598]
 	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [70599]
 	"18/6/2023 16:31 [DEBUG] Showing Minimap Icon", -- [70600]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70601]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70602]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70603]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70604]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70605]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70606]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [70607]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [70608]
+	"18/6/2023 17:54 [DEBUG] Showing Minimap Icon", -- [70609]
+	"18/6/2023 18:16 [DEBUG] ---IAT Runtime---", -- [70610]
+	"18/6/2023 18:16 [DEBUG] Version: 4.21.0", -- [70611]
+	"18/6/2023 18:16 [DEBUG] Attempting to load from local NPC Cache", -- [70612]
+	"18/6/2023 18:16 [DEBUG] Generating NPC Cache...", -- [70613]
+	"18/6/2023 18:16 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70614]
+	"18/6/2023 18:16 [DEBUG] true", -- [70615]
+	"18/6/2023 18:16 [DEBUG] Enabling Addon", -- [70616]
+	"18/6/2023 18:16 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [70617]
+	"18/6/2023 18:16 [DEBUG] Showing Minimap Icon", -- [70618]
+	"18/6/2023 18:24 [DEBUG] Player has entered instance", -- [70619]
+	"18/6/2023 18:24 [DEBUG] 2569", -- [70620]
+	"18/6/2023 18:24 [DEBUG] Offical Instance Name: 2569 _2569", -- [70621]
+	"18/6/2023 18:24 [DEBUG] Expansion: 10", -- [70622]
+	"18/6/2023 18:24 [DEBUG] Instance Type: Raids", -- [70623]
+	"18/6/2023 18:24 [DEBUG] Instance: 2569", -- [70624]
+	"18/6/2023 18:24 [DEBUG] DifficultyID: 14", -- [70625]
+	"18/6/2023 18:24 [DEBUG] Expansion: 10", -- [70626]
+	"18/6/2023 18:24 [DEBUG] Instance Type: Raids", -- [70627]
+	"18/6/2023 18:24 [DEBUG] Instance: 2569", -- [70628]
+	"18/6/2023 18:24 [DEBUG] Asking user whether they want to track this instance", -- [70629]
+	"18/6/2023 18:24 [DEBUG] Creating Tracking UI", -- [70630]
+	"18/6/2023 18:24 [DEBUG] InfoFrame Setup Complete", -- [70631]
+	"18/6/2023 18:24 [DEBUG] Expansion: 10", -- [70632]
+	"18/6/2023 18:58 [DEBUG] Hiding Tracking UI", -- [70633]
+	"18/6/2023 18:58 [DEBUG] Clearing Instance Variables", -- [70634]
+	"18/6/2023 18:58 [DEBUG] Function failed, error text: ...nstanceAchievementTracker/AchievementTrackerCore.lua:2003: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [70635]
+	"18/6/2023 18:58 [DEBUG] Cleaning up instance events for _2569", -- [70636]
+	"18/6/2023 18:58 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [70637]
+	"18/6/2023 18:58 [DEBUG] Clearing Instance Variables if exists", -- [70638]
+	"18/6/2023 18:58 [DEBUG] Function failed, error text: ...nstanceAchievementTracker/AchievementTrackerCore.lua:4015: attempt to call method 'clearVariables' (a nil value).", -- [70639]
+	"18/6/2023 18:58 [DEBUG] Clearing Instance Variables if exists", -- [70640]
+	"18/6/2023 18:58 [DEBUG] Clearing Instance Variables", -- [70641]
+	"18/6/2023 18:58 [DEBUG] Resetting Global Variables", -- [70642]
+	"18/6/2023 18:58 [DEBUG] InfoFrame does not need to be reset", -- [70643]
+	"18/6/2023 18:58 [DEBUG] Resetting PlayerRank", -- [70644]
+	"18/6/2023 18:58 [DEBUG] InfoFrame was not active", -- [70645]
+	"18/6/2023 18:58 [DEBUG] Hiding Tracking UI", -- [70646]
+	"18/6/2023 18:58 [DEBUG] Player has entered instance", -- [70647]
+	"18/6/2023 18:58 [DEBUG] 2569", -- [70648]
+	"18/6/2023 18:58 [DEBUG] Offical Instance Name: 2569 _2569", -- [70649]
+	"18/6/2023 18:58 [DEBUG] Expansion: 10", -- [70650]
+	"18/6/2023 18:58 [DEBUG] Instance Type: Raids", -- [70651]
+	"18/6/2023 18:58 [DEBUG] Instance: 2569", -- [70652]
+	"18/6/2023 18:58 [DEBUG] DifficultyID: 15", -- [70653]
+	"18/6/2023 18:58 [DEBUG] Expansion: 10", -- [70654]
+	"18/6/2023 18:58 [DEBUG] Instance Type: Raids", -- [70655]
+	"18/6/2023 18:58 [DEBUG] Instance: 2569", -- [70656]
+	"18/6/2023 18:58 [DEBUG] Asking user whether they want to track this instance", -- [70657]
+	"18/6/2023 18:58 [DEBUG] Displaying Tracking UI since it was already created", -- [70658]
+	"18/6/2023 18:58 [DEBUG] Expansion: 10", -- [70659]
+	"18/6/2023 19:58 [DEBUG] Hiding Tracking UI", -- [70660]
+	"18/6/2023 19:58 [DEBUG] Clearing Instance Variables", -- [70661]
+	"18/6/2023 19:58 [DEBUG] Function failed, error text: ...nstanceAchievementTracker/AchievementTrackerCore.lua:2003: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [70662]
+	"18/6/2023 19:58 [DEBUG] Cleaning up instance events for _2569", -- [70663]
+	"18/6/2023 19:58 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [70664]
+	"18/6/2023 19:58 [DEBUG] Clearing Instance Variables if exists", -- [70665]
+	"18/6/2023 19:58 [DEBUG] Function failed, error text: ...nstanceAchievementTracker/AchievementTrackerCore.lua:4015: attempt to call method 'clearVariables' (a nil value).", -- [70666]
+	"18/6/2023 19:58 [DEBUG] Clearing Instance Variables if exists", -- [70667]
+	"18/6/2023 19:58 [DEBUG] Clearing Instance Variables", -- [70668]
+	"18/6/2023 19:58 [DEBUG] Resetting Global Variables", -- [70669]
+	"18/6/2023 19:58 [DEBUG] InfoFrame does not need to be reset", -- [70670]
+	"18/6/2023 19:58 [DEBUG] Resetting PlayerRank", -- [70671]
+	"18/6/2023 19:58 [DEBUG] InfoFrame was not active", -- [70672]
+	"18/6/2023 20:16 [DEBUG] ---IAT Runtime---", -- [70673]
+	"18/6/2023 20:16 [DEBUG] Version: 4.21.0", -- [70674]
+	"18/6/2023 20:16 [DEBUG] Attempting to load from local NPC Cache", -- [70675]
+	"18/6/2023 20:16 [DEBUG] Generating NPC Cache...", -- [70676]
+	"18/6/2023 20:16 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70677]
+	"18/6/2023 20:16 [DEBUG] true", -- [70678]
+	"18/6/2023 20:16 [DEBUG] Enabling Addon", -- [70679]
+	"18/6/2023 20:16 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [70680]
+	"18/6/2023 20:16 [DEBUG] Showing Minimap Icon", -- [70681]
+	"18/6/2023 20:32 [DEBUG] Player has entered instance", -- [70682]
+	"18/6/2023 20:32 [DEBUG] 2527", -- [70683]
+	"18/6/2023 20:32 [DEBUG] Offical Instance Name: 2527 _2527", -- [70684]
+	"18/6/2023 20:32 [DEBUG] Expansion: 10", -- [70685]
+	"18/6/2023 20:32 [DEBUG] Instance Type: Dungeons", -- [70686]
+	"18/6/2023 20:32 [DEBUG] Instance: 2527", -- [70687]
+	"18/6/2023 20:32 [DEBUG] DifficultyID: 23", -- [70688]
+	"18/6/2023 20:32 [DEBUG] Expansion: 10", -- [70689]
+	"18/6/2023 20:32 [DEBUG] Instance Type: Dungeons", -- [70690]
+	"18/6/2023 20:32 [DEBUG] Instance: 2527", -- [70691]
+	"18/6/2023 20:32 [DEBUG] Asking user whether they want to track this instance", -- [70692]
+	"18/6/2023 20:32 [DEBUG] Creating Tracking UI", -- [70693]
+	"18/6/2023 20:32 [DEBUG] InfoFrame Setup Complete", -- [70694]
+	"18/6/2023 20:32 [DEBUG] Expansion: 10", -- [70695]
+	"18/6/2023 20:33 |cff00ccffIAT: |cffffffffStarting achievement scan for Halls of Infusion (This may freeze your game for a few seconds!)", -- [70696]
+	"18/6/2023 20:33 [DEBUG] Group Size set to: 5", -- [70697]
+	"18/6/2023 20:33 [DEBUG] Combatlog does not need to be enabled", -- [70698]
+	"18/6/2023 20:33 [DEBUG] Starting Initial Setup If Needed...", -- [70699]
+	"18/6/2023 20:33 [DEBUG] Function failed, error text: ...nstanceAchievementTracker/AchievementTrackerCore.lua:773: attempt to call method 'InitialSetup' (a nil value).", -- [70700]
+	"18/6/2023 20:33 [DEBUG] INSPECT_ACHIEVEMENT_READY FIRED. INFORMATION FOR: Kitava", -- [70701]
+	"18/6/2023 20:33 [DEBUG] INSPECT_ACHIEVEMENT_READY FIRED. INFORMATION FOR: Tubbybuddy", -- [70702]
+	"18/6/2023 20:33 [DEBUG] INSPECT_ACHIEVEMENT_READY FIRED. INFORMATION FOR: Seyka", -- [70703]
+	"18/6/2023 20:33 [DEBUG] INSPECT_ACHIEVEMENT_READY FIRED. INFORMATION FOR: Hawkens", -- [70704]
+	"18/6/2023 20:33 [DEBUG] INSPECT_ACHIEVEMENT_READY FIRED. INFORMATION FOR: Thezdin", -- [70705]
+	"18/6/2023 20:33 |cff00ccffIAT: |cffffffffAchievement Scanning Finished (5/5)", -- [70706]
+	"18/6/2023 20:33 |cff00ccffIAT: |cffffffffIncomplete achievements for this instance |cffffff00|Hachievement:16426:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Hungry Hungry Hornswog]|h|r|cffffff00|Hachievement:16517:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Toxicity Strike Team]|h|r|cffffff00|Hachievement:16427:Player-3661-090EB9B6:0:0:0:-1:0:0:0:0|h[Go With the Flow]|h|r", -- [70707]
+	"18/6/2023 20:33 [DEBUG] Disabling Addon", -- [70708]
+	"18/6/2023 20:33 [DEBUG] Hiding Tracking UI", -- [70709]
+	"18/6/2023 20:33 [DEBUG] Clearing Instance Variables", -- [70710]
+	"18/6/2023 20:33 [DEBUG] Function failed, error text: ...nstanceAchievementTracker/AchievementTrackerCore.lua:2003: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [70711]
+	"18/6/2023 20:33 [DEBUG] Function failed, error text: ...nstanceAchievementTracker/AchievementTrackerCore.lua:2011: attempt to call method 'InstanceCleanup' (a nil value).", -- [70712]
+	"18/6/2023 20:33 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [70713]
+	"18/6/2023 20:33 [DEBUG] Clearing Instance Variables if exists", -- [70714]
+	"18/6/2023 20:33 [DEBUG] Function failed, error text: ...nstanceAchievementTracker/AchievementTrackerCore.lua:4015: attempt to call method 'clearVariables' (a nil value).", -- [70715]
+	"18/6/2023 20:33 [DEBUG] Clearing Instance Variables if exists", -- [70716]
+	"18/6/2023 20:33 [DEBUG] Function failed, error text: ...nstanceAchievementTracker/AchievementTrackerCore.lua:4023: attempt to call method 'ClearVariables' (a nil value).", -- [70717]
+	"18/6/2023 20:33 [DEBUG] Resetting Global Variables", -- [70718]
+	"18/6/2023 20:33 [DEBUG] InfoFrame does not need to be reset", -- [70719]
+	"18/6/2023 20:33 [DEBUG] Resetting PlayerRank", -- [70720]
+	"18/6/2023 20:33 [DEBUG] InfoFrame was not active", -- [70721]
+	"18/6/2023 22:47 [DEBUG] ---IAT Runtime---", -- [70722]
+	"18/6/2023 22:47 [DEBUG] Version: 4.21.0", -- [70723]
+	"18/6/2023 22:47 [DEBUG] Attempting to load from local NPC Cache", -- [70724]
+	"18/6/2023 22:47 [DEBUG] Generating NPC Cache...", -- [70725]
+	"18/6/2023 22:47 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70726]
+	"18/6/2023 22:47 [DEBUG] true", -- [70727]
+	"18/6/2023 22:47 [DEBUG] Disabling Addon", -- [70728]
+	"18/6/2023 22:45 [DEBUG] Showing Minimap Icon", -- [70729]
+	"18/6/2023 22:46 [DEBUG] ---IAT Runtime---", -- [70730]
+	"18/6/2023 22:46 [DEBUG] Version: 4.21.0", -- [70731]
+	"18/6/2023 22:46 [DEBUG] Attempting to load from local NPC Cache", -- [70732]
+	"18/6/2023 22:46 [DEBUG] Generating NPC Cache...", -- [70733]
+	"18/6/2023 22:46 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70734]
+	"18/6/2023 22:46 [DEBUG] true", -- [70735]
+	"18/6/2023 22:46 [DEBUG] Disabling Addon", -- [70736]
+	"18/6/2023 22:46 [DEBUG] Showing Minimap Icon", -- [70737]
+	"18/6/2023 22:47 [DEBUG] ---IAT Runtime---", -- [70738]
+	"18/6/2023 22:47 [DEBUG] Version: 4.21.0", -- [70739]
+	"18/6/2023 22:47 [DEBUG] Attempting to load from local NPC Cache", -- [70740]
+	"18/6/2023 22:47 [DEBUG] Generating NPC Cache...", -- [70741]
+	"18/6/2023 22:47 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70742]
+	"18/6/2023 22:47 [DEBUG] true", -- [70743]
+	"18/6/2023 22:47 [DEBUG] Disabling Addon", -- [70744]
+	"18/6/2023 22:48 [DEBUG] Showing Minimap Icon", -- [70745]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70746]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70747]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70748]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70749]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70750]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70751]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [70752]
+	"19/6/2023 17:34 [DEBUG] Showing Minimap Icon", -- [70753]
+	"19/6/2023 18:2 [DEBUG] ---IAT Runtime---", -- [70754]
+	"19/6/2023 18:2 [DEBUG] Version: 4.21.0", -- [70755]
+	"19/6/2023 18:2 [DEBUG] Attempting to load from local NPC Cache", -- [70756]
+	"19/6/2023 18:2 [DEBUG] Generating NPC Cache...", -- [70757]
+	"19/6/2023 18:2 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70758]
+	"19/6/2023 18:2 [DEBUG] true", -- [70759]
+	"19/6/2023 18:2 [DEBUG] Disabling Addon", -- [70760]
+	"19/6/2023 18:4 [DEBUG] Showing Minimap Icon", -- [70761]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70762]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70763]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70764]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70765]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70766]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70767]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [70768]
+	"19/6/2023 19:44 [DEBUG] Showing Minimap Icon", -- [70769]
+	"19/6/2023 21:46 [DEBUG] ---IAT Runtime---", -- [70770]
+	"19/6/2023 21:46 [DEBUG] Version: 4.21.0", -- [70771]
+	"19/6/2023 21:46 [DEBUG] Attempting to load from local NPC Cache", -- [70772]
+	"19/6/2023 21:46 [DEBUG] Generating NPC Cache...", -- [70773]
+	"19/6/2023 21:46 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70774]
+	"19/6/2023 21:46 [DEBUG] true", -- [70775]
+	"19/6/2023 21:46 [DEBUG] Disabling Addon", -- [70776]
+	"19/6/2023 21:49 [DEBUG] Showing Minimap Icon", -- [70777]
+	"19/6/2023 22:33 [DEBUG] ---IAT Runtime---", -- [70778]
+	"19/6/2023 22:33 [DEBUG] Version: 4.21.0", -- [70779]
+	"19/6/2023 22:33 [DEBUG] Attempting to load from local NPC Cache", -- [70780]
+	"19/6/2023 22:33 [DEBUG] Generating NPC Cache...", -- [70781]
+	"19/6/2023 22:33 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70782]
+	"19/6/2023 22:33 [DEBUG] true", -- [70783]
+	"19/6/2023 22:33 [DEBUG] Disabling Addon", -- [70784]
+	"19/6/2023 22:33 [DEBUG] Showing Minimap Icon", -- [70785]
+	"19/6/2023 22:41 [DEBUG] ---IAT Runtime---", -- [70786]
+	"19/6/2023 22:41 [DEBUG] Version: 4.21.0", -- [70787]
+	"19/6/2023 22:41 [DEBUG] Attempting to load from local NPC Cache", -- [70788]
+	"19/6/2023 22:41 [DEBUG] Generating NPC Cache...", -- [70789]
+	"19/6/2023 22:41 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70790]
+	"19/6/2023 22:41 [DEBUG] true", -- [70791]
+	"19/6/2023 22:41 [DEBUG] Disabling Addon", -- [70792]
+	"19/6/2023 22:40 [DEBUG] Showing Minimap Icon", -- [70793]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70794]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70795]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70796]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70797]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70798]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70799]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [70800]
+	"19/6/2023 23:8 [DEBUG] Showing Minimap Icon", -- [70801]
+	"19/6/2023 23:11 [DEBUG] ---IAT Runtime---", -- [70802]
+	"19/6/2023 23:11 [DEBUG] Version: 4.21.0", -- [70803]
+	"19/6/2023 23:11 [DEBUG] Attempting to load from local NPC Cache", -- [70804]
+	"19/6/2023 23:11 [DEBUG] Generating NPC Cache...", -- [70805]
+	"19/6/2023 23:11 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70806]
+	"19/6/2023 23:11 [DEBUG] true", -- [70807]
+	"19/6/2023 23:11 [DEBUG] Disabling Addon", -- [70808]
+	"19/6/2023 23:11 [DEBUG] Showing Minimap Icon", -- [70809]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70810]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70811]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70812]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70813]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70814]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70815]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [70816]
+	"20/6/2023 8:44 [DEBUG] Showing Minimap Icon", -- [70817]
+	"20/6/2023 8:48 [DEBUG] ---IAT Runtime---", -- [70818]
+	"20/6/2023 8:48 [DEBUG] Version: 4.21.0", -- [70819]
+	"20/6/2023 8:48 [DEBUG] Attempting to load from local NPC Cache", -- [70820]
+	"20/6/2023 8:48 [DEBUG] Generating NPC Cache...", -- [70821]
+	"20/6/2023 8:48 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70822]
+	"20/6/2023 8:48 [DEBUG] true", -- [70823]
+	"20/6/2023 8:48 [DEBUG] Disabling Addon", -- [70824]
+	"20/6/2023 8:50 [DEBUG] Showing Minimap Icon", -- [70825]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70826]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70827]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70828]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70829]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70830]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70831]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [70832]
+	"20/6/2023 14:57 [DEBUG] Showing Minimap Icon", -- [70833]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70834]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70835]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70836]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70837]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70838]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70839]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [70840]
+	"20/6/2023 19:26 [DEBUG] Showing Minimap Icon", -- [70841]
+	"20/6/2023 23:6 [DEBUG] ---IAT Runtime---", -- [70842]
+	"20/6/2023 23:6 [DEBUG] Version: 4.21.0", -- [70843]
+	"20/6/2023 23:6 [DEBUG] Attempting to load from local NPC Cache", -- [70844]
+	"20/6/2023 23:6 [DEBUG] Generating NPC Cache...", -- [70845]
+	"20/6/2023 23:6 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70846]
+	"20/6/2023 23:6 [DEBUG] true", -- [70847]
+	"20/6/2023 23:6 [DEBUG] Disabling Addon", -- [70848]
+	"20/6/2023 23:6 [DEBUG] Showing Minimap Icon", -- [70849]
+	"20/6/2023 23:7 [DEBUG] ---IAT Runtime---", -- [70850]
+	"20/6/2023 23:7 [DEBUG] Version: 4.21.0", -- [70851]
+	"20/6/2023 23:7 [DEBUG] Attempting to load from local NPC Cache", -- [70852]
+	"20/6/2023 23:7 [DEBUG] Generating NPC Cache...", -- [70853]
+	"20/6/2023 23:7 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70854]
+	"20/6/2023 23:7 [DEBUG] true", -- [70855]
+	"20/6/2023 23:7 [DEBUG] Disabling Addon", -- [70856]
+	"20/6/2023 23:8 [DEBUG] Showing Minimap Icon", -- [70857]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70858]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70859]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70860]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70861]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70862]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70863]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [70864]
+	"21/6/2023 12:27 [DEBUG] Showing Minimap Icon", -- [70865]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70866]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70867]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70868]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70869]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70870]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70871]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [70872]
+	"21/6/2023 13:10 [DEBUG] Showing Minimap Icon", -- [70873]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70874]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70875]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70876]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70877]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70878]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70879]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [70880]
+	"21/6/2023 13:36 [DEBUG] Showing Minimap Icon", -- [70881]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70882]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70883]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70884]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70885]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70886]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70887]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [70888]
+	"21/6/2023 15:34 [DEBUG] Showing Minimap Icon", -- [70889]
+	"21/6/2023 16:27 [DEBUG] ---IAT Runtime---", -- [70890]
+	"21/6/2023 16:27 [DEBUG] Version: 4.21.0", -- [70891]
+	"21/6/2023 16:27 [DEBUG] Attempting to load from local NPC Cache", -- [70892]
+	"21/6/2023 16:27 [DEBUG] Generating NPC Cache...", -- [70893]
+	"21/6/2023 16:27 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70894]
+	"21/6/2023 16:27 [DEBUG] true", -- [70895]
+	"21/6/2023 16:27 [DEBUG] Disabling Addon", -- [70896]
+	"21/6/2023 16:27 [DEBUG] Showing Minimap Icon", -- [70897]
+	"21/6/2023 16:29 [DEBUG] ---IAT Runtime---", -- [70898]
+	"21/6/2023 16:29 [DEBUG] Version: 4.21.0", -- [70899]
+	"21/6/2023 16:29 [DEBUG] Attempting to load from local NPC Cache", -- [70900]
+	"21/6/2023 16:29 [DEBUG] Generating NPC Cache...", -- [70901]
+	"21/6/2023 16:29 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70902]
+	"21/6/2023 16:29 [DEBUG] true", -- [70903]
+	"21/6/2023 16:29 [DEBUG] Disabling Addon", -- [70904]
+	"21/6/2023 16:29 [DEBUG] Showing Minimap Icon", -- [70905]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [70906]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [70907]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [70908]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [70909]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70910]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [70911]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [70912]
+	"21/6/2023 16:55 [DEBUG] Showing Minimap Icon", -- [70913]
+	"21/6/2023 16:58 [DEBUG] ---IAT Runtime---", -- [70914]
+	"21/6/2023 16:58 [DEBUG] Version: 4.21.0", -- [70915]
+	"21/6/2023 16:58 [DEBUG] Attempting to load from local NPC Cache", -- [70916]
+	"21/6/2023 16:58 [DEBUG] Generating NPC Cache...", -- [70917]
+	"21/6/2023 16:58 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70918]
+	"21/6/2023 16:58 [DEBUG] true", -- [70919]
+	"21/6/2023 16:58 [DEBUG] Disabling Addon", -- [70920]
+	"21/6/2023 16:59 [DEBUG] Showing Minimap Icon", -- [70921]
+	"21/6/2023 17:0 [DEBUG] ---IAT Runtime---", -- [70922]
+	"21/6/2023 17:0 [DEBUG] Version: 4.21.0", -- [70923]
+	"21/6/2023 17:0 [DEBUG] Attempting to load from local NPC Cache", -- [70924]
+	"21/6/2023 17:0 [DEBUG] Generating NPC Cache...", -- [70925]
+	"21/6/2023 17:0 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70926]
+	"21/6/2023 17:0 [DEBUG] true", -- [70927]
+	"21/6/2023 17:0 [DEBUG] Disabling Addon", -- [70928]
+	"21/6/2023 17:0 [DEBUG] Showing Minimap Icon", -- [70929]
+	"21/6/2023 17:11 [DEBUG] ---IAT Runtime---", -- [70930]
+	"21/6/2023 17:11 [DEBUG] Version: 4.21.0", -- [70931]
+	"21/6/2023 17:11 [DEBUG] Attempting to load from local NPC Cache", -- [70932]
+	"21/6/2023 17:11 [DEBUG] Generating NPC Cache...", -- [70933]
+	"21/6/2023 17:11 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70934]
+	"21/6/2023 17:11 [DEBUG] true", -- [70935]
+	"21/6/2023 17:11 [DEBUG] Disabling Addon", -- [70936]
+	"21/6/2023 17:11 [DEBUG] Showing Minimap Icon", -- [70937]
+	"21/6/2023 17:14 [DEBUG] ---IAT Runtime---", -- [70938]
+	"21/6/2023 17:14 [DEBUG] Version: 4.21.0", -- [70939]
+	"21/6/2023 17:14 [DEBUG] Attempting to load from local NPC Cache", -- [70940]
+	"21/6/2023 17:14 [DEBUG] Generating NPC Cache...", -- [70941]
+	"21/6/2023 17:14 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70942]
+	"21/6/2023 17:14 [DEBUG] true", -- [70943]
+	"21/6/2023 17:14 [DEBUG] Disabling Addon", -- [70944]
+	"21/6/2023 17:14 [DEBUG] Showing Minimap Icon", -- [70945]
+	"21/6/2023 17:16 [DEBUG] ---IAT Runtime---", -- [70946]
+	"21/6/2023 17:16 [DEBUG] Version: 4.21.0", -- [70947]
+	"21/6/2023 17:16 [DEBUG] Attempting to load from local NPC Cache", -- [70948]
+	"21/6/2023 17:16 [DEBUG] Generating NPC Cache...", -- [70949]
+	"21/6/2023 17:16 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70950]
+	"21/6/2023 17:16 [DEBUG] true", -- [70951]
+	"21/6/2023 17:16 [DEBUG] Disabling Addon", -- [70952]
+	"21/6/2023 17:16 [DEBUG] Showing Minimap Icon", -- [70953]
+	"21/6/2023 17:17 [DEBUG] ---IAT Runtime---", -- [70954]
+	"21/6/2023 17:17 [DEBUG] Version: 4.21.0", -- [70955]
+	"21/6/2023 17:17 [DEBUG] Attempting to load from local NPC Cache", -- [70956]
+	"21/6/2023 17:17 [DEBUG] Generating NPC Cache...", -- [70957]
+	"21/6/2023 17:17 [DEBUG] Only Tracking Missing Achievements Enabled", -- [70958]
+	"21/6/2023 17:17 [DEBUG] true", -- [70959]
+	"21/6/2023 17:17 [DEBUG] Disabling Addon", -- [70960]
+	"21/6/2023 17:17 [DEBUG] Showing Minimap Icon", -- [70961]
 }
 AchievementTrackerNPCCache = {
 	[75829] = "Nhallish",
@@ -70949,161 +71310,161 @@ AchievementTrackerNPCCache = {
 	[45992] = "Valiona",
 	[131667] = "Soulbound Goliath",
 	[60410] = "Elegon",
-	[33343] = "XS-013 Scrapbot",
-	[196845] = "Frozen Behemoth",
+	[197774] = "Toxic Swogmother",
+	[157161] = "Sand Vortex",
 	[82074] = "Pristine True Iron Ore",
 	[156987] = "General Kaal",
-	[189893] = "Infused Whelp",
+	[143045] = "Coastal Scuttler",
 	[52418] = "Lost Offspring of Gahz'ranka",
 	[164532] = "Hakkar the Soulflayer",
 	[197396] = "Strange Chicken",
 	[152512] = "Stormwraith",
 	[78430] = "Cordana Felsong",
-	[145903] = "Darkforged Crusader",
-	[111864] = "Sticky",
-	[178783] = "Moriaz the Red",
+	[149995] = "High Priestess Azil",
+	[166246] = "Buttons",
+	[60913] = "Energy Charge",
 	[127503] = "Overseer Korgus",
 	[165556] = "Fleeting Manifestation",
 	[154431] = "Khaz'goroth",
-	[107699] = "Spellblade Aluriel",
+	[131853] = "Huntmaster Grath",
 	[102950] = "Reaves",
-	[108600] = "Sister of the Moon",
-	[161375] = "Promising Specimen",
+	[144246] = "K.U.-J.0.",
+	[51405] = "Angered Earth",
 	[68904] = "Suen",
-	[153202] = "Piston Smasher",
+	[155245] = "Depth Skulker",
 	[59100] = "Expired Test Subject",
-	[32927] = "Runemaster Molgeim",
+	[181579] = "Lihuvim",
 	[74570] = "Ruination",
-	[198038] = "Primal Avatar",
+	[155760] = "Tank Buster MK2",
 	[95886] = "Ash'Golm",
 	[102088] = "Murkwater Myrmidon",
-	[45993] = "Theralion",
+	[198038] = "Primal Avatar",
 	[104262] = "Burning Ember",
 	[64471] = "Tenwu of the Red Smoke",
 	[26641] = "Drakkari Gutripper",
 	[74787] = "Slave Watcher Crushto",
-	[147896] = "Zandalari Crusader",
+	[155144] = "Abyssal Commander Sivara",
 	[154817] = "King Mechagon",
-	[175616] = "Zo'phex",
+	[155243] = "Scavenging Crab",
 	[138705] = "Gourmet Parrot Chow",
 	[77153] = "Iron Star",
-	[155056] = "Robo-Waste",
+	[53501] = "Living Meteor",
 	[156575] = "Dark Inquisitor Xanesh",
 	[83775] = "Ogron Laborer",
 	[88938] = "Ragnaros",
-	[98696] = "Illysanna Ravencrest",
+	[40634] = "Naz'jar Tempest Witch",
 	[43404] = "Maloriak",
 	[158190] = "Medivh",
 	[52675] = "Beth'tilac",
 	[162933] = "Thought Harvester",
-	[53694] = "Riplimb",
-	[53695] = "Rageface",
-	[114895] = "Nightbane",
+	[78736] = "Warlord Zaela",
+	[68905] = "Lu'lin",
+	[104217] = "Talixae Flamewreath",
 	[183501] = "Artificer Xy'mox",
 	[114462] = "The Curator",
 	[67883] = "Rosey Axlerod",
-	[59822] = "Auntie Stormstout",
+	[67231] = "Trial of the King",
 	[101823] = "Mushroom Merchant",
-	[33686] = "Lore Keeper of Norgannon",
-	[96223] = "Gamon",
+	[185427] = "Unstable Progenitor Relic",
+	[56839] = "Anduin Wrynn",
 	[61243] = "Gekkan",
 	[95888] = "Cordana Felsong",
-	[181546] = "Prototype of Renewal",
+	[33686] = "Lore Keeper of Norgannon",
 	[69820] = "Son of Animus",
 	[77814] = "Teron'gor",
 	[73638] = "Tears of the Vale",
-	[102169] = "Black Bile",
+	[171474] = "Finger Food",
 	[39984] = "Malignant Trogg",
-	[56843] = "Lorewalker Stonestep",
-	[185439] = "Tainted Progenitor Relic",
+	[160271] = "Forbidden Manifestation",
+	[91349] = "Mannoroth",
 	[32919] = "Storm Lasher",
 	[150081] = "Wise Mari",
+	[41440] = "Aberration",
 	[185128] = "Memorial Pylon",
-	[178095] = "Eye of the Jailer",
 	[108996] = "Specter of Vengeance",
-	[135129] = "Projection of Yogg-Saron",
+	[178095] = "Eye of the Jailer",
 	[70250] = "Frozen Head",
-	[69181] = "Saurid",
+	[165512] = "Cocoon of Lakali",
 	[135513] = "Ancient Tome",
 	[177584] = "Burning Gibbet",
 	[71529] = "Thok the Bloodthirsty",
-	[58605] = "Scarlet Judicator",
+	[120564] = "Titanic Anomaly",
 	[185129] = "Memorial Pylon",
 	[169594] = "Filled Anima Container",
 	[90199] = "Gorefiend",
-	[61431] = "Glintrok Scout",
+	[64556] = "Captain Ook",
 	[115902] = "Razorjaw Waverunner",
 	[61709] = "Spawn of Anger",
-	[39665] = "Rom'ogg Bonecrusher",
 	[138967] = "Zul",
+	[39665] = "Rom'ogg Bonecrusher",
 	[185130] = "Memorial Pylon",
-	[113971] = "Maiden of Virtue",
+	[118924] = "Engine of Souls",
 	[70251] = "Venomous Head",
 	[105097] = "Glow Bug",
-	[62465] = "Captain Ook",
+	[61442] = "Kuai the Brute",
 	[71466] = "Iron Juggernaut",
 	[162719] = "Void Ascendant",
-	[105301] = "Expedient Elemental",
+	[169554] = "Disused Anima Container",
 	[185131] = "Memorial Pylon",
-	[141805] = "Threshanator 3000",
-	[53258] = "Lord Rhyolith",
+	[91938] = "Haunting Soul",
+	[67966] = "Whirl Turtle",
 	[34035] = "Feral Defender",
 	[36330] = "Lord Godfrey",
-	[29023] = "Jan'alai",
+	[43468] = "Lady Naz'jar",
 	[99663] = "Frustrated Soul",
 	[87451] = "Fleshrender Nok'gar",
-	[52442] = "Florawing Hive Queen",
-	[56637] = "Ook-Ook",
+	[162102] = "Grand Proctor Beryllia",
+	[166644] = "Artificer Xy'mox",
 	[70252] = "Arcane Head",
 	[144596] = "Chest o' Booty",
 	[94996] = "Fragment of the Crone",
 	[139737] = "Lord Stormsong",
 	[61884] = "Xin the Weaponmaster",
 	[185005] = "Anduin's Grief",
-	[164218] = "Lord Chamberlain",
+	[76283] = "Malefic Defender",
+	[175474] = "Belligerent Waiter",
 	[78948] = "Tectus",
-	[56897] = "Raigonn",
 	[172386] = "Anima Conduit",
+	[99664] = "Restless Soul",
 	[180658] = "Focusing Prism",
-	[71979] = "Kor'kron Warbringer",
 	[49864] = "Twilight Fiend",
-	[102423] = "Mug of Mead",
+	[147430] = "Virmen",
+	[33768] = "Rubble",
 	[155595] = "Sacred Gear",
-	[61213] = "Krik'thik Conscript",
-	[44530] = "Naz'jar Honor Guard",
+	[104341] = "Torment",
 	[64346] = "Parasitoid Sha",
 	[152910] = "Queen Azshara",
-	[52438] = "Mortaxx",
-	[33202] = "Ancient Water Spirit",
+	[166266] = "Spare Parts",
+	[110758] = "High Inquisitor Whitemane",
 	[135903] = "Manifestation of the Deep",
-	[59779] = "Thunderpaw Guardian",
+	[72436] = "Immerseus",
 	[68655] = "Mr. Bigglesworth",
 	[32857] = "Stormcaller Brundir",
-	[165408] = "Halkias",
-	[205340] = "Expired Experiment",
-	[33113] = "Flame Leviathan",
+	[111941] = "Hodir",
 	[50376] = "Angered Earth",
+	[172093] = "Hearty Haunch",
+	[205340] = "Expired Experiment",
 	[15687] = "Moroes",
 	[73195] = "Kor'kron Jailer",
 	[136160] = "King Dazar",
-	[172093] = "Hearty Haunch",
-	[205341] = "Stack of Scrolls",
+	[33113] = "Flame Leviathan",
+	[33552] = "Yogg-Saron",
 	[68336] = "Garrosh Hellscream",
 	[138718] = "Sharkbait's Empty Dish",
-	[33241] = "Freya",
-	[33134] = "Sara",
+	[205341] = "Stack of Scrolls",
+	[52414] = "Tor-Tun",
 	[67569] = "Elder Adler",
-	[52422] = "Kaulema the Mover",
+	[77927] = "Son of the Beast",
 	[172094] = "Dissectible Dessert",
 	[56930] = "Krik'thik Swarm Bringer",
-	[55308] = "Warlord Zon'ozz",
+	[205342] = "Neverburning Ebon Candle",
 	[138719] = "Serve Sharkbait's Meal",
 	[103758] = "Star Augur Etraeus",
-	[185423] = "Reaving Automa: Neo",
+	[129440] = "Harlan Sweete",
 	[59080] = "Darkmaster Gandling",
-	[53494] = "Baleroc",
-	[164934] = "Manastorm",
 	[76585] = "Ragewing the Untamed",
+	[164934] = "Manastorm",
+	[23574] = "Akil'zon",
 	[74475] = "Magmolatus",
 	[126712] = "Training Dummy",
 	[205343] = "\"Portable\" Ebon Anvil",
@@ -71113,60 +71474,60 @@ AchievementTrackerNPCCache = {
 	[116802] = "Rodent of Usual Size",
 	[108682] = "Amber Drake",
 	[55312] = "Yor'sahj the Unsleeping",
-	[90018] = "Hellfire Cannon",
+	[173770] = "Blazing Brazier",
 	[123531] = "Manifestation of Taeshalach",
 	[154741] = "Squirt Bot",
 	[52440] = "Gub",
 	[172992] = "Overgrown Hydra",
 	[94808] = "Hellfire Guardian",
-	[86250] = "Kyrak",
+	[67779] = "Mature Saurok Egg",
 	[175422] = "Coalesced Anima",
-	[34826] = "Mistress of Pain",
+	[81834] = "Priceless Paraphernalia",
 	[153172] = "Stolen Scrapbot",
 	[109450] = "Saronite Vapors",
 	[67571] = "Millhouse Manastorm",
-	[141792] = "Liz Vilepot",
-	[71983] = "Farseer Wolf Rider",
+	[86918] = "Uncharged Construct",
+	[36535] = "Corrupted Soul Fragment",
 	[115844] = "Goroth",
-	[173769] = "Smoldering Brazier",
-	[78121] = "Gorian Warmage",
-	[150995] = "Mimiron",
+	[197298] = "Nascent Proto-Dragon",
+	[141792] = "Liz Vilepot",
+	[162317] = "Gorechop",
 	[105742] = "Turbax",
-	[29305] = "Moorabi",
+	[180690] = "Vazzaren the Seeker",
 	[122366] = "Varimathras",
-	[80551] = "Shard of Tectus",
 	[165066] = "Huntsman Altimor",
+	[80551] = "Shard of Tectus",
 	[153941] = "Zoatroid",
 	[184759] = "Depleted Automa",
-	[69086] = "Flaming Head",
+	[104528] = "High Botanist Tel'arn",
 	[36855] = "Lady Deathwhisper",
+	[61567] = "Vizier Jin'bak",
 	[174018] = "Volatile Plague Bomb",
-	[172995] = "Hydra Seed",
 	[100436] = "Illysanna Ravencrest",
 	[105743] = "Whipsnap",
 	[129208] = "Dread Captain Lockwood",
 	[71984] = "Siege Engineer",
-	[71603] = "Sha Puddle",
+	[173768] = "Fiery Brazier",
 	[86928] = "Empowered Construct",
 	[33136] = "Guardian of Yogg-Saron",
 	[164967] = "Doctor Ickus",
 	[95833] = "Hyrja",
 	[156884] = "Essence of Vita",
-	[27654] = "Drakos the Interrogator",
+	[69427] = "Dark Animus",
 	[72496] = "Overseer Thathung",
-	[55419] = "Captain Varo'then",
+	[73033] = "Corrupted Skullsplitter",
 	[164557] = "Shard of Halkias",
 	[32273] = "Infinite Corruptor",
 	[105744] = "Blaze",
 	[64061] = "Mogu'shan Warden",
 	[119938] = "Reanimated Templar",
-	[173767] = "Embered Brazier",
+	[38135] = "Deformed Fanatic",
 	[28514] = "Nalorakk",
 	[52936] = "Druid of the Flame",
 	[122135] = "Shatug",
 	[115143] = "Snaplasher",
-	[154074] = "Void Orb",
-	[164363] = "Undying Stonefiend",
+	[136683] = "Trade Prince Gallywix",
+	[146016] = "Leeroy Jenkins",
 	[56165] = "Crystal Conductor",
 	[99031] = "Artifact",
 	[170851] = "Volatile Plague Bomb",
@@ -71176,115 +71537,115 @@ AchievementTrackerNPCCache = {
 	[55334] = "Void of the Unmaking",
 	[59458] = "Hopling",
 	[110732] = "Creature of Madness",
-	[146016] = "Leeroy Jenkins",
-	[136683] = "Trade Prince Gallywix",
+	[164363] = "Undying Stonefiend",
+	[154074] = "Void Orb",
 	[142949] = "Theramore Citizen",
-	[38135] = "Deformed Fanatic",
+	[173767] = "Embered Brazier",
 	[111882] = "Sparky",
 	[73265] = "Corrupted Amalgamation",
-	[73033] = "Corrupted Skullsplitter",
-	[69427] = "Dark Animus",
+	[55419] = "Captain Varo'then",
+	[27654] = "Drakos the Interrogator",
 	[129722] = "Mote of Titanic Power",
 	[58787] = "Big Bessa",
 	[33244] = "Mimiron",
-	[173768] = "Fiery Brazier",
+	[71603] = "Sha Puddle",
 	[52392] = "Gurubashi Master Chef",
-	[61567] = "Vizier Jin'bak",
-	[104528] = "High Botanist Tel'arn",
+	[172995] = "Hydra Seed",
+	[69086] = "Flaming Head",
 	[165073] = "Forlorn Captive",
-	[180690] = "Vazzaren the Seeker",
+	[29305] = "Moorabi",
 	[141800] = "Brutik Blackanvil",
-	[162317] = "Gorechop",
-	[197298] = "Nascent Proto-Dragon",
-	[36535] = "Corrupted Soul Fragment",
-	[86918] = "Uncharged Construct",
-	[81834] = "Priceless Paraphernalia",
-	[67779] = "Mature Saurok Egg",
+	[150995] = "Mimiron",
+	[173769] = "Smoldering Brazier",
+	[78121] = "Gorian Warmage",
+	[71983] = "Farseer Wolf Rider",
+	[34826] = "Mistress of Pain",
+	[86250] = "Kyrak",
 	[158041] = "N'Zoth the Corruptor",
 	[176583] = "Energy Core",
 	[105299] = "Recursive Elemental",
-	[173770] = "Blazing Brazier",
+	[90018] = "Hellfire Cannon",
 	[68599] = "Ferra Pearl",
-	[23574] = "Akil'zon",
 	[171456] = "Shattered Devastator",
+	[53494] = "Baleroc",
 	[50284] = "Twilight Zealot",
-	[129440] = "Harlan Sweete",
-	[205342] = "Neverburning Ebon Candle",
-	[77927] = "Son of the Beast",
-	[52414] = "Tor-Tun",
-	[33552] = "Yogg-Saron",
+	[185423] = "Reaving Automa: Neo",
+	[55308] = "Warlord Zon'ozz",
+	[52422] = "Kaulema the Mover",
+	[33134] = "Sara",
+	[33241] = "Freya",
 	[84520] = "Pitwarden Gwarnok",
 	[49485] = "Aberration",
-	[111941] = "Hodir",
-	[72436] = "Immerseus",
-	[110758] = "High Inquisitor Whitemane",
-	[166266] = "Spare Parts",
-	[104341] = "Torment",
-	[33768] = "Rubble",
-	[147430] = "Virmen",
-	[99664] = "Restless Soul",
+	[165408] = "Halkias",
+	[59779] = "Thunderpaw Guardian",
+	[33202] = "Ancient Water Spirit",
+	[52438] = "Mortaxx",
+	[44530] = "Naz'jar Honor Guard",
+	[61213] = "Krik'thik Conscript",
+	[102423] = "Mug of Mead",
+	[71979] = "Kor'kron Warbringer",
 	[131318] = "Elder Leaxa",
-	[175474] = "Belligerent Waiter",
-	[76283] = "Malefic Defender",
+	[56897] = "Raigonn",
+	[164218] = "Lord Chamberlain",
 	[72490] = "Overseer Mojka",
-	[166644] = "Artificer Xy'mox",
-	[162102] = "Grand Proctor Beryllia",
-	[43468] = "Lady Naz'jar",
+	[56637] = "Ook-Ook",
+	[52442] = "Florawing Hive Queen",
+	[29023] = "Jan'alai",
 	[101976] = "Millificent Manastorm",
 	[80557] = "Mote of Tectus",
-	[67966] = "Whirl Turtle",
-	[91938] = "Haunting Soul",
-	[169554] = "Disused Anima Container",
+	[53258] = "Lord Rhyolith",
+	[141805] = "Threshanator 3000",
+	[105301] = "Expedient Elemental",
 	[64479] = "Gatecrusher",
-	[61442] = "Kuai the Brute",
-	[118924] = "Engine of Souls",
+	[62465] = "Captain Ook",
+	[113971] = "Maiden of Virtue",
 	[160859] = "Haunting Memory",
 	[38009] = "Reanimated Fanatic",
-	[64556] = "Captain Ook",
+	[61431] = "Glintrok Scout",
 	[145898] = "Anointed Disciple",
-	[120564] = "Titanic Anomaly",
-	[165512] = "Cocoon of Lakali",
+	[58605] = "Scarlet Judicator",
+	[69181] = "Saurid",
+	[135129] = "Projection of Yogg-Saron",
 	[153415] = "Sha of Violence",
-	[41440] = "Aberration",
 	[33118] = "Ignis the Furnace Master",
-	[91349] = "Mannoroth",
-	[160271] = "Forbidden Manifestation",
-	[171474] = "Finger Food",
+	[185439] = "Tainted Progenitor Relic",
+	[56843] = "Lorewalker Stonestep",
+	[102169] = "Black Bile",
 	[178763] = "Buttons",
 	[148201] = "Crawler Mine",
-	[56839] = "Anduin Wrynn",
-	[185427] = "Unstable Progenitor Relic",
+	[96223] = "Gamon",
+	[181546] = "Prototype of Renewal",
 	[151654] = "Deuce Mecha-Buffer",
-	[67231] = "Trial of the King",
+	[59822] = "Auntie Stormstout",
 	[137588] = "Gasping Flounder",
 	[124164] = "Torment of Golganneth",
-	[104217] = "Talixae Flamewreath",
-	[68905] = "Lu'lin",
-	[78736] = "Warlord Zaela",
+	[114895] = "Nightbane",
+	[53695] = "Rageface",
+	[53694] = "Riplimb",
 	[99868] = "Fenryr",
 	[45906] = "Camel",
-	[40634] = "Naz'jar Tempest Witch",
+	[98696] = "Illysanna Ravencrest",
 	[65407] = "Shado-Pan Novice",
 	[138740] = "Musashitake",
 	[127809] = "Reorigination Module",
-	[53501] = "Living Meteor",
-	[155243] = "Scavenging Crab",
-	[155144] = "Abyssal Commander Sivara",
-	[155760] = "Tank Buster MK2",
+	[155056] = "Robo-Waste",
+	[175616] = "Zo'phex",
+	[147896] = "Zandalari Crusader",
+	[45993] = "Theralion",
 	[38010] = "Reanimated Adherent",
-	[181579] = "Lihuvim",
-	[155245] = "Depth Skulker",
-	[51405] = "Angered Earth",
-	[144246] = "K.U.-J.0.",
+	[32927] = "Runemaster Molgeim",
+	[153202] = "Piston Smasher",
+	[161375] = "Promising Specimen",
+	[108600] = "Sister of the Moon",
 	[61699] = "Sik'thik Amberwing",
-	[131853] = "Huntmaster Grath",
+	[107699] = "Spellblade Aluriel",
 	[171094] = "Grisly Curio",
-	[60913] = "Energy Charge",
-	[166246] = "Buttons",
-	[149995] = "High Priestess Azil",
-	[143045] = "Coastal Scuttler",
-	[157161] = "Sand Vortex",
-	[197774] = "Toxic Swogmother",
+	[178783] = "Moriaz the Red",
+	[111864] = "Sticky",
+	[145903] = "Darkforged Crusader",
+	[189893] = "Infused Whelp",
+	[196845] = "Frozen Behemoth",
+	[33343] = "XS-013 Scrapbot",
 }
 AchievementTrackerNPCCacheClassic = {
 }

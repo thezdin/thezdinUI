@@ -1,6 +1,9 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0801,
+	["LastPlayerFullName"] = "Thezidari-Hyjal",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 202524,
@@ -90,9 +93,7 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:202560:6642:::::::70:581::3:5:6652:7979:9324:1475:8767:1:28:2474:::::|h[Claws of the Blazing Behemoth]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Thezidari-Hyjal",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[127829] = {
 			["Relics"] = {
@@ -123,7 +124,6 @@ PawnOptions = {
 			["Name"] = "The Aldrachi Warblades",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DEMONHUNTER",

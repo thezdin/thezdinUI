@@ -32,3 +32,6 @@ WunderUI: disabled
 BigWigs_Core: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
+Blizzard_CombatText: enabled
+LittleWigs_MistsOfPandaria: enabled
+LittleWigs_BattleForAzeroth: enabled

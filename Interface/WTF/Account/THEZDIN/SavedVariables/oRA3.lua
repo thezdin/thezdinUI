@@ -14,14 +14,6 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
-			["global"] = {
-				["spellsOnCooldown"] = {
-					[633] = {
-						["Player-3661-090ED1C0"] = 540891.207,
-					},
-				},
-				["lastTime"] = 547847.77,
-			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -32,24 +24,36 @@ oRA3DB = {
 							[6940] = true,
 							[31821] = true,
 							[106898] = true,
-							[853] = true,
-							[32375] = true,
 							[202137] = true,
+							[32375] = true,
+							[853] = true,
 						},
 					},
 					["displays"] = {
 						["Default"] = {
-							["barLabelFont"] = "Roboto BoldCondensed",
+							["barLabelFont"] = "ElvUI C",
 							["lockDisplay"] = true,
 							["barTexture"] = "Clean",
-							["barLabelFontSize"] = 12,
+							["barLabelFontSize"] = 13,
 							["barDurationClassColor"] = true,
 							["barDurationFont"] = "ElvUI C",
 							["barStyle"] = "ElvUI",
+							["groupSpells"] = true,
 							["barDurationFontSize"] = 15,
 							["type"] = "Bars",
 						},
 					},
+				},
+			},
+		},
+		["Tanks"] = {
+		},
+		["Consumables"] = {
+			["profiles"] = {
+				["Default"] = {
+					["checkReadyCheck"] = 3,
+					["checkRune"] = true,
+					["output"] = 3,
 				},
 			},
 		},
@@ -60,35 +64,24 @@ oRA3DB = {
 				},
 			},
 		},
-		["Consumables"] = {
-			["profiles"] = {
-				["Default"] = {
-					["checkRune"] = true,
-					["checkReadyCheck"] = 3,
-					["output"] = 3,
-				},
-			},
-		},
-		["Tanks"] = {
-		},
 	},
 	["profileKeys"] = {
 		["Úlfhédnar - Hyjal"] = "Default",
 		["Thezkin - Hyjal"] = "Default",
-		["Jägare - Hyjal"] = "Default",
+		["Thezdivh - Hyjal"] = "Default",
 		["Thezadin - Hyjal"] = "Default",
-		["Foulfellow - Hyjal"] = "Default",
+		["Thezbot - Azgalor"] = "Default",
 		["Thezbank - Mannoroth"] = "Default",
+		["Thezfu - Hyjal"] = "Default",
 		["Sigurdsson - Hyjal"] = "Default",
-		["Thez - Hyjal"] = "Default",
 		["Thezdruid - Hyjal"] = "Default",
 		["Thezknight - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
 		["Thezdgar - Hyjal"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
-		["Thezfu - Hyjal"] = "Default",
-		["Thezbot - Azgalor"] = "Default",
-		["Thezdivh - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
+		["Foulfellow - Hyjal"] = "Default",
+		["Jägare - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -100,15 +93,15 @@ oRA3DB = {
 				},
 				["oRA3BattleResMonitor"] = {
 					["Height"] = 30.00001525878906,
-					["Width"] = 140.0001068115234,
-					["PosY"] = 131.2002005259274,
 					["PosX"] = 426.1348191791694,
+					["PosY"] = 131.2002005259274,
+					["Width"] = 140.0001068115234,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 536.4446411132812,
+					["PosX"] = 15.76730981537935,
+					["PosY"] = 765.0061827423633,
 					["Width"] = 258.6666259765625,
-					["PosY"] = 583.3311266951205,
-					["PosX"] = 16.24958446222877,
 				},
 			},
 			["lastSelectedPanel"] = "Cooldowns",
