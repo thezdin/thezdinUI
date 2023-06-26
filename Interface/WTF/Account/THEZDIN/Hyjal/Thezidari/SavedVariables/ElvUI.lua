@@ -2,338 +2,338 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p hunter, ffs", -- [1]
-		"/p ugh why", -- [2]
-		"/p damn", -- [3]
-		"/wa", -- [4]
-		"/p gg, thx all", -- [5]
-		"/invite Seyka", -- [6]
-		"/p run to end of bridge plz", -- [7]
-		"/slap", -- [8]
-		"/p follow me after this plz", -- [9]
-		"/p hug the wall carefully", -- [10]
-		"/p huge pull, keep moving with me", -- [11]
-		"/p LOL why", -- [12]
-		"/invite Amplifi", -- [13]
-		"/p !keys", -- [14]
-		"/p I'm inside, brb bio", -- [15]
-		"/p dude", -- [16]
-		"/p can you cast tricks on me plz?", -- [17]
-		"/p that rogue had to be high as a spacecraft", -- [18]
-		"/p jesus christ almighty", -- [19]
-		"/p gg", -- [20]
+		"/i Notdaara, you got this", -- [1]
+		"/i ^", -- [2]
+		"/i tanks taunt and position bombs bro", -- [3]
+		"/i and then you friendly fire bomb the raid as a DK :/", -- [4]
+		"/i anyone got a bot?", -- [5]
+		"/s anyone have a repair bot? :/", -- [6]
+		"/s 1 death and I'm screwed", -- [7]
+		"/cw Trembolonà-Azralon yep, trying lol", -- [8]
+		"/s tank out", -- [9]
+		"/s go", -- [10]
+		"/cw Trembolonà-Azralon thanks :)", -- [11]
+		"/i thanks all", -- [12]
+		"/p !keys", -- [13]
+		"/p hey all", -- [14]
+		"/p lust", -- [15]
+		"/p now :)", -- [16]
+		"/p lust when it's up", -- [17]
+		"/p lost track and fucked up timing, sorry", -- [18]
+		"/p pulled two extra packs cuz you two are carrying us faster than I paced", -- [19]
+		"/p thx all", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Scorching Fusillade on Thezidari", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"that good huh", -- [1]
+			"Selari-Quel'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Selari-Quel'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			845, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1217, -- [11]
+			"Player-1428-0E10C939", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687124632,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Selari-Quel'Thalas|r",
+			[51] = 1687647225,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [1]
 		{
-			"Mote of Combustion on Ailmorick", -- [1]
-			"Ailmorick-Ysera", -- [2]
+			"its a fun time", -- [1]
+			"Láñtérñ-Icecrown", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ailmorick-Ysera", -- [5]
+			"Láñtérñ-Icecrown", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			846, -- [11]
-			"Player-63-0F06CEF8", -- [12]
+			1218, -- [11]
+			"Player-104-0DF8FC60", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAilmorick-Ysera|r",
-			[51] = 1687124639,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fLáñtérñ-Icecrown|r",
+			[51] = 1687647233,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [2]
 		{
-			"Scorching Fusillade on Thezidari", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"last pull for me so lets kill it", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			848, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1219, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687124595,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687647236,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [3]
 		{
-			"Scorching Fusillade on Twotosix", -- [1]
-			"Twotosix-Durotan", -- [2]
+			"yeah i think maybe 3 people know the mechanics", -- [1]
+			"Notdaara-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Twotosix-Durotan", -- [5]
+			"Notdaara-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			849, -- [11]
-			"Player-63-0647F54A", -- [12]
+			1220, -- [11]
+			"Player-11-09AAF512", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aTwotosix-Durotan|r",
-			[51] = 1687124595,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffaad372Notdaara-Tichondrius|r",
+			[51] = 1687647237,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [4]
 		{
-			"Scorching Fusillade on Ailmorick", -- [1]
-			"Ailmorick-Ysera", -- [2]
+			"i totally dont wanna blow my brain out", -- [1]
+			"Láñtérñ-Icecrown", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ailmorick-Ysera", -- [5]
+			"Láñtérñ-Icecrown", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			850, -- [11]
-			"Player-63-0F06CEF8", -- [12]
+			1221, -- [11]
+			"Player-104-0DF8FC60", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAilmorick-Ysera|r",
-			[51] = 1687124595,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fLáñtérñ-Icecrown|r",
+			[51] = 1687647238,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [5]
 		{
-			"Mote of Combustion on Twotosix", -- [1]
-			"Twotosix-Durotan", -- [2]
+			"same last pull for me", -- [1]
+			"Odovacar-AeriePeak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Twotosix-Durotan", -- [5]
+			"Odovacar-AeriePeak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			856, -- [11]
-			"Player-63-0647F54A", -- [12]
+			1222, -- [11]
+			"Player-1426-0E1E554A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aTwotosix-Durotan|r",
-			[51] = 1687124670,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dOdovacar-AeriePeak|r",
+			[51] = 1687647185,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [6]
 		{
-			"Interrupted Lava Flare's |cff71d5ff|Hspell:372538:0|h[Melt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"just blow someone else, EZ Lantern", -- [1]
+			"Drakenjosh-Icecrown", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Drakenjosh-Icecrown", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			859, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1224, -- [11]
+			"Player-104-0DF9579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687124690,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff33937fDrakenjosh-Icecrown|r",
+			[51] = 1687647251,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [7]
 		{
-			"Interrupted Lava Flare's |cff71d5ff|Hspell:372538:0|h[Melt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"ez", -- [1]
+			"Láñtérñ-Icecrown", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Láñtérñ-Icecrown", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			862, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1225, -- [11]
+			"Player-104-0DF8FC60", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687124734,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff33937fLáñtérñ-Icecrown|r",
+			[51] = 1687647255,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [8]
 		{
-			"Blazing Aegis on Twotosix", -- [1]
-			"Twotosix-Durotan", -- [2]
+			"hey bro you can tank the boss in yellow in phase 3 and tell it to go to red", -- [1]
+			"Trembolonà-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Twotosix-Durotan", -- [5]
+			"Trembolonà-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			866, -- [11]
-			"Player-63-0647F54A", -- [12]
+			1226, -- [11]
+			"Player-3209-0BAB58F1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aTwotosix-Durotan|r",
-			[51] = 1687124753,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaTrembolonà-Azralon|r",
+			[51] = 1687647260,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [9]
 		{
-			"Heated Swings on Thezidari", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"yep, trying lol", -- [1]
+			"Trembolonà-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Trembolonà-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			868, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			7, -- [10]
+			1229, -- [11]
+			"Player-3209-0BAB58F1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687124702,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaTrembolonà-Azralon|r",
+			[51] = 1687647287,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [10]
 		{
-			"3", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"{rt2}Disintegrate 2", -- [1]
+			"Chopperknigh-Frostmourne", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Chopperknigh-Frostmourne", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			869, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1235, -- [11]
+			"Player-3725-03A8F962", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687124704,
+			[52] = "|cffc41e3aChopperknigh-Frostmourne|r",
+			[51] = 1687647323,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"2", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"{rt2}3", -- [1]
+			"Chopperknigh-Frostmourne", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Chopperknigh-Frostmourne", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			870, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1236, -- [11]
+			"Player-3725-03A8F962", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687124705,
+			[52] = "|cffc41e3aChopperknigh-Frostmourne|r",
+			[51] = 1687647326,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"1", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"{rt2}2", -- [1]
+			"Chopperknigh-Frostmourne", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Chopperknigh-Frostmourne", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			871, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1237, -- [11]
+			"Player-3725-03A8F962", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687124706,
+			[52] = "|cffc41e3aChopperknigh-Frostmourne|r",
+			[51] = 1687647327,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"Interrupted Qalashi Lavamancer's |cff71d5ff|Hspell:383231:0|h[Lava Bolt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"{rt2}1", -- [1]
+			"Chopperknigh-Frostmourne", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Chopperknigh-Frostmourne", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			888, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1238, -- [11]
+			"Player-3725-03A8F962", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687124915,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc41e3aChopperknigh-Frostmourne|r",
+			[51] = 1687647328,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"Interrupted Fallen Waterspeaker's |cff71d5ff|Hspell:397888:0|h[Hydrolance]|h|r!", -- [1]
+			"tank out", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -343,7 +343,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2311, -- [11]
+			1241, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -351,11 +351,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687153880,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[51] = 1687647359,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"Interrupted Fallen Waterspeaker's |cff71d5ff|Hspell:397888:0|h[Hydrolance]|h|r!", -- [1]
+			"go", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -365,7 +365,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2312, -- [11]
+			1242, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -373,143 +373,363 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687153905,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[51] = 1687647301,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"Interrupted Fallen Waterspeaker's |cff71d5ff|Hspell:397888:0|h[Hydrolance]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"{rt2}Mass Disintegrate 2", -- [1]
+			"Fangblaze-Windrunner", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Fangblaze-Windrunner", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2342, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1245, -- [11]
+			"Player-113-0A04181A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687154085,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffc69b6dFangblaze-Windrunner|r",
+			[51] = 1687647371,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"Touch of Nothingness on Idriane", -- [1]
-			"Idriane-Proudmoore", -- [2]
+			"{rt2}3", -- [1]
+			"Fangblaze-Windrunner", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Idriane-Proudmoore", -- [5]
+			"Fangblaze-Windrunner", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2344, -- [11]
-			"Player-5-0E28C290", -- [12]
+			1246, -- [11]
+			"Player-113-0A04181A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaIdriane-Proudmoore|r",
-			[51] = 1687154110,
+			[52] = "|cffc69b6dFangblaze-Windrunner|r",
+			[51] = 1687647374,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:6475:Player-3661-091C86DD:1:6:18:23:4294967295:4294967295:4294967295:4294967295|h[Cleaning Up]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"{rt1}3", -- [1]
+			"Shannako-Dalaran", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shannako-Dalaran", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2347, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1247, -- [11]
+			"Player-3683-0D85A37E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687154114,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShannako-Dalaran|r",
+			[51] = 1687647374,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"thanks!", -- [1]
-			"Zynniz-AeriePeak", -- [2]
+			"{rt2}2", -- [1]
+			"Fangblaze-Windrunner", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zynniz-AeriePeak", -- [5]
+			"Fangblaze-Windrunner", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2363, -- [11]
-			"Player-1426-0DBC9707", -- [12]
+			1248, -- [11]
+			"Player-113-0A04181A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffZynniz-AeriePeak|r",
-			[51] = 1687154125,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc69b6dFangblaze-Windrunner|r",
+			[51] = 1687647375,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [20]
 		{
-			"Interrupted Rimebound Subjugator's |cff71d5ff|Hspell:396780:0|h[Frozen Shield]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"{rt2}1", -- [1]
+			"Fangblaze-Windrunner", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Fangblaze-Windrunner", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			698, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1249, -- [11]
+			"Player-113-0A04181A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687236645,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dFangblaze-Windrunner|r",
+			[51] = 1687647376,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"Interrupted Rimebound Subjugator's |cff71d5ff|Hspell:396780:0|h[Frozen Shield]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"kick the 4 with howl on em", -- [1]
+			"Odovacar-AeriePeak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Odovacar-AeriePeak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			702, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			1252, -- [11]
+			"Player-1426-0E1E554A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687236685,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dOdovacar-AeriePeak|r",
+			[51] = 1687647387,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [22]
 		{
-			"Interrupted Cragsworn Stoneshaper's |cff71d5ff|Hspell:386801:0|h[Strength Of Mountains]|h|r!", -- [1]
+			"i hate my life", -- [1]
+			"Drakenjosh-Icecrown", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Drakenjosh-Icecrown", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1258, -- [11]
+			"Player-104-0DF9579C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fDrakenjosh-Icecrown|r",
+			[51] = 1687647415,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [23]
+		{
+			"3", -- [1]
+			"Selari-Quel'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Selari-Quel'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1271, -- [11]
+			"Player-1428-0E10C939", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Selari-Quel'Thalas|r",
+			[51] = 1687647467,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [24]
+		{
+			"2", -- [1]
+			"Selari-Quel'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Selari-Quel'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1272, -- [11]
+			"Player-1428-0E10C939", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Selari-Quel'Thalas|r",
+			[51] = 1687647468,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [25]
+		{
+			"1", -- [1]
+			"Selari-Quel'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Selari-Quel'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1273, -- [11]
+			"Player-1428-0E10C939", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Selari-Quel'Thalas|r",
+			[51] = 1687647469,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [26]
+		{
+			"Interrupted |cff71d5ff|Hspell:404754:0|h[Grito de Impacto]|h|r", -- [1]
+			"Trembolonà-Azralon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trembolonà-Azralon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1274, -- [11]
+			"Player-3209-0BAB58F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaTrembolonà-Azralon|r",
+			[51] = 1687647478,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [27]
+		{
+			"2", -- [1]
+			"Selari-Quel'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Selari-Quel'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1296, -- [11]
+			"Player-1428-0E10C939", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Selari-Quel'Thalas|r",
+			[51] = 1687647816,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [28]
+		{
+			"1", -- [1]
+			"Selari-Quel'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Selari-Quel'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1297, -- [11]
+			"Player-1428-0E10C939", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Selari-Quel'Thalas|r",
+			[51] = 1687647817,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [29]
+		{
+			"Interrupted |cff71d5ff|Hspell:404754:0|h[Grito de Impacto]|h|r", -- [1]
+			"Trembolonà-Azralon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trembolonà-Azralon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1302, -- [11]
+			"Player-3209-0BAB58F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaTrembolonà-Azralon|r",
+			[51] = 1687647784,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [30]
+		{
+			"DO IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!", -- [1]
+			"Fangblaze-Windrunner", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fangblaze-Windrunner", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1304, -- [11]
+			"Player-113-0A04181A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dFangblaze-Windrunner|r",
+			[51] = 1687647845,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [31]
+		{
+			"nice tank", -- [1]
+			"Trembolonà-Azralon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trembolonà-Azralon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1305, -- [11]
+			"Player-3209-0BAB58F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaTrembolonà-Azralon|r",
+			[51] = 1687647908,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [32]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:18167:Player-3661-091C86DD:1:6:24:23:4294967295:4294967295:4294967295:4294967295|h[Edge of the Void]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -519,7 +739,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			717, -- [11]
+			1306, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -527,9 +747,185 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687236722,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
+			[51] = 1687647909,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [33]
+		{
+			"DO IT FOR THOSE THAT HAVE DIED! ", -- [1]
+			"Fangblaze-Windrunner", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fangblaze-Windrunner", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1341, -- [11]
+			"Player-113-0A04181A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dFangblaze-Windrunner|r",
+			[51] = 1687647911,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [34]
+		{
+			"YES! ", -- [1]
+			"Fangblaze-Windrunner", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fangblaze-Windrunner", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1342, -- [11]
+			"Player-113-0A04181A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dFangblaze-Windrunner|r",
+			[51] = 1687647913,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [35]
+		{
+			"finaalllyyyy", -- [1]
+			"Drakenjosh-Icecrown", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Drakenjosh-Icecrown", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1343, -- [11]
+			"Player-104-0DF9579C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fDrakenjosh-Icecrown|r",
+			[51] = 1687647914,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [36]
+		{
+			"ANYONE ELSE WANNA COMMENT ON THE IRONY?", -- [1]
+			"Tashah-Kael'thas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tashah-Kael'thas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1351, -- [11]
+			"Player-1175-0EFD3D9B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddTashah-Kael'thas|r",
+			[51] = 1687647920,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [37]
+		{
+			"rezzing", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1359, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687647928,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [38]
+		{
+			"thanks :)", -- [1]
+			"Trembolonà-Azralon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trembolonà-Azralon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			1365, -- [11]
+			"Player-3209-0BAB58F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaTrembolonà-Azralon|r",
+			[51] = 1687647938,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [39]
+		{
+			"|cffa335ee|Hitem:206046::::::::70:1467::4:3:9411:1459:8767:1:28:2645:::::|h[Void-Touched Curio]|h|r", -- [1]
+			"Láñtérñ-Icecrown", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Láñtérñ-Icecrown", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1383, -- [11]
+			"Player-104-0DF8FC60", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fLáñtérñ-Icecrown|r",
+			[51] = 1687647903,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [40]
+		{
+			"thanks all", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1385, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687647972,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [41]
 		{
 			"!keys", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -541,7 +937,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			723, -- [11]
+			46, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -549,495 +945,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687236830,
+			[51] = 1687662738,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
-		{
-			"Astral Keys: |cffa335ee|Hkeystone:180653:438:13:10:124:0:0|h[Keystone: The Vortex Pinnacle (13)]|h|r", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			724, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1687236831,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
-		{
-			"Astral Keys: |cffa335ee|Hkeystone:180653:245:13:10:124:0:0|h[Keystone: Freehold (13)]|h|r", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			725, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687236831,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
-		{
-			"sec gonna relog", -- [1]
-			"Zulka-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zulka-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			758, -- [11]
-			"Player-57-0D733C0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aZulka-Illidan|r",
-			[51] = 1687237116,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
-		{
-			"on the way ", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			766, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1687237206,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
-		{
-			"I'm inside, brb bio", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			767, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687237212,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
-		{
-			"en route", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			773, -- [11]
-			"Player-3661-09392C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687237220,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
-		{
-			"me too", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			774, -- [11]
-			"Player-1427-09C24387", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687237220,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
-		{
-			"inside", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			775, -- [11]
-			"Player-1427-09C24387", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687237283,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
-		{
-			"Not Well Fed (3): Amplifi, Thezidari, Zulka", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			777, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687237333,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
-		{
-			"No Flask (2): Thezidari, Zulka", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			778, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687237333,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
-		{
-			"No Augment Rune (5): Amplifi, Galumgelm, Sneakystabba, Thezidari, Zulka", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			779, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687237333,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [35]
-		{
-			"Missing Buffs (2): Mark of the Wild, Power Word: Fortitude", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			780, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687237333,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
-		{
-			"Lust: Amplifi (*)", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			787, -- [11]
-			"Player-1427-09C24387", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687237393,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [37]
-		{
-			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			816, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687237709,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
-		{
-			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			818, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687237731,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
-		{
-			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			820, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687237693,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [40]
-		{
-			"dude", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			824, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687237789,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [41]
-		{
-			"Ricocheting Throw on Galumgelm", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			829, -- [11]
-			"Player-1427-09C24387", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687237866,
-			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
 		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Astral Keys: |cffa335ee|Hkeystone:180653:438:19:9:135:7:0|h[Keystone: The Vortex Pinnacle (19)]|h|r", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			831, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			47, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687237873,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687662738,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [43]
 		{
-			"Ricocheting Throw on Amplifi", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			834, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1687237951,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"Blackout Barrel on Sneakystabba", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			840, -- [11]
-			"Player-3661-09392C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687237986,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
-		{
-			"Ricocheting Throw on Sneakystabba", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			851, -- [11]
-			"Player-3661-09392C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687238135,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
+			"Astral Keys: |cffa335ee|Hkeystone:180653:245:13:9:135:0:0|h[Keystone: Freehold (13)]|h|r", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1047,7 +981,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			852, -- [11]
+			48, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1055,99 +989,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238136,
+			[51] = 1687662738,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [44]
+		{
+			"hey", -- [1]
+			"Maddìea-Stormrage", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Maddìea-Stormrage", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-60-0BC29C54", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffMaddìea-Stormrage|r",
+			[51] = 1687662853,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [45]
+		{
+			"ty for inv~", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Iskasta-Thunderhorn", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			55, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687662875,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [46]
+		{
+			"hey all", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			66, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687663005,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [47]
 		{
-			"Interrupted |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r on Bilge Rat Brinescale", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			853, -- [11]
-			"Player-3661-09392C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687238137,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"Ricocheting Throw on Galumgelm", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			854, -- [11]
-			"Player-1427-09C24387", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687238139,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"Ricocheting Throw on Zulka", -- [1]
-			"Zulka-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zulka-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			855, -- [11]
-			"Player-57-0D733C0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aZulka-Illidan|r",
-			[51] = 1687238144,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
-		{
-			"Ricocheting Throw on Amplifi", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			859, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1687238152,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
-		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
+			"Not Well Fed (3): Maddìea, Seyka, Thezidari", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1157,7 +1069,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			860, -- [11]
+			74, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1165,33 +1077,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238153,
+			[51] = 1687663093,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [48]
+		{
+			"No Flask (4): Dovadeath, Iskasta, Seyka, Thezidari", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			75, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687663093,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [49]
+		{
+			"No Augment Rune (5): Dovadeath, Iskasta, Maddìea, Seyka, Thezidari", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			76, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687663093,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [50]
+		{
+			"Missing Buffs (2): Arcane Intellect, Power Word: Fortitude", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			77, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687663093,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [51]
+		{
+			"Interrupted Irontide Bonesaw's |cff71d5ff|Hspell:257397:0|h[Healing Balm]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			90, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687663225,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [52]
 		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"when do you want to lust?", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Iskasta-Thunderhorn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			861, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			100, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238155,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687663295,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [53]
 		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
+			"lust", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1201,7 +1201,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			865, -- [11]
+			102, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1209,33 +1209,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238108,
+			[51] = 1687663367,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [54]
 		{
-			"Ricocheting Throw on Zulka", -- [1]
-			"Zulka-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zulka-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			875, -- [11]
-			"Player-57-0D733C0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aZulka-Illidan|r",
-			[51] = 1687238192,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
-		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
+			"now :)", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1245,7 +1223,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			879, -- [11]
+			103, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1253,33 +1231,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238202,
+			[51] = 1687663368,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [55]
+		{
+			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687663333,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [56]
 		{
-			"Ricocheting Throw on Sneakystabba", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			880, -- [11]
-			"Player-3661-09392C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687238206,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
-		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
+			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1289,7 +1267,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			884, -- [11]
+			109, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1297,231 +1275,209 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238161,
+			[51] = 1687663355,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [57]
+		{
+			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			112, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687663437,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [58]
 		{
-			"can you cast tricks on me plz?", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Ricocheting Throw on Iskasta", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Iskasta-Thunderhorn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			887, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			120, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238255,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687663518,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"ya", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
+			"heads up i made a mistake and i dont have my freedom for barrel", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			888, -- [11]
-			"Player-3661-09392C02", -- [12]
+			125, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687238258,
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687663564,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [60]
 		{
-			"Ricocheting Throw on Amplifi", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"i was testing something and didnt put it back on", -- [1]
+			"Seyka-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Seyka-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			901, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			128, -- [11]
+			"Player-3661-090ED1C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1687238326,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687663577,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [61]
 		{
-			"Lust: Amplifi (*)", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
+			"Ricocheting Throw on Dovadeath", -- [1]
+			"Dovadeath-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
+			"Dovadeath-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			904, -- [11]
-			"Player-1427-09C24387", -- [12]
+			129, -- [11]
+			"Player-11-0E58FD4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687238333,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc41e3aDovadeath-Tichondrius|r",
+			[51] = 1687663577,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [62]
 		{
-			"Ricocheting Throw on Galumgelm", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
+			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			905, -- [11]
-			"Player-1427-09C24387", -- [12]
+			130, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687238334,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687663579,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [63]
 		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Ricocheting Throw on Maddìea", -- [1]
+			"Maddìea-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Maddìea-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			907, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			131, -- [11]
+			"Player-60-0BC29C54", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238280,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffMaddìea-Stormrage|r",
+			[51] = 1687663581,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [64]
 		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Ricocheting Throw on Iskasta", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Iskasta-Thunderhorn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			910, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			138, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238296,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687663691,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [65]
 		{
-			"Shark Toss on Zulka", -- [1]
-			"Zulka-Illidan", -- [2]
+			"Ricocheting Throw on Maddìea", -- [1]
+			"Maddìea-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zulka-Illidan", -- [5]
+			"Maddìea-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			915, -- [11]
-			"Player-57-0D733C0C", -- [12]
+			140, -- [11]
+			"Player-60-0BC29C54", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aZulka-Illidan|r",
-			[51] = 1687238490,
+			[52] = "|cffffffffMaddìea-Stormrage|r",
+			[51] = 1687663708,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
-			"Shark Toss on Galumgelm", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			919, -- [11]
-			"Player-1427-09C24387", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687238481,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
-		{
-			"-.-!", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			934, -- [11]
-			"Player-1427-09C24387", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687238587,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
-		{
-			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
+			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1531,7 +1487,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			935, -- [11]
+			144, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1539,55 +1495,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238675,
+			[51] = 1687663789,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
+		}, -- [67]
 		{
-			"Interrupted |cff71d5ff|Hspell:257899:0|h[Painful Motivation]|h|r on Irontide Ravager", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
+			"Ricocheting Throw on Dovadeath", -- [1]
+			"Dovadeath-Tichondrius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
+			"Dovadeath-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			936, -- [11]
-			"Player-3661-09392C02", -- [12]
+			148, -- [11]
+			"Player-11-0E58FD4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687238681,
+			[52] = "|cffc41e3aDovadeath-Tichondrius|r",
+			[51] = 1687663840,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [68]
+		{
+			"Ricocheting Throw on Maddìea", -- [1]
+			"Maddìea-Stormrage", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Maddìea-Stormrage", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			149, -- [11]
+			"Player-60-0BC29C54", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffMaddìea-Stormrage|r",
+			[51] = 1687663847,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [69]
+		{
+			"Ricocheting Throw on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			151, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687663859,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:257736:0|h[Thundering Squall]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Ricocheting Throw on Iskasta", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Iskasta-Thunderhorn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			937, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			153, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238685,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687663827,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
+			"lust when it's up", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1597,7 +1597,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			938, -- [11]
+			162, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1605,31 +1605,119 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238695,
+			[51] = 1687663875,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [72]
 		{
-			"Interrupted |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r on Irontide Stormcaller", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
+			"lost track and fucked up timing, sorry", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			942, -- [11]
-			"Player-3661-09392C02", -- [12]
+			172, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687238646,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687664082,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [73]
+		{
+			"pulled two extra packs cuz you two are carrying us faster than I paced", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			173, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687664098,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [74]
+		{
+			"Shark Toss on Maddìea", -- [1]
+			"Maddìea-Stormrage", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Maddìea-Stormrage", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			176, -- [11]
+			"Player-60-0BC29C54", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffMaddìea-Stormrage|r",
+			[51] = 1687664200,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [75]
+		{
+			"Shark Toss on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			177, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687664213,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"Shark Toss on Iskasta", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Iskasta-Thunderhorn", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			178, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687664219,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
 		{
 			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1641,7 +1729,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			943, -- [11]
+			184, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1649,96 +1737,8 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238656,
+			[51] = 1687664319,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
-		{
-			"Interrupted |cff71d5ff|Hspell:257899:0|h[Painful Motivation]|h|r on Irontide Officer", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			946, -- [11]
-			"Player-3661-09392C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687238738,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
-		{
-			"Interrupted Irontide Officer's |cff71d5ff|Hspell:257899:0|h[Painful Motivation]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			950, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238705,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
-		{
-			"Interrupted Irontide Officer's |cff71d5ff|Hspell:257899:0|h[Painful Motivation]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			952, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238782,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [77]
-		{
-			"can i get mark plz", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			953, -- [11]
-			"Player-3661-09392C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687238817,
-			[50] = "CHAT_MSG_PARTY",
 		}, -- [78]
 		{
 			"Interrupted Irontide Ravager's |cff71d5ff|Hspell:257899:0|h[Painful Motivation]|h|r!", -- [1]
@@ -1751,7 +1751,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			958, -- [11]
+			188, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1759,33 +1759,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238768,
+			[51] = 1687664338,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [79]
 		{
-			"Interrupted Irontide Ravager's |cff71d5ff|Hspell:257899:0|h[Painful Motivation]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"ty ty ", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Iskasta-Thunderhorn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			959, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			189, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238845,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687664383,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [80]
 		{
-			"Interrupted Irontide Officer's |cff71d5ff|Hspell:257899:0|h[Painful Motivation]|h|r!", -- [1]
+			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1795,7 +1795,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			964, -- [11]
+			190, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1803,10 +1803,32 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238869,
+			[51] = 1687664389,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [81]
 		{
+			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			197, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687664352,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [82]
+		{
 			"Interrupted Irontide Officer's |cff71d5ff|Hspell:257899:0|h[Painful Motivation]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
@@ -1817,7 +1839,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			965, -- [11]
+			198, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1825,165 +1847,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687238828,
+			[51] = 1687664372,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
-		{
-			"Cannon Barrage on Sneakystabba", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			968, -- [11]
-			"Player-3661-09392C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687238927,
-			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"Lust: Amplifi (*)", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			969, -- [11]
-			"Player-1427-09C24387", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687238934,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [84]
-		{
-			"Fixate on Sneakystabba", -- [1]
-			"Sneakystabba-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakystabba-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			971, -- [11]
-			"Player-3661-09392C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Sneakystabba|r",
-			[51] = 1687238881,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
-		{
-			"Cannon Barrage on Amplifi", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			973, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1687238968,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
-		{
-			"Cannon Barrage on Zulka", -- [1]
-			"Zulka-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zulka-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			974, -- [11]
-			"Player-57-0D733C0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aZulka-Illidan|r",
-			[51] = 1687238968,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
-		{
-			"Cannon Barrage on Galumgelm", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			976, -- [11]
-			"Player-1427-09C24387", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687238968,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
-		{
-			"Black Powder Bomb on Amplifi", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			978, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1687238977,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
-		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:251:14:10:124:11:0|h[Keystone: The Underrot (14)]|h|r", -- [1]
+			"Interrupted Irontide Officer's |cff71d5ff|Hspell:257899:0|h[Painful Motivation]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1993,7 +1861,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			995, -- [11]
+			199, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2001,11 +1869,187 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687239103,
+			[51] = 1687664450,
 			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [84]
+		{
+			"Cannon Barrage on Iskasta", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Iskasta-Thunderhorn", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			202, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687664430,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [85]
+		{
+			"Black Powder Bomb on Iskasta", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Iskasta-Thunderhorn", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			204, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687664505,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [86]
+		{
+			"Cannon Barrage on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			206, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687664516,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [87]
+		{
+			"Cannon Barrage on Iskasta", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Iskasta-Thunderhorn", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			209, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687664477,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [88]
+		{
+			"Cannon Barrage on Dovadeath", -- [1]
+			"Dovadeath-Tichondrius", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dovadeath-Tichondrius", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			210, -- [11]
+			"Player-11-0E58FD4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aDovadeath-Tichondrius|r",
+			[51] = 1687664477,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [89]
+		{
+			"Cannon Barrage on Maddìea", -- [1]
+			"Maddìea-Stormrage", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Maddìea-Stormrage", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			211, -- [11]
+			"Player-60-0BC29C54", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffMaddìea-Stormrage|r",
+			[51] = 1687664477,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [90]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:251:14:10:124:11:0|h[Keystone: The Underrot (14)]|h|r", -- [1]
+			"Cannon Barrage on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			219, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687664522,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [91]
+		{
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:404:15:9:135:7:0|h[Keystone: Neltharus (15)]|h|r", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			227, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1687664528,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [92]
+		{
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:404:15:9:135:7:0|h[Keystone: Neltharus (15)]|h|r", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2015,7 +2059,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			996, -- [11]
+			228, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2023,99 +2067,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687239103,
+			[51] = 1687664528,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
-		{
-			"somehow we made it", -- [1]
-			"Galumgelm-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Galumgelm-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			997, -- [11]
-			"Player-1427-09C24387", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffGalumgelm-Ragnaros|r",
-			[51] = 1687239111,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [92]
-		{
-			"Gg", -- [1]
-			"Zulka-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zulka-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1002, -- [11]
-			"Player-57-0D733C0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aZulka-Illidan|r",
-			[51] = 1687239072,
-			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"PHEW ", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"ty guys", -- [1]
+			"Maddìea-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Maddìea-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1003, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			231, -- [11]
+			"Player-60-0BC29C54", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1687239082,
+			[52] = "|cffffffffMaddìea-Stormrage|r",
+			[51] = 1687664532,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			"that rogue had to be high as a spacecraft", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"|cffa335ee|Hitem:158346::::::::70:258::16:8:9323:6652:9415:9223:9219:9144:3291:8767:1:28:1279:::::|h[Sailcloth Waistband]|h|r if you need", -- [1]
+			"Maddìea-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Maddìea-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1004, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			234, -- [11]
+			"Player-60-0BC29C54", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687239082,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffMaddìea-Stormrage|r",
+			[51] = 1687664539,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [95]
 		{
-			"jesus christ almighty", -- [1]
+			"thx all", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2125,7 +2125,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1006, -- [11]
+			235, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2133,74 +2133,74 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687239145,
+			[51] = 1687664539,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [96]
 		{
-			"gg", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"ty all!", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Iskasta-Thunderhorn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1007, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			236, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1687239147,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687664551,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [97]
 		{
-			"i am going to do the dungeon quest for gear if you are done", -- [1]
-			"Amplifi-Hyjal", -- [2]
+			"portal", -- [1]
+			"Iskasta-Thunderhorn", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
+			"Iskasta-Thunderhorn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1064, -- [11]
-			"Player-3661-091D2FBC", -- [12]
+			237, -- [11]
+			"Player-1129-0B74AF9D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1687239517,
+			[52] = "|cff3fc7ebIskasta-Thunderhorn|r",
+			[51] = 1687664616,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [98]
 		{
-			"Hi", -- [1]
-			"Rottenleaf-Hyjal", -- [2]
+			"ty", -- [1]
+			"Dovadeath-Tichondrius", -- [2]
 			"", -- [3]
-			"1. General - Valdrakken", -- [4]
-			"Rottenleaf-Hyjal", -- [5]
+			"", -- [4]
+			"Dovadeath-Tichondrius", -- [5]
 			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Valdrakken", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			99, -- [11]
-			"Player-3661-093924E3", -- [12]
+			238, -- [11]
+			"Player-11-0E58FD4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffRottenleaf|r",
-			[51] = 1687391981,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc41e3aDovadeath-Tichondrius|r",
+			[51] = 1687664617,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [99]
 	},
 }

@@ -35,3 +35,4 @@ BigWigs_Plugins: enabled
 Blizzard_CombatText: enabled
 LittleWigs_MistsOfPandaria: enabled
 LittleWigs_BattleForAzeroth: enabled
+BigWigs_Aberrus: enabled

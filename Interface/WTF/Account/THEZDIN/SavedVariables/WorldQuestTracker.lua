@@ -1395,19 +1395,21 @@ WQTrackerDB = {
 				},
 				["Player-3661-091D8CD9"] = {
 				},
+				["Player-3661-0932F8C9"] = {
+				},
 				["Player-3661-0926A5B4"] = {
 				},
 				["Player-3661-09289FA2"] = {
 				},
-				["Player-3661-0932F8C9"] = {
-				},
 				["Player-3661-090ED206"] = {
-				},
-				["Player-3661-0933AFEC"] = {
 				},
 				["Player-3661-091BBF49"] = {
 				},
-				["Player-77-052C5769"] = {
+				["Player-3661-0933AFEC"] = {
+				},
+				["Player-3661-091C86DC"] = {
+				},
+				["Player-3661-091D2FE1"] = {
 				},
 				["Player-3661-091CDF41"] = {
 				},
@@ -1417,17 +1419,17 @@ WQTrackerDB = {
 				},
 				["Player-3661-091E66BD"] = {
 				},
-				["Player-3661-091C86DC"] = {
+				["Player-3661-08F1CD82"] = {
 				},
 				["Player-3661-08F190AD"] = {
 				},
-				["Player-3661-08F1CD82"] = {
+				["Player-3661-091D2FD8"] = {
 				},
 				["Player-3661-091D3EB8"] = {
 				},
-				["Player-3661-091D2FD8"] = {
-				},
 				["Player-3661-091C6488"] = {
+				},
+				["Player-3661-0939D2D4"] = {
 				},
 				["Player-3661-090E59D5"] = {
 				},
@@ -1437,7 +1439,7 @@ WQTrackerDB = {
 				},
 				["Player-3661-090EB9B6"] = {
 				},
-				["Player-3661-091D2FE1"] = {
+				["Player-77-052C5769"] = {
 				},
 				["Player-3685-07C4C157"] = {
 				},
@@ -1503,40 +1505,105 @@ WQTrackerDB = {
 				["Player-3661-0932F8C9"] = {
 				},
 				["Player-3661-091D3EB8"] = {
-					[70654] = {
-						["expireAt"] = 1686970877,
-						["rewardAmount"] = "376",
-						["rewardTexture"] = 4189041,
-					},
-					[75128] = {
-						["expireAt"] = 1686754865,
-						["rewardAmount"] = "|cff2292FF382",
-						["rewardTexture"] = 4903639,
-					},
-					[70431] = {
-						["expireAt"] = 1686970877,
+					[70712] = {
+						["expireAt"] = 1687878068,
 						["rewardAmount"] = "",
 						["rewardTexture"] = 1519429,
 					},
-					[70111] = {
-						["expireAt"] = 1686970817,
+					[70439] = {
+						["expireAt"] = 1687705268,
+						["rewardAmount"] = "|cff2292FF398",
+						["rewardTexture"] = 4903638,
+					},
+					[75680] = {
+						["expireAt"] = 1687878072,
+						["rewardAmount"] = "14",
+						["rewardTexture"] = 2004597,
+					},
+					[70071] = {
+						["expireAt"] = 1687878068,
 						["rewardAmount"] = "376",
-						["rewardTexture"] = 4186833,
+						["rewardTexture"] = 133667,
 					},
-					[75126] = {
-						["expireAt"] = 1686841265,
-						["rewardAmount"] = "|cff2292FF389",
-						["rewardTexture"] = 4903639,
+					[70432] = {
+						["expireAt"] = 1687878068,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
 					},
-					[70160] = {
-						["expireAt"] = 1686970817,
+					[74991] = {
+						["expireAt"] = 1687878072,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 5062624,
+					},
+					[74838] = {
+						["expireAt"] = 1687705268,
+						["rewardAmount"] = "18",
+						["rewardTexture"] = 133675,
+					},
+					[74840] = {
+						["expireAt"] = 1687705328,
+						["rewardAmount"] = "20",
+						["rewardTexture"] = 2004597,
+					},
+					[70502] = {
+						["expireAt"] = 1687878068,
+						["rewardAmount"] = "376",
+						["rewardTexture"] = 4295890,
+					},
+					[70413] = {
+						["expireAt"] = 1687878068,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
+					},
+					[70625] = {
+						["expireAt"] = 1687878068,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 1519432,
+					},
+					[75121] = {
+						["expireAt"] = 1687878072,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
+					},
+					[70057] = {
+						["expireAt"] = 1687878068,
+						["rewardAmount"] = "376",
+						["rewardTexture"] = 4295883,
+					},
+					[70427] = {
+						["expireAt"] = 1687878068,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
+					},
+					[74794] = {
+						["expireAt"] = 1687705268,
+						["rewardAmount"] = "16",
+						["rewardTexture"] = 133675,
+					},
+					[70146] = {
+						["expireAt"] = 1687878068,
+						["rewardAmount"] = "376",
+						["rewardTexture"] = 4295889,
+					},
+					[71202] = {
+						["expireAt"] = 1687705268,
+						["rewardAmount"] = "13",
+						["rewardTexture"] = 2004597,
+					},
+					[70646] = {
+						["expireAt"] = 1687878068,
 						["rewardAmount"] = "376",
 						["rewardTexture"] = 4295884,
 					},
-					[71166] = {
-						["expireAt"] = 1686754817,
-						["rewardAmount"] = "5",
-						["rewardTexture"] = 1045112,
+					[75119] = {
+						["expireAt"] = 1687878072,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
+					},
+					[74501] = {
+						["expireAt"] = 1687878128,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 4687627,
 					},
 				},
 				["Player-3661-08F1CD82"] = {
@@ -1561,161 +1628,146 @@ WQTrackerDB = {
 				["Player-3661-090E59D5"] = {
 				},
 				["Player-3661-091E66BD"] = {
-					[75120] = {
-						["expireAt"] = 1686668494,
+					[75121] = {
+						["expireAt"] = 1687878076,
 						["rewardAmount"] = "",
 						["rewardTexture"] = 1519429,
 					},
-					[74501] = {
-						["expireAt"] = 1686668480,
-						["rewardAmount"] = "1",
-						["rewardTexture"] = 4687627,
-					},
-					[75128] = {
-						["expireAt"] = 1686754894,
-						["rewardAmount"] = "|cff2292FF382",
-						["rewardTexture"] = 4914152,
-					},
-					[75750] = {
-						["expireAt"] = 1686668494,
-						["rewardAmount"] = "15",
+					[75680] = {
+						["expireAt"] = 1687878076,
+						["rewardAmount"] = "14",
 						["rewardTexture"] = 2004597,
 					},
-					[75123] = {
-						["expireAt"] = 1686668494,
+					[75119] = {
+						["expireAt"] = 1687878076,
 						["rewardAmount"] = "",
 						["rewardTexture"] = 1519429,
-					},
-					[69929] = {
-						["expireAt"] = 1686668480,
-						["rewardAmount"] = "1",
-						["rewardTexture"] = 1519432,
 					},
 				},
 				["Player-3661-090EB9B6"] = {
-					[70433] = {
-						["expireAt"] = 1687575679,
+					[70712] = {
+						["expireAt"] = 1687878059,
 						["rewardAmount"] = "",
 						["rewardTexture"] = 1519429,
 					},
-					[71212] = {
-						["expireAt"] = 1687575657,
-						["rewardAmount"] = "376",
-						["rewardTexture"] = 4295889,
-					},
 					[70625] = {
-						["expireAt"] = 1687878057,
+						["expireAt"] = 1687878040,
 						["rewardAmount"] = "1",
 						["rewardTexture"] = 4687630,
 					},
-					[74378] = {
-						["expireAt"] = 1687395679,
-						["rewardAmount"] = "",
-						["rewardTexture"] = 1394949,
+					[75680] = {
+						["expireAt"] = 1687878106,
+						["rewardAmount"] = "14",
+						["rewardTexture"] = 2004597,
 					},
-					[67006] = {
-						["expireAt"] = 1687575644,
+					[70071] = {
+						["expireAt"] = 1687878040,
 						["rewardAmount"] = "376",
-						["rewardTexture"] = 4268659,
+						["rewardTexture"] = 4635200,
 					},
-					[70420] = {
-						["expireAt"] = 1687575704,
+					[70432] = {
+						["expireAt"] = 1687878044,
 						["rewardAmount"] = "",
 						["rewardTexture"] = 1519429,
-					},
-					[71166] = {
-						["expireAt"] = 1687446019,
-						["rewardAmount"] = "12",
-						["rewardTexture"] = 2004597,
-					},
-					[70430] = {
-						["expireAt"] = 1687575657,
-						["rewardAmount"] = "",
-						["rewardTexture"] = 1519429,
-					},
-					[71145] = {
-						["expireAt"] = 1687446057,
-						["rewardAmount"] = "18",
-						["rewardTexture"] = 2004597,
 					},
 					[74991] = {
-						["expireAt"] = 1687878044,
+						["expireAt"] = 1687878046,
 						["rewardAmount"] = "5",
 						["rewardTexture"] = 5062624,
 					},
-					[70653] = {
-						["expireAt"] = 1687575657,
-						["rewardAmount"] = "376",
-						["rewardTexture"] = 4295886,
+					[71180] = {
+						["expireAt"] = 1687791644,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045114,
 					},
-					[74501] = {
-						["expireAt"] = 1687878104,
-						["rewardAmount"] = "1",
-						["rewardTexture"] = 4687627,
-					},
-					[75834] = {
-						["expireAt"] = 1687575704,
-						["rewardAmount"] = "6",
-						["rewardTexture"] = 1045113,
-					},
-					[70410] = {
-						["expireAt"] = 1687575703,
+					[75119] = {
+						["expireAt"] = 1687878106,
 						["rewardAmount"] = "",
 						["rewardTexture"] = 1519429,
 					},
+					[75121] = {
+						["expireAt"] = 1687878106,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
+					},
+					[70413] = {
+						["expireAt"] = 1687878063,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
+					},
+					[70427] = {
+						["expireAt"] = 1687878100,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
+					},
+					[70646] = {
+						["expireAt"] = 1687878059,
+						["rewardAmount"] = "376",
+						["rewardTexture"] = 4295884,
+					},
+					[70057] = {
+						["expireAt"] = 1687878044,
+						["rewardAmount"] = "376",
+						["rewardTexture"] = 4295883,
+					},
+					[41864] = {
+						["expireAt"] = 1687791618,
+						["rewardAmount"] = "|cffc557FF141",
+						["rewardTexture"] = 1408449,
+					},
+					[70502] = {
+						["expireAt"] = 1687878063,
+						["rewardAmount"] = "376",
+						["rewardTexture"] = 4295890,
+					},
 					[70146] = {
-						["expireAt"] = 1687575644,
+						["expireAt"] = 1687878059,
+						["rewardAmount"] = "376",
+						["rewardTexture"] = 4295889,
+					},
+					[71140] = {
+						["expireAt"] = 1687791659,
+						["rewardAmount"] = "13",
+						["rewardTexture"] = 2004597,
+					},
+					[69995] = {
+						["expireAt"] = 1687878059,
 						["rewardAmount"] = "1",
 						["rewardTexture"] = 1519432,
 					},
-					[71205] = {
-						["expireAt"] = 1687575619,
-						["rewardAmount"] = "376",
-						["rewardTexture"] = 4216858,
+					[74501] = {
+						["expireAt"] = 1687878059,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 4687627,
 					},
-					[70110] = {
-						["expireAt"] = 1687575679,
-						["rewardAmount"] = "376",
-						["rewardTexture"] = 4322743,
-					},
-					[71206] = {
-						["expireAt"] = 1687446044,
-						["rewardAmount"] = "19",
-						["rewardTexture"] = 133675,
-					},
-					[66588] = {
-						["expireAt"] = 1687446103,
-						["rewardAmount"] = "15",
-						["rewardTexture"] = 133675,
+					[74835] = {
+						["expireAt"] = 1687791640,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045106,
 					},
 				},
 				["Player-3661-090ED206"] = {
 				},
 				["Player-3661-091C86DD"] = {
-					[75120] = {
-						["expireAt"] = 1687575672,
-						["rewardAmount"] = "",
-						["rewardTexture"] = 1519429,
-					},
 					[74991] = {
-						["expireAt"] = 1687878072,
+						["expireAt"] = 1687878060,
 						["rewardAmount"] = "5",
 						["rewardTexture"] = 5062624,
 					},
-					[75122] = {
-						["expireAt"] = 1687575672,
+					[75121] = {
+						["expireAt"] = 1687878060,
 						["rewardAmount"] = "",
 						["rewardTexture"] = 1519429,
 					},
-					[75064] = {
-						["expireAt"] = 1687532472,
-						["rewardAmount"] = "376",
-						["rewardTexture"] = 134456,
+					[75119] = {
+						["expireAt"] = 1687878060,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
 					},
-					[75834] = {
-						["expireAt"] = 1687575672,
-						["rewardAmount"] = "6",
-						["rewardTexture"] = 1045113,
+					[75680] = {
+						["expireAt"] = 1687878060,
+						["rewardAmount"] = "14",
+						["rewardTexture"] = 2004597,
 					},
 				},
 				["Player-3661-091D2FD8"] = {
@@ -1757,6 +1809,11 @@ WQTrackerDB = {
 					["name"] = "Thezdinson",
 					["realm"] = "Hyjal",
 				},
+				["Player-3661-0932F8C9"] = {
+					["class"] = "MAGE",
+					["name"] = "Thezdgar",
+					["realm"] = "Hyjal",
+				},
 				["Player-3661-0926A5B4"] = {
 					["class"] = "EVOKER",
 					["name"] = "Thezkin",
@@ -1767,19 +1824,9 @@ WQTrackerDB = {
 					["name"] = "Thezdivh",
 					["realm"] = "Hyjal",
 				},
-				["Player-3661-0932F8C9"] = {
-					["class"] = "MAGE",
-					["name"] = "Thezdgar",
-					["realm"] = "Hyjal",
-				},
 				["Player-3661-090ED206"] = {
 					["class"] = "DRUID",
 					["name"] = "Thezzlybear",
-					["realm"] = "Hyjal",
-				},
-				["Player-3661-0933AFEC"] = {
-					["class"] = "DRUID",
-					["name"] = "Thezdruid",
 					["realm"] = "Hyjal",
 				},
 				["Player-3661-091BBF49"] = {
@@ -1787,10 +1834,20 @@ WQTrackerDB = {
 					["name"] = "Thezman",
 					["realm"] = "Hyjal",
 				},
-				["Player-77-052C5769"] = {
-					["class"] = "DEATHKNIGHT",
-					["name"] = "Thezbot",
-					["realm"] = "Azgalor",
+				["Player-3661-0933AFEC"] = {
+					["class"] = "DRUID",
+					["name"] = "Thezdruid",
+					["realm"] = "Hyjal",
+				},
+				["Player-3661-091C86DC"] = {
+					["class"] = "ROGUE",
+					["name"] = "Foulfellow",
+					["realm"] = "Hyjal",
+				},
+				["Player-3661-091D2FE1"] = {
+					["class"] = "HUNTER",
+					["name"] = "Sigurdsson",
+					["realm"] = "Hyjal",
 				},
 				["Player-3661-091CDF41"] = {
 					["class"] = "SHAMAN",
@@ -1812,9 +1869,9 @@ WQTrackerDB = {
 					["name"] = "Thez",
 					["realm"] = "Hyjal",
 				},
-				["Player-3661-091C86DC"] = {
-					["class"] = "ROGUE",
-					["name"] = "Foulfellow",
+				["Player-3661-08F1CD82"] = {
+					["class"] = "PALADIN",
+					["name"] = "Thezadin",
 					["realm"] = "Hyjal",
 				},
 				["Player-3661-08F190AD"] = {
@@ -1822,9 +1879,9 @@ WQTrackerDB = {
 					["name"] = "Thezdemon",
 					["realm"] = "Hyjal",
 				},
-				["Player-3661-08F1CD82"] = {
-					["class"] = "PALADIN",
-					["name"] = "Thezadin",
+				["Player-3661-091D2FD8"] = {
+					["class"] = "SHAMAN",
+					["name"] = "Úlfhédnar",
 					["realm"] = "Hyjal",
 				},
 				["Player-3661-091D3EB8"] = {
@@ -1832,14 +1889,14 @@ WQTrackerDB = {
 					["name"] = "Thezadin",
 					["realm"] = "Hyjal",
 				},
-				["Player-3661-091D2FD8"] = {
-					["class"] = "SHAMAN",
-					["name"] = "Úlfhédnar",
-					["realm"] = "Hyjal",
-				},
 				["Player-3661-091C6488"] = {
 					["class"] = "DRUID",
 					["name"] = "Thezdiran",
+					["realm"] = "Hyjal",
+				},
+				["Player-3661-0939D2D4"] = {
+					["class"] = "DRUID",
+					["name"] = "Thez",
 					["realm"] = "Hyjal",
 				},
 				["Player-3661-090E59D5"] = {
@@ -1862,10 +1919,10 @@ WQTrackerDB = {
 					["name"] = "Thezdin",
 					["realm"] = "Hyjal",
 				},
-				["Player-3661-091D2FE1"] = {
-					["class"] = "HUNTER",
-					["name"] = "Sigurdsson",
-					["realm"] = "Hyjal",
+				["Player-77-052C5769"] = {
+					["class"] = "DEATHKNIGHT",
+					["name"] = "Thezbot",
+					["realm"] = "Azgalor",
 				},
 				["Player-3685-07C4C157"] = {
 					["class"] = "MONK",

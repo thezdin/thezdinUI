@@ -30,3 +30,6 @@ ElvUI_Options: enabled
 ElvUI_ChatTweaks: disabled
 WunderUI: disabled
 ElvUI_ChatTweaks_Debug: enabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled

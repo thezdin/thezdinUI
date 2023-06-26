@@ -15,10 +15,14 @@ VER 3 0000000000000074 "Elemental" "135789"
 /run print(C_QuestLog.IsQuestFlaggedCompleted(70752))
 /run print(C_QuestLog.IsQuestFlaggedCompleted(70723))
 END
+VER 3 0000000000000079 "Eyeballs" "311430"
+/tar Tormenting Eye
+/cast Heroic Throw
+END
 VER 3 000000000000006B "Firelands" "132341"
-/target Arthorn Windsong
-/target Matoclaw
-/target Thisalee Crow
+#showtooltip
+/tar Inquisitor Variss
+/cast Shield Slam
 END
 VER 3 000000000000006C "Have we Met?" "134331"
 /target Chromie

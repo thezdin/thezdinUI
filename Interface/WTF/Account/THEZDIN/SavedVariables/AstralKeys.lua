@@ -2,9 +2,9 @@
 AstralKeys = {
 	{
 		["btag"] = "Etherlight#1575",
-		["weekly_best"] = 14,
+		["weekly_best"] = 19,
 		["class"] = "WARRIOR",
-		["key_level"] = 17,
+		["key_level"] = 19,
 		["unit"] = "Sigborn-MoonGuard",
 		["dungeon_id"] = 403,
 		["week"] = 309,
@@ -14,7 +14,7 @@ AstralKeys = {
 	}, -- [1]
 	{
 		["btag"] = "Etherlight#1575",
-		["weekly_best"] = 0,
+		["weekly_best"] = 16,
 		["class"] = "SHAMAN",
 		["key_level"] = 14,
 		["unit"] = "Nimbostratos-MoonGuard",
@@ -28,16 +28,16 @@ AstralKeys = {
 		["source"] = "guild",
 		["weekly_best"] = 19,
 		["class"] = "WARRIOR",
-		["key_level"] = 17,
+		["key_level"] = 18,
 		["unit"] = "Thezdin-Hyjal",
-		["dungeon_id"] = 206,
+		["dungeon_id"] = 404,
 		["week"] = 309,
 		["faction"] = 0,
-		["time_stamp"] = 119761,
+		["time_stamp"] = 477365,
 	}, -- [3]
 	{
 		["btag"] = "Etherlight#1575",
-		["weekly_best"] = 0,
+		["weekly_best"] = 13,
 		["class"] = "DEATHKNIGHT",
 		["key_level"] = 14,
 		["unit"] = "Denaos-MoonGuard",
@@ -49,21 +49,21 @@ AstralKeys = {
 	}, -- [4]
 	{
 		["btag"] = "Foeslayer#1716",
-		["weekly_best"] = 0,
+		["weekly_best"] = 18,
 		["class"] = "PALADIN",
-		["key_level"] = 20,
+		["key_level"] = 19,
 		["unit"] = "Foebeacon-Stormrage",
 		["dungeon_id"] = 245,
 		["week"] = 309,
 		["faction"] = "0",
-		["time_stamp"] = 0,
+		["time_stamp"] = 475975,
 		["source"] = "friend",
 	}, -- [5]
 	{
 		["source"] = "guild",
 		["weekly_best"] = 19,
 		["class"] = "PALADIN",
-		["key_level"] = 18,
+		["key_level"] = 19,
 		["unit"] = "Seyka-Hyjal",
 		["dungeon_id"] = 438,
 		["week"] = 309,
@@ -73,19 +73,54 @@ AstralKeys = {
 	}, -- [6]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 0,
+		["weekly_best"] = 13,
 		["class"] = "DEMONHUNTER",
-		["key_level"] = 13,
+		["key_level"] = 15,
 		["unit"] = "Thezidari-Hyjal",
+		["dungeon_id"] = 404,
+		["week"] = 309,
+		["faction"] = 0,
+		["time_stamp"] = 400642,
+	}, -- [7]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 12,
+		["class"] = "PALADIN",
+		["key_level"] = 2,
+		["unit"] = "Thezadin-Hyjal",
 		["dungeon_id"] = 245,
 		["week"] = 309,
 		["faction"] = 0,
-		["time_stamp"] = 118809,
-	}, -- [7]
+		["time_stamp"] = 394545,
+	}, -- [8]
+	{
+		["btag"] = "qujamm#1800",
+		["weekly_best"] = 0,
+		["class"] = "WARRIOR",
+		["key_level"] = 18,
+		["unit"] = "Qujamm-Proudmoore",
+		["dungeon_id"] = 251,
+		["week"] = 309,
+		["faction"] = "0",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [9]
+	{
+		["btag"] = "Foeslayer#1716",
+		["weekly_best"] = 20,
+		["class"] = "DRUID",
+		["key_level"] = 21,
+		["unit"] = "Foestriker-Sargeras",
+		["dungeon_id"] = 403,
+		["week"] = 309,
+		["faction"] = "0",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [10]
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 0,
+		["weekly_best"] = 13,
 		["class"] = "DEMONHUNTER",
 		["faction"] = 0,
 		["unit"] = "Thezidari-Hyjal",
@@ -96,6 +131,18 @@ AstralCharacters = {
 		["unit"] = "Thezdin-Hyjal",
 		["faction"] = 0,
 	}, -- [2]
+	{
+		["weekly_best"] = 12,
+		["class"] = "PALADIN",
+		["faction"] = 0,
+		["unit"] = "Thezadin-Hyjal",
+	}, -- [3]
+	{
+		["weekly_best"] = 0,
+		["class"] = "DRUID",
+		["faction"] = 0,
+		["unit"] = "Thez-Hyjal",
+	}, -- [4]
 }
 AstralKeysSettings = {
 	["wipedOldTables"] = true,

@@ -131,3 +131,6 @@ Blizzard_CombatText: enabled
 BigWigs_Core: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
+LittleWigs: enabled
+BigWigs_Aberrus: enabled
+LittleWigs_BattleForAzeroth: enabled

@@ -1,19 +1,22 @@
 
 SimulationCraftDB = {
 	["profileKeys"] = {
-		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
-		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
+		["Thez - Hyjal"] = "Thez - Hyjal",
 	},
 	["profiles"] = {
-		["Thezdin - Hyjal"] = {
-		},
-		["Thez - Hyjal"] = {
+		["Thezkin - Hyjal"] = {
 		},
 		["Thezidari - Hyjal"] = {
 		},
 		["Thezadin - Hyjal"] = {
+		},
+		["Thezdin - Hyjal"] = {
+		},
+		["Thez - Hyjal"] = {
 		},
 	},
 }

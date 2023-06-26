@@ -1,3 +1,9 @@
+VER 3 000000000000007A "Afflicted" "134400"
+#showtooltip
+/stopcasting
+/target Afflicted Soul
+/cast [@mouseover,exists][@target,exists][@player]Cleanse
+END
 VER 3 0000000000000072 "Assassins" "134400"
 /cleartarget
 /tar Mawsworn Blackguard

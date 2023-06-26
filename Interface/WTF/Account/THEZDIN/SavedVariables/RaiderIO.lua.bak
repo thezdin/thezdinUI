@@ -33,6 +33,7 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Thezdin-hyjal"
 RaiderIO_MissingCharacters = {
+	["us-Lanqdh-sargeras"] = true,
 }
 RaiderIO_MissingServers = {
 }

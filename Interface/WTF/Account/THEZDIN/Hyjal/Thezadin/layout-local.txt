@@ -41,10 +41,3 @@ X: -505
 Y: 115
 W: 200
 H: 50
-Frame: PawnUIFrame
-FrameLevel: 1
-Anchor: CENTER
-X: -71
-Y: 63
-W: 800
-H: 525

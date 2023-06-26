@@ -33,12 +33,25 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Thezdin-hyjal"
 RaiderIO_MissingCharacters = {
-	["us-Jakavol-hyjal"] = true,
-	["us-Visgardian-hyjal"] = true,
-	["us-Whermathingo-hyjal"] = true,
-	["us-Bashér-hyjal"] = true,
-	["us-Liluppsala-hyjal"] = true,
-	["us-Cagers-hyjal"] = true,
+	["us-Baltasa-hyjal"] = true,
+	["us-Dskevoker-hyjal"] = true,
+	["us-Priestniko-hyjal"] = true,
+	["us-nce-sargeras"] = true,
+	["us-Tigersclaw-hyjal"] = true,
+	["us-Fiury-hyjal"] = true,
+	["us-Rothier-hyjal"] = true,
+	["us-Pixiemist-hyjal"] = true,
+	["us-Leonceault-hyjal"] = true,
+	["us-Dreadzaplin-sargeras"] = true,
+	["us-Ihwa-sargeras"] = true,
+	["us-Crunchwrapp-hyjal"] = true,
+	["us-Revery-hyjal"] = true,
+	["us-Dreaddemon-hyjal"] = true,
+	["us-Mistymoose-illidan"] = true,
+	["us-Haelynn-hyjal"] = true,
+	["us-Lanqdh-sargeras"] = true,
+	["us-Amoré-hyjal"] = true,
+	["us-Loxidous-sargeras"] = true,
 }
 RaiderIO_MissingServers = {
 }

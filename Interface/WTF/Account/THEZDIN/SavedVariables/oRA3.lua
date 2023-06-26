@@ -14,6 +14,16 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
+			["global"] = {
+				["spellsOnCooldown"] = {
+					[265202] = {
+						["Player-3684-0E1D3251"] = 403564.295,
+					},
+				},
+				["lastTime"] = 403867.947,
+				["chargeSpellsOnCooldown"] = {
+				},
+			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -99,8 +109,8 @@ oRA3DB = {
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 536.4446411132812,
-					["PosX"] = 15.76730981537935,
-					["PosY"] = 765.0061827423633,
+					["PosX"] = 13.85799005262015,
+					["PosY"] = 672.3688743737875,
 					["Width"] = 258.6666259765625,
 				},
 			},

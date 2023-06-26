@@ -179,3 +179,4 @@ ElvUI_TukUIStyle: disabled
 ElvUI_ChatTweaks: disabled
 WunderUI: disabled
 ElvUI_ChatTweaks_Debug: enabled
+BigWigs_Aberrus: enabled

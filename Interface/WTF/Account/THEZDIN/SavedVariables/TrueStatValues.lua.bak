@@ -1,7 +1,10 @@
 
 TSV_DB = {
 	["profileKeys"] = {
-		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
+		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
+		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
+		["Thez - Hyjal"] = "Thez - Hyjal",
 	},
 }
