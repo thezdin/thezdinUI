@@ -27,6 +27,19 @@ HandyNotes_LegionTreasuresDB = {
 		["Thez - Hyjal"] = {
 		},
 		["Thezidari - Hyjal"] = {
+			["default_icon"] = "VignetteLootElite",
+			["show_treasure"] = false,
+			["zonesHidden"] = {
+				[630] = true,
+			},
+			["achievementsHidden"] = {
+				[11256] = true,
+				[11261] = true,
+			},
+			["tooltip_item"] = false,
+			["tooltip_charloot"] = false,
+			["show_routes"] = false,
+			["upcoming"] = false,
 		},
 		["Thezfu - Hyjal"] = {
 		},

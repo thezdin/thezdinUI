@@ -33,3 +33,5 @@ ElvUI_ChatTweaks_Debug: enabled
 BigWigs_Core: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
+Blizzard_CombatText: enabled
+LittleWigs_BattleForAzeroth: enabled

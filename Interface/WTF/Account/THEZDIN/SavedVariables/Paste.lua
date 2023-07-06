@@ -17,8 +17,8 @@ PasteDB = {
 		["Thezman - Hyjal"] = "Thezman - Hyjal",
 		["Thezadin - Mannoroth"] = "Thezadin - Mannoroth",
 		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
-		["Thezdruid - Hyjal"] = "Thezdruid - Hyjal",
 		["Thezzlybear - Hyjal"] = "Thezzlybear - Hyjal",
+		["Thezdruid - Hyjal"] = "Thezdruid - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezfu - Turalyon"] = "Thezfu - Turalyon",
 		["Thezbear - Turalyon"] = "Thezbear - Turalyon",
@@ -50,13 +50,13 @@ PasteDB = {
 			["loaded"] = true,
 		},
 		["Thezdin - Hyjal"] = {
+			["whispertarget"] = "",
+			["where"] = "Default",
 			["loaded"] = true,
 			["trimwhitespace"] = true,
 			["minimap"] = {
 				["minimapPos"] = 70.2011550368028,
 			},
-			["where"] = "Default",
-			["whispertarget"] = "",
 			["pos"] = {
 				["height"] = 630.2223510742188,
 				["top"] = 1185.111206054688,
@@ -98,10 +98,10 @@ PasteDB = {
 		["Thezdgar - Hyjal"] = {
 			["loaded"] = true,
 		},
-		["Thezdruid - Hyjal"] = {
+		["Thezzlybear - Hyjal"] = {
 			["loaded"] = true,
 		},
-		["Thezzlybear - Hyjal"] = {
+		["Thezdruid - Hyjal"] = {
 			["loaded"] = true,
 		},
 		["Thezknight - Hyjal"] = {

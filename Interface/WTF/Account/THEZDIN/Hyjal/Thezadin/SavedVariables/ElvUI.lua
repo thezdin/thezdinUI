@@ -2,72 +2,28 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p aim charge to the bones plz", -- [1]
-		"/p no preist", -- [2]
-		"/p bad :(", -- [3]
-		"/p STAND ON BONES", -- [4]
-		"/p ok let's explain this one :/", -- [5]
-		"/p make me lead plz", -- [6]
-		"/p If there is a blood spot on the ground, you drop what you're doing and soak it. Literally everyone", -- [7]
-		"/p dps stand near bones so he charges the bones, not open land", -- [8]
-		"/p stand on bones", -- [9]
-		"/p tantrum, clear bloods and get back to bones asap", -- [10]
-		"/p no matter what, always kill bloods, always", -- [11]
-		"/p lust", -- [12]
-		"/p yolo zerg boss", -- [13]
-		"/p pray", -- [14]
-		"/p go team", -- [15]
-		"/p anyone *NOT* know how Upheaval works on next boss?", -- [16]
-		"/p on last boss, PLEASE stack on me, we'll stack and move every breath", -- [17]
-		"/p stack, breath, re-stack, clear, rinse repeat :)", -- [18]
-		"/p oh me? sorry yes, that's my BIS", -- [19]
-		"/p thx all", -- [20]
+		"/p bad :(", -- [1]
+		"/p STAND ON BONES", -- [2]
+		"/p ok let's explain this one :/", -- [3]
+		"/p make me lead plz", -- [4]
+		"/p If there is a blood spot on the ground, you drop what you're doing and soak it. Literally everyone", -- [5]
+		"/p dps stand near bones so he charges the bones, not open land", -- [6]
+		"/p stand on bones", -- [7]
+		"/p tantrum, clear bloods and get back to bones asap", -- [8]
+		"/p no matter what, always kill bloods, always", -- [9]
+		"/p lust", -- [10]
+		"/p yolo zerg boss", -- [11]
+		"/p pray", -- [12]
+		"/p go team", -- [13]
+		"/p anyone *NOT* know how Upheaval works on next boss?", -- [14]
+		"/p on last boss, PLEASE stack on me, we'll stack and move every breath", -- [15]
+		"/p stack, breath, re-stack, clear, rinse repeat :)", -- [16]
+		"/p oh me? sorry yes, that's my BIS", -- [17]
+		"/p thx all", -- [18]
+		"/g |cff71d5ff|Hspell:31850:0|h[Ardent Defender]|h|r", -- [19]
+		"/reloadui", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"these rolls r bewildering", -- [1]
-			"Siccus-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Siccus-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			538, -- [11]
-			"Player-5-0E4E953F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dSiccus-Proudmoore|r",
-			[51] = 1687643432,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [1]
-		{
-			"Interrupted Fire Elemental's |cff71d5ff|Hspell:369813:0|h[Vengeful Flames]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			562, -- [11]
-			"Player-3661-091D3EB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687643427,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
 		{
 			"Interrupted Fire Elemental's |cff71d5ff|Hspell:396078:0|h[Explosive Blast]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -89,7 +45,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687643491,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [3]
+		}, -- [1]
 		{
 			"|cffa335ee|Hkeystone:180653:438:19:9:135:7:0|h[Keystone: The Vortex Pinnacle (19)]|h|r", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -111,7 +67,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka|r",
 			[51] = 1687665018,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
+		}, -- [2]
 		{
 			"!keys", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -133,7 +89,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687665182,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [5]
+		}, -- [3]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:180653:438:19:9:135:7:0|h[Keystone: The Vortex Pinnacle (19)]|h|r", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -155,7 +111,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka|r",
 			[51] = 1687665182,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
+		}, -- [4]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:180653:251:2:9:0:0:0|h[Keystone: The Underrot (2)]|h|r", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -177,7 +133,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687665182,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
+		}, -- [5]
 		{
 			"hi thanks for the invite", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -199,7 +155,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka|r",
 			[51] = 1687665821,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
+		}, -- [6]
 		{
 			"hey guys whats goin on", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -221,7 +177,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687665824,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
+		}, -- [7]
 		{
 			"enjoying some sat night video games", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -243,7 +199,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka|r",
 			[51] = 1687665793,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
+		}, -- [8]
 		{
 			"livin' the grind", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -265,7 +221,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687665798,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
+		}, -- [9]
 		{
 			"Blood Harvest", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -287,7 +243,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687665917,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [10]
 		{
 			"Blood Harvest on Hunterkrea", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -309,7 +265,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687665917,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [11]
 		{
 			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -331,7 +287,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666007,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
+		}, -- [12]
 		{
 			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265091:0|h[Gift of G'huun]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -353,7 +309,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666016,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+		}, -- [13]
 		{
 			"|cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r interrupted!", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -375,7 +331,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687666017,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [14]
 		{
 			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -397,7 +353,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687665982,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
+		}, -- [15]
 		{
 			"Blood Harvest on Hunterkrea", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -419,7 +375,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687665984,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [16]
 		{
 			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265089:0|h[Dark Reconstitution]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -441,7 +397,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666060,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
+		}, -- [17]
 		{
 			"Blood Harvest on Soam", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -463,7 +419,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687666070,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [18]
 		{
 			"Dark Omen on Thezadin", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -485,7 +441,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666020,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [19]
 		{
 			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -507,7 +463,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666022,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [20]
 		{
 			"Dark Omen on Hunterkrea", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -529,7 +485,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687666029,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [21]
 		{
 			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -551,7 +507,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666037,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
+		}, -- [22]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -573,7 +529,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666084,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [23]
 		{
 			"Interrupted Blood Effigy's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -595,7 +551,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666089,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
+		}, -- [24]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -617,7 +573,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666108,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
+		}, -- [25]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -639,7 +595,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666184,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
+		}, -- [26]
 		{
 			"|cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r interrupted!", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -661,7 +617,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687666140,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [27]
 		{
 			"Interrupted Blood Effigy's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -683,7 +639,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666145,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [28]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -705,7 +661,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666165,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [29]
 		{
 			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -727,7 +683,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666312,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [30]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -749,7 +705,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666356,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [31]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -771,7 +727,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666350,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+		}, -- [32]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -793,7 +749,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666429,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+		}, -- [33]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -815,7 +771,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666396,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [34]
 		{
 			"|cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r interrupted!", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -837,7 +793,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687666402,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [35]
 		{
 			"aim charge to the bones plz", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -859,7 +815,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666499,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [36]
 		{
 			"no preist", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -881,7 +837,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666454,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
+		}, -- [37]
 		{
 			"bad :(", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -903,7 +859,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666456,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [38]
 		{
 			"STAND ON BONES", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -925,7 +881,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666469,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [39]
 		{
 			"ok let's explain this one :/", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -947,7 +903,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666599,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [40]
 		{
 			"make me lead plz", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -969,7 +925,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666612,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
+		}, -- [41]
 		{
 			"hey on boss fights back up is great on the afflicted", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -991,7 +947,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka|r",
 			[51] = 1687666613,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
+		}, -- [42]
 		{
 			"If there is a blood spot on the ground, you drop what you're doing and soak it. Literally everyone", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1013,7 +969,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666665,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+		}, -- [43]
 		{
 			"yes sir", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -1035,7 +991,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687666671,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
+		}, -- [44]
 		{
 			"dps stand near bones so he charges the bones, not open land", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1057,7 +1013,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666676,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [45]
 		{
 			"stand on bones", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1079,7 +1035,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666679,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
+		}, -- [46]
 		{
 			"tantrum, clear bloods and get back to bones asap", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1101,7 +1057,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666625,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
+		}, -- [47]
 		{
 			"no matter what, always kill bloods, always", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1123,7 +1079,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666632,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
+		}, -- [48]
 		{
 			"about there for the charge :D", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -1145,7 +1101,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687666633,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
+		}, -- [49]
 		{
 			"lust", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1167,7 +1123,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666780,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
+		}, -- [50]
 		{
 			"yolo zerg boss", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1189,7 +1145,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666851,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [51]
 		{
 			"pray", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1211,7 +1167,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666855,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
+		}, -- [52]
 		{
 			"go team", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1233,7 +1189,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666809,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [53]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:266209:0|h[Wicked Frenzy]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1255,7 +1211,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666823,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+		}, -- [54]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1277,7 +1233,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666915,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [55]
 		{
 			"anyone *NOT* know how Upheaval works on next boss?", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1299,7 +1255,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666862,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
+		}, -- [56]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1321,7 +1277,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687666868,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+		}, -- [57]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -1343,7 +1299,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka|r",
 			[51] = 1687666937,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [58]
 		{
 			"|cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r interrupted!", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -1365,7 +1321,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687666938,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [59]
 		{
 			"Upheaval on Soam", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -1387,7 +1343,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687666997,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [60]
 		{
 			"Upheaval on Hunterkrea", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -1409,7 +1365,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687666997,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [61]
 		{
 			"3", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -1431,7 +1387,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687667000,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [62]
 		{
 			"3", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -1453,7 +1409,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687667000,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [63]
 		{
 			"2", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -1475,7 +1431,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687667001,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [64]
 		{
 			"2", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -1497,7 +1453,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687667001,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [65]
 		{
 			"1", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -1519,7 +1475,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687667002,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [66]
 		{
 			"Upheaval on Hunterkrea", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -1541,7 +1497,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687667042,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [67]
 		{
 			"3", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -1563,7 +1519,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687667045,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [68]
 		{
 			"2", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -1585,7 +1541,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687667046,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [69]
 		{
 			"1", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -1607,7 +1563,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687667047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [70]
 		{
 			"3", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -1629,7 +1585,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687667065,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [71]
 		{
 			"2", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -1651,7 +1607,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687667066,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [72]
 		{
 			"1", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -1673,7 +1629,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687667157,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [73]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1695,7 +1651,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667176,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
+		}, -- [74]
 		{
 			"|cff71d5ff|Hspell:413044:0|h[Dark Echoes]|h|r interrupted!", -- [1]
 			"Hunterkrea-Uldum", -- [2]
@@ -1717,7 +1673,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Hunterkrea-Uldum|r",
 			[51] = 1687667182,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [75]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1739,7 +1695,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667262,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [78]
+		}, -- [76]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1761,7 +1717,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667267,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [79]
+		}, -- [77]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -1783,7 +1739,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka|r",
 			[51] = 1687667277,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [80]
+		}, -- [78]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1805,7 +1761,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667235,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [79]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1827,7 +1783,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667239,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
+		}, -- [80]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -1849,7 +1805,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka|r",
 			[51] = 1687667314,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
+		}, -- [81]
 		{
 			"on last boss, PLEASE stack on me, we'll stack and move every breath", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1871,7 +1827,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667378,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
+		}, -- [82]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1893,7 +1849,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667382,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [83]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1915,7 +1871,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667351,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
+		}, -- [84]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1937,7 +1893,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667363,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
+		}, -- [85]
 		{
 			"stack, breath, re-stack, clear, rinse repeat :)", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1959,7 +1915,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667411,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [88]
+		}, -- [86]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12501:Player-3661-091D3EB8:1:6:24:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Underrot]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -1981,7 +1937,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667599,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [89]
+		}, -- [87]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12502:Player-3661-091D3EB8:1:6:24:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Underrot]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2003,7 +1959,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667599,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [90]
+		}, -- [88]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12500:Player-3661-091D3EB8:1:6:24:23:4294967295:4294967295:4294967295:4294967295|h[Underrot]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2025,7 +1981,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667599,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [91]
+		}, -- [89]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:180653:404:13:9:135:0:0|h[Keystone: Neltharus (13)]|h|r", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -2047,7 +2003,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687667603,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
+		}, -- [90]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:180653:245:2:9:0:0:0|h[Keystone: Freehold (2)]|h|r", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2069,7 +2025,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667614,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [91]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:180653:245:2:9:0:0:0|h[Keystone: Freehold (2)]|h|r", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2091,7 +2047,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667615,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [94]
+		}, -- [92]
 		{
 			"need that cloak?", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -2113,7 +2069,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687667693,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
+		}, -- [93]
 		{
 			"oh me? sorry yes, that's my BIS", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2135,7 +2091,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667655,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [94]
 		{
 			"thx all", -- [1]
 			"Thezadin-Hyjal", -- [2]
@@ -2157,7 +2113,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThezadin|r",
 			[51] = 1687667659,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
+		}, -- [95]
 		{
 			":D all good", -- [1]
 			"Soam-Stormrage", -- [2]
@@ -2179,7 +2135,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Soam-Stormrage|r",
 			[51] = 1687667661,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [98]
+		}, -- [96]
 		{
 			"gg", -- [1]
 			"Varlenthra-Dalaran", -- [2]
@@ -2201,6 +2157,50 @@ ElvCharacterDB = {
 			[52] = "|cffffffffVarlenthra-Dalaran|r",
 			[51] = 1687667670,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [97]
+		{
+			"|cff71d5ff|Hspell:31850:0|h[Ardent Defender]|h|r", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			686, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1687841240,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [98]
+		{
+			"LFW |cffffd000|Htrade:Player-3661-07A09860:195126:197|h[Tailoring]|h|r|cffffd000|Htrade:Player-3661-07A09860:195096:333|h[Enchanting]|h|r", -- [1]
+			"Gnickel-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gnickel-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			92, -- [11]
+			"Player-3661-07A09860", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc7ebGnickel|r",
+			[51] = 1688277133,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }

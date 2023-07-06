@@ -7,14 +7,14 @@ HandyNotes_BrokenShoreDB = {
 		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Thezkin - Hyjal"] = "Thezkin - Hyjal",
 		["Thezbank - Mannoroth"] = "Thezbank - Mannoroth",
-		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thez - Hyjal"] = "Thez - Hyjal",
+		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
 		["Thezdruid - Hyjal"] = "Thezdruid - Hyjal",
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezidari - Hyjal"] = "Thezidari - Hyjal",
-		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
-		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
+		["Thezdin - Hyjal"] = "Thezdin - Hyjal",
+		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
 		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Thezdivh - Hyjal"] = "Thezdivh - Hyjal",
 	},
@@ -31,9 +31,9 @@ HandyNotes_BrokenShoreDB = {
 		},
 		["Thezbank - Mannoroth"] = {
 		},
-		["Sigurdsson - Hyjal"] = {
-		},
 		["Thez - Hyjal"] = {
+		},
+		["Sigurdsson - Hyjal"] = {
 		},
 		["Thezdruid - Hyjal"] = {
 		},
@@ -41,11 +41,11 @@ HandyNotes_BrokenShoreDB = {
 		},
 		["Thezidari - Hyjal"] = {
 		},
-		["Thezdgar - Hyjal"] = {
+		["Thezfu - Hyjal"] = {
 		},
 		["Thezdin - Hyjal"] = {
 		},
-		["Thezfu - Hyjal"] = {
+		["Thezdgar - Hyjal"] = {
 		},
 		["Thezbot - Azgalor"] = {
 		},

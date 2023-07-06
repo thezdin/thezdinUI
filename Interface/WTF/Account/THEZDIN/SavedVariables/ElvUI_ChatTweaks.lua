@@ -98,15 +98,15 @@ ElvUI_ChatTweaksDB = {
 						["g"] = 0.8980392813682556,
 						["b"] = 0.9098039865493774,
 					},
-					["Say"] = {
-						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
-					},
 					["Trade"] = {
 						["r"] = 0.9098039865493774,
 						["g"] = 0.6196078658103943,
 						["b"] = 0.4666666984558106,
+					},
+					["Say"] = {
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
 					},
 					["sacloot"] = {
 						["r"] = 1,
@@ -179,13 +179,6 @@ ElvUI_ChatTweaksDB = {
 		},
 		["Timestamps"] = {
 		},
-		["MultipleInviteCommand"] = {
-		},
-		["Companions"] = {
-			["global"] = {
-				["global"] = nil --[[ skipped recursive table ]],
-			},
-		},
 		["InviteLinks"] = {
 			["global"] = {
 				["groupWords"] = {
@@ -198,9 +191,16 @@ ElvUI_ChatTweaksDB = {
 				},
 			},
 		},
+		["Companions"] = {
+			["global"] = {
+				["global"] = nil --[[ skipped recursive table ]],
+			},
+		},
+		["MultipleInviteCommand"] = {
+		},
 		["DeveloperTools"] = {
 		},
-		["LootIcons"] = {
+		["Magic8-Ball"] = {
 		},
 		["AuctionMessageFiltering"] = {
 		},
@@ -218,7 +218,7 @@ ElvUI_ChatTweaksDB = {
 		},
 		["ChannelNoticeFilter"] = {
 		},
-		["Magic8-Ball"] = {
+		["LootIcons"] = {
 		},
 		["TokenPrice"] = {
 		},

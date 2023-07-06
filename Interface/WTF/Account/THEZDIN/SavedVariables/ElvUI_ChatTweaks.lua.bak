@@ -103,20 +103,20 @@ ElvUI_ChatTweaksDB = {
 						["g"] = 0.2823529541492462,
 						["r"] = 1,
 					},
-					["Trade"] = {
-						["b"] = 0.4666666984558106,
-						["g"] = 0.6196078658103943,
-						["r"] = 0.9098039865493774,
+					["Say"] = {
+						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
 					},
 					["sacloot"] = {
 						["b"] = 0.7529412508010864,
 						["g"] = 0.7529412508010864,
 						["r"] = 1,
 					},
-					["Say"] = {
-						["b"] = 1,
-						["g"] = 1,
-						["r"] = 1,
+					["Trade"] = {
+						["b"] = 0.4666666984558106,
+						["g"] = 0.6196078658103943,
+						["r"] = 0.9098039865493774,
 					},
 					["General"] = {
 						["b"] = 0.9098039865493774,
@@ -179,21 +179,11 @@ ElvUI_ChatTweaksDB = {
 		},
 		["TokenPrice"] = {
 		},
-		["LootIcons"] = {
-		},
 		["Magic8-Ball"] = {
 		},
-		["InviteLinks"] = {
-			["global"] = {
-				["groupWords"] = {
-					["inv"] = "inv",
-					["invite"] = "invite",
-				},
-				["guildWords"] = {
-					["ginvite"] = "ginvite",
-					["ginv"] = "ginv",
-				},
-			},
+		["LootIcons"] = {
+		},
+		["MultipleInviteCommand"] = {
 		},
 		["DeveloperTools"] = {
 		},
@@ -218,7 +208,17 @@ ElvUI_ChatTweaksDB = {
 		},
 		["ChannelNoticeFilter"] = {
 		},
-		["MultipleInviteCommand"] = {
+		["InviteLinks"] = {
+			["global"] = {
+				["groupWords"] = {
+					["inv"] = "inv",
+					["invite"] = "invite",
+				},
+				["guildWords"] = {
+					["ginvite"] = "ginvite",
+					["ginv"] = "ginv",
+				},
+			},
 		},
 		["Timestamps"] = {
 		},

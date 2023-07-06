@@ -2,1568 +2,28 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p clump, interrupt, fire balls, move, regroup, rinse repeat", -- [1]
-		"/p literally. clump on me.", -- [2]
-		"/p CLUMP", -- [3]
-		"/p stun the bats", -- [4]
-		"/p moving boss to this room FYI", -- [5]
-		"/p frogs", -- [6]
-		"/p lust", -- [7]
-		"/p thanks all", -- [8]
-		"/p hey all", -- [9]
-		"/elvui", -- [10]
-		"/p bruh", -- [11]
-		"/p WARLOCK", -- [12]
-		"/p move", -- [13]
-		"/p up", -- [14]
-		"/p stand in melee on this to drop puddles", -- [15]
-		"/p thx for the carry", -- [16]
-		"/p gg all", -- [17]
-		"/RELOADUI", -- [18]
-		"/g |cff0070dd|Hitem:205002::::::::70:104::::1:28:373:::::|h[Blaise]|h|r", -- [19]
-		"/g test", -- [20]
+		"/p thx for the carry", -- [1]
+		"/p gg all", -- [2]
+		"/RELOADUI", -- [3]
+		"/g |cff0070dd|Hitem:205002::::::::70:104::::1:28:373:::::|h[Blaise]|h|r", -- [4]
+		"/g test", -- [5]
+		"/p let's rock this joint", -- [6]
+		"/p ranged on red", -- [7]
+		"/p phase 2 dodge charge or die", -- [8]
+		"/p can you stop please", -- [9]
+		"/p you're pulling the wrong groups", -- [10]
+		"/p do not use lust on this", -- [11]
+		"/p duo", -- [12]
+		"/p NOT here", -- [13]
+		"/p see, now we wasted 20s with your pulls DK :/", -- [14]
+		"/p get back lol", -- [15]
+		"/p trothak guys", -- [16]
+		"/p yep", -- [17]
+		"/p and he gets a spark", -- [18]
+		"/p cruel unjustice", -- [19]
+		"/elvui", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3133, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683010943,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Clear", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3134, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683010944,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3140, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011018,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3142, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011020,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"Clear", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3143, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011020,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"{rt7}8", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3144, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011086,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [6]
-		{
-			"{rt6}", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3152, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011148,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3154, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011148,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"{rt7}", -- [1]
-			"Rekkatorque-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rekkatorque-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3155, -- [11]
-			"Player-60-0E17C4CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffRekkatorque-Stormrage|r",
-			[51] = 1683011148,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"{rt7}", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3156, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011148,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3160, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011150,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"Clear", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3162, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011150,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"Clear", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3163, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011150,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"Cleared", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3164, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011150,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"{rt7}8", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3171, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011155,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [15]
-		{
-			"{rt7}7", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3173, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011156,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [16]
-		{
-			"Cleared", -- [1]
-			"Rekkatorque-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rekkatorque-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3175, -- [11]
-			"Player-60-0E17C4CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffRekkatorque-Stormrage|r",
-			[51] = 1683011157,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"Clear", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3177, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011157,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"stand in melee on this to drop puddles", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3181, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011130,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3185, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011218,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"{rt7}", -- [1]
-			"Rekkatorque-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rekkatorque-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3186, -- [11]
-			"Player-60-0E17C4CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffRekkatorque-Stormrage|r",
-			[51] = 1683011218,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"{rt7}", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3187, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011218,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
-		{
-			"{rt6}", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3189, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011218,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3192, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011160,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"Clear", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3194, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011161,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"Cleared", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3195, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011161,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3196, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011161,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"Cleared", -- [1]
-			"Rekkatorque-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rekkatorque-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3198, -- [11]
-			"Player-60-0E17C4CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffRekkatorque-Stormrage|r",
-			[51] = 1683011162,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"Clear", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3199, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011162,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"Clear", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3200, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011162,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3209, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011240,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"{rt6}", -- [1]
-			"Rekkatorque-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rekkatorque-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3210, -- [11]
-			"Player-60-0E17C4CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffRekkatorque-Stormrage|r",
-			[51] = 1683011240,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"{rt6}", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3211, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011240,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"{rt7}", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3213, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011240,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3216, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011241,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3222, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011243,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"Clear", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3223, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011243,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"Cleared", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3224, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011243,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
-		{
-			"Clear", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3226, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011243,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3227, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011244,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			"Clear", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3230, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011247,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"Cleared", -- [1]
-			"Rekkatorque-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rekkatorque-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3231, -- [11]
-			"Player-60-0E17C4CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffRekkatorque-Stormrage|r",
-			[51] = 1683011247,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"Omen of Death on Mabok", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3233, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011330,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3238, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011387,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"{rt7}", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3239, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011387,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
-		{
-			"{rt6}", -- [1]
-			"Rekkatorque-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rekkatorque-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3240, -- [11]
-			"Player-60-0E17C4CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffRekkatorque-Stormrage|r",
-			[51] = 1683011387,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"{rt7}", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3242, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011387,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3243, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011388,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3250, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011390,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"{rt7}", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3255, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011391,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
-		{
-			"Cleared", -- [1]
-			"Rekkatorque-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rekkatorque-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3260, -- [11]
-			"Player-60-0E17C4CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffRekkatorque-Stormrage|r",
-			[51] = 1683011394,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
-		{
-			"Clear", -- [1]
-			"Mabok-Proudmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mabok-Proudmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3261, -- [11]
-			"Player-5-0E3246CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMabok-Proudmoore|r",
-			[51] = 1683011394,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
-		{
-			"{rt7}8", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3262, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011394,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [53]
-		{
-			"{rt7}8", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3263, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011394,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [54]
-		{
-			"{rt7}7", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3266, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011395,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [55]
-		{
-			"{rt7}7", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3267, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011395,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [56]
-		{
-			"{rt7}6", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3268, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011396,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [57]
-		{
-			"{rt7}6", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3270, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011396,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [58]
-		{
-			"{rt7}5", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3271, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011397,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [59]
-		{
-			"{rt7}5", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3272, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011397,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [60]
-		{
-			"{rt7}4", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3274, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011398,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [61]
-		{
-			"{rt7}4", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3275, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011398,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [62]
-		{
-			"{rt7}3", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3277, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011399,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [63]
-		{
-			"{rt7}2", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3278, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011340,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [64]
-		{
-			"{rt7}2", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3279, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011340,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [65]
-		{
-			"Clear", -- [1]
-			"Amplifi-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amplifi-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3280, -- [11]
-			"Player-3661-091D2FBC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAmplifi|r",
-			[51] = 1683011340,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
-		{
-			"{rt7}1", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3281, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011341,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [67]
-		{
-			"Clear", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3282, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011341,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:2:15:9:7:3:132|h[Keystone: Temple of the Jade Serpent (15)]|h|r", -- [1]
-			"Thez-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thez-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3289, -- [11]
-			"Player-3661-091E66BD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aThez|r",
-			[51] = 1683011384,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
-		{
-			"ty for key", -- [1]
-			"Rekkatorque-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rekkatorque-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3293, -- [11]
-			"Player-60-0E17C4CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffRekkatorque-Stormrage|r",
-			[51] = 1683011448,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
 		{
 			"ty all", -- [1]
 			"Mabok-Proudmoore", -- [2]
@@ -1585,7 +45,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMabok-Proudmoore|r",
 			[51] = 1683011451,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
+		}, -- [1]
 		{
 			"thx for the carry", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1607,7 +67,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011455,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [72]
+		}, -- [2]
 		{
 			"gg all", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1629,7 +89,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683011457,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [73]
+		}, -- [3]
 		{
 			"o/", -- [1]
 			"Rekkatorque-Stormrage", -- [2]
@@ -1651,7 +111,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRekkatorque-Stormrage|r",
 			[51] = 1683011402,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [74]
+		}, -- [4]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:546:Player-3661-091E66BD:1:5:12:23:4294967295:4294967295:4294967295:4294967295|h[Safe Deposit]|h|r!", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1673,7 +133,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1683959720,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [75]
+		}, -- [5]
 		{
 			"Is the !00% just a display bug or will the boss never spawn?", -- [1]
 			"Loganith-Hyjal", -- [2]
@@ -1695,7 +155,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaLoganith|r",
 			[51] = 1684036322,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [6]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10994:Player-3661-091D2FBC:1:5:26:23:4294967295:4294967295:4294967295:4294967295|h[A Glorious Campaign]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1717,7 +177,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1685141957,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [77]
+		}, -- [7]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11136:Player-3661-091D2FBC:1:5:26:23:4294967295:4294967295:4294967295:4294967295|h[An Epic Campaign]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1739,7 +199,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1685141957,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [78]
+		}, -- [8]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11220:Player-3661-091D2FBC:1:5:26:23:4294967295:4294967295:4294967295:4294967295|h[Roster of Champions]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1761,7 +221,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1685142021,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [79]
+		}, -- [9]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10746:Player-3661-091D2FBC:1:5:26:23:4294967295:4294967295:4294967295:4294967295|h[Forged for Battle]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1783,7 +243,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1685142087,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [80]
+		}, -- [10]
 		{
 			"|cffffd000|Henchant:405847|h[Dragon Isles Alchemy: Transmute: Dracothyst]|h|r", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1805,7 +265,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1685209344,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
+		}, -- [11]
 		{
 			"|cff0070dd|Hitem:205002::::::::70:104::::1:28:373:::::|h[Blaise]|h|r", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -1827,7 +287,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1685318186,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
+		}, -- [12]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:17977:Player-3661-090ED1C0:1:5:28:23:4294967295:4294967295:4294967295:4294967295|h[Stones Can Try To Fly!]|h|r!", -- [1]
 			"Seyka-Hyjal", -- [2]
@@ -1849,7 +309,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeyka|r",
 			[51] = 1685318638,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [83]
+		}, -- [13]
 		{
 			"ong Putin on the rizz frfr", -- [1]
 			"Silip-Hyjal", -- [2]
@@ -1871,7 +331,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Silip|r",
 			[51] = 1687668233,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [14]
 		{
 			"sick thicc cut bro", -- [1]
 			"Silip-Hyjal", -- [2]
@@ -1893,7 +353,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Silip|r",
 			[51] = 1687668294,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [15]
 		{
 			"mt", -- [1]
 			"Silip-Hyjal", -- [2]
@@ -1915,7 +375,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Silip|r",
 			[51] = 1687668296,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [16]
 		{
 			"LF ReCraft |cffa335ee|Hitem:193452::::::::70:103::13:1:3524:4:40:383:38:8:45:204697:48:204440:::::|h[Toxic Thorn Footwraps |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r r5 or proc chance to r5", -- [1]
 			"Steaksnboots-Hyjal", -- [2]
@@ -1937,7 +397,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSteaksnboots|r",
 			[51] = 1687668334,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [17]
 		{
 			"wait I thought Mythic Aberrus was out since RTWF was over", -- [1]
 			"Silip-Hyjal", -- [2]
@@ -1959,7 +419,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Silip|r",
 			[51] = 1687668477,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [18]
 		{
 			"not til the week after hall of fame fills", -- [1]
 			"Hazzikostion-Hyjal", -- [2]
@@ -1981,7 +441,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fHazzikostion|r",
 			[51] = 1687668512,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [19]
 		{
 			"so first 200 guilds to clear it", -- [1]
 			"Hazzikostion-Hyjal", -- [2]
@@ -2003,7 +463,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fHazzikostion|r",
 			[51] = 1687668518,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [20]
 		{
 			"Why doesn't the PVP gear also scale up for warmode", -- [1]
 			"Monkmonkmonk-Hyjal", -- [2]
@@ -2025,7 +485,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Monkmonkmonk|r",
 			[51] = 1687668525,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [21]
 		{
 			"yeah didnt it get filled last week?", -- [1]
 			"Silip-Hyjal", -- [2]
@@ -2047,7 +507,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Silip|r",
 			[51] = 1687668546,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [22]
 		{
 			"or was it this week>?", -- [1]
 			"Silip-Hyjal", -- [2]
@@ -2069,7 +529,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Silip|r",
 			[51] = 1687668554,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [23]
 		{
 			"this week should be out on weekly reset", -- [1]
 			"Hazzikostion-Hyjal", -- [2]
@@ -2091,7 +551,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fHazzikostion|r",
 			[51] = 1687668562,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [24]
 		{
 			"gotcha", -- [1]
 			"Silip-Hyjal", -- [2]
@@ -2113,7 +573,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Silip|r",
 			[51] = 1687668588,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [25]
 		{
 			"test", -- [1]
 			"Thez-Hyjal", -- [2]
@@ -2135,7 +595,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThez|r",
 			[51] = 1687668620,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
+		}, -- [26]
 		{
 			"the OF for Sub drops off the first boss so I want to try and grab the mythic version lol", -- [1]
 			"Silip-Hyjal", -- [2]
@@ -2157,7 +617,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Silip|r",
 			[51] = 1687668629,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [27]
 		{
 			"OH*", -- [1]
 			"Silip-Hyjal", -- [2]
@@ -2179,7 +639,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Silip|r",
 			[51] = 1687668638,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [28]
 		{
 			"|cffffd000|Htrade:Player-3661-08108D55:195097:164|h[Blacksmithing]|h|r|cffffd000|Htrade:Player-3661-08108D55:25229:755|h[Jewelcrafting]|h|r Weapons, Shields, and Gems! Come get em!!!", -- [1]
 			"Orionsheart-Hyjal", -- [2]
@@ -2200,6 +660,1546 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cffc69b6dOrionsheart|r",
 			[51] = 1687668654,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [29]
+		{
+			"Selling +20s Thundering Hero guild group. *Gold Only* PM. Bundled runs & Armor stack available.", -- [1]
+			"Bxbert-Hyjal", -- [2]
+			"", -- [3]
+			"5. Trade (Services) - City", -- [4]
+			"Bxbert-Hyjal", -- [5]
+			"", -- [6]
+			42, -- [7]
+			5, -- [8]
+			"Trade (Services) - City", -- [9]
+			0, -- [10]
+			372, -- [11]
+			"Player-3661-092B18D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffff468Bxbert|r",
+			[51] = 1687839518,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [30]
+		{
+			"LF |cffffd000|Henchant:374497|h[Dragon Isles Jewelcrafting: Signet of Titanic Insight]|h|r Crafter", -- [1]
+			"Powerinfuse-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Powerinfuse-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			467, -- [11]
+			"Player-3661-0913ED45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffffffffPowerinfuse|r",
+			[51] = 1687839647,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [31]
+		{
+			"Selling +20s Thundering Hero guild group. *Gold Only* PM. Bundled runs & Armor stack available.", -- [1]
+			"Bxbert-Hyjal", -- [2]
+			"", -- [3]
+			"5. Trade (Services) - City", -- [4]
+			"Bxbert-Hyjal", -- [5]
+			"", -- [6]
+			42, -- [7]
+			5, -- [8]
+			"Trade (Services) - City", -- [9]
+			0, -- [10]
+			489, -- [11]
+			"Player-3661-092B18D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffff468Bxbert|r",
+			[51] = 1687839609,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [32]
+		{
+			"yo yo yo", -- [1]
+			"Raedec-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Raedec-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			491, -- [11]
+			"Player-3684-08E8D36E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeRaedec-Mal'Ganis|r",
+			[51] = 1687839610,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [33]
+		{
+			"Hi there", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			497, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687839683,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [34]
+		{
+			"heya", -- [1]
+			"Araylà-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Araylà-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			508, -- [11]
+			"Player-3676-0E1FC1BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebAraylà-Area52|r",
+			[51] = 1687839683,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [35]
+		{
+			"let's rock this joint", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			510, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687839700,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [36]
+		{
+			"ez pz ", -- [1]
+			"Raedec-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Raedec-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			511, -- [11]
+			"Player-3684-08E8D36E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeRaedec-Mal'Ganis|r",
+			[51] = 1687839706,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [37]
+		{
+			"lemon squeezy?", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			512, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687839663,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [38]
+		{
+			"perhaps", -- [1]
+			"Raedec-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Raedec-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			513, -- [11]
+			"Player-3684-08E8D36E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeRaedec-Mal'Ganis|r",
+			[51] = 1687839672,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [39]
+		{
+			"only if u ask nicely ", -- [1]
+			"Raedec-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Raedec-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			514, -- [11]
+			"Player-3684-08E8D36E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeRaedec-Mal'Ganis|r",
+			[51] = 1687839736,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [40]
+		{
+			"pls summ", -- [1]
+			"Sugarpapi-Quel'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sugarpapi-Quel'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			515, -- [11]
+			"Player-1428-0AC2A745", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aSugarpapi-Quel'Thalas|r",
+			[51] = 1687839765,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [41]
+		{
+			"bear", -- [1]
+			"Raedec-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Raedec-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			516, -- [11]
+			"Player-3684-08E8D36E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeRaedec-Mal'Ganis|r",
+			[51] = 1687839722,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [42]
+		{
+			"nvm", -- [1]
+			"Raedec-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Raedec-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			517, -- [11]
+			"Player-3684-08E8D36E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeRaedec-Mal'Ganis|r",
+			[51] = 1687839727,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [43]
+		{
+			"Not Well Fed (3): Araylà, Sugarpapi, Thez", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			525, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687839792,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [44]
+		{
+			"No Flask (5): Araylà, Raedec, Seyka, Sugarpapi, Thez", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			526, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687839792,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [45]
+		{
+			"No Augment Rune (5): Araylà, Raedec, Seyka, Sugarpapi, Thez", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			527, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687839792,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [46]
+		{
+			"Missing Buffs (1): Mark of the Wild", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			528, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687839792,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [47]
+		{
+			"Interrupted Irontide Bonesaw's |cff71d5ff|Hspell:257397:0|h[Healing Balm]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			538, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687839920,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [48]
+		{
+			"Interrupted Irontide Bonesaw's |cff71d5ff|Hspell:257397:0|h[Healing Balm]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			546, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687839909,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [49]
+		{
+			"Interrupted Irontide Bonesaw's |cff71d5ff|Hspell:257397:0|h[Healing Balm]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			552, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840001,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [50]
+		{
+			"ranged on red", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			553, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687839970,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [51]
+		{
+			"phase 2 dodge charge or die", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			556, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840051,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [52]
+		{
+			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			560, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840069,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [53]
+		{
+			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			563, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840031,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [54]
+		{
+			"Ricocheting Throw on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			570, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687840140,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [55]
+		{
+			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			571, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840142,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [56]
+		{
+			"Ricocheting Throw on Araylà", -- [1]
+			"Araylà-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Araylà-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			572, -- [11]
+			"Player-3676-0E1FC1BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebAraylà-Area52|r",
+			[51] = 1687840149,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [57]
+		{
+			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			575, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840245,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [58]
+		{
+			"Ricocheting Throw on Thez", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			582, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840329,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [59]
+		{
+			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			585, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840331,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [60]
+		{
+			"Ricocheting Throw on Thez", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			586, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840332,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [61]
+		{
+			"Ricocheting Throw on Araylà", -- [1]
+			"Araylà-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Araylà-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			587, -- [11]
+			"Player-3676-0E1FC1BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebAraylà-Area52|r",
+			[51] = 1687840401,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [62]
+		{
+			"can you stop please", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			588, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840414,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [63]
+		{
+			"you're pulling the wrong groups", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			590, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840417,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [64]
+		{
+			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			597, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840439,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [65]
+		{
+			"do not use lust on this", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			601, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840469,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [66]
+		{
+			"you want lust on the duo?", -- [1]
+			"Araylà-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Araylà-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			604, -- [11]
+			"Player-3676-0E1FC1BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebAraylà-Area52|r",
+			[51] = 1687840516,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [67]
+		{
+			"duo", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			605, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840521,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [68]
+		{
+			"NOT here", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			606, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840525,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [69]
+		{
+			"duo first?", -- [1]
+			"Araylà-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Araylà-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			608, -- [11]
+			"Player-3676-0E1FC1BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebAraylà-Area52|r",
+			[51] = 1687840595,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [70]
+		{
+			"lust is up", -- [1]
+			"Araylà-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Araylà-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			610, -- [11]
+			"Player-3676-0E1FC1BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebAraylà-Area52|r",
+			[51] = 1687840601,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [71]
+		{
+			"see, now we wasted 20s with your pulls DK :/", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			611, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840601,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [72]
+		{
+			"doing them after", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			612, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687840604,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [73]
+		{
+			"get back lol", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			613, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840616,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [74]
+		{
+			"trothak guys", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			614, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840618,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [75]
+		{
+			"Shark Toss on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			615, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687840653,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"Blackout Barrel on Araylà", -- [1]
+			"Araylà-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Araylà-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			621, -- [11]
+			"Player-3676-0E1FC1BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebAraylà-Area52|r",
+			[51] = 1687840793,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
+		{
+			"DK is botting btw", -- [1]
+			"Raedec-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Raedec-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			624, -- [11]
+			"Player-3684-08E8D36E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeRaedec-Mal'Ganis|r",
+			[51] = 1687840835,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [78]
+		{
+			"yep", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			626, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840805,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [79]
+		{
+			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			631, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840812,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [80]
+		{
+			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:257736:0|h[Thundering Squall]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			636, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840894,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [81]
+		{
+			"Interrupted Irontide Officer's |cff71d5ff|Hspell:257899:0|h[Painful Motivation]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			637, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687840913,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [82]
+		{
+			"Cannon Barrage on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			642, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687840994,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [83]
+		{
+			"Black Powder Bomb on Seyka", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			644, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687841009,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [84]
+		{
+			"Cannon Barrage on Araylà", -- [1]
+			"Araylà-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Araylà-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			648, -- [11]
+			"Player-3676-0E1FC1BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebAraylà-Area52|r",
+			[51] = 1687841036,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [85]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12831:Player-3661-0939D2D4:1:6:26:23:4294967295:4294967295:4294967295:4294967295|h[Freehold]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			651, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687841071,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [86]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12832:Player-3661-0939D2D4:1:6:26:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Freehold]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			652, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687841071,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [87]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12833:Player-3661-0939D2D4:1:6:26:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Freehold]|h|r!", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			653, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687841071,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [88]
+		{
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:406:4:9:0:0:0|h[Keystone: Halls of Infusion (4)]|h|r", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			667, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687841075,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [89]
+		{
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:406:4:9:0:0:0|h[Keystone: Halls of Infusion (4)]|h|r", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			668, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687841075,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [90]
+		{
+			"and he gets a spark", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			674, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687841047,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [91]
+		{
+			"cruel unjustice", -- [1]
+			"Thez-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thez-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			675, -- [11]
+			"Player-3661-0939D2D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aThez|r",
+			[51] = 1687841050,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [92]
+		{
+			"basura guey", -- [1]
+			"Raedec-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Raedec-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			676, -- [11]
+			"Player-3684-08E8D36E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeRaedec-Mal'Ganis|r",
+			[51] = 1687841122,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [93]
+		{
+			"|cffffd000|Htrade:Player-3661-08108D55:195097:164|h[Blacksmithing]|h|r|cffffd000|Htrade:Player-3661-08108D55:25229:755|h[Jewelcrafting]|h|r Weapons, Shields, Rings, Necks, and Gems! Come get em!!!", -- [1]
+			"Orionsheart-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Orionsheart-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1397, -- [11]
+			"Player-3661-08108D55", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc69b6dOrionsheart|r",
+			[51] = 1687847837,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"|cffffd000|Henchant:367588|h[Dragon Isles Blacksmithing: Obsidian Seared Halberd]|h|r", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1413, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687847864,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [95]
+		{
+			"|cffffd000|Henchant:367591|h[Dragon Isles Blacksmithing: Obsidian Seared Crusher]|h|r", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1422, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1687847883,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [96]
+		{
+			"LFW |cffffd000|Htrade:Player-3661-08FCD5E7:7411:333|h[Enchanting]|h|r Making all Shadowflame Crests.  JC, BS, Insc, Engi, and Alch services also available! Send order or whisper.", -- [1]
+			"Harkema-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Harkema-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-3661-08FCD5E7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8788eeHarkema|r",
+			[51] = 1687914798,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"lf LW for recrafts", -- [1]
+			"Fextrowd-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Fextrowd-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			7, -- [11]
+			"Player-3661-0934E1F5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffff468Fextrowd|r",
+			[51] = 1687914825,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"|cffa335ee|Hitem:192980::::::::70:1467::13:1:3524:2:40:239:38:1:::::|h[Inscribed Illimited Diamond |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r LF 3*", -- [1]
+			"Hazzikostion-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hazzikostion-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"Player-3661-0938B7BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff33937fHazzikostion|r",
+			[51] = 1687914899,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},

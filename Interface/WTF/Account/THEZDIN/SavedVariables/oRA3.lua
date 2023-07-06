@@ -14,16 +14,6 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
-			["global"] = {
-				["spellsOnCooldown"] = {
-					[265202] = {
-						["Player-3684-0E1D3251"] = 403564.295,
-					},
-				},
-				["lastTime"] = 403867.947,
-				["chargeSpellsOnCooldown"] = {
-				},
-			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -70,7 +60,7 @@ oRA3DB = {
 		["Difficulty"] = {
 			["profiles"] = {
 				["Default"] = {
-					["prevRaidDifficulty"] = 16,
+					["prevRaidDifficulty"] = 14,
 				},
 			},
 		},
@@ -82,14 +72,14 @@ oRA3DB = {
 		["Thezadin - Hyjal"] = "Default",
 		["Thezbot - Azgalor"] = "Default",
 		["Thezbank - Mannoroth"] = "Default",
-		["Thezfu - Hyjal"] = "Default",
-		["Sigurdsson - Hyjal"] = "Default",
+		["Thezdgar - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
 		["Thezdruid - Hyjal"] = "Default",
 		["Thezknight - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
-		["Thezdgar - Hyjal"] = "Default",
+		["Thezfu - Hyjal"] = "Default",
 		["Thezdin - Hyjal"] = "Default",
-		["Thez - Hyjal"] = "Default",
+		["Sigurdsson - Hyjal"] = "Default",
 		["Foulfellow - Hyjal"] = "Default",
 		["Jägare - Hyjal"] = "Default",
 	},
@@ -102,14 +92,14 @@ oRA3DB = {
 					["PosX"] = 1352.533061557333,
 				},
 				["oRA3BattleResMonitor"] = {
-					["Height"] = 30.00001525878906,
-					["PosX"] = 426.1348191791694,
-					["PosY"] = 131.2002005259274,
-					["Width"] = 140.0001068115234,
+					["Height"] = 30.00006294250488,
+					["PosX"] = 345.6016983032896,
+					["PosY"] = 390.9335238350832,
+					["Width"] = 140,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 536.4446411132812,
-					["PosX"] = 13.85799005262015,
+					["PosX"] = 13.85799463025705,
 					["PosY"] = 672.3688743737875,
 					["Width"] = 258.6666259765625,
 				},

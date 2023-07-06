@@ -13,7 +13,7 @@ AchievementTrackerOptions = {
 	["toggleSoundFailed"] = false,
 	["displayInfoFrame"] = false,
 	["toggleSound"] = false,
-	["InfoFramescale"] = 1,
+	["announceTrackedAchievements"] = true,
 	["hideCompletedAchievements"] = true,
 	["InfoFramepoint"] = "CENTER",
 	["announceToRaidWarning"] = true,
@@ -21,7 +21,7 @@ AchievementTrackerOptions = {
 	["trackAchievementsAutomatically"] = false,
 	["InfoFramey"] = -115.0003662109375,
 	["trackAchievementsInBlizzardUI"] = true,
-	["announceTrackedAchievements"] = true,
+	["InfoFramescale"] = 1,
 }
 AchievementTrackerDebug = {
 	nil, -- [1]
@@ -71177,6 +71177,406 @@ AchievementTrackerDebug = {
 	"25/6/2023 18:52 [DEBUG] true", -- [71151]
 	"25/6/2023 18:52 [DEBUG] Disabling Addon", -- [71152]
 	"25/6/2023 18:52 [DEBUG] Showing Minimap Icon", -- [71153]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71154]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.21.0", -- [71155]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71156]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71157]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71158]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71159]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71160]
+	"25/6/2023 22:9 [DEBUG] Showing Minimap Icon", -- [71161]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71162]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.22.0", -- [71163]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71164]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71165]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71166]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71167]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71168]
+	"26/6/2023 21:10 [DEBUG] Showing Minimap Icon", -- [71169]
+	"26/6/2023 21:12 [DEBUG] ---IAT Runtime---", -- [71170]
+	"26/6/2023 21:12 [DEBUG] Version: 4.22.0", -- [71171]
+	"26/6/2023 21:12 [DEBUG] Attempting to load from local NPC Cache", -- [71172]
+	"26/6/2023 21:12 [DEBUG] Generating NPC Cache...", -- [71173]
+	"26/6/2023 21:12 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71174]
+	"26/6/2023 21:12 [DEBUG] true", -- [71175]
+	"26/6/2023 21:12 [DEBUG] Disabling Addon", -- [71176]
+	"26/6/2023 21:13 [DEBUG] Showing Minimap Icon", -- [71177]
+	"26/6/2023 21:16 [DEBUG] ---IAT Runtime---", -- [71178]
+	"26/6/2023 21:16 [DEBUG] Version: 4.22.0", -- [71179]
+	"26/6/2023 21:16 [DEBUG] Attempting to load from local NPC Cache", -- [71180]
+	"26/6/2023 21:16 [DEBUG] Generating NPC Cache...", -- [71181]
+	"26/6/2023 21:16 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71182]
+	"26/6/2023 21:16 [DEBUG] true", -- [71183]
+	"26/6/2023 21:16 [DEBUG] Disabling Addon", -- [71184]
+	"26/6/2023 21:16 [DEBUG] Showing Minimap Icon", -- [71185]
+	"26/6/2023 21:45 [DEBUG] ---IAT Runtime---", -- [71186]
+	"26/6/2023 21:45 [DEBUG] Version: 4.22.0", -- [71187]
+	"26/6/2023 21:45 [DEBUG] Attempting to load from local NPC Cache", -- [71188]
+	"26/6/2023 21:45 [DEBUG] Generating NPC Cache...", -- [71189]
+	"26/6/2023 21:45 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71190]
+	"26/6/2023 21:45 [DEBUG] true", -- [71191]
+	"26/6/2023 21:45 [DEBUG] Disabling Addon", -- [71192]
+	"26/6/2023 21:46 [DEBUG] Showing Minimap Icon", -- [71193]
+	"26/6/2023 21:48 [DEBUG] ---IAT Runtime---", -- [71194]
+	"26/6/2023 21:48 [DEBUG] Version: 4.22.0", -- [71195]
+	"26/6/2023 21:48 [DEBUG] Attempting to load from local NPC Cache", -- [71196]
+	"26/6/2023 21:48 [DEBUG] Generating NPC Cache...", -- [71197]
+	"26/6/2023 21:48 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71198]
+	"26/6/2023 21:48 [DEBUG] true", -- [71199]
+	"26/6/2023 21:48 [DEBUG] Disabling Addon", -- [71200]
+	"26/6/2023 21:53 [DEBUG] Showing Minimap Icon", -- [71201]
+	"26/6/2023 23:36 [DEBUG] ---IAT Runtime---", -- [71202]
+	"26/6/2023 23:36 [DEBUG] Version: 4.22.0", -- [71203]
+	"26/6/2023 23:36 [DEBUG] Attempting to load from local NPC Cache", -- [71204]
+	"26/6/2023 23:36 [DEBUG] Generating NPC Cache...", -- [71205]
+	"26/6/2023 23:36 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71206]
+	"26/6/2023 23:36 [DEBUG] true", -- [71207]
+	"26/6/2023 23:36 [DEBUG] Disabling Addon", -- [71208]
+	"26/6/2023 23:36 [DEBUG] Showing Minimap Icon", -- [71209]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71210]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.22.0", -- [71211]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71212]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71213]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71214]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71215]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71216]
+	"27/6/2023 18:13 [DEBUG] Showing Minimap Icon", -- [71217]
+	"27/6/2023 18:15 [DEBUG] ---IAT Runtime---", -- [71218]
+	"27/6/2023 18:15 [DEBUG] Version: 4.22.0", -- [71219]
+	"27/6/2023 18:15 [DEBUG] Attempting to load from local NPC Cache", -- [71220]
+	"27/6/2023 18:15 [DEBUG] Generating NPC Cache...", -- [71221]
+	"27/6/2023 18:15 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71222]
+	"27/6/2023 18:15 [DEBUG] true", -- [71223]
+	"27/6/2023 18:15 [DEBUG] Disabling Addon", -- [71224]
+	"27/6/2023 18:16 [DEBUG] Showing Minimap Icon", -- [71225]
+	"27/6/2023 18:18 [DEBUG] ---IAT Runtime---", -- [71226]
+	"27/6/2023 18:18 [DEBUG] Version: 4.22.0", -- [71227]
+	"27/6/2023 18:18 [DEBUG] Attempting to load from local NPC Cache", -- [71228]
+	"27/6/2023 18:18 [DEBUG] Generating NPC Cache...", -- [71229]
+	"27/6/2023 18:18 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71230]
+	"27/6/2023 18:18 [DEBUG] true", -- [71231]
+	"27/6/2023 18:18 [DEBUG] Disabling Addon", -- [71232]
+	"27/6/2023 18:19 [DEBUG] Showing Minimap Icon", -- [71233]
+	"27/6/2023 18:23 [DEBUG] ---IAT Runtime---", -- [71234]
+	"27/6/2023 18:23 [DEBUG] Version: 4.22.0", -- [71235]
+	"27/6/2023 18:23 [DEBUG] Attempting to load from local NPC Cache", -- [71236]
+	"27/6/2023 18:23 [DEBUG] Generating NPC Cache...", -- [71237]
+	"27/6/2023 18:23 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71238]
+	"27/6/2023 18:23 [DEBUG] true", -- [71239]
+	"27/6/2023 18:23 [DEBUG] Disabling Addon", -- [71240]
+	"27/6/2023 18:24 [DEBUG] Showing Minimap Icon", -- [71241]
+	"27/6/2023 18:28 [DEBUG] ---IAT Runtime---", -- [71242]
+	"27/6/2023 18:28 [DEBUG] Version: 4.22.0", -- [71243]
+	"27/6/2023 18:28 [DEBUG] Attempting to load from local NPC Cache", -- [71244]
+	"27/6/2023 18:28 [DEBUG] Generating NPC Cache...", -- [71245]
+	"27/6/2023 18:28 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71246]
+	"27/6/2023 18:28 [DEBUG] true", -- [71247]
+	"27/6/2023 18:28 [DEBUG] Disabling Addon", -- [71248]
+	"27/6/2023 18:28 [DEBUG] Showing Minimap Icon", -- [71249]
+	"27/6/2023 18:30 [DEBUG] ---IAT Runtime---", -- [71250]
+	"27/6/2023 18:30 [DEBUG] Version: 4.22.0", -- [71251]
+	"27/6/2023 18:30 [DEBUG] Attempting to load from local NPC Cache", -- [71252]
+	"27/6/2023 18:30 [DEBUG] Generating NPC Cache...", -- [71253]
+	"27/6/2023 18:30 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71254]
+	"27/6/2023 18:30 [DEBUG] true", -- [71255]
+	"27/6/2023 18:30 [DEBUG] Disabling Addon", -- [71256]
+	"27/6/2023 18:31 [DEBUG] Showing Minimap Icon", -- [71257]
+	"27/6/2023 19:26 [DEBUG] ---IAT Runtime---", -- [71258]
+	"27/6/2023 19:26 [DEBUG] Version: 4.22.0", -- [71259]
+	"27/6/2023 19:26 [DEBUG] Attempting to load from local NPC Cache", -- [71260]
+	"27/6/2023 19:26 [DEBUG] Generating NPC Cache...", -- [71261]
+	"27/6/2023 19:26 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71262]
+	"27/6/2023 19:26 [DEBUG] true", -- [71263]
+	"27/6/2023 19:26 [DEBUG] Disabling Addon", -- [71264]
+	"27/6/2023 19:49 [DEBUG] Showing Minimap Icon", -- [71265]
+	"27/6/2023 19:55 [DEBUG] ---IAT Runtime---", -- [71266]
+	"27/6/2023 19:55 [DEBUG] Version: 4.22.0", -- [71267]
+	"27/6/2023 19:55 [DEBUG] Attempting to load from local NPC Cache", -- [71268]
+	"27/6/2023 19:55 [DEBUG] Generating NPC Cache...", -- [71269]
+	"27/6/2023 19:55 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71270]
+	"27/6/2023 19:55 [DEBUG] true", -- [71271]
+	"27/6/2023 19:55 [DEBUG] Disabling Addon", -- [71272]
+	"27/6/2023 19:55 [DEBUG] Showing Minimap Icon", -- [71273]
+	"27/6/2023 21:6 [DEBUG] ---IAT Runtime---", -- [71274]
+	"27/6/2023 21:6 [DEBUG] Version: 4.22.0", -- [71275]
+	"27/6/2023 21:6 [DEBUG] Attempting to load from local NPC Cache", -- [71276]
+	"27/6/2023 21:6 [DEBUG] Generating NPC Cache...", -- [71277]
+	"27/6/2023 21:6 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71278]
+	"27/6/2023 21:6 [DEBUG] true", -- [71279]
+	"27/6/2023 21:6 [DEBUG] Disabling Addon", -- [71280]
+	"27/6/2023 21:8 [DEBUG] Showing Minimap Icon", -- [71281]
+	"27/6/2023 21:12 [DEBUG] ---IAT Runtime---", -- [71282]
+	"27/6/2023 21:12 [DEBUG] Version: 4.22.0", -- [71283]
+	"27/6/2023 21:12 [DEBUG] Attempting to load from local NPC Cache", -- [71284]
+	"27/6/2023 21:12 [DEBUG] Generating NPC Cache...", -- [71285]
+	"27/6/2023 21:12 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71286]
+	"27/6/2023 21:12 [DEBUG] true", -- [71287]
+	"27/6/2023 21:12 [DEBUG] Disabling Addon", -- [71288]
+	"27/6/2023 21:12 [DEBUG] Showing Minimap Icon", -- [71289]
+	"27/6/2023 22:16 [DEBUG] ---IAT Runtime---", -- [71290]
+	"27/6/2023 22:16 [DEBUG] Version: 4.22.0", -- [71291]
+	"27/6/2023 22:16 [DEBUG] Attempting to load from local NPC Cache", -- [71292]
+	"27/6/2023 22:16 [DEBUG] Generating NPC Cache...", -- [71293]
+	"27/6/2023 22:16 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71294]
+	"27/6/2023 22:16 [DEBUG] true", -- [71295]
+	"27/6/2023 22:16 [DEBUG] Disabling Addon", -- [71296]
+	"27/6/2023 22:15 [DEBUG] Showing Minimap Icon", -- [71297]
+	"27/6/2023 22:25 [DEBUG] ---IAT Runtime---", -- [71298]
+	"27/6/2023 22:25 [DEBUG] Version: 4.22.0", -- [71299]
+	"27/6/2023 22:25 [DEBUG] Attempting to load from local NPC Cache", -- [71300]
+	"27/6/2023 22:25 [DEBUG] Generating NPC Cache...", -- [71301]
+	"27/6/2023 22:25 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71302]
+	"27/6/2023 22:25 [DEBUG] true", -- [71303]
+	"27/6/2023 22:25 [DEBUG] Disabling Addon", -- [71304]
+	"27/6/2023 22:26 [DEBUG] Showing Minimap Icon", -- [71305]
+	"27/6/2023 23:12 [DEBUG] ---IAT Runtime---", -- [71306]
+	"27/6/2023 23:12 [DEBUG] Version: 4.22.0", -- [71307]
+	"27/6/2023 23:12 [DEBUG] Attempting to load from local NPC Cache", -- [71308]
+	"27/6/2023 23:12 [DEBUG] Generating NPC Cache...", -- [71309]
+	"27/6/2023 23:12 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71310]
+	"27/6/2023 23:12 [DEBUG] true", -- [71311]
+	"27/6/2023 23:12 [DEBUG] Disabling Addon", -- [71312]
+	"27/6/2023 23:13 [DEBUG] Showing Minimap Icon", -- [71313]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71314]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.22.0", -- [71315]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71316]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71317]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71318]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71319]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71320]
+	"28/6/2023 10:19 [DEBUG] Showing Minimap Icon", -- [71321]
+	"28/6/2023 10:39 [DEBUG] ---IAT Runtime---", -- [71322]
+	"28/6/2023 10:39 [DEBUG] Version: 4.22.0", -- [71323]
+	"28/6/2023 10:39 [DEBUG] Attempting to load from local NPC Cache", -- [71324]
+	"28/6/2023 10:39 [DEBUG] Generating NPC Cache...", -- [71325]
+	"28/6/2023 10:39 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71326]
+	"28/6/2023 10:39 [DEBUG] true", -- [71327]
+	"28/6/2023 10:39 [DEBUG] Disabling Addon", -- [71328]
+	"28/6/2023 10:39 [DEBUG] Showing Minimap Icon", -- [71329]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71330]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.22.0", -- [71331]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71332]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71333]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71334]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71335]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71336]
+	"28/6/2023 21:13 [DEBUG] Showing Minimap Icon", -- [71337]
+	"28/6/2023 22:26 [DEBUG] ---IAT Runtime---", -- [71338]
+	"28/6/2023 22:26 [DEBUG] Version: 4.22.0", -- [71339]
+	"28/6/2023 22:26 [DEBUG] Attempting to load from local NPC Cache", -- [71340]
+	"28/6/2023 22:26 [DEBUG] Generating NPC Cache...", -- [71341]
+	"28/6/2023 22:26 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71342]
+	"28/6/2023 22:26 [DEBUG] true", -- [71343]
+	"28/6/2023 22:26 [DEBUG] Disabling Addon", -- [71344]
+	"28/6/2023 22:27 [DEBUG] Showing Minimap Icon", -- [71345]
+	"28/6/2023 23:26 [DEBUG] ---IAT Runtime---", -- [71346]
+	"28/6/2023 23:26 [DEBUG] Version: 4.22.0", -- [71347]
+	"28/6/2023 23:26 [DEBUG] Attempting to load from local NPC Cache", -- [71348]
+	"28/6/2023 23:26 [DEBUG] Generating NPC Cache...", -- [71349]
+	"28/6/2023 23:26 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71350]
+	"28/6/2023 23:26 [DEBUG] true", -- [71351]
+	"28/6/2023 23:26 [DEBUG] Disabling Addon", -- [71352]
+	"28/6/2023 23:28 [DEBUG] Showing Minimap Icon", -- [71353]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71354]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.22.0", -- [71355]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71356]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71357]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71358]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71359]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71360]
+	"29/6/2023 20:46 [DEBUG] Showing Minimap Icon", -- [71361]
+	"29/6/2023 21:4 [DEBUG] ---IAT Runtime---", -- [71362]
+	"29/6/2023 21:4 [DEBUG] Version: 4.22.0", -- [71363]
+	"29/6/2023 21:4 [DEBUG] Attempting to load from local NPC Cache", -- [71364]
+	"29/6/2023 21:4 [DEBUG] Generating NPC Cache...", -- [71365]
+	"29/6/2023 21:4 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71366]
+	"29/6/2023 21:4 [DEBUG] true", -- [71367]
+	"29/6/2023 21:4 [DEBUG] Disabling Addon", -- [71368]
+	"29/6/2023 21:7 [DEBUG] Showing Minimap Icon", -- [71369]
+	"29/6/2023 21:40 [DEBUG] ---IAT Runtime---", -- [71370]
+	"29/6/2023 21:40 [DEBUG] Version: 4.22.0", -- [71371]
+	"29/6/2023 21:40 [DEBUG] Attempting to load from local NPC Cache", -- [71372]
+	"29/6/2023 21:40 [DEBUG] Generating NPC Cache...", -- [71373]
+	"29/6/2023 21:40 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71374]
+	"29/6/2023 21:40 [DEBUG] true", -- [71375]
+	"29/6/2023 21:40 [DEBUG] Disabling Addon", -- [71376]
+	"29/6/2023 21:41 [DEBUG] Showing Minimap Icon", -- [71377]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71378]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.22.0", -- [71379]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71380]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71381]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71382]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71383]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71384]
+	"30/6/2023 9:8 [DEBUG] Showing Minimap Icon", -- [71385]
+	"30/6/2023 9:52 [DEBUG] ---IAT Runtime---", -- [71386]
+	"30/6/2023 9:52 [DEBUG] Version: 4.22.0", -- [71387]
+	"30/6/2023 9:52 [DEBUG] Attempting to load from local NPC Cache", -- [71388]
+	"30/6/2023 9:52 [DEBUG] Generating NPC Cache...", -- [71389]
+	"30/6/2023 9:52 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71390]
+	"30/6/2023 9:52 [DEBUG] true", -- [71391]
+	"30/6/2023 9:52 [DEBUG] Disabling Addon", -- [71392]
+	"30/6/2023 9:54 [DEBUG] Showing Minimap Icon", -- [71393]
+	"30/6/2023 10:8 [DEBUG] ---IAT Runtime---", -- [71394]
+	"30/6/2023 10:8 [DEBUG] Version: 4.22.0", -- [71395]
+	"30/6/2023 10:8 [DEBUG] Attempting to load from local NPC Cache", -- [71396]
+	"30/6/2023 10:8 [DEBUG] Generating NPC Cache...", -- [71397]
+	"30/6/2023 10:8 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71398]
+	"30/6/2023 10:8 [DEBUG] true", -- [71399]
+	"30/6/2023 10:8 [DEBUG] Disabling Addon", -- [71400]
+	"30/6/2023 10:13 [DEBUG] Showing Minimap Icon", -- [71401]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71402]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.22.0", -- [71403]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71404]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71405]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71406]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71407]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71408]
+	"30/6/2023 18:56 [DEBUG] Showing Minimap Icon", -- [71409]
+	"30/6/2023 21:28 [DEBUG] ---IAT Runtime---", -- [71410]
+	"30/6/2023 21:28 [DEBUG] Version: 4.22.0", -- [71411]
+	"30/6/2023 21:28 [DEBUG] Attempting to load from local NPC Cache", -- [71412]
+	"30/6/2023 21:28 [DEBUG] Generating NPC Cache...", -- [71413]
+	"30/6/2023 21:28 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71414]
+	"30/6/2023 21:28 [DEBUG] true", -- [71415]
+	"30/6/2023 21:28 [DEBUG] Disabling Addon", -- [71416]
+	"30/6/2023 21:27 [DEBUG] Showing Minimap Icon", -- [71417]
+	"30/6/2023 22:44 [DEBUG] ---IAT Runtime---", -- [71418]
+	"30/6/2023 22:44 [DEBUG] Version: 4.22.0", -- [71419]
+	"30/6/2023 22:44 [DEBUG] Attempting to load from local NPC Cache", -- [71420]
+	"30/6/2023 22:44 [DEBUG] Generating NPC Cache...", -- [71421]
+	"30/6/2023 22:44 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71422]
+	"30/6/2023 22:44 [DEBUG] true", -- [71423]
+	"30/6/2023 22:44 [DEBUG] Disabling Addon", -- [71424]
+	"30/6/2023 22:43 [DEBUG] Showing Minimap Icon", -- [71425]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71426]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.22.0", -- [71427]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71428]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71429]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71430]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71431]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71432]
+	"1/7/2023 10:27 [DEBUG] Showing Minimap Icon", -- [71433]
+	"1/7/2023 10:36 [DEBUG] ---IAT Runtime---", -- [71434]
+	"1/7/2023 10:36 [DEBUG] Version: 4.22.0", -- [71435]
+	"1/7/2023 10:36 [DEBUG] Attempting to load from local NPC Cache", -- [71436]
+	"1/7/2023 10:36 [DEBUG] Generating NPC Cache...", -- [71437]
+	"1/7/2023 10:36 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71438]
+	"1/7/2023 10:36 [DEBUG] true", -- [71439]
+	"1/7/2023 10:36 [DEBUG] Disabling Addon", -- [71440]
+	"1/7/2023 10:36 [DEBUG] Showing Minimap Icon", -- [71441]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71442]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.22.0", -- [71443]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71444]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71445]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71446]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71447]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71448]
+	"1/7/2023 14:32 [DEBUG] Showing Minimap Icon", -- [71449]
+	"1/7/2023 14:36 [DEBUG] ---IAT Runtime---", -- [71450]
+	"1/7/2023 14:36 [DEBUG] Version: 4.22.0", -- [71451]
+	"1/7/2023 14:36 [DEBUG] Attempting to load from local NPC Cache", -- [71452]
+	"1/7/2023 14:36 [DEBUG] Generating NPC Cache...", -- [71453]
+	"1/7/2023 14:36 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71454]
+	"1/7/2023 14:36 [DEBUG] true", -- [71455]
+	"1/7/2023 14:36 [DEBUG] Disabling Addon", -- [71456]
+	"1/7/2023 14:36 [DEBUG] Showing Minimap Icon", -- [71457]
+	"1/7/2023 14:39 [DEBUG] ---IAT Runtime---", -- [71458]
+	"1/7/2023 14:39 [DEBUG] Version: 4.22.0", -- [71459]
+	"1/7/2023 14:39 [DEBUG] Attempting to load from local NPC Cache", -- [71460]
+	"1/7/2023 14:39 [DEBUG] Generating NPC Cache...", -- [71461]
+	"1/7/2023 14:39 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71462]
+	"1/7/2023 14:39 [DEBUG] true", -- [71463]
+	"1/7/2023 14:39 [DEBUG] Disabling Addon", -- [71464]
+	"1/7/2023 14:39 [DEBUG] Showing Minimap Icon", -- [71465]
+	"1/7/2023 14:41 [DEBUG] ---IAT Runtime---", -- [71466]
+	"1/7/2023 14:41 [DEBUG] Version: 4.22.0", -- [71467]
+	"1/7/2023 14:41 [DEBUG] Attempting to load from local NPC Cache", -- [71468]
+	"1/7/2023 14:41 [DEBUG] Generating NPC Cache...", -- [71469]
+	"1/7/2023 14:41 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71470]
+	"1/7/2023 14:41 [DEBUG] true", -- [71471]
+	"1/7/2023 14:41 [DEBUG] Disabling Addon", -- [71472]
+	"1/7/2023 14:41 [DEBUG] Showing Minimap Icon", -- [71473]
+	"1/7/2023 14:43 [DEBUG] ---IAT Runtime---", -- [71474]
+	"1/7/2023 14:43 [DEBUG] Version: 4.22.0", -- [71475]
+	"1/7/2023 14:43 [DEBUG] Attempting to load from local NPC Cache", -- [71476]
+	"1/7/2023 14:43 [DEBUG] Generating NPC Cache...", -- [71477]
+	"1/7/2023 14:43 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71478]
+	"1/7/2023 14:43 [DEBUG] true", -- [71479]
+	"1/7/2023 14:43 [DEBUG] Disabling Addon", -- [71480]
+	"1/7/2023 14:43 [DEBUG] Showing Minimap Icon", -- [71481]
+	"1/7/2023 14:56 [DEBUG] ---IAT Runtime---", -- [71482]
+	"1/7/2023 14:56 [DEBUG] Version: 4.22.0", -- [71483]
+	"1/7/2023 14:56 [DEBUG] Attempting to load from local NPC Cache", -- [71484]
+	"1/7/2023 14:56 [DEBUG] Generating NPC Cache...", -- [71485]
+	"1/7/2023 14:56 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71486]
+	"1/7/2023 14:56 [DEBUG] true", -- [71487]
+	"1/7/2023 14:56 [DEBUG] Disabling Addon", -- [71488]
+	"1/7/2023 14:56 [DEBUG] Showing Minimap Icon", -- [71489]
+	"1/7/2023 14:58 [DEBUG] ---IAT Runtime---", -- [71490]
+	"1/7/2023 14:58 [DEBUG] Version: 4.22.0", -- [71491]
+	"1/7/2023 14:58 [DEBUG] Attempting to load from local NPC Cache", -- [71492]
+	"1/7/2023 14:58 [DEBUG] Generating NPC Cache...", -- [71493]
+	"1/7/2023 14:58 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71494]
+	"1/7/2023 14:58 [DEBUG] true", -- [71495]
+	"1/7/2023 14:58 [DEBUG] Disabling Addon", -- [71496]
+	"1/7/2023 14:58 [DEBUG] Showing Minimap Icon", -- [71497]
+	"1/7/2023 16:38 [DEBUG] ---IAT Runtime---", -- [71498]
+	"1/7/2023 16:38 [DEBUG] Version: 4.22.0", -- [71499]
+	"1/7/2023 16:38 [DEBUG] Attempting to load from local NPC Cache", -- [71500]
+	"1/7/2023 16:38 [DEBUG] Generating NPC Cache...", -- [71501]
+	"1/7/2023 16:38 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71502]
+	"1/7/2023 16:38 [DEBUG] true", -- [71503]
+	"1/7/2023 16:38 [DEBUG] Disabling Addon", -- [71504]
+	"1/7/2023 16:37 [DEBUG] Showing Minimap Icon", -- [71505]
+	"1/7/2023 16:42 [DEBUG] ---IAT Runtime---", -- [71506]
+	"1/7/2023 16:42 [DEBUG] Version: 4.22.0", -- [71507]
+	"1/7/2023 16:42 [DEBUG] Attempting to load from local NPC Cache", -- [71508]
+	"1/7/2023 16:42 [DEBUG] Generating NPC Cache...", -- [71509]
+	"1/7/2023 16:42 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71510]
+	"1/7/2023 16:42 [DEBUG] true", -- [71511]
+	"1/7/2023 16:42 [DEBUG] Disabling Addon", -- [71512]
+	"1/7/2023 16:43 [DEBUG] Showing Minimap Icon", -- [71513]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71514]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.22.0", -- [71515]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71516]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71517]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71518]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71519]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71520]
+	"1/7/2023 19:26 [DEBUG] Showing Minimap Icon", -- [71521]
+	"1/7/2023 20:28 [DEBUG] ---IAT Runtime---", -- [71522]
+	"1/7/2023 20:28 [DEBUG] Version: 4.22.0", -- [71523]
+	"1/7/2023 20:28 [DEBUG] Attempting to load from local NPC Cache", -- [71524]
+	"1/7/2023 20:28 [DEBUG] Generating NPC Cache...", -- [71525]
+	"1/7/2023 20:28 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71526]
+	"1/7/2023 20:28 [DEBUG] true", -- [71527]
+	"1/7/2023 20:28 [DEBUG] Disabling Addon", -- [71528]
+	"1/7/2023 20:30 [DEBUG] Showing Minimap Icon", -- [71529]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [71530]
+	"0/0/1999 -1:-1 [DEBUG] Version: 4.22.0", -- [71531]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [71532]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [71533]
+	"0/0/1999 -1:-1 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71534]
+	"0/0/1999 -1:-1 [DEBUG] true", -- [71535]
+	"0/0/1999 -1:-1 [DEBUG] Disabling Addon", -- [71536]
+	"1/7/2023 22:39 [DEBUG] Showing Minimap Icon", -- [71537]
+	"1/7/2023 22:44 [DEBUG] ---IAT Runtime---", -- [71538]
+	"1/7/2023 22:44 [DEBUG] Version: 4.22.0", -- [71539]
+	"1/7/2023 22:44 [DEBUG] Attempting to load from local NPC Cache", -- [71540]
+	"1/7/2023 22:44 [DEBUG] Generating NPC Cache...", -- [71541]
+	"1/7/2023 22:44 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71542]
+	"1/7/2023 22:44 [DEBUG] true", -- [71543]
+	"1/7/2023 22:44 [DEBUG] Disabling Addon", -- [71544]
+	"1/7/2023 22:45 [DEBUG] Showing Minimap Icon", -- [71545]
+	"1/7/2023 22:46 [DEBUG] ---IAT Runtime---", -- [71546]
+	"1/7/2023 22:46 [DEBUG] Version: 4.22.0", -- [71547]
+	"1/7/2023 22:46 [DEBUG] Attempting to load from local NPC Cache", -- [71548]
+	"1/7/2023 22:46 [DEBUG] Generating NPC Cache...", -- [71549]
+	"1/7/2023 22:46 [DEBUG] Only Tracking Missing Achievements Enabled", -- [71550]
+	"1/7/2023 22:46 [DEBUG] true", -- [71551]
+	"1/7/2023 22:46 [DEBUG] Disabling Addon", -- [71552]
+	"1/7/2023 22:46 [DEBUG] Showing Minimap Icon", -- [71553]
 }
 AchievementTrackerNPCCache = {
 	[75829] = "Nhallish",
@@ -71530,7 +71930,7 @@ AchievementTrackerNPCCache = {
 	[155760] = "Tank Buster MK2",
 	[95886] = "Ash'Golm",
 	[102088] = "Murkwater Myrmidon",
-	[198038] = "Primal Avatar",
+	[45993] = "Theralion",
 	[104262] = "Burning Ember",
 	[64471] = "Tenwu of the Red Smoke",
 	[26641] = "Drakkari Gutripper",
@@ -71561,20 +71961,20 @@ AchievementTrackerNPCCache = {
 	[56839] = "Anduin Wrynn",
 	[61243] = "Gekkan",
 	[95888] = "Cordana Felsong",
-	[33686] = "Lore Keeper of Norgannon",
+	[181546] = "Prototype of Renewal",
 	[69820] = "Son of Animus",
 	[77814] = "Teron'gor",
 	[73638] = "Tears of the Vale",
 	[171474] = "Finger Food",
 	[39984] = "Malignant Trogg",
 	[160271] = "Forbidden Manifestation",
-	[91349] = "Mannoroth",
 	[32919] = "Storm Lasher",
+	[91349] = "Mannoroth",
 	[150081] = "Wise Mari",
 	[41440] = "Aberration",
-	[185128] = "Memorial Pylon",
 	[108996] = "Specter of Vengeance",
-	[178095] = "Eye of the Jailer",
+	[153415] = "Sha of Violence",
+	[135129] = "Projection of Yogg-Saron",
 	[70250] = "Frozen Head",
 	[165512] = "Cocoon of Lakali",
 	[135513] = "Ancient Tome",
@@ -71609,20 +72009,20 @@ AchievementTrackerNPCCache = {
 	[166644] = "Artificer Xy'mox",
 	[70252] = "Arcane Head",
 	[144596] = "Chest o' Booty",
-	[94996] = "Fragment of the Crone",
 	[139737] = "Lord Stormsong",
+	[72490] = "Overseer Mojka",
 	[61884] = "Xin the Weaponmaster",
 	[185005] = "Anduin's Grief",
 	[76283] = "Malefic Defender",
 	[175474] = "Belligerent Waiter",
-	[78948] = "Tectus",
+	[56897] = "Raigonn",
 	[172386] = "Anima Conduit",
-	[99664] = "Restless Soul",
-	[180658] = "Focusing Prism",
 	[49864] = "Twilight Fiend",
+	[71979] = "Kor'kron Warbringer",
+	[99664] = "Restless Soul",
 	[147430] = "Virmen",
 	[33768] = "Rubble",
-	[155595] = "Sacred Gear",
+	[61213] = "Krik'thik Conscript",
 	[104341] = "Torment",
 	[64346] = "Parasitoid Sha",
 	[152910] = "Queen Azshara",
@@ -71632,8 +72032,8 @@ AchievementTrackerNPCCache = {
 	[72436] = "Immerseus",
 	[68655] = "Mr. Bigglesworth",
 	[32857] = "Stormcaller Brundir",
-	[111941] = "Hodir",
 	[50376] = "Angered Earth",
+	[111941] = "Hodir",
 	[172093] = "Hearty Haunch",
 	[205340] = "Expired Experiment",
 	[15687] = "Moroes",
@@ -71643,25 +72043,25 @@ AchievementTrackerNPCCache = {
 	[33552] = "Yogg-Saron",
 	[68336] = "Garrosh Hellscream",
 	[138718] = "Sharkbait's Empty Dish",
-	[205341] = "Stack of Scrolls",
+	[33241] = "Freya",
 	[52414] = "Tor-Tun",
 	[67569] = "Elder Adler",
-	[77927] = "Son of the Beast",
 	[172094] = "Dissectible Dessert",
+	[77927] = "Son of the Beast",
 	[56930] = "Krik'thik Swarm Bringer",
-	[205342] = "Neverburning Ebon Candle",
-	[138719] = "Serve Sharkbait's Meal",
 	[103758] = "Star Augur Etraeus",
+	[138719] = "Serve Sharkbait's Meal",
+	[205342] = "Neverburning Ebon Candle",
 	[129440] = "Harlan Sweete",
 	[59080] = "Darkmaster Gandling",
-	[76585] = "Ragewing the Untamed",
-	[164934] = "Manastorm",
-	[23574] = "Akil'zon",
-	[74475] = "Magmolatus",
 	[126712] = "Training Dummy",
+	[164934] = "Manastorm",
+	[93145] = "Soul of the Crone",
+	[74475] = "Magmolatus",
+	[171456] = "Shattered Devastator",
 	[205343] = "\"Portable\" Ebon Anvil",
 	[26627] = "Crystal Handler",
-	[93145] = "Soul of the Crone",
+	[23574] = "Akil'zon",
 	[39987] = "Evolved Twilight Zealot",
 	[116802] = "Rodent of Usual Size",
 	[108682] = "Amber Drake",
@@ -71679,10 +72079,10 @@ AchievementTrackerNPCCache = {
 	[109450] = "Saronite Vapors",
 	[67571] = "Millhouse Manastorm",
 	[86918] = "Uncharged Construct",
-	[36535] = "Corrupted Soul Fragment",
+	[141792] = "Liz Vilepot",
 	[115844] = "Goroth",
 	[197298] = "Nascent Proto-Dragon",
-	[141792] = "Liz Vilepot",
+	[71983] = "Farseer Wolf Rider",
 	[162317] = "Gorechop",
 	[105742] = "Turbax",
 	[180690] = "Vazzaren the Seeker",
@@ -71691,30 +72091,30 @@ AchievementTrackerNPCCache = {
 	[80551] = "Shard of Tectus",
 	[153941] = "Zoatroid",
 	[184759] = "Depleted Automa",
-	[104528] = "High Botanist Tel'arn",
-	[36855] = "Lady Deathwhisper",
-	[61567] = "Vizier Jin'bak",
-	[174018] = "Volatile Plague Bomb",
 	[100436] = "Illysanna Ravencrest",
-	[105743] = "Whipsnap",
+	[36855] = "Lady Deathwhisper",
 	[129208] = "Dread Captain Lockwood",
+	[172995] = "Hydra Seed",
+	[104528] = "High Botanist Tel'arn",
 	[71984] = "Siege Engineer",
+	[61567] = "Vizier Jin'bak",
+	[52392] = "Gurubashi Master Chef",
 	[173768] = "Fiery Brazier",
 	[86928] = "Empowered Construct",
 	[33136] = "Guardian of Yogg-Saron",
 	[164967] = "Doctor Ickus",
 	[95833] = "Hyrja",
 	[156884] = "Essence of Vita",
-	[69427] = "Dark Animus",
 	[72496] = "Overseer Thathung",
+	[69427] = "Dark Animus",
 	[73033] = "Corrupted Skullsplitter",
 	[164557] = "Shard of Halkias",
 	[32273] = "Infinite Corruptor",
-	[105744] = "Blaze",
+	[28514] = "Nalorakk",
 	[64061] = "Mogu'shan Warden",
 	[119938] = "Reanimated Templar",
 	[38135] = "Deformed Fanatic",
-	[28514] = "Nalorakk",
+	[111882] = "Sparky",
 	[52936] = "Druid of the Flame",
 	[122135] = "Shatug",
 	[115143] = "Snaplasher",
@@ -71733,7 +72133,7 @@ AchievementTrackerNPCCache = {
 	[154074] = "Void Orb",
 	[142949] = "Theramore Citizen",
 	[173767] = "Embered Brazier",
-	[111882] = "Sparky",
+	[105744] = "Blaze",
 	[73265] = "Corrupted Amalgamation",
 	[55419] = "Captain Varo'then",
 	[27654] = "Drakos the Interrogator",
@@ -71741,16 +72141,16 @@ AchievementTrackerNPCCache = {
 	[58787] = "Big Bessa",
 	[33244] = "Mimiron",
 	[71603] = "Sha Puddle",
-	[52392] = "Gurubashi Master Chef",
-	[172995] = "Hydra Seed",
+	[105743] = "Whipsnap",
+	[174018] = "Volatile Plague Bomb",
 	[69086] = "Flaming Head",
 	[165073] = "Forlorn Captive",
 	[29305] = "Moorabi",
 	[141800] = "Brutik Blackanvil",
 	[150995] = "Mimiron",
 	[173769] = "Smoldering Brazier",
+	[36535] = "Corrupted Soul Fragment",
 	[78121] = "Gorian Warmage",
-	[71983] = "Farseer Wolf Rider",
 	[34826] = "Mistress of Pain",
 	[86250] = "Kyrak",
 	[158041] = "N'Zoth the Corruptor",
@@ -71758,14 +72158,14 @@ AchievementTrackerNPCCache = {
 	[105299] = "Recursive Elemental",
 	[90018] = "Hellfire Cannon",
 	[68599] = "Ferra Pearl",
-	[171456] = "Shattered Devastator",
+	[76585] = "Ragewing the Untamed",
 	[53494] = "Baleroc",
 	[50284] = "Twilight Zealot",
 	[185423] = "Reaving Automa: Neo",
 	[55308] = "Warlord Zon'ozz",
 	[52422] = "Kaulema the Mover",
 	[33134] = "Sara",
-	[33241] = "Freya",
+	[205341] = "Stack of Scrolls",
 	[84520] = "Pitwarden Gwarnok",
 	[49485] = "Aberration",
 	[165408] = "Halkias",
@@ -71773,13 +72173,13 @@ AchievementTrackerNPCCache = {
 	[33202] = "Ancient Water Spirit",
 	[52438] = "Mortaxx",
 	[44530] = "Naz'jar Honor Guard",
-	[61213] = "Krik'thik Conscript",
+	[155595] = "Sacred Gear",
 	[102423] = "Mug of Mead",
-	[71979] = "Kor'kron Warbringer",
+	[180658] = "Focusing Prism",
 	[131318] = "Elder Leaxa",
-	[56897] = "Raigonn",
+	[78948] = "Tectus",
 	[164218] = "Lord Chamberlain",
-	[72490] = "Overseer Mojka",
+	[94996] = "Fragment of the Crone",
 	[56637] = "Ook-Ook",
 	[52442] = "Florawing Hive Queen",
 	[29023] = "Jan'alai",
@@ -71797,8 +72197,8 @@ AchievementTrackerNPCCache = {
 	[145898] = "Anointed Disciple",
 	[58605] = "Scarlet Judicator",
 	[69181] = "Saurid",
-	[135129] = "Projection of Yogg-Saron",
-	[153415] = "Sha of Violence",
+	[178095] = "Eye of the Jailer",
+	[185128] = "Memorial Pylon",
 	[33118] = "Ignis the Furnace Master",
 	[185439] = "Tainted Progenitor Relic",
 	[56843] = "Lorewalker Stonestep",
@@ -71806,7 +72206,7 @@ AchievementTrackerNPCCache = {
 	[178763] = "Buttons",
 	[148201] = "Crawler Mine",
 	[96223] = "Gamon",
-	[181546] = "Prototype of Renewal",
+	[33686] = "Lore Keeper of Norgannon",
 	[151654] = "Deuce Mecha-Buffer",
 	[59822] = "Auntie Stormstout",
 	[137588] = "Gasping Flounder",
@@ -71823,7 +72223,7 @@ AchievementTrackerNPCCache = {
 	[155056] = "Robo-Waste",
 	[175616] = "Zo'phex",
 	[147896] = "Zandalari Crusader",
-	[45993] = "Theralion",
+	[198038] = "Primal Avatar",
 	[38010] = "Reanimated Adherent",
 	[32927] = "Runemaster Molgeim",
 	[153202] = "Piston Smasher",

@@ -81,7 +81,7 @@ MythicDungeonToolsDB = {
 				}, -- [12]
 			},
 		},
-		["currentDifficulty"] = 18,
+		["anchorFrom"] = "CENTER",
 		["minimap"] = {
 			["lock"] = true,
 		},
@@ -203,16 +203,16 @@ MythicDungeonToolsDB = {
 								[5] = {
 									2, -- [1]
 								},
+								[9] = {
+									2, -- [1]
+									1, -- [2]
+									3, -- [3]
+								},
 								[4] = {
 									4, -- [1]
 									5, -- [2]
 									3, -- [3]
 									6, -- [4]
-								},
-								[9] = {
-									2, -- [1]
-									1, -- [2]
-									3, -- [3]
 								},
 							}, -- [6]
 							{
@@ -319,6 +319,11 @@ MythicDungeonToolsDB = {
 						["beguiling"] = 1,
 					},
 					["difficulty"] = 10,
+					["colorPaletteInfo"] = {
+						["autoColoring"] = true,
+						["colorPaletteIdx"] = 4,
+					},
+					["text"] = "Frog 2",
 					["value"] = {
 						["currentPull"] = 15,
 						["currentSublevel"] = 1,
@@ -475,21 +480,21 @@ MythicDungeonToolsDB = {
 								},
 								[13] = {
 								},
-								[12] = {
-									1, -- [1]
-								},
+								["color"] = "3effff",
 								[10] = {
 									3, -- [1]
 									4, -- [2]
 									5, -- [3]
 									6, -- [4]
 								},
-								["color"] = "3effff",
-								[14] = {
+								[12] = {
+									1, -- [1]
+								},
+								[4] = {
 								},
 								[5] = {
 								},
-								[4] = {
+								[14] = {
 								},
 							}, -- [8]
 							{
@@ -608,11 +613,6 @@ MythicDungeonToolsDB = {
 								},
 							}, -- [16]
 						},
-					},
-					["text"] = "Frog 2",
-					["colorPaletteInfo"] = {
-						["autoColoring"] = true,
-						["colorPaletteIdx"] = 4,
 					},
 					["objects"] = {
 					},
@@ -1014,15 +1014,15 @@ MythicDungeonToolsDB = {
 									7, -- [1]
 									6, -- [2]
 								},
+								[9] = {
+									3, -- [1]
+									4, -- [2]
+								},
 								[7] = {
 									8, -- [1]
 									9, -- [2]
 									10, -- [3]
 									7, -- [4]
-								},
-								[9] = {
-									3, -- [1]
-									4, -- [2]
 								},
 								["color"] = "a1ff3e",
 							}, -- [11]
@@ -1178,7 +1178,7 @@ MythicDungeonToolsDB = {
 		["version"] = 40410,
 		["xoffset"] = -248.981689453125,
 		["scale"] = 1.689201286247185,
-		["anchorFrom"] = "CENTER",
+		["currentDifficulty"] = 18,
 		["yoffset"] = 77.91449737548828,
 	},
 }

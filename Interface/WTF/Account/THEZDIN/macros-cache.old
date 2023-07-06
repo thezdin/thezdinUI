@@ -1,9 +1,19 @@
+VER 3 000000000000007A "Afflicted" "134400"
+#showtooltip
+/stopcasting
+/target Afflicted Soul
+/cast [@mouseover,exists][@target,exists][@player]Cleanse
+END
 VER 3 0000000000000072 "Assassins" "134400"
 /cleartarget
 /tar Mawsworn Blackguard
 /cleartarget [dead]
 /stopmacro [dead][noexists]
 /script SetRaidTarget("target",8);
+END
+VER 3 000000000000007B "BOP" "136031"
+#showtooltip Blessing of Protection
+/cancelaura Blessing of Protection
 END
 VER 3 000000000000006A "EAB" "INV_MISC_QUESTIONMARK"
 /run ids={[14671]=60739,[14672]=60475,[14737]=59705,[14741]=60911,[14762]=60858,[14765]=59643,[14766]=59718,[14772]=60602}
@@ -36,6 +46,10 @@ END
 VER 3 0000000000000067 "Heroic Leap" "INV_MISC_QUESTIONMARK"
 #showtooltip 
 /cast [@cursor] Heroic Leap
+END
+VER 3 000000000000007C "Internal Strike" "134400"
+#showtooltip
+/cast [mod:ctrl, @player] Infernal Strike; [nomod, @cursor] Infernal Strike
 END
 VER 3 000000000000006F "love" "132130"
 /tar Soulwing Flitter
@@ -82,6 +96,10 @@ VER 3 0000000000000070 "Pocopoc" "4734167"
 /run PlaySound (8959, Dialog)
 /stopmacro
 END
+VER 3 000000000000007E "Purge" "134400"
+#showtooltip Consume Magic
+/cast [@focus,harm,nodead][] Consume Magic
+END
 VER 3 0000000000000066 "Revenge" "INV_MISC_QUESTIONMARK"
 #showtooltip Revenge
 /cast Shield Slam, Revenge
@@ -101,6 +119,15 @@ VER 3 0000000000000034 "Shield Block" "INV_Misc_QuestionMark"
 /cast Shield Block
 /cast Shield Slam
 /startattack
+END
+VER 3 000000000000007F "Shield Pain" "134400"
+#showtooltip
+/cast Ignore Pain
+/cast Shield Slam
+END
+VER 3 000000000000007D "Sigil" "134400"
+#showtooltip
+/cast [mod:shift, @player] Sigil of Flame; [nomod, @cursor] Sigil of Flame
 END
 VER 3 000000000000006D "Squirrel Love" "132311"
 /tar Soulwing Flitter

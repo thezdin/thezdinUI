@@ -2,17 +2,17 @@
 _detalhes_database = {
 	["savedbuffs"] = {
 	},
-	["mythic_dungeon_id"] = 22,
+	["mythic_dungeon_id"] = 29,
 	["tabela_historico"] = {
 		["tabelas"] = {
 		},
 	},
 	["ocd_tracker"] = {
-		["show_title"] = true,
+		["enabled"] = false,
 		["current_cooldowns"] = {
 		},
-		["lines_per_column"] = 12,
 		["group_frames"] = true,
+		["lines_per_column"] = 12,
 		["frames"] = {
 			["defensive-raid"] = {
 			},
@@ -36,15 +36,15 @@ _detalhes_database = {
 			["defensive-personal"] = false,
 		},
 		["width"] = 120,
-		["height"] = 18,
 		["framme_locked"] = false,
 		["cooldowns"] = {
 		},
+		["height"] = 18,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
 		},
-		["enabled"] = false,
+		["show_title"] = true,
 		["filters"] = {
 			["utility"] = false,
 			["defensive-raid"] = false,
@@ -85,8 +85,74 @@ _detalhes_database = {
 					["totalTime"] = 3173406,
 					["minTime"] = 1406040,
 				},
+				[18] = {
+					["completed"] = 1,
+					["history"] = {
+						{
+							["onTime"] = false,
+							["deaths"] = 26,
+							["day"] = 27,
+							["month"] = 6,
+							["affix"] = 10,
+							["runTime"] = 2244783,
+							["year"] = 2023,
+						}, -- [1]
+					},
+					["totalTime"] = 2244783,
+					["minTime"] = 2244783,
+				},
+			},
+			[403] = {
+				[16] = {
+					["completed"] = 1,
+					["history"] = {
+						{
+							["onTime"] = false,
+							["deaths"] = 1,
+							["day"] = 28,
+							["month"] = 6,
+							["affix"] = 10,
+							["runTime"] = 2111576,
+							["year"] = 2023,
+						}, -- [1]
+					},
+					["totalTime"] = 2111576,
+					["minTime"] = 2111576,
+				},
 			},
 			[404] = {
+				[17] = {
+					["completed"] = 1,
+					["history"] = {
+						{
+							["onTime"] = true,
+							["deaths"] = 2,
+							["day"] = 1,
+							["month"] = 7,
+							["affix"] = 10,
+							["runTime"] = 1655002,
+							["year"] = 2023,
+						}, -- [1]
+					},
+					["totalTime"] = 1655002,
+					["minTime"] = 1655002,
+				},
+				[15] = {
+					["completed"] = 1,
+					["history"] = {
+						{
+							["onTime"] = false,
+							["deaths"] = 14,
+							["day"] = 26,
+							["month"] = 6,
+							["affix"] = 9,
+							["runTime"] = 2148080,
+							["year"] = 2023,
+						}, -- [1]
+					},
+					["totalTime"] = 2148080,
+					["minTime"] = 2148080,
+				},
 				[9] = {
 					["completed"] = 1,
 					["history"] = {
@@ -121,6 +187,22 @@ _detalhes_database = {
 					["totalTime"] = 1199577,
 					["minTime"] = 1199577,
 				},
+				[17] = {
+					["completed"] = 1,
+					["history"] = {
+						{
+							["onTime"] = true,
+							["deaths"] = 9,
+							["day"] = 30,
+							["month"] = 6,
+							["affix"] = 10,
+							["runTime"] = 1816623,
+							["year"] = 2023,
+						}, -- [1]
+					},
+					["totalTime"] = 1816623,
+					["minTime"] = 1816623,
+				},
 			},
 			[406] = {
 				[11] = {
@@ -141,22 +223,6 @@ _detalhes_database = {
 				},
 			},
 			[251] = {
-				[11] = {
-					["completed"] = 1,
-					["history"] = {
-						{
-							["onTime"] = true,
-							["deaths"] = 5,
-							["day"] = 10,
-							["month"] = 6,
-							["affix"] = 9,
-							["runTime"] = 1062882,
-							["year"] = 2023,
-						}, -- [1]
-					},
-					["totalTime"] = 1062882,
-					["minTime"] = 1062882,
-				},
 				[6] = {
 					["completed"] = 1,
 					["history"] = {
@@ -172,6 +238,38 @@ _detalhes_database = {
 					},
 					["totalTime"] = 1045280,
 					["minTime"] = 1045280,
+				},
+				[15] = {
+					["completed"] = 1,
+					["history"] = {
+						{
+							["onTime"] = true,
+							["deaths"] = 1,
+							["day"] = 29,
+							["month"] = 6,
+							["affix"] = 10,
+							["runTime"] = 1250993,
+							["year"] = 2023,
+						}, -- [1]
+					},
+					["totalTime"] = 1250993,
+					["minTime"] = 1250993,
+				},
+				[12] = {
+					["completed"] = 1,
+					["history"] = {
+						{
+							["onTime"] = true,
+							["deaths"] = 3,
+							["day"] = 10,
+							["month"] = 6,
+							["affix"] = 9,
+							["runTime"] = 1296214,
+							["year"] = 2023,
+						}, -- [1]
+					},
+					["totalTime"] = 1296214,
+					["minTime"] = 1296214,
 				},
 				[9] = {
 					["completed"] = 1,
@@ -189,21 +287,21 @@ _detalhes_database = {
 					["totalTime"] = 930146,
 					["minTime"] = 930146,
 				},
-				[12] = {
+				[11] = {
 					["completed"] = 1,
 					["history"] = {
 						{
 							["onTime"] = true,
-							["deaths"] = 3,
+							["deaths"] = 5,
 							["day"] = 10,
 							["month"] = 6,
 							["affix"] = 9,
-							["runTime"] = 1296214,
+							["runTime"] = 1062882,
 							["year"] = 2023,
 						}, -- [1]
 					},
-					["totalTime"] = 1296214,
-					["minTime"] = 1296214,
+					["totalTime"] = 1062882,
+					["minTime"] = 1062882,
 				},
 			},
 			[206] = {
@@ -223,6 +321,22 @@ _detalhes_database = {
 					["totalTime"] = 1189370,
 					["minTime"] = 1189370,
 				},
+				[14] = {
+					["completed"] = 1,
+					["history"] = {
+						{
+							["onTime"] = true,
+							["deaths"] = 5,
+							["day"] = 27,
+							["month"] = 6,
+							["affix"] = 10,
+							["runTime"] = 1479535,
+							["year"] = 2023,
+						}, -- [1]
+					},
+					["totalTime"] = 1479535,
+					["minTime"] = 1479535,
+				},
 			},
 		},
 	},
@@ -240,14 +354,14 @@ _detalhes_database = {
 	["on_death_menu"] = false,
 	["cached_talents"] = {
 	},
-	["last_instance_id"] = 1754,
+	["last_instance_id"] = 2519,
 	["data_harvest_for_charsts"] = {
 		["players"] = {
 			{
-				["playerKey"] = "total",
-				["combatObjectContainer"] = 1,
 				["name"] = "Damage of Each Individual Player",
 				["playerOnly"] = true,
+				["playerKey"] = "total",
+				["combatObjectContainer"] = 1,
 			}, -- [1]
 		},
 		["totals"] = {
@@ -272,90 +386,29 @@ _detalhes_database = {
 	},
 	["active_profile"] = "Thezdin-Hyjal",
 	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "Freehold",
+		["dungeon_name"] = "Neltharus",
 		["started"] = false,
 		["segment_id"] = 5,
-		["ej_id"] = 1001,
-		["started_at"] = 1687663155.7,
-		["run_id"] = 22,
-		["level"] = 13,
-		["dungeon_zone_id"] = 1754,
-		["previous_boss_killed_at"] = 1687664525,
+		["ej_id"] = 1199,
+		["started_at"] = 1688266376.7,
+		["run_id"] = 29,
+		["level"] = 17,
+		["dungeon_zone_id"] = 2519,
+		["previous_boss_killed_at"] = 1688268018,
 	},
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
+	["last_realversion"] = 151,
 	["combat_log"] = {
 		["merge_gemstones_1007"] = false,
 		["inverse_deathlog_overalldata"] = false,
-		["merge_critical_heals"] = false,
-		["track_hunter_frenzy"] = false,
 		["inverse_deathlog_raid"] = false,
+		["track_hunter_frenzy"] = false,
+		["merge_critical_heals"] = false,
 		["inverse_deathlog_mplus"] = false,
 	},
-	["last_day"] = "24",
-	["mythic_plus_log"] = {
-		"24/06/23 20:42:07|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [1]
-		"24/06/23 20:42:07|MythicDungeonFinished() | merge_boss_trash = true", -- [2]
-		"24/06/23 20:42:05|MergeTrashCleanup started.", -- [3]
-		"24/06/23 20:42:05|BossDefeated | key level: | 13 | Lord Harlan Sweete | Freehold", -- [4]
-		"24/06/23 20:36:59|MergeTrashCleanup started.", -- [5]
-		"24/06/23 20:36:59|BossDefeated | key level: | 13 | Ring of Booty | Freehold", -- [6]
-		"24/06/23 20:33:10|MergeTrashCleanup started.", -- [7]
-		"24/06/23 20:33:10|BossDefeated | key level: | 13 | Council o' Captains | Freehold", -- [8]
-		"24/06/23 20:23:00|MergeTrashCleanup started.", -- [9]
-		"24/06/23 20:23:00|BossDefeated | key level: | 13 | Skycap'n Kragg | Freehold", -- [10]
-		"24/06/23 20:19:06|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 13 | zone: Freehold | zoneId: 1754", -- [11]
-		"19/06/23 22:30:42|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [12]
-		"19/06/23 22:30:42|delete_trash_after_merge | concluded", -- [13]
-		"19/06/23 22:30:42|running MergeRemainingTrashAfterAllBossesDone.", -- [14]
-		"19/06/23 22:30:42|MythicDungeonFinished() | merge_boss_trash = true", -- [15]
-		"19/06/23 22:29:05|MergeTrashCleanup started.", -- [16]
-		"19/06/23 22:29:05|BossDefeated | key level: | 13 | Lord Harlan Sweete | Freehold", -- [17]
-		"19/06/23 22:21:38|MergeTrashCleanup started.", -- [18]
-		"19/06/23 22:21:38|BossDefeated | key level: | 13 | Ring of Booty | Freehold", -- [19]
-		"19/06/23 22:13:39|MergeTrashCleanup started.", -- [20]
-		"19/06/23 22:13:39|BossDefeated | key level: | 13 | Council o' Captains | Freehold", -- [21]
-		"19/06/23 22:08:16|MergeTrashCleanup started.", -- [22]
-		"19/06/23 22:08:16|BossDefeated | key level: | 13 | Skycap'n Kragg | Freehold", -- [23]
-		"19/06/23 22:02:59|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 13 | zone: Freehold | zoneId: 1754", -- [24]
-		"18/06/23 11:53:38|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [25]
-		"18/06/23 11:53:38|MythicDungeonFinished() | merge_boss_trash = true", -- [26]
-		"18/06/23 11:53:36|MergeTrashCleanup started.", -- [27]
-		"18/06/23 11:53:36|BossDefeated | key level: | 11 | Primal Tsunami | Halls of Infusion", -- [28]
-		"18/06/23 11:49:57|MergeTrashCleanup started.", -- [29]
-		"18/06/23 11:49:57|BossDefeated | key level: | 11 | Khajin the Unyielding | Halls of Infusion", -- [30]
-		"18/06/23 11:46:31|MergeTrashCleanup started.", -- [31]
-		"18/06/23 11:46:31|BossDefeated | key level: | 11 | Gulping Goliath | Halls of Infusion", -- [32]
-		"18/06/23 11:41:39|MergeTrashCleanup started.", -- [33]
-		"18/06/23 11:41:39|BossDefeated | key level: | 11 | Watcher Irideus | Halls of Infusion", -- [34]
-		"18/06/23 11:36:31|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 11 | zone: Halls of Infusion | zoneId: 2527", -- [35]
-		"10/06/23 20:07:24|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [36]
-		"10/06/23 20:07:24|MythicDungeonFinished() | merge_boss_trash = true", -- [37]
-		"10/06/23 20:07:22|MergeTrashCleanup started.", -- [38]
-		"10/06/23 20:07:22|BossDefeated | key level: | 11 | Dargrul the Underking | Neltharion's Lair", -- [39]
-		"10/06/23 20:02:31|MergeTrashCleanup started.", -- [40]
-		"10/06/23 20:02:31|BossDefeated | key level: | 11 | Naraxas | Neltharion's Lair", -- [41]
-		"10/06/23 19:58:15|MergeTrashCleanup started.", -- [42]
-		"10/06/23 19:58:15|BossDefeated | key level: | 11 | Ularogg Cragshaper | Neltharion's Lair", -- [43]
-		"10/06/23 19:52:14|MergeTrashCleanup started.", -- [44]
-		"10/06/23 19:52:14|BossDefeated | key level: | 11 | Rokmora | Neltharion's Lair", -- [45]
-		"10/06/23 19:47:34|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 11 | zone: Neltharion's Lair | zoneId: 1458", -- [46]
-		"10/06/23 17:24:15|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [47]
-		"10/06/23 17:24:15|MythicDungeonFinished() | merge_boss_trash = true", -- [48]
-		"10/06/23 17:24:12|MergeTrashCleanup started.", -- [49]
-	},
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["last_encounter"] = "Scalecommander Sarkareth",
-	["combat_counter"] = 2497,
 	["local_instances_config"] = {
 		{
 			["modo"] = 2,
@@ -374,13 +427,13 @@ _detalhes_database = {
 			["snap"] = {
 				2, -- [1]
 			},
-			["segment"] = -1,
+			["segment"] = 0,
 			["mode"] = 2,
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -518.7780990600586,
-					["x"] = 1402.160400390625,
+					["y"] = -520.5551528930664,
+					["x"] = 1402.995849609375,
 					["w"] = 240.6691284179688,
 					["h"] = 182.0001068115234,
 				},
@@ -410,13 +463,13 @@ _detalhes_database = {
 				3, -- [1]
 				[3] = 1,
 			},
-			["segment"] = -1,
+			["segment"] = 0,
 			["mode"] = 2,
 			["attribute"] = 2,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -518.7780990600586,
-					["x"] = 1160.603759765625,
+					["y"] = -520.5551528930664,
+					["x"] = 1161.438720703125,
 					["w"] = 242.4441986083984,
 					["h"] = 182.0001068115234,
 				},
@@ -430,16 +483,16 @@ _detalhes_database = {
 		}, -- [2]
 		{
 			["modo"] = 2,
-			["sub_attribute"] = 3,
+			["sub_attribute"] = 6,
 			["horizontalSnap"] = true,
 			["verticalSnap"] = false,
 			["isLocked"] = true,
 			["is_open"] = true,
 			["sub_atributo_last"] = {
-				1, -- [1]
+				6, -- [1]
 				1, -- [2]
 				1, -- [3]
-				3, -- [4]
+				6, -- [4]
 				1, -- [5]
 			},
 			["snap"] = {
@@ -450,8 +503,8 @@ _detalhes_database = {
 			["attribute"] = 4,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -518.7780990600586,
-					["x"] = 922.159423828125,
+					["y"] = -520.5551528930664,
+					["x"] = 922.99462890625,
 					["w"] = 234.4445037841797,
 					["h"] = 182.0001068115234,
 				},
@@ -464,18 +517,75 @@ _detalhes_database = {
 			},
 		}, -- [3]
 	},
+	["mythic_plus_log"] = {
+		"01/07/23 20:20:21|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [1]
+		"01/07/23 20:20:21|MythicDungeonFinished() | merge_boss_trash = true", -- [2]
+		"01/07/23 20:20:18|MergeTrashCleanup started.", -- [3]
+		"01/07/23 20:20:18|BossDefeated | key level: | 17 | Warlord Sargha | Neltharus", -- [4]
+		"01/07/23 20:14:08|MergeTrashCleanup started.", -- [5]
+		"01/07/23 20:14:08|BossDefeated | key level: | 17 | Forgemaster Gorek | Neltharus", -- [6]
+		"01/07/23 20:03:48|MergeTrashCleanup started.", -- [7]
+		"01/07/23 20:03:48|BossDefeated | key level: | 17 | Chargath, Bane of Scales | Neltharus", -- [8]
+		"01/07/23 19:57:47|MergeTrashCleanup started.", -- [9]
+		"01/07/23 19:57:47|BossDefeated | key level: | 17 | Magmatusk | Neltharus", -- [10]
+		"01/07/23 19:52:46|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 17 | zone: Neltharus | zoneId: 2519", -- [11]
+		"30/06/23 22:37:49|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [12]
+		"30/06/23 22:37:49|MythicDungeonFinished() | merge_boss_trash = true", -- [13]
+		"30/06/23 22:37:49|MythicDungeonFinished() | Details was in combat.", -- [14]
+		"30/06/23 22:37:47|MergeTrashCleanup started.", -- [15]
+		"30/06/23 22:37:47|BossDefeated | key level: | 17 | Decatriarch Wratheye | Brackenhide Hollow", -- [16]
+		"30/06/23 22:30:00|MergeTrashCleanup started.", -- [17]
+		"30/06/23 22:30:00|BossDefeated | key level: | 17 | Gutshot | Brackenhide Hollow", -- [18]
+		"30/06/23 22:26:04|MergeTrashCleanup started.", -- [19]
+		"30/06/23 22:26:04|BossDefeated | key level: | 17 | Treemouth | Brackenhide Hollow", -- [20]
+		"30/06/23 22:17:06|MergeTrashCleanup started.", -- [21]
+		"30/06/23 22:17:06|BossDefeated | key level: | 17 | Hackclaw's War-Band | Brackenhide Hollow", -- [22]
+		"30/06/23 22:08:07|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 17 | zone: Brackenhide Hollow | zoneId: 2520", -- [23]
+		"29/06/23 21:39:52|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [24]
+		"29/06/23 21:39:52|MythicDungeonFinished() | merge_boss_trash = true", -- [25]
+		"29/06/23 21:39:50|MergeTrashCleanup started.", -- [26]
+		"29/06/23 21:39:50|BossDefeated | key level: | 15 | Unbound Abomination | The Underrot", -- [27]
+		"29/06/23 21:33:29|MergeTrashCleanup started.", -- [28]
+		"29/06/23 21:33:29|BossDefeated | key level: | 15 | Sporecaller Zancha | The Underrot", -- [29]
+		"29/06/23 21:29:29|MergeTrashCleanup started.", -- [30]
+		"29/06/23 21:29:29|BossDefeated | key level: | 15 | Cragmaw the Infested | The Underrot", -- [31]
+		"29/06/23 21:22:41|MergeTrashCleanup started.", -- [32]
+		"29/06/23 21:22:41|BossDefeated | key level: | 15 | Elder Leaxa | The Underrot", -- [33]
+		"29/06/23 21:18:55|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 15 | zone: The Underrot | zoneId: 1841", -- [34]
+		"28/06/23 22:10:52|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [35]
+		"28/06/23 22:10:52|MythicDungeonFinished() | merge_boss_trash = true", -- [36]
+		"28/06/23 22:10:50|MergeTrashCleanup started.", -- [37]
+		"28/06/23 22:10:50|BossDefeated | key level: | 16 | Chrono-Lord Deios | Uldaman: Legacy of Tyr", -- [38]
+		"28/06/23 21:58:55|MergeTrashCleanup started.", -- [39]
+		"28/06/23 21:58:55|BossDefeated | key level: | 16 | Emberon | Uldaman: Legacy of Tyr", -- [40]
+		"28/06/23 21:50:13|MergeTrashCleanup started.", -- [41]
+		"28/06/23 21:50:13|BossDefeated | key level: | 16 | Sentinel Talondras | Uldaman: Legacy of Tyr", -- [42]
+		"28/06/23 21:46:11|MergeTrashCleanup started.", -- [43]
+		"28/06/23 21:46:11|BossDefeated | key level: | 16 | Bromach | Uldaman: Legacy of Tyr", -- [44]
+		"28/06/23 21:40:45|MergeTrashCleanup started.", -- [45]
+		"28/06/23 21:40:45|BossDefeated | key level: | 16 | The Lost Dwarves | Uldaman: Legacy of Tyr", -- [46]
+		"28/06/23 21:35:35|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 16 | zone: Uldaman: Legacy of Tyr | zoneId: 2451", -- [47]
+		"27/06/23 23:55:18|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [48]
+		"27/06/23 23:55:18|MythicDungeonFinished() | merge_boss_trash = true", -- [49]
+	},
+	["cached_roles"] = {
+	},
+	["force_font_outline"] = "",
 	["nick_tag_cache"] = {
 		["nextreset"] = 1688798356,
 		["last_version"] = 15,
 	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_encounter"] = "Xavius",
 	["character_data"] = {
-		["logons"] = 144,
+		["logons"] = 167,
 	},
 	["ignore_nicktag"] = false,
 	["combat_id"] = 0,
 	["savedStyles"] = {
-	},
-	["data_harvested_for_charts"] = {
 	},
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
@@ -490,13 +600,13 @@ _detalhes_database = {
 			},
 			["usefocus"] = false,
 			["updatespeed"] = 1,
-			["useclasscolors"] = false,
+			["disable_gouge"] = false,
 			["showamount"] = false,
 			["useplayercolor"] = false,
 			["absolute_mode"] = false,
 			["playSound"] = false,
 			["playSoundFile"] = "Details Threat Warning Volume 3",
-			["disable_gouge"] = false,
+			["useclasscolors"] = false,
 		},
 		["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
 			["enabled"] = true,
@@ -516,15 +626,15 @@ _detalhes_database = {
 			["tank_block_size"] = 150,
 			["bar_height"] = 24,
 			["tank_block_texture"] = "Details Serenity",
-			["show_inc_bars"] = true,
-			["tank_block_powerbar_size_height"] = 10,
-			["tank_block_height"] = 40,
 			["tank_block_color"] = {
 				0.074509, -- [1]
 				0.035294, -- [2]
 				0.035294, -- [3]
 				0.832845, -- [4]
 			},
+			["tank_block_height"] = 40,
+			["tank_block_powerbar_size_height"] = 10,
+			["show_inc_bars"] = true,
 		},
 		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 			["enabled"] = true,
@@ -534,11 +644,11 @@ _detalhes_database = {
 			["last_section_selected"] = "main",
 			["author"] = "Terciob",
 			["window_scale"] = 1,
-			["encounter_timers_dbm"] = {
-			},
+			["hide_on_combat"] = false,
 			["show_icon"] = 5,
 			["opened"] = 0,
-			["hide_on_combat"] = false,
+			["encounter_timers_dbm"] = {
+			},
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -561,7 +671,7 @@ _detalhes_database = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["arrow_anchor_y"] = 0,
+			["scale"] = 1,
 			["main_frame_size"] = {
 				300.0000610351563, -- [1]
 				500.0000610351563, -- [2]
@@ -571,32 +681,22 @@ _detalhes_database = {
 				["radius"] = 160,
 				["hide"] = false,
 			},
-			["main_frame_locked"] = false,
+			["row_height"] = 20,
 			["arrow_anchor_x"] = 0,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["row_texture"] = "Details Serenity",
 			["square_grow_direction"] = "right",
-			["per_second"] = {
-				["enabled"] = true,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = 0,
-				["x"] = -0.0101318359375,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
-				["size"] = 32,
-			},
-			["author"] = "Terciob",
+			["point"] = "CENTER",
+			["main_frame_strata"] = "LOW",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["font_size"] = 10,
+			["use_spark"] = true,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -604,23 +704,35 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["author"] = "Terciob",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 10,
 			["y"] = -1.52587890625e-05,
-			["use_spark"] = true,
 			["x"] = -0.002197265625,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["point"] = "CENTER",
-			["font_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["per_second"] = {
+				["enabled"] = true,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 0,
+				["x"] = -0.0101318359375,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
 			},
-			["row_height"] = 20,
-			["scale"] = 1,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
 		},
+	},
+	["data_harvested_for_charts"] = {
 	},
 	["announce_deaths"] = {
 		["enabled"] = false,
@@ -658,31 +770,10 @@ _detalhes_database = {
 		},
 		["raid_roster_indexed"] = {
 		},
-		["tempo_start"] = 1687664689,
+		["tempo_start"] = 1688268214,
 		["last_events_tables"] = {
 		},
 		["alternate_power"] = {
-		},
-		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[6] = 0,
-				[3] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
-			}, -- [4]
 		},
 		["trinketProcs"] = {
 		},
@@ -693,25 +784,26 @@ _detalhes_database = {
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[6] = 0,
 				[3] = 0,
+				[6] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
-				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["dispell"] = 0,
 				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
 			}, -- [4]
-			["voidzone_damage"] = 0,
 			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
 		},
 		["player_last_events"] = {
 		},
-		["data_inicio"] = 0,
+		["spells_cast_timeline"] = {
+		},
 		["frags_need_refresh"] = false,
 		["aura_timeline"] = {
 		},
@@ -722,43 +814,61 @@ _detalhes_database = {
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
-			["damage"] = {
-			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
 			["damage_section"] = {
 			},
+			["damage"] = {
+			},
 		},
 		["amountCasts"] = {
 		},
-		["combat_counter"] = 2494,
-		["overall_refreshed"] = true,
-		["hasSaved"] = true,
-		["spells_cast_timeline"] = {
+		["cleu_timeline"] = {
 		},
-		["data_fim"] = 0,
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
 		["frags"] = {
 		},
+		["data_fim"] = 0,
 		["cleu_events"] = {
 			["n"] = 1,
 		},
+		["data_inicio"] = 0,
 		["start_time"] = 0,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["cleu_timeline"] = {
-		},
+		["combat_counter"] = 3080,
 	},
-	["last_instance_time"] = 1687663060,
-	["force_font_outline"] = "",
-	["last_realversion"] = 151,
+	["combat_counter"] = 3081,
+	["last_day"] = "01",
+	["last_instance_time"] = 1688266280,
 	["announce_cooldowns"] = {
+		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
-		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -766,11 +876,11 @@ _detalhes_database = {
 		["last_difficulty"] = 15,
 		["last_raid"] = "",
 	},
-	["cached_roles"] = {
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-3661-08D9B0F8"] = 253,
 		["Player-3661-091C86DD"] = 581,
-		["Player-3661-090ED1C0"] = 65,
 	},
 }
