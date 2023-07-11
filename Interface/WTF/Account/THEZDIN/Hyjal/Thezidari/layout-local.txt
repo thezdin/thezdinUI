@@ -11,8 +11,8 @@ FrameLevel: 1
 Anchor: TOP
 X: 426
 Y: -263
-W: 128
-H: 64
+W: 36
+H: 20
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -20,6 +20,13 @@ X: 0
 Y: 0
 W: 365
 H: 239
+Frame: GroupLootHistoryFrame
+FrameLevel: 1
+Anchor: CENTER
+X: -40
+Y: 160
+W: 261
+H: 590
 Frame: FloatingBattlePetTooltip
 FrameLevel: 1
 Anchor: BOTTOM
@@ -36,8 +43,8 @@ W: 962
 H: 762
 Frame: scanner_button
 FrameLevel: 200
-Anchor: LEFT
-X: 238
-Y: -134
+Anchor: BOTTOM
+X: -520
+Y: 188
 W: 200
 H: 50

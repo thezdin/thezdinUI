@@ -2,30 +2,30 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p bad :(", -- [1]
-		"/p STAND ON BONES", -- [2]
-		"/p ok let's explain this one :/", -- [3]
-		"/p make me lead plz", -- [4]
-		"/p If there is a blood spot on the ground, you drop what you're doing and soak it. Literally everyone", -- [5]
-		"/p dps stand near bones so he charges the bones, not open land", -- [6]
-		"/p stand on bones", -- [7]
-		"/p tantrum, clear bloods and get back to bones asap", -- [8]
-		"/p no matter what, always kill bloods, always", -- [9]
-		"/p lust", -- [10]
-		"/p yolo zerg boss", -- [11]
-		"/p pray", -- [12]
-		"/p go team", -- [13]
-		"/p anyone *NOT* know how Upheaval works on next boss?", -- [14]
-		"/p on last boss, PLEASE stack on me, we'll stack and move every breath", -- [15]
-		"/p stack, breath, re-stack, clear, rinse repeat :)", -- [16]
-		"/p oh me? sorry yes, that's my BIS", -- [17]
-		"/p thx all", -- [18]
-		"/g |cff71d5ff|Hspell:31850:0|h[Ardent Defender]|h|r", -- [19]
-		"/reloadui", -- [20]
+		"/p thx all", -- [1]
+		"/g |cff71d5ff|Hspell:31850:0|h[Ardent Defender]|h|r", -- [2]
+		"/reloadui", -- [3]
+		"/invite Seyka", -- [4]
+		"/s ugh", -- [5]
+		"/s why", -- [6]
+		"/s DO NOT BE IN FRONT", -- [7]
+		"/s DO NOT BE IN FRONT OR YOU WILL DIE", -- [8]
+		"/i wipe it", -- [9]
+		"/i there were like 10 bombs", -- [10]
+		"/cw Mauler-Medivh tank him on green in p3, then we always back to red to keep it easy for the noobs", -- [11]
+		"/cw Mauler-Medivh that'll help with the HIDE phase too because we've got at least 3 wipes from that next lol", -- [12]
+		"/i 10 small dots = max haste buff", -- [13]
+		"/i 3 big circles = port up", -- [14]
+		"/i you have 20s to port up or you die instantly", -- [15]
+		"/i so get as many minis in <20s as possible", -- [16]
+		"/i 1) Kill the adds asap, they were up forever", -- [17]
+		"/i 2) Do not stand in front of the boss EVER; but in P3 if you do you'll also wipe us", -- [18]
+		"/i 3) \"HIDE\" means stand in the transparent lines behind stones; if you don't you'll get knocked off and die instantly", -- [19]
+		"/s kill adds", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted Fire Elemental's |cff71d5ff|Hspell:369813:0|h[Vengeful Flames]|h|r!", -- [1]
+			"why", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -35,7 +35,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			562, -- [11]
+			129, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -43,11 +43,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687643427,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1688943728,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [1]
 		{
-			"Interrupted Fire Elemental's |cff71d5ff|Hspell:396078:0|h[Explosive Blast]|h|r!", -- [1]
+			"Interrupted Null Glimmer's |cff71d5ff|Hspell:404754:0|h[Blasting Scream]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -57,7 +57,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			563, -- [11]
+			135, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -65,77 +65,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687643491,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1688943740,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [2]
 		{
-			"|cffa335ee|Hkeystone:180653:438:19:9:135:7:0|h[Keystone: The Vortex Pinnacle (19)]|h|r", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Bomb on Malefica", -- [1]
+			"Malefica-Proudmoore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Malefica-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			469, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			137, -- [11]
+			"Player-5-07574C05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1687665018,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8788eeMalefica-Proudmoore|r",
+			[51] = 1688943746,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"!keys", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"3", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			542, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			140, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687665182,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688943804,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"Astral Keys: |cffa335ee|Hkeystone:180653:438:19:9:135:7:0|h[Keystone: The Vortex Pinnacle (19)]|h|r", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Bomb on Malefica", -- [1]
+			"Malefica-Proudmoore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Malefica-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			543, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			142, -- [11]
+			"Player-5-07574C05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1687665182,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8788eeMalefica-Proudmoore|r",
+			[51] = 1688943813,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"Astral Keys: |cffa335ee|Hkeystone:180653:251:2:9:0:0:0|h[Keystone: The Underrot (2)]|h|r", -- [1]
+			"DO NOT BE IN FRONT", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -145,7 +145,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			544, -- [11]
+			150, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -153,77 +153,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687665182,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1688943879,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"hi thanks for the invite", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			558, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1687665821,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
-		{
-			"hey guys whats goin on", -- [1]
-			"Soam-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Soam-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			559, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687665824,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
-		{
-			"enjoying some sat night video games", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			561, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1687665793,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
-		{
-			"livin' the grind", -- [1]
+			"DO NOT BE IN FRONT", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -233,7 +167,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			562, -- [11]
+			151, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -241,231 +175,297 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687665798,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
+			[51] = 1688943885,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [7]
 		{
-			"Blood Harvest", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"dont´fa ce boss", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			571, -- [11]
-			"Player-84-09810791", -- [12]
+			152, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687665917,
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688943959,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [8]
+		{
+			"DO NOT BE IN FRONT OR YOU WILL DIE", -- [1]
+			"Thezadin-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezadin-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			154, -- [11]
+			"Player-3661-091D3EB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1688943901,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [9]
+		{
+			"Malefica cast |cff71d5ff|Hspell:20707:0|h[Soulstone]|h|r -> Thezadin", -- [1]
+			"Frozat-Mannoroth", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Frozat-Mannoroth", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			156, -- [11]
+			"Player-77-0EE1A632", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fFrozat-Mannoroth|r",
+			[51] = 1688943920,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [10]
+		{
+			"taunt", -- [1]
+			"Mauler-Medivh", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mauler-Medivh", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			162, -- [11]
+			"Player-52-0D71645D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944019,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"Blood Harvest on Hunterkrea", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"3", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			572, -- [11]
-			"Player-84-09810791", -- [12]
+			164, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687665917,
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688943971,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"2", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			574, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			165, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666007,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688943972,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265091:0|h[Gift of G'huun]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"1", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			576, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			166, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666016,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688943973,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"|cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r interrupted!", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"dont face boss", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			577, -- [11]
-			"Player-84-09810791", -- [12]
+			169, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687666017,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688943975,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [15]
 		{
-			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"ouch!", -- [1]
+			"Frozat-Mannoroth", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Frozat-Mannoroth", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			579, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			172, -- [11]
+			"Player-77-0EE1A632", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687665982,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff33937fFrozat-Mannoroth|r",
+			[51] = 1688943982,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [16]
 		{
-			"Blood Harvest on Hunterkrea", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"that is wh", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			581, -- [11]
-			"Player-84-09810791", -- [12]
+			173, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687665984,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688943991,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [17]
 		{
-			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265089:0|h[Dark Reconstitution]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"thats why you dont stand in front of the boss", -- [1]
+			"Gutting-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Gutting-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			583, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			174, -- [11]
+			"Player-3675-084EEDA9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666060,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dGutting-MoonGuard|r",
+			[51] = 1688943997,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [18]
 		{
-			"Blood Harvest on Soam", -- [1]
-			"Soam-Stormrage", -- [2]
+			"wipe it", -- [1]
+			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soam-Stormrage", -- [5]
+			"Thezadin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			584, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
+			175, -- [11]
+			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687666070,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1688944000,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [19]
 		{
-			"Dark Omen on Thezadin", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"itd also help if the tanks werent like spinning him around too", -- [1]
+			"Gutting-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Gutting-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			587, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			176, -- [11]
+			"Player-3675-084EEDA9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666020,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dGutting-MoonGuard|r",
+			[51] = 1688944005,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [20]
 		{
-			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r!", -- [1]
+			"there were like 10 bombs", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -475,7 +475,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			588, -- [11]
+			177, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -483,231 +483,231 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666022,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688944005,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [21]
 		{
-			"Dark Omen on Hunterkrea", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"didn't think I was in front", -- [1]
+			"Frozat-Mannoroth", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Frozat-Mannoroth", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			589, -- [11]
-			"Player-84-09810791", -- [12]
+			178, -- [11]
+			"Player-77-0EE1A632", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687666029,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fFrozat-Mannoroth|r",
+			[51] = 1688944067,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [22]
 		{
-			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"stay away of frontal", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			591, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			179, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666037,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944067,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [23]
 		{
-			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"unless you are tank", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			597, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			183, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666084,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944073,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [24]
 		{
-			"Interrupted Blood Effigy's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"loss focus for one secound and you're dead", -- [1]
+			"Frozat-Mannoroth", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Frozat-Mannoroth", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			598, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			193, -- [11]
+			"Player-77-0EE1A632", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666089,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff33937fFrozat-Mannoroth|r",
+			[51] = 1688944055,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [25]
 		{
-			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"you have to be at the back of boss on phase 3", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			601, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			194, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666108,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944058,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [26]
 		{
-			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"tank him on green in p3, then we always back to red to keep it easy for the noobs", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			603, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			7, -- [10]
+			196, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666184,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944082,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [27]
 		{
-			"|cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r interrupted!", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"ok", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			609, -- [11]
-			"Player-84-09810791", -- [12]
+			199, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687666140,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944090,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [28]
 		{
-			"Interrupted Blood Effigy's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"tx for the feast", -- [1]
+			"Curioso-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Curioso-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			611, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			200, -- [11]
+			"Player-60-06B75213", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666145,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8788eeCurioso-Stormrage|r",
+			[51] = 1688944113,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [29]
 		{
-			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"that'll help with the HIDE phase too because we've got at least 3 wipes from that next lol", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			614, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			7, -- [10]
+			202, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666165,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944116,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [30]
 		{
-			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"in that realm place do i step on the spiraling circles or just all the small cylindar things?", -- [1]
+			"Apocoblood-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Apocoblood-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			619, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			203, -- [11]
+			"Player-3676-0E279D98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666312,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc41e3aApocoblood-Area52|r",
+			[51] = 1688944123,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [31]
 		{
-			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
+			"10 small dots = max haste buff", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -717,7 +717,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			624, -- [11]
+			205, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -725,33 +725,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666356,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688944196,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [32]
 		{
-			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"get 10 small one sthen go thrugh all 3 big ones", -- [1]
+			"Squooze-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Squooze-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			628, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			206, -- [11]
+			"Player-60-0EFE0354", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666350,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00ff98Squooze-Stormrage|r",
+			[51] = 1688944197,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [33]
 		{
-			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
+			"3 big circles = port up", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -761,7 +761,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			630, -- [11]
+			207, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -769,55 +769,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666429,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688944140,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [34]
 		{
-			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"gotcha", -- [1]
+			"Apocoblood-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Apocoblood-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			632, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			208, -- [11]
+			"Player-3676-0E279D98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666396,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc41e3aApocoblood-Area52|r",
+			[51] = 1688944142,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [35]
 		{
-			"|cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r interrupted!", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"you have 20s to port up or you die instantly", -- [1]
+			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Thezadin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			633, -- [11]
-			"Player-84-09810791", -- [12]
+			209, -- [11]
+			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687666402,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1688944144,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [36]
 		{
-			"aim charge to the bones plz", -- [1]
+			"so get as many minis in <20s as possible", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -827,7 +827,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			634, -- [11]
+			210, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -835,77 +835,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666499,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688944153,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [37]
 		{
-			"no preist", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"go around collecting buff, then step on the circles", -- [1]
+			"Malefica-Proudmoore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Malefica-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			636, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			211, -- [11]
+			"Player-5-07574C05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666454,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8788eeMalefica-Proudmoore|r",
+			[51] = 1688944157,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [38]
 		{
-			"bad :(", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"ty", -- [1]
+			"Apocoblood-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Apocoblood-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			637, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			213, -- [11]
+			"Player-3676-0E279D98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666456,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc41e3aApocoblood-Area52|r",
+			[51] = 1688944161,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [39]
 		{
-			"STAND ON BONES", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"lol", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			638, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			217, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666469,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944175,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [40]
 		{
-			"ok let's explain this one :/", -- [1]
+			"1) Kill the adds asap, they were up forever", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -915,7 +915,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			647, -- [11]
+			218, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -923,55 +923,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666599,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688944175,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [41]
 		{
-			"make me lead plz", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"dont grab as many minis, grab 10 then leave", -- [1]
+			"Gutting-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Gutting-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			648, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			220, -- [11]
+			"Player-3675-084EEDA9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666612,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dGutting-MoonGuard|r",
+			[51] = 1688944247,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [42]
 		{
-			"hey on boss fights back up is great on the afflicted", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"caps at 10", -- [1]
+			"Gutting-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Gutting-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			649, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			221, -- [11]
+			"Player-3675-084EEDA9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1687666613,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dGutting-MoonGuard|r",
+			[51] = 1688944254,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [43]
 		{
-			"If there is a blood spot on the ground, you drop what you're doing and soak it. Literally everyone", -- [1]
+			"2) Do not stand in front of the boss EVER; but in P3 if you do you'll also wipe us", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -981,7 +981,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			650, -- [11]
+			222, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -989,77 +989,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666665,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688944254,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [44]
 		{
-			"yes sir", -- [1]
-			"Soam-Stormrage", -- [2]
+			"Malefica cast |cff71d5ff|Hspell:20707:0|h[Soulstone]|h|r -> Burninatress", -- [1]
+			"Frozat-Mannoroth", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soam-Stormrage", -- [5]
+			"Frozat-Mannoroth", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			651, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
+			223, -- [11]
+			"Player-77-0EE1A632", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687666671,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fFrozat-Mannoroth|r",
+			[51] = 1688944201,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [45]
 		{
-			"dps stand near bones so he charges the bones, not open land", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"stun cc kick adds.. kill fast..", -- [1]
+			"Ealle-Aman'Thul", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Ealle-Aman'Thul", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			652, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			224, -- [11]
+			"Player-3726-0BB758BF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666676,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffff7c0aEalle-Aman'Thul|r",
+			[51] = 1688944205,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [46]
 		{
-			"stand on bones", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"Érébos cast |cff71d5ff|Hspell:20707:0|h[Soulstone]|h|r -> Aniliese", -- [1]
+			"Frozat-Mannoroth", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Frozat-Mannoroth", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			653, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			225, -- [11]
+			"Player-77-0EE1A632", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666679,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff33937fFrozat-Mannoroth|r",
+			[51] = 1688944209,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [47]
 		{
-			"tantrum, clear bloods and get back to bones asap", -- [1]
+			"3) \"HIDE\" means stand in the transparent lines behind stones; if you don't you'll get knocked off and die instantly", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1069,7 +1069,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			654, -- [11]
+			226, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1077,693 +1077,693 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666625,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688944210,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [48]
 		{
-			"no matter what, always kill bloods, always", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"dont be in front of boss", -- [1]
+			"Ealle-Aman'Thul", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Ealle-Aman'Thul", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			655, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			230, -- [11]
+			"Player-3726-0BB758BF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666632,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffff7c0aEalle-Aman'Thul|r",
+			[51] = 1688944227,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [49]
 		{
-			"about there for the charge :D", -- [1]
-			"Soam-Stormrage", -- [2]
+			"{rt2}Disintegrate 2", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soam-Stormrage", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			656, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
+			234, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687666633,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944312,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [50]
 		{
-			"lust", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"{rt1}Disintegrate 1", -- [1]
+			"Leochampjr-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Leochampjr-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			657, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			236, -- [11]
+			"Player-60-07B817D5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666780,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3fc7ebLeochampjr-Stormrage|r",
+			[51] = 1688944312,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"yolo zerg boss", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"{rt2}3", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			658, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			237, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666851,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944315,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"pray", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"{rt1}3", -- [1]
+			"Leochampjr-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Leochampjr-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			659, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			238, -- [11]
+			"Player-60-07B817D5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666855,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3fc7ebLeochampjr-Stormrage|r",
+			[51] = 1688944315,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"go team", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"{rt2}2", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			660, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			239, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666809,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944316,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:266209:0|h[Wicked Frenzy]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"{rt1}2", -- [1]
+			"Leochampjr-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Leochampjr-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			662, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			240, -- [11]
+			"Player-60-07B817D5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666823,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3fc7ebLeochampjr-Stormrage|r",
+			[51] = 1688944316,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"{rt2}1", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			664, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			241, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666915,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944317,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"anyone *NOT* know how Upheaval works on next boss?", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"{rt1}1", -- [1]
+			"Leochampjr-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Leochampjr-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			665, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			242, -- [11]
+			"Player-60-07B817D5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666862,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3fc7ebLeochampjr-Stormrage|r",
+			[51] = 1688944317,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"{rt1}Disintegrate 1", -- [1]
+			"Curioso-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Curioso-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			666, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			245, -- [11]
+			"Player-60-06B75213", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687666868,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8788eeCurioso-Stormrage|r",
+			[51] = 1688944277,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [58]
 		{
-			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"{rt1}3", -- [1]
+			"Curioso-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Curioso-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			672, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			247, -- [11]
+			"Player-60-06B75213", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1687666937,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8788eeCurioso-Stormrage|r",
+			[51] = 1688944280,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"|cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r interrupted!", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"{rt1}2", -- [1]
+			"Curioso-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Curioso-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			673, -- [11]
-			"Player-84-09810791", -- [12]
+			248, -- [11]
+			"Player-60-06B75213", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687666938,
+			[52] = "|cff8788eeCurioso-Stormrage|r",
+			[51] = 1688944281,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"Upheaval on Soam", -- [1]
-			"Soam-Stormrage", -- [2]
+			"{rt1}Disintegrate 1", -- [1]
+			"Gutting-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soam-Stormrage", -- [5]
+			"Gutting-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			678, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
+			251, -- [11]
+			"Player-3675-084EEDA9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687666997,
+			[52] = "|cffc69b6dGutting-MoonGuard|r",
+			[51] = 1688944324,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"Upheaval on Hunterkrea", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"{rt2}Disintegrate 2", -- [1]
+			"Leochampjr-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Leochampjr-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			679, -- [11]
-			"Player-84-09810791", -- [12]
+			254, -- [11]
+			"Player-60-07B817D5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687666997,
+			[52] = "|cff3fc7ebLeochampjr-Stormrage|r",
+			[51] = 1688944324,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [62]
 		{
-			"3", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"{rt1}3", -- [1]
+			"Gutting-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Gutting-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			681, -- [11]
-			"Player-84-09810791", -- [12]
+			255, -- [11]
+			"Player-3675-084EEDA9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687667000,
+			[52] = "|cffc69b6dGutting-MoonGuard|r",
+			[51] = 1688944327,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [63]
 		{
-			"3", -- [1]
-			"Soam-Stormrage", -- [2]
+			"{rt2}3", -- [1]
+			"Leochampjr-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soam-Stormrage", -- [5]
+			"Leochampjr-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			682, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
+			256, -- [11]
+			"Player-60-07B817D5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687667000,
+			[52] = "|cff3fc7ebLeochampjr-Stormrage|r",
+			[51] = 1688944327,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [64]
 		{
-			"2", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"{rt1}2", -- [1]
+			"Gutting-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Gutting-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			684, -- [11]
-			"Player-84-09810791", -- [12]
+			257, -- [11]
+			"Player-3675-084EEDA9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687667001,
+			[52] = "|cffc69b6dGutting-MoonGuard|r",
+			[51] = 1688944328,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [65]
 		{
-			"2", -- [1]
-			"Soam-Stormrage", -- [2]
+			"{rt2}2", -- [1]
+			"Leochampjr-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soam-Stormrage", -- [5]
+			"Leochampjr-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			685, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
+			258, -- [11]
+			"Player-60-07B817D5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687667001,
+			[52] = "|cff3fc7ebLeochampjr-Stormrage|r",
+			[51] = 1688944328,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
-			"1", -- [1]
-			"Soam-Stormrage", -- [2]
+			"{rt1}1", -- [1]
+			"Gutting-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soam-Stormrage", -- [5]
+			"Gutting-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			687, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
+			259, -- [11]
+			"Player-3675-084EEDA9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687667002,
+			[52] = "|cffc69b6dGutting-MoonGuard|r",
+			[51] = 1688944329,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"Upheaval on Hunterkrea", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"{rt2}1", -- [1]
+			"Leochampjr-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Leochampjr-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			691, -- [11]
-			"Player-84-09810791", -- [12]
+			260, -- [11]
+			"Player-60-07B817D5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687667042,
+			[52] = "|cff3fc7ebLeochampjr-Stormrage|r",
+			[51] = 1688944329,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"3", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r used on Raszen!", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			693, -- [11]
-			"Player-84-09810791", -- [12]
+			262, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687667045,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944339,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [69]
 		{
-			"2", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"Details! Apocoblood's Death: |cff71d5ff|Hspell:401819:0|h[Glittering Surge]|h|r: 10.0K ", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			695, -- [11]
-			"Player-84-09810791", -- [12]
+			263, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687667046,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944343,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [70]
 		{
-			"1", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"Details! Enaara's Death: |cff71d5ff|Hspell:401819:0|h[Glittering Surge]|h|r: 15.5K ", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			697, -- [11]
-			"Player-84-09810791", -- [12]
+			264, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687667047,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944343,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [71]
 		{
-			"3", -- [1]
-			"Soam-Stormrage", -- [2]
+			"Details! Speebo's Death: |cff71d5ff|Hspell:403202:0|h[Dazzled]|h|r: 533 ", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soam-Stormrage", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			700, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
+			266, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687667065,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944345,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [72]
 		{
-			"2", -- [1]
-			"Soam-Stormrage", -- [2]
+			"damn!", -- [1]
+			"Curioso-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soam-Stormrage", -- [5]
+			"Curioso-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			701, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
+			267, -- [11]
+			"Player-60-06B75213", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687667066,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8788eeCurioso-Stormrage|r",
+			[51] = 1688944351,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [73]
 		{
-			"1", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"lol ", -- [1]
+			"Aniliese-Whisperwind", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Aniliese-Whisperwind", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			707, -- [11]
-			"Player-84-09810791", -- [12]
+			268, -- [11]
+			"Player-55-0CBAC46C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687667157,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffAniliese-Whisperwind|r",
+			[51] = 1688944352,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [74]
 		{
-			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"exc use me", -- [1]
+			"Squooze-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Squooze-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			717, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			270, -- [11]
+			"Player-60-0EFE0354", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667176,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00ff98Squooze-Stormrage|r",
+			[51] = 1688944355,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [75]
 		{
-			"|cff71d5ff|Hspell:413044:0|h[Dark Echoes]|h|r interrupted!", -- [1]
-			"Hunterkrea-Uldum", -- [2]
+			"that was an incredibly bad timewarp", -- [1]
+			"Gutting-MoonGuard", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hunterkrea-Uldum", -- [5]
+			"Gutting-MoonGuard", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			718, -- [11]
-			"Player-84-09810791", -- [12]
+			271, -- [11]
+			"Player-3675-084EEDA9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hunterkrea-Uldum|r",
-			[51] = 1687667182,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dGutting-MoonGuard|r",
+			[51] = 1688944357,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [76]
 		{
-			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"Bomb on Malefica", -- [1]
+			"Malefica-Proudmoore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Malefica-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			719, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			280, -- [11]
+			"Player-5-07574C05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667262,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8788eeMalefica-Proudmoore|r",
+			[51] = 1688944393,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"3", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			722, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			288, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667267,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944423,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"|cff71d5ff|Hspell:404754:0|h[Blasting Scream]|h|r interrupted!", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			724, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			289, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1687667277,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944494,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
+			"kill adds", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1773,7 +1773,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			729, -- [11]
+			290, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1781,11 +1781,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667235,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688944440,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [80]
 		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
+			"Interrupted Null Glimmer's |cff71d5ff|Hspell:404754:0|h[Blasting Scream]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1795,7 +1795,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			730, -- [11]
+			291, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1803,33 +1803,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667239,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688944444,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [81]
 		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Interrupted Null Glimmer's |cff71d5ff|Hspell:404754:0|h[Blasting Scream]|h|r!", -- [1]
+			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezadin-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			733, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			292, -- [11]
+			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1687667314,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff48cbaThezadin|r",
+			[51] = 1688944444,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [82]
 		{
-			"on last boss, PLEASE stack on me, we'll stack and move every breath", -- [1]
+			"Interrupted Null Glimmer's |cff71d5ff|Hspell:404754:0|h[Blasting Scream]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1839,7 +1839,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			735, -- [11]
+			293, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1847,275 +1847,319 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667378,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688944444,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [83]
 		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"Details! Mauler's Death: ", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			736, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			298, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667382,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944504,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [84]
 		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"Malefica cast |cff71d5ff|Hspell:20707:0|h[Soulstone]|h|r -> Mauler", -- [1]
+			"Frozat-Mannoroth", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Frozat-Mannoroth", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			740, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			303, -- [11]
+			"Player-77-0EE1A632", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667351,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff33937fFrozat-Mannoroth|r",
+			[51] = 1688944512,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [85]
 		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"brezz pls", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			741, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			304, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667363,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944513,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [86]
 		{
-			"stack, breath, re-stack, clear, rinse repeat :)", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"lol", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			744, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			307, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667411,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944533,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [87]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12501:Player-3661-091D3EB8:1:6:24:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Underrot]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"dont be in front of boss", -- [1]
+			"Ealle-Aman'Thul", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Ealle-Aman'Thul", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			778, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			308, -- [11]
+			"Player-3726-0BB758BF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667599,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffff7c0aEalle-Aman'Thul|r",
+			[51] = 1688944538,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [88]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12502:Player-3661-091D3EB8:1:6:24:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Underrot]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"Details! Shivant's Death: |cff71d5ff|Hspell:403515:0|h[Astral Eruption]|h|r: 7.4K ", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			779, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			310, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667599,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944613,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [89]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12500:Player-3661-091D3EB8:1:6:24:23:4294967295:4294967295:4294967295:4294967295|h[Underrot]|h|r!", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"Ealle cast |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r -> Speebo", -- [1]
+			"Frozat-Mannoroth", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Frozat-Mannoroth", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			780, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			311, -- [11]
+			"Player-77-0EE1A632", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667599,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fFrozat-Mannoroth|r",
+			[51] = 1688944613,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [90]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:404:13:9:135:0:0|h[Keystone: Neltharus (13)]|h|r", -- [1]
-			"Soam-Stormrage", -- [2]
+			"Casting Rebirth on Shivant", -- [1]
+			"Raszen-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soam-Stormrage", -- [5]
+			"Raszen-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			790, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
+			312, -- [11]
+			"Player-60-0BFBEB1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687667603,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffff7c0aRaszen-Stormrage|r",
+			[51] = 1688944563,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [91]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:245:2:9:0:0:0|h[Keystone: Freehold (2)]|h|r", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"Raszen cast |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r -> Shivant", -- [1]
+			"Frozat-Mannoroth", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Frozat-Mannoroth", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			798, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			313, -- [11]
+			"Player-77-0EE1A632", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667614,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff33937fFrozat-Mannoroth|r",
+			[51] = 1688944565,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [92]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:245:2:9:0:0:0|h[Keystone: Freehold (2)]|h|r", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"3", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			799, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			318, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667615,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944576,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [93]
 		{
-			"need that cloak?", -- [1]
-			"Soam-Stormrage", -- [2]
+			"Érébos cast |cff71d5ff|Hspell:20707:0|h[Soulstone]|h|r -> Frozat", -- [1]
+			"Frozat-Mannoroth", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soam-Stormrage", -- [5]
+			"Frozat-Mannoroth", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			801, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
+			319, -- [11]
+			"Player-77-0EE1A632", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687667693,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fFrozat-Mannoroth|r",
+			[51] = 1688944577,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [94]
 		{
-			"oh me? sorry yes, that's my BIS", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"2", -- [1]
+			"Mauler-Medivh", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezadin-Hyjal", -- [5]
+			"Mauler-Medivh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			804, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			320, -- [11]
+			"Player-52-0D71645D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667655,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944577,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [95]
 		{
-			"thx all", -- [1]
+			"1", -- [1]
+			"Mauler-Medivh", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mauler-Medivh", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			321, -- [11]
+			"Player-52-0D71645D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMauler-Medivh|r",
+			[51] = 1688944578,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [96]
+		{
+			"gg", -- [1]
+			"Ealle-Aman'Thul", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ealle-Aman'Thul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			380, -- [11]
+			"Player-3726-0BB758BF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aEalle-Aman'Thul|r",
+			[51] = 1688944721,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [97]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:1180:Player-3661-091D3EB8:1:7:9:23:4294967295:4294967295:4294967295:4294967295|h[Got My Mind On My Money]|h|r!", -- [1]
 			"Thezadin-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2125,7 +2169,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			805, -- [11]
+			399, -- [11]
 			"Player-3661-091D3EB8", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2133,74 +2177,30 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687667659,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
-		{
-			":D all good", -- [1]
-			"Soam-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Soam-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			807, -- [11]
-			"Player-60-0AA9D6C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Soam-Stormrage|r",
-			[51] = 1687667661,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
-		{
-			"gg", -- [1]
-			"Varlenthra-Dalaran", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Varlenthra-Dalaran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			808, -- [11]
-			"Player-3683-0B4CADCC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffVarlenthra-Dalaran|r",
-			[51] = 1687667670,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688944795,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [98]
 		{
-			"|cff71d5ff|Hspell:31850:0|h[Ardent Defender]|h|r", -- [1]
-			"Thezadin-Hyjal", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:18163:Player-3661-091D2FBC:1:7:9:23:4294967295:4294967295:4294967295:4294967295|h[Discarded Works]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			686, -- [11]
-			"Player-3661-091D3EB8", -- [12]
+			427, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThezadin|r",
-			[51] = 1687841240,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688944820,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [99]
 	},
 }

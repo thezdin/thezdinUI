@@ -1,9 +1,11 @@
 
 HandyNotes_DungeonLocationsDB = {
 	["profileKeys"] = {
-		["Thezdin - Hyjal"] = "Default",
+		["Thezkin - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
 		["Thezadin - Hyjal"] = "Default",
+		["Thezdin - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -36,8 +36,8 @@ W: 962
 H: 762
 Frame: scanner_button
 FrameLevel: 200
-Anchor: LEFT
-X: 138
-Y: -124
+Anchor: BOTTOM
+X: -520
+Y: 188
 W: 200
 H: 50

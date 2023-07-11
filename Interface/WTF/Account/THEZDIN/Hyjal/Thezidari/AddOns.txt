@@ -38,3 +38,4 @@ LittleWigs_BattleForAzeroth: enabled
 BigWigs_Aberrus: enabled
 LittleWigs: enabled
 LittleWigs_Legion: enabled
+LittleWigs_Cataclysm: enabled

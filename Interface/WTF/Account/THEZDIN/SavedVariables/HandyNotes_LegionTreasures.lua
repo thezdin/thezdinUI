@@ -14,9 +14,9 @@ HandyNotes_LegionTreasuresDB = {
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezbot - Azgalor"] = "Thezbot - Azgalor",
 		["Thezdgar - Hyjal"] = "Thezdgar - Hyjal",
-		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
-		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
 		["Sigurdsson - Hyjal"] = "Sigurdsson - Hyjal",
+		["Thezadin - Hyjal"] = "Thezadin - Hyjal",
+		["Foulfellow - Hyjal"] = "Foulfellow - Hyjal",
 		["Jägare - Hyjal"] = "Jägare - Hyjal",
 	},
 	["profiles"] = {
@@ -27,19 +27,19 @@ HandyNotes_LegionTreasuresDB = {
 		["Thez - Hyjal"] = {
 		},
 		["Thezidari - Hyjal"] = {
-			["upcoming"] = false,
+			["default_icon"] = "VignetteLootElite",
 			["show_treasure"] = false,
-			["zonesHidden"] = {
-				[630] = true,
-			},
 			["achievementsHidden"] = {
 				[11256] = true,
 				[11261] = true,
 			},
-			["default_icon"] = "VignetteLootElite",
-			["tooltip_charloot"] = false,
-			["show_routes"] = false,
 			["tooltip_item"] = false,
+			["show_routes"] = false,
+			["tooltip_charloot"] = false,
+			["upcoming"] = false,
+			["zonesHidden"] = {
+				[630] = true,
+			},
 		},
 		["Thezfu - Hyjal"] = {
 		},
@@ -59,11 +59,11 @@ HandyNotes_LegionTreasuresDB = {
 		},
 		["Thezdgar - Hyjal"] = {
 		},
-		["Foulfellow - Hyjal"] = {
+		["Sigurdsson - Hyjal"] = {
 		},
 		["Thezadin - Hyjal"] = {
 		},
-		["Sigurdsson - Hyjal"] = {
+		["Foulfellow - Hyjal"] = {
 		},
 		["Jägare - Hyjal"] = {
 		},

@@ -49,5 +49,49 @@ ElvCharacterDB = {
 			[51] = 1687731816,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [2]
+		{
+			"|cffffff00Gladiator's Refuge is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Valdrakken", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Valdrakken", -- [9]
+			0, -- [10]
+			862, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1688623595,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [3]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:17878:Player-3661-090ED1C0:1:7:5:23:4294967295:4294967295:4294967295:4294967295|h[Me Want Bite]|h|r!", -- [1]
+			"Seyka-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Seyka-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			899, -- [11]
+			"Player-3661-090ED1C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSeyka|r",
+			[51] = 1688623842,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [4]
 	},
 }

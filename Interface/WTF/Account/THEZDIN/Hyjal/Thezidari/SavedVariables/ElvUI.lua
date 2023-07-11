@@ -2,74 +2,30 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p I owe sham a beer", -- [1]
-		"/p gg all, sorry about the chaos Sham", -- [2]
-		"/way 46.9 41.4", -- [3]
-		"/run SetCVar(\"showDungeonEntranceOnMap\", true)", -- [4]
-		"/reloadui", -- [5]
-		"/bigwigs", -- [6]
-		"/kiss", -- [7]
-		"/invite Seyka", -- [8]
-		"/p hey", -- [9]
-		"/p bossy", -- [10]
-		"/p please bait charge to walls", -- [11]
-		"/p please please please", -- [12]
-		"/p please use chains on trash <3", -- [13]
-		"/p blue is where i'm dropping bombs", -- [14]
-		"/p avoid blue at all cost", -- [15]
-		"/p sorry incorp", -- [16]
-		"/p remember you can cast while moving", -- [17]
-		"/p gg all, thx <3", -- [18]
-		"/elvui", -- [19]
-		"/wa", -- [20]
+		"/cw Reead-Sargeras only on DH for facerolls, promise", -- [1]
+		"/raid the number of times Seyka has made me wait to \"fix\" Vuhdo is over 9000", -- [2]
+		"/cw Reead-Sargeras swapping after loot", -- [3]
+		"/invite Amplifi", -- [4]
+		"/p !keys", -- [5]
+		"/p need 30s to swap spec, I'm a baddie", -- [6]
+		"/cw Shethiccx-Kil'jaeden huh?", -- [7]
+		"/cw Shethiccx-Kil'jaeden lol", -- [8]
+		"/cw Shethiccx-Kil'jaeden you being dead is my fault, got it", -- [9]
+		"/cw Shethiccx-Kil'jaeden you're doing 19k classing me?", -- [10]
+		"/cw Shethiccx-Kil'jaeden are you fucking crazy?", -- [11]
+		"/cw Shethiccx-Kil'jaeden likewise: https://www.curseforge.com/wow/addons/gtfo", -- [12]
+		"/cw Shethiccx-Kil'jaeden you'll be alive more", -- [13]
+		"/cw Shethiccx-Kil'jaeden I don't main a DH tank", -- [14]
+		"/cw Shethiccx-Kil'jaeden I've done like 4 keys ever on this", -- [15]
+		"/cw Shethiccx-Kil'jaeden so you're absolutely right I don't know wtf I'm doing", -- [16]
+		"/cw Shethiccx-Kil'jaeden but you're also a complete douchenugget", -- [17]
+		"/cw Shethiccx-Kil'jaeden so, thanks I guess?", -- [18]
+		"/cw Shethiccx-Kil'jaeden who's your main?", -- [19]
+		"/cw Shethiccx-Kil'jaeden bruh, found your DH. You're not even rated as high as me. Have a good night homie.", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"never polearm", -- [1]
-			"Chial-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chial-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1838, -- [11]
-			"Player-57-055A259C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Chial-Illidan|r",
-			[51] = 1688189824,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"anyone want?", -- [1]
-			"Isebelle-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Isebelle-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1843, -- [11]
-			"Player-57-0D78D53E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aIsebelle-Illidan|r",
-			[51] = 1688189899,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:404:17:10:136:8:0|h[Keystone: Neltharus (17)]|h|r", -- [1]
+			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -79,7 +35,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1844, -- [11]
+			3446, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -87,21 +43,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688189903,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [3]
+			[51] = 1688970641,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [1]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:404:17:10:136:8:0|h[Keystone: Neltharus (17)]|h|r", -- [1]
+			"Dark Omen on Thezidari", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1845, -- [11]
+			3451, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -109,187 +65,231 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688189903,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
+			[51] = 1688970682,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [2]
 		{
-			":D ", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Dark Omen on Vynis", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1846, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3452, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688189905,
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688970696,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [3]
+		{
+			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thezidari-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3454, -- [11]
+			"Player-3661-091C86DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1688970707,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [4]
+		{
+			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Amplifi-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3456, -- [11]
+			"Player-3661-091D2FBC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688970778,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			"uhhhh", -- [1]
-			"Chial-Illidan", -- [2]
+			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chial-Illidan", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1847, -- [11]
-			"Player-57-055A259C", -- [12]
+			3460, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Chial-Illidan|r",
-			[51] = 1688189910,
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688970731,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [6]
 		{
-			"it might be good for mm", -- [1]
-			"Chial-Illidan", -- [2]
+			"Interrupted Blood Effigy's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chial-Illidan", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1848, -- [11]
-			"Player-57-055A259C", -- [12]
+			3463, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Chial-Illidan|r",
-			[51] = 1688189913,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1688970739,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [7]
 		{
-			"if noone wants", -- [1]
-			"Chial-Illidan", -- [2]
+			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chial-Illidan", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1849, -- [11]
-			"Player-57-055A259C", -- [12]
+			3466, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Chial-Illidan|r",
-			[51] = 1688189917,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1688970757,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [8]
 		{
-			"all yours boss", -- [1]
-			"Shambuster-Proudmoore", -- [2]
+			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shambuster-Proudmoore", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1850, -- [11]
-			"Player-5-0B309031", -- [12]
+			3467, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddShambuster-Proudmoore|r",
-			[51] = 1688189928,
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688970763,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [9]
 		{
-			"danke", -- [1]
-			"Chial-Illidan", -- [2]
+			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chial-Illidan", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1853, -- [11]
-			"Player-57-055A259C", -- [12]
+			3472, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Chial-Illidan|r",
-			[51] = 1688189930,
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688970781,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [10]
 		{
-			"ggs", -- [1]
-			"Shambuster-Proudmoore", -- [2]
+			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shambuster-Proudmoore", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1856, -- [11]
-			"Player-5-0B309031", -- [12]
+			3475, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddShambuster-Proudmoore|r",
-			[51] = 1688189885,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1688970804,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [11]
 		{
-			"gg thank you for the group", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1859, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3482, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688189957,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1688970871,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [12]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10785:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Darkheart Thicket]|h|r!", -- [1]
+			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -299,7 +299,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			52, -- [11]
+			3486, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -307,11 +307,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688233562,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1688970932,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [13]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10783:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Darkheart Thicket]|h|r!", -- [1]
+			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -321,7 +321,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			53, -- [11]
+			3488, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -329,11 +329,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688233562,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1688970949,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [14]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10784:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Darkheart Thicket]|h|r!", -- [1]
+			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -343,7 +343,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			54, -- [11]
+			3491, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -351,11 +351,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688233562,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1688970974,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [15]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10680:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Who's Afraid of the Dark?]|h|r!", -- [1]
+			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -365,7 +365,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			57, -- [11]
+			3493, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -373,11 +373,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688248557,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1688971008,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [16]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10803:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Vault of the Wardens]|h|r!", -- [1]
+			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:266209:0|h[Wicked Frenzy]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -387,7 +387,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			59, -- [11]
+			3497, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -395,55 +395,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688248557,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1688971047,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [17]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10802:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Vault of the Wardens]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"go look up dorki on youtube", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			60, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3498, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688248557,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971055,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [18]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10711:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Adds? More Like Bads]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"huh?", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			156, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			7, -- [10]
+			3499, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688250017,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971067,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [19]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10806:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Black Rook Hold]|h|r!", -- [1]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -453,7 +453,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			180, -- [11]
+			3501, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -461,55 +461,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688250196,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1688971081,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [20]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10800:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Assault on Violet Hold]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:413044:0|h[Dark Echoes]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			283, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3502, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688251458,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688971086,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10816:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Court of Stars]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"go look up dorki on youtube", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			429, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3503, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688253952,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971086,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [22]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10821:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Nythendra]|h|r!", -- [1]
+			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:266209:0|h[Wicked Frenzy]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -519,7 +519,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			527, -- [11]
+			3505, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -527,55 +527,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688255208,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1688971107,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [23]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10823:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Il'gynoth]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"lol", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			550, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			7, -- [10]
+			3506, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688255456,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971120,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [24]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10818:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Darkbough]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"you being dead is my fault, got it", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			564, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			7, -- [10]
+			3507, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688255542,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971124,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [25]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10822:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Elerethe Renferal]|h|r!", -- [1]
+			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -585,7 +585,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			565, -- [11]
+			3511, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -593,77 +593,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688255542,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1688971197,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [26]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10825:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Dragons of Nightmare]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"no. not that.", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			583, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3512, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688255697,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971157,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [27]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10824:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Ursoc]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"u doing about everythbing u can do wrong", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			599, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3513, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688255814,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971163,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [28]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10819:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Tormented Guardians]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"on a demon hunter", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			614, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3514, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688255922,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971167,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [29]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10826:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Cenarius]|h|r!", -- [1]
+			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -673,7 +673,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			615, -- [11]
+			3515, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -681,253 +681,253 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688255922,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1688971173,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [30]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10772:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Use the Force(s)]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"u need some homework", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			616, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3516, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688255922,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971173,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [31]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10820:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Rift of Aln]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"you're doing 19k classing me?", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			644, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			7, -- [10]
+			3517, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688256105,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971185,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [32]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10827:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Xavius]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"are you fucking crazy?", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			645, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			7, -- [10]
+			3518, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688256105,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971189,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [33]
 		{
-			"|cffa335ee|Hitem:139229::::::::70:65::3:1:9083:2:28:2662:9:45:::::|h[Venom-Fanged Barbute]|h|r", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Upheaval on Jessed", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			715, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3520, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688256766,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971211,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"Interrupted Refti Waste Worker's |cff71d5ff|Hspell:369050:0|h[Lightning Bolt]|h|r!", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Upheaval on Vynis", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			36, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3521, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688266028,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971211,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"hihi", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
+			"3", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			38, -- [11]
-			"Player-3684-0DF7F333", -- [12]
+			3522, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688266236,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971214,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
-			"hey", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"3", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			39, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3523, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266248,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971214,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"Rennegade will brb", -- [1]
-			"Together-Arygos", -- [2]
+			"2", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Together-Arygos", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			43, -- [11]
-			"Player-99-0E1A6E84", -- [12]
+			3524, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTogether-Arygos|r",
-			[51] = 1688266222,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971215,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"Not Well Fed (3): Rennegade, Together, Vkr", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"2", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			47, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3525, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266264,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971215,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"No Flask (2): Rennegade, Thezidari", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"1", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			48, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3526, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266264,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971216,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
-			"No Augment Rune (5): Rennegade, Seyka, Thezidari, Together, Vkr", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"1", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			49, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3530, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266264,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971237,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"Missing Buffs (1): Battle Shout", -- [1]
+			"Upheaval on Thezidari", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -937,7 +937,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			50, -- [11]
+			3537, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -945,957 +945,957 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266264,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1688971316,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
 		{
-			"here's to a clean run and aorry in advance to whomever gets the charge treasure on the last boss", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"3", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			51, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3538, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688266286,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1688971319,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"o7", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
+			"2", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			53, -- [11]
-			"Player-3684-0DF7F333", -- [12]
+			3539, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688266354,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1688971260,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [44]
 		{
-			"want lust 1st pull or bossy?", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
+			"1", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			54, -- [11]
-			"Player-3684-0DF7F333", -- [12]
+			3540, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688266363,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1688971261,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"bossy", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"here ill help u. ", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			55, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3546, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266368,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971345,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [46]
 		{
-			"Interrupted Qalashi Thaumaturge's |cff71d5ff|Hspell:378282:0|h[Molten Core]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"https://www.youtube.com/watch?v=_t_F-aL7GDI", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			79, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3547, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266558,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971346,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [47]
 		{
-			"please bait charge to walls", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"https://www.youtube.com/watch?v=mfvx5XQJlSw", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			81, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3548, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266524,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971352,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [48]
 		{
-			"please please please", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"learn ", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			82, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3549, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266526,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971356,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [49]
 		{
-			"Blazing Charge on Seyka", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"likewise: https://www.curseforge.com/wow/addons/gtfo", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			83, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			7, -- [10]
+			3552, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688266614,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971385,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [50]
 		{
-			"Lava Spray on Seyka", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"you'll be alive more", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			84, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			7, -- [10]
+			3553, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688266574,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971388,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [51]
 		{
-			"Blazing Charge on Vkr", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
+			"Upheaval on Jessed", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			85, -- [11]
-			"Player-3684-0DF7F333", -- [12]
+			3556, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688266578,
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971642,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"Lava Spray on Together", -- [1]
-			"Together-Arygos", -- [2]
+			"Upheaval on Vynis", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Together-Arygos", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			86, -- [11]
-			"Player-99-0E1A6E84", -- [12]
+			3557, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTogether-Arygos|r",
-			[51] = 1688266653,
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971642,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"please use chains on trash <3", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"3", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			88, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3558, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266624,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971645,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"Turn Evil cast on {Circle}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"3", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			106, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3559, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688266735,
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971645,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"Interrupted Qalashi Bonetender's |cff71d5ff|Hspell:372223:0|h[Mending Clay]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"2", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			115, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3560, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266795,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971646,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"Interrupted Overseer Lahar's |cff71d5ff|Hspell:395427:0|h[Burning Roar]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"1", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			120, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3561, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266806,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971647,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"getting mana fast", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"this isnt my main. this is some toon the priest is carrying because its like 2am and we are bored. im sending you those videos beecause i main a demon hunter tank. ", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			131, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3562, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688266867,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971649,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [58]
 		{
-			"gtg", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"u havnt done shit correct the entire dungeon. ", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			132, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3564, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688266872,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971660,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [59]
 		{
-			"Grounding Spear on Together", -- [1]
-			"Together-Arygos", -- [2]
+			"2", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Together-Arygos", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			136, -- [11]
-			"Player-99-0E1A6E84", -- [12]
+			3570, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTogether-Arygos|r",
-			[51] = 1688266959,
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971667,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"Interrupted Qalashi Bonetender's |cff71d5ff|Hspell:372223:0|h[Mending Clay]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"1", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			148, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3572, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688266990,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971668,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"Turn Evil cast on {Circle}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"ur gonna hit a wall pretty hard past like a 17 key", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			165, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3573, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688267141,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971670,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [62]
 		{
-			"Interrupted Qalashi Irontorch's |cff71d5ff|Hspell:384161:0|h[Mote of Combustion]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"I don't main a DH tank", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			172, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			7, -- [10]
+			3587, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267180,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971696,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [63]
 		{
-			"ee rry", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
+			"I've done like 4 keys ever on this", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			176, -- [11]
-			"Player-3684-0DF7F333", -- [12]
+			7, -- [10]
+			3588, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688267277,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971702,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [64]
 		{
-			"Interrupted Qalashi Irontorch's |cff71d5ff|Hspell:384161:0|h[Mote of Combustion]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"so you're absolutely right I don't know wtf I'm doing", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			177, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			7, -- [10]
+			3589, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267220,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971709,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [65]
 		{
-			"Interrupted Qalashi Irontorch's |cff71d5ff|Hspell:384161:0|h[Mote of Combustion]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"but you're also a complete douchenugget", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			181, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			7, -- [10]
+			3590, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267238,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971715,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [66]
 		{
-			"Scorching Fusillade on Seyka", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"so, thanks I guess?", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			183, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			7, -- [10]
+			3591, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688267312,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971795,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [67]
 		{
-			"Scorching Fusillade on Together", -- [1]
-			"Together-Arygos", -- [2]
+			"Upheaval on Jessed", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Together-Arygos", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			184, -- [11]
-			"Player-99-0E1A6E84", -- [12]
+			3594, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTogether-Arygos|r",
-			[51] = 1688267312,
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971816,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"Interrupted Lava Flare's |cff71d5ff|Hspell:372538:0|h[Melt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Upheaval on Vynis", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			191, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3595, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267293,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971816,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
 		{
-			"Interrupted Qalashi Irontorch's |cff71d5ff|Hspell:384161:0|h[Mote of Combustion]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"3", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			199, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3596, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267386,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971819,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"Interrupted Qalashi Irontorch's |cff71d5ff|Hspell:384161:0|h[Mote of Combustion]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"2", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			200, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3597, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267344,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971820,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"Interrupted Lava Flare's |cff71d5ff|Hspell:372538:0|h[Melt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"1", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			206, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3598, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267435,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971821,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"Interrupted Lava Flare's |cff71d5ff|Hspell:372538:0|h[Melt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"3", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			211, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3603, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267430,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971843,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [73]
 		{
-			"Interrupted Lava Flare's |cff71d5ff|Hspell:372538:0|h[Melt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"as a tank on this fight. if they dont get cleared by the time he has full energy u gotta eat the remaining ones.", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			213, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3610, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267466,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971865,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [74]
 		{
-			"blue is where i'm dropping bombs", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"2", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			214, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3611, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267555,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971865,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"avoid blue at all cost", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"1", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			215, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3613, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267558,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971866,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [76]
 		{
-			"Blazing Aegis on Seyka", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"or its a wipe", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			219, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3615, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688267530,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971867,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [77]
 		{
-			"Blazing Aegis on Together", -- [1]
-			"Together-Arygos", -- [2]
+			"Upheaval on Vynis", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Together-Arygos", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			220, -- [11]
-			"Player-99-0E1A6E84", -- [12]
+			3618, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTogether-Arygos|r",
-			[51] = 1688267530,
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971892,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"Turn Evil cast on {Circle}", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"who's your main?", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Shethiccx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			221, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			7, -- [10]
+			3619, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688267535,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688971894,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [79]
 		{
-			"sorry incorp", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"3", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			225, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3621, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267548,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971895,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [80]
 		{
-			"Blazing Aegis on Vkr", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
+			"2", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			228, -- [11]
-			"Player-3684-0DF7F333", -- [12]
+			3623, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688267619,
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971896,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [81]
 		{
-			"3", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
+			"1", -- [1]
+			"Vynis-Azralon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
+			"Vynis-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			230, -- [11]
-			"Player-3684-0DF7F333", -- [12]
+			3625, -- [11]
+			"Player-3209-0BAA9D40", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688267620,
+			[52] = "|cfff48cbaVynis-Azralon|r",
+			[51] = 1688971897,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [82]
 		{
-			"2", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
+			"3", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			231, -- [11]
-			"Player-3684-0DF7F333", -- [12]
+			3628, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688267621,
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688971975,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"1", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
+			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			233, -- [11]
-			"Player-3684-0DF7F333", -- [12]
+			3638, -- [11]
+			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688267622,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Thezidari|r",
+			[51] = 1688971943,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [84]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:16432:Player-3661-091C86DD:1:7:1:23:4294967295:4294967295:4294967295:4294967295|h[Ready for Raiding VIII]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			237, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3639, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267589,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688971948,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [85]
 		{
-			"Interrupted Qalashi Lavamancer's |cff71d5ff|Hspell:383231:0|h[Lava Bolt]|h|r!", -- [1]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:413044:0|h[Dark Echoes]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1905,7 +1905,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			251, -- [11]
+			3640, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1913,33 +1913,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267798,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1688971955,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [86]
 		{
-			"Interrupted Qalashi Lavamancer's |cff71d5ff|Hspell:383231:0|h[Lava Bolt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			256, -- [11]
-			"Player-3661-091C86DD", -- [12]
+			3641, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267784,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688971964,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [87]
 		{
-			"remember you can cast while moving", -- [1]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1949,7 +1949,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			265, -- [11]
+			3645, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1957,11 +1957,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267845,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1688972010,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [88]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:405:18:10:136:8:0|h[Keystone: Brackenhide Hollow (18)]|h|r", -- [1]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1971,7 +1971,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			290, -- [11]
+			3647, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1979,21 +1979,43 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267962,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1688972066,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [89]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:405:18:10:136:8:0|h[Keystone: Brackenhide Hollow (18)]|h|r", -- [1]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Amplifi-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3648, -- [11]
+			"Player-3661-091D2FBC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688972071,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [90]
+		{
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Thezidari-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			291, -- [11]
+			3650, -- [11]
 			"Player-3661-091C86DD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2001,188 +2023,122 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688267962,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
-		{
-			"do u...", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			295, -- [11]
-			"Player-3684-0DF7F333", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688268033,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1688972090,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [91]
 		{
-			"need haha...", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			296, -- [11]
-			"Player-3684-0DF7F333", -- [12]
+			3654, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688268035,
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688972106,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"anyone want the panst", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:413044:0|h[Dark Echoes]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			297, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3656, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688268046,
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688972162,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"yea i have champion", -- [1]
-			"Rennegade-Arygos", -- [2]
+			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:413044:0|h[Dark Echoes]|h|r!", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rennegade-Arygos", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			298, -- [11]
-			"Player-99-0DF9A58A", -- [12]
+			3658, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRennegade-Arygos|r",
-			[51] = 1688268047,
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688972179,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			"pants", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"PLS", -- [1]
+			"Jessed-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seyka-Hyjal", -- [5]
+			"Jessed-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			299, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3678, -- [11]
+			"Player-9-0B30FF73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688268050,
+			[52] = "|cffffffffJessed-Kil'jaeden|r",
+			[51] = 1688972375,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [95]
 		{
-			"ggs", -- [1]
-			"Vkr-Mal'Ganis", -- [2]
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:403:13:9:134:0:0|h[Keystone: Uldaman: Legacy of Tyr (13)]|h|r", -- [1]
+			"Amplifi-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Vkr-Mal'Ganis", -- [5]
+			"Amplifi-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			300, -- [11]
-			"Player-3684-0DF7F333", -- [12]
+			3695, -- [11]
+			"Player-3661-091D2FBC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fVkr-Mal'Ganis|r",
-			[51] = 1688268055,
+			[52] = "|cff0070ddAmplifi|r",
+			[51] = 1688972420,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [96]
 		{
-			"gg all, thx <3", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			301, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688268056,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
-		{
-			"gg thank you", -- [1]
-			"Seyka-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Seyka-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			309, -- [11]
-			"Player-3661-090ED1C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688268162,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
-		{
-			"|cff0070dd|Hitem:204464::::::::70:65:::::::::|h[Shadowflame Essence]|h|r", -- [1]
-			"Seyka-Hyjal", -- [2]
+			"timewalkers?", -- [1]
+			"|Kq4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2191,16 +2147,62 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			313, -- [11]
-			"Player-3661-090ED1C0", -- [12]
+			3705, -- [11]
+			false, -- [12]
+			20, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Foeslayer|r",
+			[51] = 1688972644,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Foeslayer",
+		}, -- [97]
+		{
+			":D", -- [1]
+			"|Kq4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3706, -- [11]
+			false, -- [12]
+			20, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Foeslayer|r",
+			[51] = 1688972646,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Foeslayer",
+		}, -- [98]
+		{
+			"bruh, found your DH. You're not even rated as high as me. Have a good night homie.", -- [1]
+			"Shethiccx-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shethiccx-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			3708, -- [11]
+			"Player-9-0E57CE94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSeyka|r",
-			[51] = 1688268137,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
+			[51] = 1688972820,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [99]
 	},
 }
