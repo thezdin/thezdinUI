@@ -10,65 +10,83 @@ oRA3DB = {
 		["ReadyCheck"] = {
 		},
 		["Alerts"] = {
+			["profiles"] = {
+				["Default"] = {
+					["resurrect"] = true,
+				},
+			},
 		},
 		["Promote"] = {
+			["factionrealm"] = {
+				["Alliance - Hyjal"] = {
+					["promotes"] = {
+						"Seyka", -- [1]
+					},
+				},
+			},
 		},
 		["Cooldowns"] = {
 			["global"] = {
 				["spellsOnCooldown"] = {
-					[187827] = {
-						["Player-3661-091C86DD"] = 802548.185,
+					[31884] = {
+						["Player-84-0A7ECBC7"] = 730342.1950000001,
 					},
-					[10060] = {
-						["Player-9-0B30FF73"] = 802558.615,
+					[319454] = {
+						["Player-3661-0939D2D4"] = 730474.398,
 					},
-					[19236] = {
-						["Player-9-0B30FF73"] = 802575.231,
+					[633] = {
+						["Player-3661-090ED1C0"] = 730549.534,
 					},
-					[108280] = {
-						["Player-3661-091D2FBC"] = 802611.623,
-					},
-					[98008] = {
-						["Player-3661-091D2FBC"] = 802662.324,
-					},
-					[20608] = {
-						["Player-3661-091D2FBC"] = 803550.268,
-					},
-					[15286] = {
-						["Player-9-0B30FF73"] = 802547.138,
+					[31821] = {
+						["Player-3661-090ED1C0"] = 730430.171,
 					},
 				},
-				["lastTime"] = 802965.922,
-				["chargeSpellsOnCooldown"] = {
-				},
+				["lastTime"] = 769909.8250000001,
 			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
 						["Default"] = {
 							[102359] = true,
-							[217832] = true,
+							[740] = true,
+							[10060] = true,
 							[48707] = true,
+							[29166] = true,
+							[196718] = true,
 							[6940] = true,
-							[31821] = true,
-							[106898] = true,
 							[853] = true,
+							[106898] = true,
+							[47788] = true,
+							[108280] = true,
+							[31821] = true,
 							[32375] = true,
-							[202137] = true,
 						},
 					},
 					["displays"] = {
 						["Default"] = {
-							["barLabelFont"] = "ElvUI C",
+							["type"] = "Icons",
 							["lockDisplay"] = true,
-							["barTexture"] = "Clean",
-							["barLabelFontSize"] = 13,
-							["barDurationClassColor"] = true,
-							["barDurationFont"] = "ElvUI C",
-							["barStyle"] = "ElvUI",
-							["groupSpells"] = true,
-							["barDurationFontSize"] = 15,
-							["type"] = "Bars",
+						},
+					},
+					["filters"] = {
+						["Default"] = {
+							["hideOffline"] = true,
+							["hideDead"] = true,
+							["hideGroup"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								true, -- [6]
+								true, -- [7]
+								true, -- [8]
+							},
+							["neverShowMine"] = true,
+							["hideInInstance"] = {
+								["arena"] = true,
+								["pvp"] = true,
+							},
 						},
 					},
 				},
@@ -100,39 +118,39 @@ oRA3DB = {
 		["Thezadin - Hyjal"] = "Default",
 		["Foulfellow - Hyjal"] = "Default",
 		["Thezbank - Mannoroth"] = "Default",
-		["Sigurdsson - Hyjal"] = "Default",
 		["Thez - Hyjal"] = "Default",
+		["Sigurdsson - Hyjal"] = "Default",
 		["Thezdruid - Hyjal"] = "Default",
 		["Thezknight - Hyjal"] = "Default",
 		["Thezidari - Hyjal"] = "Default",
-		["Thezdgar - Hyjal"] = "Default",
-		["Thezdin - Hyjal"] = "Default",
 		["Thezfu - Hyjal"] = "Default",
+		["Thezdin - Hyjal"] = "Default",
+		["Thezdgar - Hyjal"] = "Default",
 		["Thezbot - Azgalor"] = "Default",
 		["Thezdivh - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["lastSelectedList"] = 1,
+			["lastSelectedList"] = 4,
 			["positions"] = {
 				["oRA3ReadyCheck"] = {
 					["PosY"] = 645.0669689920323,
 					["PosX"] = 1352.533061557333,
 				},
-				["oRA3BattleResMonitor"] = {
-					["Height"] = 30.00001525878906,
-					["Width"] = 140,
-					["PosY"] = 262.9334027820187,
-					["PosX"] = 193.06824497653,
+				["oRA3CooldownFrameIconsDefault"] = {
+					["Height"] = 392.2779846191406,
+					["PosX"] = 17.51320883706489,
+					["PosY"] = 725.8826400252583,
+					["Width"] = 269.5,
 				},
-				["oRA3CooldownFrameBarsDefault"] = {
-					["Height"] = 536.4446411132812,
-					["Width"] = 258.6666259765625,
-					["PosY"] = 590.949339888466,
-					["PosX"] = 12.17987871884816,
+				["oRA3BattleResMonitor"] = {
+					["Height"] = 29.99999046325684,
+					["Width"] = 139.9999542236328,
+					["PosY"] = 156.8001332139938,
+					["PosX"] = 426.1351076626379,
 				},
 			},
-			["lastSelectedPanel"] = "Cooldowns",
+			["lastSelectedPanel"] = "Checks",
 		},
 	},
 }

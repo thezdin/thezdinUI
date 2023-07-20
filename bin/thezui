@@ -1,71 +1,104 @@
-#!/usr/bin/env python
-from __future__ import annotations
-from dotenv import load_dotenv
-import datetime
+#!/usr/bin/env node
 
-import argparse
-import os
-from collections.abc import Sequence
+const { exit } = require("process");
+var exec = require("child_process").exec;
+require("dotenv").config();
 
-load_dotenv()
+const WOW_PATH = process.env.WOW_PATH;
+const DIR = process.env.PWD;
 
-WOW_PATH = os.getenv('WOW_PATH')
-CHARACTER = os.getenv('CHARACTER')
-SERVER = os.getenv('SERVER')
+if (!WOW_PATH) {
+  console.error(
+    "------------------------------------------------\nERROR: You need to define WOW_PATH in .env\n------------------------------------------------"
+  );
+  process.exit();
+}
 
+if (!DIR) {
+  console.error(
+    "------------------------------------------------\nERROR: Unable to determine path of current working directory: https://www.ibm.com/docs/en/aix/7.1?topic=p-pwd-command \n------------------------------------------------"
+  );
+  process.exit();
+}
 
-def main(argv: Sequence[str] | None = None) -> int:
+// this is our list of functions
+let uiCommands = [
+  () => {
+    console.log(DIR);
+  },
+  () => {
+    console.log("Backing up Interface/WTF");
+    exec(`tar -zcvf ${DIR}/thezui-wtf.tar.gz ${WOW_PATH}/_retail_/WTF/`);
+  },
+  () => {
+    console.log("Backing up Interface/Fonts");
+    exec(`tar -zcvf ${DIR}/thezui-wtf.tar.gz ${WOW_PATH}/_retail_/Fonts/`);
+  },
+  () => {
+    console.log("Backing up Interface/Addons");
+    exec(`tar -zcvf ${DIR}/thezui-wtf.tar.gz ${WOW_PATH}/_retail_/Interface/`);
+  },
+  () => {
+    console.log("Cloning WTF interface settings into git");
+    exec(`cp -R ${WOW_PATH}/_retail_/WTF/* Interface/WTF`);
+  },
+  () => {
+    console.log("Removing all chat history");
+    exec('find . -name "*Prat*" && find . -name "*Prat*" -exec /bin/rm {} ;');
+  },
+  () => {
+    console.log("Purging `Errors`");
+    exec(`rm -rf ${WOW_PATH}/_retail_/Errors/*`);
+  },
+  () => {
+    console.log("Purging Cache");
+    exec(`rm -rf ${WOW_PATH}/_retail_/Cache/*`);
+  },
+  () => {
+    console.log("Purging Logs");
+    exec(`rm -rf ${WOW_PATH}/_retail_/Logs/*`);
+  },
+  () => {
+    console.log("Update github.com/thezdin/thezui");
+    let message = "AUTO_UPDATE from [thezui] script: " + new Date();
+    exec(`git add . && git commit -am "${message}" && git push`);
+  },
+  async () =>
+    new Promise((resolve) => {
+      setTimeout(() => {
+        console.log("Asynchronous Function Called");
 
-    parser = argparse.ArgumentParser()
-    # Add arguments here
-    args = parser.parse_args(argv)
+        // // -------------------------------
+        // // Fetch latest version of addons
+        // // -------------------------------
 
-    dir = os.getcwd()
-    print("dir: " + dir)
+        // console.log("Fetching latest ElvUI");
+        // exec(
+        //   "git -C ~/code/ElvUI pull || git clone git@github.com:tukui-org/ElvUI.git ~/code/ElvUI"
+        // );
 
-    # Implement behaviour here
-    print("Backing up Interface")
-    os.system('tar -zcvf /mnt/d/thezdinUI.tar.gz ' +
-              WOW_PATH + '_retail_/WTF/')
+        // console.log("Updating World of Warcraft ElvUI version");
+        // exec(
+        //   "cp -R ~/code/ElvUI/* " + WOW_PATH + "_retail_/Interface/Addons/"
+        // );
 
-    print("Copying Interface Settings")
-    os.system('cp -R ' + WOW_PATH + '_retail_/WTF/* Interface/WTF')
+        // console.log("ElvUI Updated!");
 
-    print("Removing the sensitive stuff")
-    os.system('find . -name "*Prat*"')
-    os.system('find . -name "*Prat*" -exec /bin/rm {} \;')
+        // // -------------------------------
 
-    print("Fetching latest ElvUI")
-    os.system(
-        'git -C ~/code/ElvUI pull || git clone git@github.com:tukui-org/ElvUI.git ~/code/ElvUI')
+        resolve(true);
+      }, 100);
+    }),
+  () => {
+    console.log("... done");
+  },
+];
 
-    print("Updating World of Warcraft ElvUI version")
-    os.system('cp -R ~/code/ElvUI/* ' + WOW_PATH +
-              '_retail_/Interface/Addons/')
+// this function will be responsible
+// for executing all functions of list
+let updateWoWInterface = async (uiCommands) => {
+  return Promise.all(uiCommands.map((func) => func()));
+};
 
-    print("ElvUI Updated!")
-
-    print("Clearing Errors Directory")
-    os.system('rm -rf ' + WOW_PATH + '_retail_/Errors/*')
-
-    print("Clearing Cache")
-    os.system('rm -rf ' + WOW_PATH + '_retail_/Cache/*')
-
-    print("Clearing Logs")
-    os.system('rm -rf ' + WOW_PATH + '_retail_/Logs/*')
-
-    print("Update repository")
-    now = datetime.datetime.now()
-    message = "AUTO_UPDATE from [thezui] script: " + \
-        now.strftime("%Y-%m-%d %H:%M:%S")
-    os.system('git add .')
-    os.system('git commit -am "' + message + '"')
-    os.system('git push')
-
-    print("Done")
-
-    return 0
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
+// calling main function
+updateWoWInterface(uiCommands);

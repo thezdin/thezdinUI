@@ -11,8 +11,8 @@ MinimapButtonButtonOptions = {
 		"TOPRIGHT", -- [1]
 		nil, -- [2]
 		"TOPRIGHT", -- [3]
-		-5.581692218780518, -- [4]
-		-251.5570831298828, -- [5]
+		-0.833178699016571, -- [4]
+		-200.7238311767578, -- [5]
 	},
 	["buttonsPerRow"] = 5,
 	["hidecompartment"] = false,

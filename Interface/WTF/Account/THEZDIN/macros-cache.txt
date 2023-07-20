@@ -145,6 +145,9 @@ VER 3 000000000000006D "Squirrel Love" "132311"
 /stopmacro [noexists]
 /love
 END
+VER 3 0000000000000080 "TBE: Random Toy" "inv_misc_dice_02"
+/click TBERandomFavoredToy LeftButton true
+END
 VER 3 0000000000000075 "Trapper" "132149"
 #showtooltip
 /use Soft Foam Sword

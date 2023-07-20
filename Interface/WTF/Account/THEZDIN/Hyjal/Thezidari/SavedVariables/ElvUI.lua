@@ -25,28 +25,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r!", -- [1]
-			"Thezidari-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thezidari-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3446, -- [11]
-			"Player-3661-091C86DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Thezidari|r",
-			[51] = 1688970641,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [1]
-		{
 			"Dark Omen on Thezidari", -- [1]
 			"Thezidari-Hyjal", -- [2]
 			"", -- [3]
@@ -67,7 +45,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688970682,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
+		}, -- [1]
 		{
 			"Dark Omen on Vynis", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -89,7 +67,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688970696,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+		}, -- [2]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -111,7 +89,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688970707,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [4]
+		}, -- [3]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -133,7 +111,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688970778,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
+		}, -- [4]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -155,7 +133,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688970731,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
+		}, -- [5]
 		{
 			"Interrupted Blood Effigy's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -177,7 +155,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688970739,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [7]
+		}, -- [6]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -199,7 +177,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688970757,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [8]
+		}, -- [7]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -221,7 +199,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688970763,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
+		}, -- [8]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -243,7 +221,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688970781,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
+		}, -- [9]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -265,7 +243,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688970804,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [11]
+		}, -- [10]
 		{
 			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -287,7 +265,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688970871,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [12]
+		}, -- [11]
 		{
 			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -309,7 +287,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688970932,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [13]
+		}, -- [12]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -331,7 +309,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688970949,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [14]
+		}, -- [13]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -353,7 +331,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688970974,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [15]
+		}, -- [14]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -375,7 +353,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971008,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [16]
+		}, -- [15]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:266209:0|h[Wicked Frenzy]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -397,7 +375,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971047,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [17]
+		}, -- [16]
 		{
 			"go look up dorki on youtube", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -419,7 +397,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971055,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [18]
+		}, -- [17]
 		{
 			"huh?", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -441,7 +419,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971067,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [19]
+		}, -- [18]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -463,7 +441,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971081,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [20]
+		}, -- [19]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:413044:0|h[Dark Echoes]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -485,7 +463,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688971086,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
+		}, -- [20]
 		{
 			"go look up dorki on youtube", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -507,7 +485,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971086,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [22]
+		}, -- [21]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:266209:0|h[Wicked Frenzy]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -529,7 +507,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971107,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [23]
+		}, -- [22]
 		{
 			"lol", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -551,7 +529,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971120,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [24]
+		}, -- [23]
 		{
 			"you being dead is my fault, got it", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -573,7 +551,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971124,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [25]
+		}, -- [24]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -595,7 +573,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971197,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [26]
+		}, -- [25]
 		{
 			"no. not that.", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -617,7 +595,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971157,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [27]
+		}, -- [26]
 		{
 			"u doing about everythbing u can do wrong", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -639,7 +617,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971163,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [28]
+		}, -- [27]
 		{
 			"on a demon hunter", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -661,7 +639,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971167,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [29]
+		}, -- [28]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -683,7 +661,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971173,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [30]
+		}, -- [29]
 		{
 			"u need some homework", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -705,7 +683,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971173,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [31]
+		}, -- [30]
 		{
 			"you're doing 19k classing me?", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -727,7 +705,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971185,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [32]
+		}, -- [31]
 		{
 			"are you fucking crazy?", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -749,7 +727,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971189,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [33]
+		}, -- [32]
 		{
 			"Upheaval on Jessed", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -771,7 +749,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971211,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [33]
 		{
 			"Upheaval on Vynis", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -793,7 +771,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971211,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [34]
 		{
 			"3", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -815,7 +793,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971214,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [35]
 		{
 			"3", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -837,7 +815,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971214,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [36]
 		{
 			"2", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -859,7 +837,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971215,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [37]
 		{
 			"2", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -881,7 +859,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971215,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [38]
 		{
 			"1", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -903,7 +881,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971216,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [39]
 		{
 			"1", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -925,7 +903,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971237,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [40]
 		{
 			"Upheaval on Thezidari", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -947,7 +925,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971316,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [41]
 		{
 			"3", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -969,7 +947,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971319,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [42]
 		{
 			"2", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -991,7 +969,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971260,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [43]
 		{
 			"1", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1013,7 +991,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971261,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [44]
 		{
 			"here ill help u. ", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1035,7 +1013,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971345,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [46]
+		}, -- [45]
 		{
 			"https://www.youtube.com/watch?v=_t_F-aL7GDI", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1057,7 +1035,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971346,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [47]
+		}, -- [46]
 		{
 			"https://www.youtube.com/watch?v=mfvx5XQJlSw", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1079,7 +1057,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971352,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [48]
+		}, -- [47]
 		{
 			"learn ", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1101,7 +1079,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971356,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [49]
+		}, -- [48]
 		{
 			"likewise: https://www.curseforge.com/wow/addons/gtfo", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1123,7 +1101,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971385,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [50]
+		}, -- [49]
 		{
 			"you'll be alive more", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1145,7 +1123,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971388,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [51]
+		}, -- [50]
 		{
 			"Upheaval on Jessed", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -1167,7 +1145,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971642,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [51]
 		{
 			"Upheaval on Vynis", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1189,7 +1167,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971642,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [52]
 		{
 			"3", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -1211,7 +1189,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971645,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [53]
 		{
 			"3", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1233,7 +1211,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971645,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [54]
 		{
 			"2", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -1255,7 +1233,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971646,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [55]
 		{
 			"1", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -1277,7 +1255,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971647,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [56]
 		{
 			"this isnt my main. this is some toon the priest is carrying because its like 2am and we are bored. im sending you those videos beecause i main a demon hunter tank. ", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1299,7 +1277,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971649,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [58]
+		}, -- [57]
 		{
 			"u havnt done shit correct the entire dungeon. ", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1321,7 +1299,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971660,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [59]
+		}, -- [58]
 		{
 			"2", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1343,7 +1321,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971667,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [59]
 		{
 			"1", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1365,7 +1343,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971668,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [60]
 		{
 			"ur gonna hit a wall pretty hard past like a 17 key", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1387,7 +1365,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971670,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [62]
+		}, -- [61]
 		{
 			"I don't main a DH tank", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1409,7 +1387,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971696,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [63]
+		}, -- [62]
 		{
 			"I've done like 4 keys ever on this", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1431,7 +1409,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971702,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [64]
+		}, -- [63]
 		{
 			"so you're absolutely right I don't know wtf I'm doing", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1453,7 +1431,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971709,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [65]
+		}, -- [64]
 		{
 			"but you're also a complete douchenugget", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1475,7 +1453,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971715,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [66]
+		}, -- [65]
 		{
 			"so, thanks I guess?", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1497,7 +1475,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971795,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [67]
+		}, -- [66]
 		{
 			"Upheaval on Jessed", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -1519,7 +1497,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971816,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [67]
 		{
 			"Upheaval on Vynis", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1541,7 +1519,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971816,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [68]
 		{
 			"3", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1563,7 +1541,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971819,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [69]
 		{
 			"2", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1585,7 +1563,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [70]
 		{
 			"1", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1607,7 +1585,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971821,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [71]
 		{
 			"3", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -1629,7 +1607,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971843,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [72]
 		{
 			"as a tank on this fight. if they dont get cleared by the time he has full energy u gotta eat the remaining ones.", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1651,7 +1629,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971865,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [74]
+		}, -- [73]
 		{
 			"2", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -1673,7 +1651,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971865,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [74]
 		{
 			"1", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -1695,7 +1673,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971866,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [75]
 		{
 			"or its a wipe", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1717,7 +1695,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971867,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [77]
+		}, -- [76]
 		{
 			"Upheaval on Vynis", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1739,7 +1717,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971892,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [77]
 		{
 			"who's your main?", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -1761,7 +1739,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688971894,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [79]
+		}, -- [78]
 		{
 			"3", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1783,7 +1761,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971895,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [79]
 		{
 			"2", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1805,7 +1783,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971896,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [80]
 		{
 			"1", -- [1]
 			"Vynis-Azralon", -- [2]
@@ -1827,7 +1805,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaVynis-Azralon|r",
 			[51] = 1688971897,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [81]
 		{
 			"3", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -1849,7 +1827,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688971975,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [82]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1871,7 +1849,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971943,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [84]
+		}, -- [83]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1893,7 +1871,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688971948,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [84]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:413044:0|h[Dark Echoes]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1915,7 +1893,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688971955,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [86]
+		}, -- [85]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -1937,7 +1915,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688971964,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
+		}, -- [86]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1959,7 +1937,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688972010,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [88]
+		}, -- [87]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -1981,7 +1959,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688972066,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [89]
+		}, -- [88]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -2003,7 +1981,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688972071,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [90]
+		}, -- [89]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Thezidari-Hyjal", -- [2]
@@ -2025,7 +2003,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Thezidari|r",
 			[51] = 1688972090,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [91]
+		}, -- [90]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Void Spit]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -2047,7 +2025,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688972106,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [92]
+		}, -- [91]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:413044:0|h[Dark Echoes]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -2069,7 +2047,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688972162,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [92]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:413044:0|h[Dark Echoes]|h|r!", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -2091,7 +2069,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688972179,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [93]
 		{
 			"PLS", -- [1]
 			"Jessed-Kil'jaeden", -- [2]
@@ -2113,7 +2091,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJessed-Kil'jaeden|r",
 			[51] = 1688972375,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+		}, -- [94]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:180653:403:13:9:134:0:0|h[Keystone: Uldaman: Legacy of Tyr (13)]|h|r", -- [1]
 			"Amplifi-Hyjal", -- [2]
@@ -2135,7 +2113,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddAmplifi|r",
 			[51] = 1688972420,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [95]
 		{
 			"timewalkers?", -- [1]
 			"|Kq4|k", -- [2]
@@ -2158,7 +2136,7 @@ ElvCharacterDB = {
 			[51] = 1688972644,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Foeslayer",
-		}, -- [97]
+		}, -- [96]
 		{
 			":D", -- [1]
 			"|Kq4|k", -- [2]
@@ -2181,7 +2159,7 @@ ElvCharacterDB = {
 			[51] = 1688972646,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Foeslayer",
-		}, -- [98]
+		}, -- [97]
 		{
 			"bruh, found your DH. You're not even rated as high as me. Have a good night homie.", -- [1]
 			"Shethiccx-Kil'jaeden", -- [2]
@@ -2203,6 +2181,28 @@ ElvCharacterDB = {
 			[52] = "|cff33937fShethiccx-Kil'jaeden|r",
 			[51] = 1688972820,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [98]
+		{
+			"lf craft |cffa335ee|Hitem:193509::::::::70:258::13:1:3524:4:40:450:38:4:46:194566:50:204440:::::|h[Vibrant Wildercloth Vestments |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r 424 pst", -- [1]
+			"Rockbuster-Hyjal", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rockbuster-Hyjal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-3661-06DAE83D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffffffffRockbuster|r",
+			[51] = 1689105219,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }

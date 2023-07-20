@@ -35,3 +35,6 @@ BigWigs_Options: enabled
 BigWigs_Plugins: enabled
 Blizzard_CombatText: enabled
 LittleWigs_BattleForAzeroth: enabled
+WorldQuestTracker: disabled
+LittleWigs: enabled
+LittleWigs_Cataclysm: enabled

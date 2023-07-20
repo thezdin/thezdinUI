@@ -2,17 +2,15 @@
 
 ## Requirements
 
-* python3
-* pip
+- nodejs
 
 ---
 
 ## Setup
 
-    pip install --user -r requirements.txt
-    cp .env.example .env
+    npm i
 
-## Config via  .env
+## Config via .env
 
 Open `.env` and set values
 
@@ -24,4 +22,4 @@ Open `.env` and set values
 
 ## Run
 
-    python bin/thezui
+    node bin/thezui

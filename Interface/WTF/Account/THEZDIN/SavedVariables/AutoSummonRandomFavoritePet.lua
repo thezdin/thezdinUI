@@ -30,6 +30,7 @@ AutoSummonRandomFavoritePetDB = {
 		["Jägare - Hyjal"] = "Jägare - Hyjal",
 	},
 	["global"] = {
+		["disableOverwriteExistingPet"] = true,
 		["disableSummonInCombat"] = false,
 	},
 }

@@ -121,7 +121,7 @@ VER 3 0000000000000034 "Shield Block" "INV_Misc_QuestionMark"
 /startattack
 END
 VER 3 000000000000007F "Shield Pain" "134400"
-#showtooltip
+#showtooltip Shield Slam
 /cast Ignore Pain
 /cast Shield Slam
 END
