@@ -7,52 +7,34 @@ _detalhes_database = {
 		["tabelas"] = {
 			{
 				{
+					["combatId"] = 114,
 					["tipo"] = 2,
-					["combatId"] = 108,
 					["_ActorTable"] = {
 						{
-							["flag_original"] = 1047,
-							["totalabsorbed"] = 0.004253,
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006115,
 							["pets"] = {
-								"Shade of Akama <Thezidari>", -- [1]
 							},
 							["classe"] = "DEMONHUNTER",
-							["total_without_pet"] = 0.004253,
+							["total_without_pet"] = 57084.006115,
 							["dps_started"] = false,
-							["total"] = 16485.004253,
+							["total"] = 57084.006115,
 							["spec"] = 581,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["isTank"] = true,
 							["serial"] = "Player-3661-091C86DD",
 							["extra_bar"] = 0,
+							["colocacao"] = 1,
 							["damage_from"] = {
 							},
 							["targets"] = {
-								["Withered Shambler"] = 16485,
+								["Leyline Spiderling"] = 57084,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["end_time"] = 1689833880,
-							["on_hold"] = false,
 							["aID"] = "3661-091C86DD",
-							["nome"] = "Thezidari",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["grupo"] = true,
-							["tipo"] = 1,
-							["last_dps"] = 20402.23298737382,
-							["custom"] = 0,
-							["last_event"] = 1689833879,
 							["avoidance"] = {
 								["overall"] = {
-									["FULL_ABSORB_AMT"] = 0,
 									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
 									["BLOCKED_AMT"] = 0,
 									["BLOCKED_HITS"] = 0,
 									["FULL_ABSORBED"] = 0,
@@ -67,552 +49,98 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 0,
 								},
 							},
-							["start_time"] = 1689833879,
-							["delay"] = 0,
-							["damage_taken"] = 0.004253,
-						}, -- [1]
-						{
-							["flag_original"] = 8465,
-							["pets"] = {
-							},
-							["aID"] = "111912",
-							["total_without_pet"] = 16485.00696,
-							["dps_started"] = false,
-							["total"] = 16485.00696,
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-3021-1220-25-111912-000038D048",
-							["extra_bar"] = 0,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Withered Shambler"] = 16485,
-							},
+							["grupo"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
-							["tipo"] = 1,
-							["end_time"] = 1689833880,
-							["totalabsorbed"] = 0.00696,
-							["ownerName"] = "Thezidari",
-							["nome"] = "Shade of Akama <Thezidari>",
+							["end_time"] = 1689873677,
+							["nome"] = "Thezidari",
 							["spells"] = {
+								["tipo"] = 2,
 								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
+									[258922] = {
+										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 19121,
 										["targets"] = {
-											["Withered Shambler"] = 16485,
+											["Leyline Spiderling"] = 57084,
 										},
-										["n_total"] = 16485,
-										["n_min"] = 16485,
+										["n_total"] = 19121,
+										["n_min"] = 19121,
 										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 16485,
-										["c_max"] = 0,
-										["id"] = 1,
+										["counter"] = 2,
+										["total"] = 57084,
+										["c_max"] = 37963,
+										["id"] = 258922,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["spellschool"] = 4,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
 										["a_amt"] = 0,
-										["c_min"] = 0,
+										["c_min"] = 37963,
 										["successful_casted"] = 0,
-										["c_total"] = 0,
+										["c_total"] = 37963,
 										["n_amt"] = 1,
-										["n_max"] = 16485,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
-									}, -- [1]
+									},
 								},
-								["tipo"] = 2,
 							},
-							["classe"] = "PET",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 57602.42796448082,
 							["custom"] = 0,
-							["last_event"] = 1689833879,
-							["damage_taken"] = 0.00696,
-							["start_time"] = 1689833879,
+							["tipo"] = 1,
+							["damage_taken"] = 0.006115,
+							["start_time"] = 1689873676,
 							["delay"] = 0,
-							["last_dps"] = 0,
-						}, -- [2]
+							["last_event"] = 1689873676,
+						}, -- [1]
 						{
 							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008319,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["total_without_pet"] = 0.007487,
+							["total_without_pet"] = 0.008319,
 							["dps_started"] = false,
-							["total"] = 0.007487,
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-3021-1220-25-98555-000038A50C",
+							["total"] = 0.008319,
+							["on_hold"] = false,
+							["serial"] = "Creature-0-4226-1220-25-113974-0000396498",
 							["extra_bar"] = 0,
-							["monster"] = true,
-							["damage_from"] = {
-								["Shade of Akama <Thezidari>"] = true,
-							},
-							["targets"] = {
-							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["totalabsorbed"] = 0.007487,
+							["aID"] = "113974",
 							["fight_component"] = true,
-							["end_time"] = 1689833880,
-							["aID"] = "98555",
-							["nome"] = "Withered Shambler",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["on_hold"] = false,
-							["tipo"] = 1,
-							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 16485.007487,
-							["start_time"] = 1689833880,
-							["delay"] = 0,
-							["last_dps"] = 0,
-						}, -- [3]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 108,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 108,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 108,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[224553] = {
-										["activedamt"] = -1,
-										["id"] = 224553,
-										["targets"] = {
-										},
-										["actived_at"] = 1689833879,
-										["uptime"] = 0,
-										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["pets"] = {
-							},
-							["aID"] = "3661-091C86DD",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[224772] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 224772,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[224186] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 224186,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[224187] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 224187,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[227723] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[224553] = {
-										["appliedamt"] = 0,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 0,
-										["id"] = 224553,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[397734] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 397734,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[225787] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 225787,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["debuff_uptime"] = 0,
-							["debuff_uptime_targets"] = {
-							},
-							["spec"] = 581,
-							["grupo"] = true,
-							["buff_uptime"] = 6,
-							["classe"] = "DEMONHUNTER",
-							["nome"] = "Thezidari",
-							["last_event"] = 1689833880,
-							["tipo"] = 4,
-							["isTank"] = true,
-							["serial"] = "Player-3661-091C86DD",
-							["buff_uptime_targets"] = {
-							},
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 108,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Thezidari"] = "Player-3661-091C86DD",
-				},
-				["raid_roster_indexed"] = {
-					"Thezidari", -- [1]
-				},
-				["tempo_start"] = 1689833879,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["bossTimers"] = {
-				},
-				["combat_counter"] = 3733,
-				["playing_solo"] = true,
-				["totals"] = {
-					16485, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["totals_grupo"] = {
-					0, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["amountCasts"] = {
-				},
-				["instance_type"] = "none",
-				["data_fim"] = "23:18:00",
-				["bIsClosed"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Withered Shambler",
-				["trinketProcs"] = {
-				},
-				["TotalElapsedCombatTime"] = 732569.504,
-				["CombatEndedAt"] = 732569.504,
-				["aura_timeline"] = {
-				},
-				["is_world_trash_combat"] = true,
-				["data_inicio"] = "23:17:59",
-				["end_time"] = 732569.504,
-				["combat_id"] = 108,
-				["overall_added"] = true,
-				["frags"] = {
-					["Withered Shambler"] = 1,
-				},
-				["contra"] = "Withered Shambler",
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Thezidari"] = 16485.004253,
-						}, -- [1]
-					},
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 732568.696,
-				["TimeData"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-			}, -- [1]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 107,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["totalabsorbed"] = 0.005733,
-							["pets"] = {
-								"Shade of Akama <Thezidari>", -- [1]
-							},
-							["classe"] = "DEMONHUNTER",
-							["total_without_pet"] = 0.005733,
-							["dps_started"] = false,
-							["total"] = 16485.005733,
-							["spec"] = 581,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["isTank"] = true,
-							["serial"] = "Player-3661-091C86DD",
-							["extra_bar"] = 0,
 							["damage_from"] = {
+								["Thezidari"] = true,
 							},
 							["targets"] = {
-								["Withered Shambler"] = 16485,
 							},
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
-							["end_time"] = 1689833870,
-							["on_hold"] = false,
-							["aID"] = "3661-091C86DD",
-							["nome"] = "Thezidari",
+							["end_time"] = 1689873677,
+							["nome"] = "Leyline Spiderling",
 							["spells"] = {
-								["_ActorTable"] = {
-								},
 								["tipo"] = 2,
-							},
-							["grupo"] = true,
-							["tipo"] = 1,
-							["last_dps"] = 22337.40614190997,
-							["custom"] = 0,
-							["last_event"] = 1689833869,
-							["avoidance"] = {
-								["overall"] = {
-									["FULL_ABSORB_AMT"] = 0,
-									["DODGE"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
-							["start_time"] = 1689833869,
-							["delay"] = 0,
-							["damage_taken"] = 0.005733,
-						}, -- [1]
-						{
-							["flag_original"] = 8465,
-							["pets"] = {
-							},
-							["aID"] = "111912",
-							["total_without_pet"] = 16485.008027,
-							["dps_started"] = false,
-							["total"] = 16485.008027,
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-3021-1220-25-111912-000038D048",
-							["extra_bar"] = 0,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Withered Shambler"] = 16485,
-							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["tipo"] = 1,
-							["end_time"] = 1689833870,
-							["totalabsorbed"] = 0.008027,
-							["ownerName"] = "Thezidari",
-							["nome"] = "Shade of Akama <Thezidari>",
-							["spells"] = {
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Withered Shambler"] = 16485,
-										},
-										["n_total"] = 16485,
-										["n_min"] = 16485,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 16485,
-										["c_max"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 1,
-										["n_max"] = 16485,
-										["r_amt"] = 0,
-									}, -- [1]
-								},
-								["tipo"] = 2,
-							},
-							["classe"] = "PET",
-							["on_hold"] = false,
-							["custom"] = 0,
-							["last_event"] = 1689833869,
-							["damage_taken"] = 0.008027,
-							["start_time"] = 1689833869,
-							["delay"] = 0,
-							["last_dps"] = 0,
-						}, -- [2]
-						{
-							["flag_original"] = 68168,
-							["pets"] = {
-							},
-							["classe"] = "UNKNOW",
-							["total_without_pet"] = 0.003541,
-							["dps_started"] = false,
-							["total"] = 0.003541,
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-3021-1220-25-98555-000038A4CB",
-							["extra_bar"] = 0,
-							["monster"] = true,
-							["damage_from"] = {
-								["Shade of Akama <Thezidari>"] = true,
-							},
-							["targets"] = {
-							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["totalabsorbed"] = 0.003541,
-							["fight_component"] = true,
-							["end_time"] = 1689833870,
-							["aID"] = "98555",
-							["nome"] = "Withered Shambler",
-							["spells"] = {
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 											["Thezidari"] = 0,
-											["Shade of Akama"] = 0,
 										},
 										["n_total"] = 0,
 										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 2,
+										["counter"] = 1,
 										["total"] = 0,
 										["c_max"] = 0,
-										["MISS"] = 2,
+										["MISS"] = 1,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
@@ -624,163 +152,276 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 								},
-								["tipo"] = 2,
 							},
-							["on_hold"] = false,
-							["tipo"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1689833878,
-							["damage_taken"] = 16485.003541,
-							["start_time"] = 1689833870,
-							["delay"] = 0,
+							["friendlyfire"] = {
+							},
 							["last_dps"] = 0,
-						}, -- [3]
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 57084.008319,
+							["start_time"] = 1689873677,
+							["delay"] = 0,
+							["last_event"] = 1689873676,
+						}, -- [2]
 					},
 				}, -- [1]
 				{
+					["combatId"] = 114,
 					["tipo"] = 3,
-					["combatId"] = 107,
 					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 2284.004283,
+							["total_without_pet"] = 0.004283,
+							["total"] = 0.004283,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["isTank"] = true,
+							["totalabsorb"] = 0.004283,
+							["last_hps"] = 0,
+							["aID"] = "3661-091C86DD",
+							["targets"] = {
+							},
+							["spec"] = 581,
+							["serial"] = "Player-3661-091C86DD",
+							["totalover_without_pet"] = 0.004283,
+							["grupo"] = true,
+							["healing_taken"] = 0.004283,
+							["healing_from"] = {
+							},
+							["classe"] = "DEMONHUNTER",
+							["end_time"] = 1689873677,
+							["targets_overheal"] = {
+								["Thezidari"] = 2284,
+							},
+							["start_time"] = 1689873677,
+							["nome"] = "Thezidari",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[213011] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Thezidari"] = 2284,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Thezidari"] = 0,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 2284,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 213011,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["spellschool"] = 4,
+										["c_total"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["custom"] = 0,
+							["last_event"] = 1689873677,
+							["totaldenied"] = 0.004283,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
 					},
 				}, -- [2]
 				{
+					["combatId"] = 114,
 					["tipo"] = 7,
-					["combatId"] = 107,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 107,
 					["_ActorTable"] = {
 						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[224553] = {
-										["activedamt"] = -1,
-										["id"] = 224553,
-										["targets"] = {
-										},
-										["actived_at"] = 1689833869,
-										["uptime"] = 0,
-										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-								["tipo"] = 9,
-							},
+							["flag_original"] = 1297,
+							["resource"] = 8.001317,
 							["pets"] = {
 							},
 							["aID"] = "3661-091C86DD",
-							["buff_uptime_spells"] = {
+							["passiveover"] = 0.001317,
+							["total"] = 0.001317,
+							["spec"] = 581,
+							["isTank"] = true,
+							["received"] = 0.001317,
+							["targets"] = {
+							},
+							["powertype"] = 1,
+							["alternatepower"] = 0.001317,
+							["resource_type"] = 17,
+							["nome"] = "Thezidari",
+							["spells"] = {
+								["tipo"] = 7,
 								["_ActorTable"] = {
-									[224772] = {
-										["appliedamt"] = 1,
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DEMONHUNTER",
+							["last_event"] = 1689873680,
+							["totalover"] = 0.001317,
+							["serial"] = "Player-3661-091C86DD",
+							["tipo"] = 3,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 114,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["classe"] = "DEMONHUNTER",
+							["buff_uptime"] = 10,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[409645] = {
+										["activedamt"] = 1,
+										["id"] = 409645,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 224772,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[224186] = {
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["id"] = 224186,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 224186,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[224187] = {
-										["appliedamt"] = 1,
+									[203880] = {
+										["activedamt"] = 1,
+										["id"] = 203880,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 224187,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["id"] = 227723,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[224553] = {
-										["appliedamt"] = 0,
+									[391430] = {
+										["activedamt"] = 1,
+										["id"] = 391430,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 0,
-										["id"] = 224553,
+										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[397734] = {
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["id"] = 397734,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 397734,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203981] = {
+										["activedamt"] = 1,
+										["id"] = 203981,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[224187] = {
+										["activedamt"] = 1,
+										["id"] = 224187,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[258920] = {
+										["activedamt"] = 1,
+										["id"] = 258920,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[225787] = {
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["id"] = 225787,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
-								["tipo"] = 9,
 							},
-							["debuff_uptime"] = 0,
-							["debuff_uptime_targets"] = {
-							},
-							["spec"] = 581,
 							["grupo"] = true,
-							["buff_uptime"] = 6,
-							["classe"] = "DEMONHUNTER",
-							["nome"] = "Thezidari",
-							["last_event"] = 1689833870,
-							["tipo"] = 4,
-							["isTank"] = true,
 							["serial"] = "Player-3661-091C86DD",
-							["buff_uptime_targets"] = {
-							},
+							["aID"] = "3661-091C86DD",
+							["nome"] = "Thezidari",
+							["spec"] = 581,
+							["last_event"] = 1689873677,
+							["isTank"] = true,
 						}, -- [1]
 					},
 				}, -- [4]
 				{
+					["combatId"] = 114,
 					["tipo"] = 2,
-					["combatId"] = 107,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -790,18 +431,20 @@ _detalhes_database = {
 				["raid_roster_indexed"] = {
 					"Thezidari", -- [1]
 				},
-				["CombatStartedAt"] = 732565.762,
-				["tempo_start"] = 1689833869,
+				["CombatStartedAt"] = 772845.268,
+				["tempo_start"] = 1689873676,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 3732,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
-					16485, -- [1]
+					57084, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
@@ -813,18 +456,44 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["amountCasts"] = {
+				},
+				["instance_type"] = "none",
+				["data_fim"] = "10:21:18",
+				["bIsClosed"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Leyline Spiderling",
+				["trinketProcs"] = {
+				},
+				["TotalElapsedCombatTime"] = 6.378000000026077,
+				["CombatEndedAt"] = 772851.6460000001,
+				["aura_timeline"] = {
+				},
+				["is_world_trash_combat"] = true,
+				["data_inicio"] = "10:21:17",
+				["end_time"] = 772367.106,
+				["combat_id"] = 114,
+				["overall_added"] = true,
+				["frags"] = {
+					["Leyline Spiderling"] = 2,
+				},
+				["combat_counter"] = 3741,
 				["totals_grupo"] = {
-					0, -- [1]
+					57084, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
@@ -836,66 +505,663 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["amountCasts"] = {
-				},
-				["instance_type"] = "none",
-				["data_fim"] = "23:17:50",
-				["bIsClosed"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Withered Shambler",
-				["trinketProcs"] = {
-				},
-				["TotalElapsedCombatTime"] = 732559.39,
-				["CombatEndedAt"] = 732559.39,
-				["aura_timeline"] = {
-				},
-				["is_world_trash_combat"] = true,
-				["data_inicio"] = "23:17:49",
-				["end_time"] = 732559.39,
-				["combat_id"] = 107,
-				["overall_added"] = true,
-				["frags"] = {
-					["Withered Shambler"] = 1,
-				},
-				["contra"] = "Withered Shambler",
-				["player_last_events"] = {
 				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
-					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
+							["Thezidari"] = 0.004283,
 						}, -- [1]
+					},
+					["damage_section"] = {
 					},
 					["damage"] = {
 						{
-							["Thezidari"] = 16485.005733,
+							["Thezidari"] = 57084.006115,
 						}, -- [1]
 					},
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 772366.115,
+				["contra"] = "Leyline Spiderling",
+				["TimeData"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 113,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007994,
+							["pets"] = {
+							},
+							["classe"] = "DEMONHUNTER",
+							["total_without_pet"] = 326376.007994,
+							["dps_started"] = false,
+							["total"] = 326376.007994,
+							["spec"] = 581,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-3661-091C86DD",
+							["extra_bar"] = 0,
+							["colocacao"] = 1,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Leyline Spiderling"] = 326376,
+							},
+							["aID"] = "3661-091C86DD",
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["grupo"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1689873676,
+							["nome"] = "Thezidari",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 66428,
+										["targets"] = {
+											["Leyline Spiderling"] = 66428,
+										},
+										["n_total"] = 66428,
+										["n_min"] = 66428,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 66428,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[258921] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 48452,
+										["targets"] = {
+											["Leyline Spiderling"] = 144787,
+										},
+										["n_total"] = 48452,
+										["n_min"] = 48452,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 144787,
+										["c_max"] = 96335,
+										["id"] = 258921,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 96335,
+										["successful_casted"] = 0,
+										["c_total"] = 96335,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[258922] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Leyline Spiderling"] = 115161,
+											["Infernal"] = 0,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 115161,
+										["c_max"] = 38920,
+										["EVADE"] = 1,
+										["id"] = 258922,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 37772,
+										["successful_casted"] = 0,
+										["c_total"] = 115161,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 101170.4922478457,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.007994,
+							["start_time"] = 1689873672,
+							["delay"] = 0,
+							["last_event"] = 1689873675,
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.003878,
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["total_without_pet"] = 0.003878,
+							["dps_started"] = false,
+							["total"] = 0.003878,
+							["on_hold"] = false,
+							["serial"] = "Creature-0-4226-1220-25-113974-000039645B",
+							["aID"] = "113974",
+							["extra_bar"] = 0,
+							["fight_component"] = true,
+							["damage_from"] = {
+								["Thezidari"] = true,
+							},
+							["targets"] = {
+							},
+							["monster"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1689873676,
+							["nome"] = "Leyline Spiderling",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Thezidari"] = 0,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["MISS"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 326376.003878,
+							["start_time"] = 1689873676,
+							["delay"] = 0,
+							["last_event"] = 1689873673,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 113,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 212283.004014,
+							["total_without_pet"] = 0.004014,
+							["total"] = 0.004014,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["isTank"] = true,
+							["totalabsorb"] = 0.004014,
+							["last_hps"] = 0,
+							["aID"] = "3661-091C86DD",
+							["spec"] = 581,
+							["targets"] = {
+							},
+							["serial"] = "Player-3661-091C86DD",
+							["totalover_without_pet"] = 0.004014,
+							["grupo"] = true,
+							["healing_taken"] = 0.004014,
+							["healing_from"] = {
+							},
+							["classe"] = "DEMONHUNTER",
+							["end_time"] = 1689873676,
+							["targets_overheal"] = {
+								["Thezidari"] = 212283,
+							},
+							["start_time"] = 1689873673,
+							["nome"] = "Thezidari",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[213011] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Thezidari"] = 8859,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Thezidari"] = 0,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["counter"] = 3,
+										["overheal"] = 8859,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 213011,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["spellschool"] = 4,
+										["c_total"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 3,
+										["absorbed"] = 0,
+									},
+									[350631] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Thezidari"] = 203424,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Thezidari"] = 0,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 203424,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 350631,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["spellschool"] = 32,
+										["c_total"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["custom"] = 0,
+							["last_event"] = 1689873675,
+							["totaldenied"] = 0.004014,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 113,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["resource"] = 8.001983,
+							["pets"] = {
+							},
+							["aID"] = "3661-091C86DD",
+							["passiveover"] = 0.001983,
+							["total"] = 0.001983,
+							["spec"] = 581,
+							["isTank"] = true,
+							["received"] = 0.001983,
+							["targets"] = {
+							},
+							["powertype"] = 1,
+							["alternatepower"] = 0.001983,
+							["resource_type"] = 17,
+							["nome"] = "Thezidari",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DEMONHUNTER",
+							["last_event"] = 1689873676,
+							["totalover"] = 0.001983,
+							["serial"] = "Player-3661-091C86DD",
+							["tipo"] = 3,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 113,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["classe"] = "DEMONHUNTER",
+							["buff_uptime"] = 39,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[224186] = {
+										["activedamt"] = 1,
+										["id"] = 224186,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203880] = {
+										["activedamt"] = 1,
+										["id"] = 203880,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[224187] = {
+										["activedamt"] = 1,
+										["id"] = 224187,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 6,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[397734] = {
+										["activedamt"] = 1,
+										["id"] = 397734,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203981] = {
+										["activedamt"] = 1,
+										["id"] = 203981,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[409645] = {
+										["activedamt"] = 1,
+										["id"] = 409645,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[258920] = {
+										["activedamt"] = 1,
+										["id"] = 258920,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[391430] = {
+										["activedamt"] = 1,
+										["id"] = 391430,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3661-091C86DD",
+							["aID"] = "3661-091C86DD",
+							["nome"] = "Thezidari",
+							["spec"] = 581,
+							["last_event"] = 1689873676,
+							["isTank"] = true,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 113,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Thezidari"] = "Player-3661-091C86DD",
+				},
+				["raid_roster_indexed"] = {
+					"Thezidari", -- [1]
+				},
+				["CombatStartedAt"] = 772362.26,
+				["tempo_start"] = 1689873672,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["bossTimers"] = {
 				},
 				["cleu_events"] = {
 					["n"] = 1,
 				},
-				["start_time"] = 732558.652,
-				["TimeData"] = {
+				["playing_solo"] = true,
+				["totals"] = {
+					326376, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["amountCasts"] = {
+					["Thezidari"] = {
+						["Throw Glaive"] = 2,
+						["Soul Fragment"] = 2,
+					},
+				},
+				["instance_type"] = "none",
+				["data_fim"] = "10:21:16",
+				["bIsClosed"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Leyline Spiderling",
+				["trinketProcs"] = {
+				},
+				["TotalElapsedCombatTime"] = 3.226000000024214,
+				["CombatEndedAt"] = 772365.486,
+				["aura_timeline"] = {
+				},
+				["is_world_trash_combat"] = true,
+				["data_inicio"] = "10:21:13",
+				["end_time"] = 772365.486,
+				["combat_id"] = 113,
+				["overall_added"] = true,
+				["frags"] = {
+					["Leyline Spiderling"] = 6,
+					["Infernal"] = 1,
+				},
+				["combat_counter"] = 3740,
+				["totals_grupo"] = {
+					326376, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Thezidari"] = 0.004014,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Thezidari"] = 326376.007994,
+						}, -- [1]
+					},
 				},
 				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 772362.26,
+				["contra"] = "Leyline Spiderling",
+				["TimeData"] = {
 				},
 			}, -- [2]
 			{
@@ -909,7 +1175,7 @@ _detalhes_database = {
 							["pets"] = {
 								"Doomguard <Thezidari>", -- [1]
 							},
-							["classe"] = "DEMONHUNTER",
+							["aID"] = "3661-091C86DD",
 							["total_without_pet"] = 549733.004716,
 							["dps_started"] = false,
 							["total"] = 549733.004716,
@@ -918,8 +1184,8 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["isTank"] = true,
 							["serial"] = "Player-3661-091C86DD",
-							["ilvl"] = 433,
 							["extra_bar"] = 0,
+							["ilvl"] = 433,
 							["damage_from"] = {
 								["Environment (Falling)"] = true,
 								["Dominator Tentacle"] = true,
@@ -941,8 +1207,8 @@ _detalhes_database = {
 							},
 							["avoidance"] = {
 								["Environment (Falling)"] = {
-									["DODGE"] = 0,
 									["FULL_ABSORB_AMT"] = 0,
+									["DODGE"] = 0,
 									["BLOCKED_AMT"] = 0,
 									["BLOCKED_HITS"] = 0,
 									["FULL_ABSORBED"] = 0,
@@ -957,8 +1223,8 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 166639,
 								},
 								["Dominator Tentacle"] = {
-									["DODGE"] = 0,
 									["FULL_ABSORB_AMT"] = 0,
+									["DODGE"] = 0,
 									["BLOCKED_AMT"] = 0,
 									["BLOCKED_HITS"] = 0,
 									["FULL_ABSORBED"] = 0,
@@ -973,8 +1239,8 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 9,
 								},
 								["overall"] = {
-									["DODGE"] = 1,
 									["FULL_ABSORB_AMT"] = 10269,
+									["DODGE"] = 1,
 									["BLOCKED_AMT"] = 0,
 									["BLOCKED_HITS"] = 0,
 									["FULL_ABSORBED"] = 17,
@@ -989,8 +1255,8 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 169602,
 								},
 								["Doomguard <Thezidari>"] = {
-									["DODGE"] = 0,
 									["FULL_ABSORB_AMT"] = 9248,
+									["DODGE"] = 0,
 									["BLOCKED_AMT"] = 0,
 									["BLOCKED_HITS"] = 0,
 									["FULL_ABSORBED"] = 3,
@@ -1005,8 +1271,8 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 0,
 								},
 								["Deathglare Tentacle"] = {
-									["DODGE"] = 0,
 									["FULL_ABSORB_AMT"] = 129,
+									["DODGE"] = 0,
 									["BLOCKED_AMT"] = 0,
 									["BLOCKED_HITS"] = 0,
 									["FULL_ABSORBED"] = 3,
@@ -1020,25 +1286,9 @@ _detalhes_database = {
 									["HITS"] = 0,
 									["FULL_HIT_AMT"] = 163,
 								},
-								["Eye of Il'gynoth"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 892,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 11,
-									["ALL"] = 47,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 11,
-									["ABSORB_AMT"] = 892,
-									["FULL_HIT"] = 36,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 2788,
-								},
 								["Nightmare Ichor"] = {
-									["DODGE"] = 1,
 									["FULL_ABSORB_AMT"] = 0,
+									["DODGE"] = 1,
 									["BLOCKED_AMT"] = 0,
 									["BLOCKED_HITS"] = 0,
 									["FULL_ABSORBED"] = 0,
@@ -1052,18 +1302,35 @@ _detalhes_database = {
 									["HITS"] = 2,
 									["FULL_HIT_AMT"] = 3,
 								},
+								["Eye of Il'gynoth"] = {
+									["FULL_ABSORB_AMT"] = 892,
+									["DODGE"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 11,
+									["ALL"] = 47,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 11,
+									["ABSORB_AMT"] = 892,
+									["FULL_HIT"] = 36,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 2788,
+								},
 							},
 							["end_time"] = 1689803405,
+							["last_dps"] = 5861.755379081133,
+							["friendlyfire"] = {
+							},
 							["nome"] = "Thezidari",
-							["damage_taken"] = 169602.004716,
-							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 17,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 63535,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Il'gynoth"] = 2461,
 											["Eye of Il'gynoth"] = 35609,
@@ -1087,45 +1354,42 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 18280,
 										["n_amt"] = 33,
-										["b_dmg"] = 0,
+										["n_max"] = 63535,
 										["r_amt"] = 0,
 									}, -- [1]
-									[258922] = {
-										["c_amt"] = 13,
+									[189112] = {
+										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 4711,
+										["b_dmg"] = 0,
 										["targets"] = {
-											["Corruptor Tentacle"] = 8374,
-											["Nightmare Ichor"] = 18844,
-											["Deathglare Tentacle"] = 8316,
-											["Eye of Il'gynoth"] = 6553,
+											["Il'gynoth"] = 142729,
 										},
-										["n_total"] = 22384,
+										["n_total"] = 0,
 										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 55,
-										["total"] = 42087,
-										["c_max"] = 8316,
-										["id"] = 258922,
+										["counter"] = 1,
+										["total"] = 142729,
+										["c_max"] = 142729,
+										["id"] = 189112,
 										["r_dmg"] = 0,
 										["spellschool"] = 4,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
 										["a_amt"] = 0,
-										["c_min"] = 0,
+										["c_min"] = 142729,
 										["successful_casted"] = 0,
-										["c_total"] = 19703,
-										["n_amt"] = 42,
-										["b_dmg"] = 0,
+										["c_total"] = 142729,
+										["n_amt"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[228478] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 2338,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Eye of Il'gynoth"] = 22412,
 										},
@@ -1146,19 +1410,19 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 7801,
 										["n_amt"] = 7,
-										["b_dmg"] = 0,
+										["n_max"] = 2338,
 										["r_amt"] = 0,
 									},
 									[346665] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 8316,
+										["b_dmg"] = 0,
 										["targets"] = {
-											["Deathglare Tentacle"] = 16632,
-											["Dominator Tentacle"] = 26713,
 											["Nightmare Ichor"] = 0,
+											["Dominator Tentacle"] = 26713,
 											["Eye of Il'gynoth"] = 721,
+											["Deathglare Tentacle"] = 16632,
 										},
 										["n_total"] = 17353,
 										["n_min"] = 0,
@@ -1177,14 +1441,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 26713,
 										["n_amt"] = 6,
-										["b_dmg"] = 0,
+										["n_max"] = 8316,
 										["r_amt"] = 0,
 									},
 									[225919] = {
 										["c_amt"] = 10,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 26713,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Dominator Tentacle"] = 26713,
 											["Eye of Il'gynoth"] = 50474,
@@ -1207,14 +1471,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 23101,
 										["n_amt"] = 23,
-										["b_dmg"] = 0,
+										["n_max"] = 26713,
 										["r_amt"] = 0,
 									},
 									[207771] = {
 										["c_amt"] = 7,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 831,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Eye of Il'gynoth"] = 10008,
 											["Nightmare Ichor"] = 4711,
@@ -1236,14 +1500,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 11602,
 										["n_amt"] = 6,
-										["b_dmg"] = 0,
+										["n_max"] = 831,
 										["r_amt"] = 0,
 									},
 									[204598] = {
 										["c_amt"] = 8,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 4711,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Nightmare Ichor"] = 56532,
 											["Eye of Il'gynoth"] = 7714,
@@ -1265,14 +1529,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 21673,
 										["n_amt"] = 26,
-										["b_dmg"] = 0,
+										["n_max"] = 4711,
 										["r_amt"] = 0,
 									},
 									[258921] = {
 										["c_amt"] = 4,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 4711,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Nightmare Ichor"] = 9422,
 											["Eye of Il'gynoth"] = 3093,
@@ -1294,14 +1558,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 5882,
 										["n_amt"] = 14,
-										["b_dmg"] = 0,
+										["n_max"] = 4711,
 										["r_amt"] = 0,
 									},
 									[370970] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Elerethe Renferal"] = 0,
 										},
@@ -1323,14 +1587,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[207407] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 4352,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Eye of Il'gynoth"] = 7078,
 										},
@@ -1351,14 +1615,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
+										["n_max"] = 4352,
 										["r_amt"] = 0,
 									},
 									[204021] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 4190,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Eye of Il'gynoth"] = 11165,
 										},
@@ -1379,14 +1643,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 6975,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 4190,
 										["r_amt"] = 0,
 									},
 									[214743] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 2176,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Eye of Il'gynoth"] = 2176,
 										},
@@ -1407,14 +1671,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 2176,
 										["r_amt"] = 0,
 									},
 									[350631] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 3037,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Eye of Il'gynoth"] = 3037,
 										},
@@ -1435,35 +1699,38 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 3037,
 										["r_amt"] = 0,
 									},
-									[189112] = {
-										["c_amt"] = 1,
+									[258922] = {
+										["c_amt"] = 13,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
-											["Il'gynoth"] = 142729,
+											["Corruptor Tentacle"] = 8374,
+											["Deathglare Tentacle"] = 8316,
+											["Eye of Il'gynoth"] = 6553,
+											["Nightmare Ichor"] = 18844,
 										},
-										["n_total"] = 0,
+										["n_total"] = 22384,
 										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 142729,
-										["c_max"] = 142729,
-										["id"] = 189112,
+										["counter"] = 55,
+										["total"] = 42087,
+										["c_max"] = 8316,
+										["id"] = 258922,
 										["r_dmg"] = 0,
 										["spellschool"] = 4,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
 										["a_amt"] = 0,
-										["c_min"] = 142729,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["c_total"] = 142729,
-										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["c_total"] = 19703,
+										["n_amt"] = 42,
+										["n_max"] = 4711,
 										["r_amt"] = 0,
 									},
 								},
@@ -1471,14 +1738,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["tipo"] = 1,
-							["aID"] = "3661-091C86DD",
+							["classe"] = "DEMONHUNTER",
 							["custom"] = 0,
 							["last_event"] = 1689803872,
-							["last_dps"] = 5861.755379081133,
+							["damage_taken"] = 169602.004716,
 							["start_time"] = 1689803312,
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["boss_fight_component"] = true,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -1486,12 +1752,13 @@ _detalhes_database = {
 							},
 							["aID"] = "105721",
 							["total_without_pet"] = 1139562.003362,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 1139562.003362,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Creature-0-3018-1520-8523-105721-0000385A30",
 							["extra_bar"] = 0,
-							["classe"] = "UNKNOW",
+							["dps_started"] = false,
 							["damage_from"] = {
 								["Thezidari"] = true,
 							},
@@ -1504,16 +1771,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 0.003362,
 							["end_time"] = 1689803405,
-							["boss_fight_component"] = true,
-							["monster"] = true,
 							["nome"] = "Nightmare Ichor",
+							["classe"] = "UNKNOW",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 2,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Thezidari"] = 3,
 										},
@@ -1522,12 +1789,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 18,
 										["DODGE"] = 1,
-										["total"] = 3,
-										["c_max"] = 0,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["MISS"] = 15,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -1536,42 +1803,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 2,
+										["total"] = 3,
 									}, -- [1]
-									[210048] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 64980,
-										["targets"] = {
-											["Eye of Il'gynoth"] = 1139559,
-										},
-										["n_total"] = 1139559,
-										["n_min"] = 34899,
-										["g_dmg"] = 0,
-										["counter"] = 18,
-										["total"] = 1139559,
-										["c_max"] = 0,
-										["id"] = 210048,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 18,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
 									[209469] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Thezidari"] = 0,
 										},
@@ -1593,14 +1832,42 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
+										["n_max"] = 0,
+										["r_amt"] = 0,
+									},
+									[210048] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
 										["b_dmg"] = 0,
+										["targets"] = {
+											["Eye of Il'gynoth"] = 1139559,
+										},
+										["n_total"] = 1139559,
+										["n_min"] = 34899,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 1139559,
+										["c_max"] = 0,
+										["id"] = 210048,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 18,
+										["n_max"] = 64980,
 										["r_amt"] = 0,
 									},
 									[209471] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Thezidari"] = 0,
 										},
@@ -1621,14 +1888,14 @@ _detalhes_database = {
 										["successful_casted"] = 20,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[210099] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -1647,21 +1914,20 @@ _detalhes_database = {
 										["successful_casted"] = 20,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 94220.003362,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["on_hold"] = false,
 							["last_event"] = 1689803401,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["start_time"] = 1689803368,
 							["delay"] = 1689803354,
-							["tipo"] = 1,
+							["damage_taken"] = 94220.003362,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -1669,12 +1935,13 @@ _detalhes_database = {
 							},
 							["aID"] = "105906",
 							["total_without_pet"] = 2788.002007,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 2788.002007,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Creature-0-3018-1520-8523-105906-0000385963",
 							["extra_bar"] = 0,
-							["classe"] = "UNKNOW",
+							["dps_started"] = false,
 							["damage_from"] = {
 								["Nightmare Ichor"] = true,
 								["Thezidari"] = true,
@@ -1687,16 +1954,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 892.002007,
 							["end_time"] = 1689803405,
-							["boss_fight_component"] = true,
-							["monster"] = true,
 							["nome"] = "Eye of Il'gynoth",
+							["classe"] = "UNKNOW",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[210931] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 91,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Thezidari"] = 2788,
 										},
@@ -1716,21 +1983,20 @@ _detalhes_database = {
 										["successful_casted"] = 36,
 										["c_total"] = 0,
 										["n_amt"] = 36,
-										["b_dmg"] = 0,
+										["n_max"] = 91,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 1299599.002007,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["on_hold"] = false,
 							["last_event"] = 1689803401,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["start_time"] = 1689803314,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["damage_taken"] = 1299599.002007,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -1738,12 +2004,13 @@ _detalhes_database = {
 							},
 							["aID"] = "105322",
 							["total_without_pet"] = 163.002003,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 163.002003,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Creature-0-3018-1520-8523-105322-0000385A43",
 							["extra_bar"] = 0,
-							["classe"] = "UNKNOW",
+							["dps_started"] = false,
 							["damage_from"] = {
 								["Thezidari"] = true,
 							},
@@ -1755,16 +2022,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 129.002003,
 							["end_time"] = 1689803405,
-							["boss_fight_component"] = true,
-							["monster"] = true,
 							["nome"] = "Deathglare Tentacle",
+							["classe"] = "UNKNOW",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[208697] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 44,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Thezidari"] = 163,
 										},
@@ -1784,21 +2051,20 @@ _detalhes_database = {
 										["successful_casted"] = 2,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
+										["n_max"] = 44,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 24948.002003,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["on_hold"] = false,
 							["last_event"] = 1689803395,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["start_time"] = 1689803400,
 							["delay"] = 1689803395,
-							["tipo"] = 1,
+							["damage_taken"] = 24948.002003,
 						}, -- [4]
 						{
 							["flag_original"] = 68168,
@@ -1806,12 +2072,13 @@ _detalhes_database = {
 							},
 							["aID"] = "105304",
 							["total_without_pet"] = 9.001221,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 9.001221,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Creature-0-3018-1520-8523-105304-0000B85963",
 							["extra_bar"] = 0,
-							["classe"] = "UNKNOW",
+							["dps_started"] = false,
 							["damage_from"] = {
 								["Thezidari"] = true,
 							},
@@ -1823,16 +2090,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 0.001221,
 							["end_time"] = 1689803405,
-							["boss_fight_component"] = true,
-							["monster"] = true,
 							["nome"] = "Dominator Tentacle",
+							["classe"] = "UNKNOW",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 9,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Thezidari"] = 9,
 										},
@@ -1853,21 +2120,20 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 9,
 										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 53426.001221,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["on_hold"] = false,
 							["last_event"] = 1689803314,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["start_time"] = 1689803404,
 							["delay"] = 1689803314,
-							["tipo"] = 1,
+							["damage_taken"] = 53426.001221,
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -1875,12 +2141,13 @@ _detalhes_database = {
 							},
 							["aID"] = "105383",
 							["total_without_pet"] = 0.005413,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 0.005413,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Creature-0-3018-1520-8523-105383-0000385A74",
 							["extra_bar"] = 0,
-							["classe"] = "UNKNOW",
+							["dps_started"] = false,
 							["damage_from"] = {
 								["Thezidari"] = true,
 							},
@@ -1891,23 +2158,22 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 0.005413,
 							["end_time"] = 1689803405,
-							["boss_fight_component"] = true,
-							["monster"] = true,
 							["nome"] = "Corruptor Tentacle",
+							["classe"] = "UNKNOW",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 8374.005412999999,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["on_hold"] = false,
 							["last_event"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["start_time"] = 1689803405,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["damage_taken"] = 8374.005412999999,
 						}, -- [6]
 						{
 							["flag_original"] = 68168,
@@ -1915,12 +2181,13 @@ _detalhes_database = {
 							},
 							["aID"] = "105393",
 							["total_without_pet"] = 0.003193,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 0.003193,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Creature-0-3018-1520-8523-105393-0000385963",
 							["extra_bar"] = 0,
-							["classe"] = "UNKNOW",
+							["dps_started"] = false,
 							["damage_from"] = {
 								["Thezidari"] = true,
 							},
@@ -1931,23 +2198,22 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 0.003193,
 							["end_time"] = 1689803405,
-							["boss_fight_component"] = true,
-							["monster"] = true,
 							["nome"] = "Il'gynoth",
+							["classe"] = "UNKNOW",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 145190.003193,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["on_hold"] = false,
 							["last_event"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["start_time"] = 1689803405,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["damage_taken"] = 145190.003193,
 						}, -- [7]
 						{
 							["flag_original"] = 2632,
@@ -1955,12 +2221,12 @@ _detalhes_database = {
 							},
 							["aID"] = "168932",
 							["total_without_pet"] = 0.002501,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 0.002501,
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3018-1520-8523-168932-0000385A5E",
 							["friendlyfire"] = {
 							},
-							["serial"] = "Creature-0-3018-1520-8523-168932-0000385A5E",
-							["classe"] = "UNKNOW",
 							["extra_bar"] = 0,
 							["totalabsorbed"] = 9248.002500999999,
 							["damage_from"] = {
@@ -1970,24 +2236,24 @@ _detalhes_database = {
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
-							["boss_fight_component"] = true,
-							["end_time"] = 1689803405,
-							["on_hold"] = false,
-							["ownerName"] = "Thezidari",
 							["nome"] = "Doomguard <Thezidari>",
+							["end_time"] = 1689803405,
+							["classe"] = "UNKNOW",
+							["ownerName"] = "Thezidari",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.002501,
-							["dps_started"] = false,
-							["custom"] = 0,
+							["monster"] = true,
 							["last_event"] = 1689803361,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["start_time"] = 1689803405,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["damage_taken"] = 0.002501,
 						}, -- [8]
 						{
 							["flag_original"] = 2632,
@@ -1995,12 +2261,13 @@ _detalhes_database = {
 							},
 							["aID"] = "105591",
 							["total_without_pet"] = 0.001326,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 0.001326,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Creature-0-3018-1520-8523-105591-0000385A60",
 							["extra_bar"] = 0,
-							["classe"] = "UNKNOW",
+							["dps_started"] = false,
 							["damage_from"] = {
 								["Thezidari"] = true,
 							},
@@ -2011,16 +2278,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 0.001326,
 							["end_time"] = 1689803405,
-							["boss_fight_component"] = true,
-							["monster"] = true,
 							["nome"] = "Nightmare Horror",
+							["classe"] = "UNKNOW",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[209387] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -2039,21 +2306,20 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 63535.001326,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["on_hold"] = false,
 							["last_event"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["start_time"] = 1689803405,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["damage_taken"] = 63535.001326,
 						}, -- [9]
 					},
 				}, -- [1]
@@ -2063,17 +2329,19 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Thezidari"] = true,
+							["targets_overheal"] = {
+								["Thezidari"] = 1498781,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["aID"] = "3661-091C86DD",
+							["classe"] = "DEMONHUNTER",
 							["totalover"] = 1498781.004938,
 							["total_without_pet"] = 12211.004938,
 							["total"] = 12211.004938,
-							["spec"] = 581,
+							["targets_absorbs"] = {
+								["Thezidari"] = 10269,
+							},
 							["heal_enemy"] = {
 							},
 							["colocacao"] = 1,
@@ -2085,40 +2353,41 @@ _detalhes_database = {
 							["targets"] = {
 								["Thezidari"] = 12211,
 							},
-							["last_event"] = 1689803404,
+							["aID"] = "3661-091C86DD",
 							["totalover_without_pet"] = 0.004938,
 							["healing_taken"] = 12211.004938,
 							["start_time"] = 1689803314,
 							["end_time"] = 1689803405,
 							["heal_enemy_amt"] = 0,
-							["classe"] = "DEMONHUNTER",
+							["boss_fight_component"] = true,
 							["nome"] = "Thezidari",
 							["spells"] = {
 								["_ActorTable"] = {
-									[210042] = {
+									[343013] = {
 										["c_amt"] = 0,
-										["totalabsorb"] = 0,
+										["totalabsorb"] = 10269,
 										["targets_overheal"] = {
-											["Thezidari"] = 70157,
 										},
-										["n_max"] = 0,
+										["n_max"] = 3860,
 										["targets"] = {
-											["Thezidari"] = 0,
+											["Thezidari"] = 10269,
 										},
-										["n_total"] = 0,
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 70157,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 210042,
+										["n_total"] = 10269,
+										["n_min"] = 42,
+										["counter"] = 17,
+										["overheal"] = 0,
+										["total"] = 10269,
+										["spellschool"] = 4,
+										["id"] = 343013,
 										["targets_absorbs"] = {
+											["Thezidari"] = 10269,
 										},
+										["c_max"] = 0,
 										["c_min"] = 0,
-										["spellschool"] = 32,
+										["n_amt"] = 17,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
-										["n_amt"] = 1,
+										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
 									[203794] = {
@@ -2136,12 +2405,12 @@ _detalhes_database = {
 										["counter"] = 48,
 										["overheal"] = 593525,
 										["total"] = 254,
-										["c_max"] = 0,
+										["spellschool"] = 32,
 										["id"] = 203794,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 32,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 48,
@@ -2162,12 +2431,12 @@ _detalhes_database = {
 										["counter"] = 14,
 										["overheal"] = 4474,
 										["total"] = 1012,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 143924,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 14,
@@ -2188,42 +2457,41 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 208440,
 										["total"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 32,
 										["id"] = 350631,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 32,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
 										["absorbed"] = 0,
 									},
-									[343013] = {
+									[210042] = {
 										["c_amt"] = 0,
-										["totalabsorb"] = 10269,
+										["totalabsorb"] = 0,
 										["targets_overheal"] = {
+											["Thezidari"] = 70157,
 										},
-										["n_max"] = 3860,
+										["n_max"] = 0,
 										["targets"] = {
-											["Thezidari"] = 10269,
+											["Thezidari"] = 0,
 										},
-										["n_total"] = 10269,
-										["n_min"] = 42,
-										["counter"] = 17,
-										["overheal"] = 0,
-										["total"] = 10269,
-										["c_max"] = 0,
-										["id"] = 343013,
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 70157,
+										["total"] = 0,
+										["spellschool"] = 32,
+										["id"] = 210042,
 										["targets_absorbs"] = {
-											["Thezidari"] = 10269,
 										},
-										["spellschool"] = 4,
 										["c_min"] = 0,
-										["n_amt"] = 17,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
-										["is_shield"] = true,
+										["n_amt"] = 1,
 										["absorbed"] = 0,
 									},
 									[227255] = {
@@ -2241,12 +2509,12 @@ _detalhes_database = {
 										["counter"] = 13,
 										["overheal"] = 199414,
 										["total"] = 232,
-										["c_max"] = 0,
+										["spellschool"] = 4,
 										["id"] = 227255,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 4,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 13,
@@ -2267,12 +2535,12 @@ _detalhes_database = {
 										["counter"] = 52,
 										["overheal"] = 166559,
 										["total"] = 444,
-										["c_max"] = 0,
+										["spellschool"] = 4,
 										["id"] = 213011,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 4,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 52,
@@ -2293,12 +2561,12 @@ _detalhes_database = {
 										["counter"] = 20,
 										["overheal"] = 256212,
 										["total"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 228477,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 15,
@@ -2308,17 +2576,15 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["targets_overheal"] = {
-								["Thezidari"] = 1498781,
+							["healing_from"] = {
+								["Thezidari"] = true,
 							},
-							["boss_fight_component"] = true,
+							["last_event"] = 1689803404,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.004938,
 							["delay"] = 0,
-							["targets_absorbs"] = {
-								["Thezidari"] = 10269,
-							},
+							["spec"] = 581,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -2331,9 +2597,9 @@ _detalhes_database = {
 							["resource"] = 418.001574,
 							["pets"] = {
 							},
-							["aID"] = "3661-091C86DD",
-							["passiveover"] = 0.001574,
-							["total"] = 0.001574,
+							["classe"] = "DEMONHUNTER",
+							["totalover"] = 0.001574,
+							["resource_type"] = 17,
 							["spec"] = 581,
 							["isTank"] = true,
 							["serial"] = "Player-3661-091C86DD",
@@ -2342,7 +2608,7 @@ _detalhes_database = {
 							},
 							["powertype"] = 1,
 							["alternatepower"] = 0.001574,
-							["resource_type"] = 17,
+							["total"] = 0.001574,
 							["nome"] = "Thezidari",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2350,11 +2616,11 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["classe"] = "DEMONHUNTER",
-							["totalover"] = 0.001574,
-							["last_event"] = 1689804049,
-							["boss_fight_component"] = true,
+							["aID"] = "3661-091C86DD",
+							["passiveover"] = 0.001574,
 							["tipo"] = 3,
+							["boss_fight_component"] = true,
+							["last_event"] = 1689804049,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -2442,7 +2708,7 @@ _detalhes_database = {
 								1689803327.743, -- [1]
 								203720, -- [2]
 							},
-							["aID"] = "3661-091C86DD",
+							["classe"] = "DEMONHUNTER",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[409645] = {
@@ -2478,13 +2744,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[389847] = {
-										["appliedamt"] = 2,
+									[390357] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 8,
-										["id"] = 389847,
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 390357,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -2533,13 +2799,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[390357] = {
-										["appliedamt"] = 1,
+									[389847] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 15,
-										["id"] = 390357,
+										["activedamt"] = 2,
+										["uptime"] = 8,
+										["id"] = 389847,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -2625,10 +2891,21 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 163,
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
 							["spec"] = 581,
 							["isTank"] = true,
+							["serial"] = "Player-3661-091C86DD",
+							["buff_uptime"] = 632,
+							["cooldowns_defensive_targets"] = {
+								["Thezidari"] = 1,
+							},
+							["nome"] = "Thezidari",
+							["boss_fight_component"] = true,
+							["grupo"] = true,
+							["last_event"] = 1689803405,
+							["aID"] = "3661-091C86DD",
+							["tipo"] = 4,
 							["cooldowns_defensive_spells"] = {
 								["_ActorTable"] = {
 									[203720] = {
@@ -2641,18 +2918,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 632,
-							["cooldowns_defensive_targets"] = {
-								["Thezidari"] = 1,
-							},
-							["boss_fight_component"] = true,
-							["nome"] = "Thezidari",
-							["grupo"] = true,
-							["last_event"] = 1689803405,
-							["classe"] = "DEMONHUNTER",
-							["tipo"] = 4,
-							["serial"] = "Player-3661-091C86DD",
-							["buff_uptime_targets"] = {
+							["debuff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
@@ -2664,12 +2930,11 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["aID"] = "105721",
+							["classe"] = "UNKNOW",
 							["boss_debuff"] = true,
 							["debuff_uptime"] = 47,
 							["spellschool"] = 32,
-							["nome"] = "Fixate",
-							["boss_fight_component"] = true,
+							["tipo"] = 4,
 							["debuff_uptime_targets"] = {
 								["Thezidari"] = {
 									["uptime"] = 47,
@@ -2679,51 +2944,52 @@ _detalhes_database = {
 									["refreshamt"] = 0,
 								},
 							},
-							["classe"] = "UNKNOW",
-							["tipo"] = 4,
-							["damage_twin"] = "Nightmare Ichor",
+							["nome"] = "Fixate",
+							["boss_fight_component"] = true,
 							["last_event"] = 1689803402,
-							["serial"] = "Creature-0-3018-1520-8523-105721-0000385A30",
+							["damage_twin"] = "Nightmare Ichor",
+							["aID"] = "105721",
 							["damage_spellid"] = 210099,
+							["serial"] = "Creature-0-3018-1520-8523-105721-0000385A30",
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
+							["aID"] = "105721",
 							["monster"] = true,
 							["nome"] = "Nightmare Ichor",
 							["boss_fight_component"] = true,
 							["tipo"] = 4,
-							["aID"] = "105721",
-							["serial"] = "Creature-0-3018-1520-8523-105721-0000385A30",
 							["last_event"] = 0,
+							["serial"] = "Creature-0-3018-1520-8523-105721-0000385A30",
+							["classe"] = "UNKNOW",
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
+							["aID"] = "105906",
 							["monster"] = true,
 							["nome"] = "Eye of Il'gynoth",
 							["boss_fight_component"] = true,
 							["tipo"] = 4,
-							["aID"] = "105906",
-							["serial"] = "Creature-0-3018-1520-8523-105906-0000385963",
 							["last_event"] = 0,
+							["serial"] = "Creature-0-3018-1520-8523-105906-0000385963",
+							["classe"] = "UNKNOW",
 						}, -- [4]
 						{
 							["flag_original"] = 2632,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
+							["aID"] = "105322",
 							["monster"] = true,
 							["nome"] = "Deathglare Tentacle",
 							["boss_fight_component"] = true,
 							["tipo"] = 4,
-							["aID"] = "105322",
-							["serial"] = "Creature-0-3018-1520-8523-105322-0000385A43",
 							["last_event"] = 0,
+							["serial"] = "Creature-0-3018-1520-8523-105322-0000385A43",
+							["classe"] = "UNKNOW",
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -2740,6 +3006,8 @@ _detalhes_database = {
 							["monster"] = true,
 							["debuff_uptime"] = 5,
 							["spellschool"] = 32,
+							["nome"] = "Mind Flay",
+							["classe"] = "UNKNOW",
 							["debuff_uptime_targets"] = {
 								["Thezidari"] = {
 									["uptime"] = 5,
@@ -2749,26 +3017,24 @@ _detalhes_database = {
 									["refreshamt"] = 0,
 								},
 							},
-							["classe"] = "UNKNOW",
-							["boss_fight_component"] = true,
-							["tipo"] = 4,
-							["damage_twin"] = "Deathglare Tentacle",
-							["nome"] = "Mind Flay",
-							["serial"] = "Creature-0-3018-1520-8523-105322-0000385A43",
 							["last_event"] = 1689803395,
+							["damage_twin"] = "Deathglare Tentacle",
+							["boss_fight_component"] = true,
+							["serial"] = "Creature-0-3018-1520-8523-105322-0000385A43",
+							["tipo"] = 4,
 						}, -- [6]
 						{
 							["flag_original"] = 2632,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
+							["aID"] = "105591",
 							["monster"] = true,
 							["nome"] = "Nightmare Horror",
 							["boss_fight_component"] = true,
 							["tipo"] = 4,
-							["aID"] = "105591",
-							["serial"] = "Creature-0-3018-1520-8523-105591-0000385A60",
 							["last_event"] = 0,
+							["serial"] = "Creature-0-3018-1520-8523-105591-0000385A60",
+							["classe"] = "UNKNOW",
 						}, -- [7]
 					},
 				}, -- [4]
@@ -2793,9 +3059,7 @@ _detalhes_database = {
 				["bossIcon"] = "",
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 3606,
 				["playing_solo"] = true,
 				["totals"] = {
 					1858894, -- [1]
@@ -2949,9 +3213,9 @@ _detalhes_database = {
 					["Deathglare Tentacle"] = 3,
 					["Nightmare Horror"] = 1,
 					["Corruptor Tentacle"] = 2,
-					["Doomguard"] = 1,
 					["Eye of Il'gynoth"] = 1,
 					["Nightmare Ichor"] = 12,
+					["Doomguard"] = 1,
 				},
 				["is_boss"] = {
 					["diff_string"] = "Normal",
@@ -3013,16 +3277,18 @@ _detalhes_database = {
 				["start_time"] = 702001.3960000001,
 				["TimeData"] = {
 				},
-				["combat_counter"] = 3606,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 			}, -- [3]
 		},
 	},
 	["ocd_tracker"] = {
-		["enabled"] = false,
+		["show_title"] = true,
 		["current_cooldowns"] = {
 		},
-		["group_frames"] = true,
 		["lines_per_column"] = 12,
+		["group_frames"] = true,
 		["frames"] = {
 			["defensive-raid"] = {
 			},
@@ -3046,15 +3312,15 @@ _detalhes_database = {
 			["defensive-personal"] = false,
 		},
 		["width"] = 120,
+		["height"] = 18,
 		["framme_locked"] = false,
 		["cooldowns"] = {
 		},
-		["height"] = 18,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
 		},
-		["show_title"] = true,
+		["enabled"] = false,
 		["filters"] = {
 			["utility"] = false,
 			["defensive-raid"] = false,
@@ -3163,22 +3429,6 @@ _detalhes_database = {
 				},
 			},
 			[404] = {
-				[17] = {
-					["completed"] = 1,
-					["history"] = {
-						{
-							["onTime"] = true,
-							["deaths"] = 2,
-							["day"] = 1,
-							["month"] = 7,
-							["affix"] = 10,
-							["runTime"] = 1655002,
-							["year"] = 2023,
-						}, -- [1]
-					},
-					["totalTime"] = 1655002,
-					["minTime"] = 1655002,
-				},
 				[15] = {
 					["completed"] = 1,
 					["history"] = {
@@ -3194,6 +3444,22 @@ _detalhes_database = {
 					},
 					["totalTime"] = 2148080,
 					["minTime"] = 2148080,
+				},
+				[17] = {
+					["completed"] = 1,
+					["history"] = {
+						{
+							["onTime"] = true,
+							["deaths"] = 2,
+							["day"] = 1,
+							["month"] = 7,
+							["affix"] = 10,
+							["runTime"] = 1655002,
+							["year"] = 2023,
+						}, -- [1]
+					},
+					["totalTime"] = 1655002,
+					["minTime"] = 1655002,
 				},
 				[9] = {
 					["completed"] = 1,
@@ -3548,10 +3814,10 @@ _detalhes_database = {
 	["data_harvest_for_charsts"] = {
 		["players"] = {
 			{
-				["name"] = "Damage of Each Individual Player",
-				["playerOnly"] = true,
 				["playerKey"] = "total",
 				["combatObjectContainer"] = 1,
+				["name"] = "Damage of Each Individual Player",
+				["playerOnly"] = true,
 			}, -- [1]
 		},
 		["totals"] = {
@@ -3590,18 +3856,79 @@ _detalhes_database = {
 		["frame"] = {
 		},
 	},
-	["character_data"] = {
-		["logons"] = 209,
-	},
+	["last_instance_time"] = 1689803110,
 	["combat_log"] = {
 		["inverse_deathlog_overalldata"] = false,
-		["track_hunter_frenzy"] = false,
 		["evoker_calc_damage"] = false,
-		["inverse_deathlog_raid"] = false,
+		["track_hunter_frenzy"] = false,
 		["merge_critical_heals"] = false,
+		["inverse_deathlog_raid"] = false,
 		["merge_gemstones_1007"] = false,
 		["evoker_show_realtimedps"] = true,
 		["inverse_deathlog_mplus"] = false,
+	},
+	["last_encounter"] = "Xavius",
+	["mythic_plus_log"] = {
+		"18/07/23 23:10:25|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [1]
+		"18/07/23 23:10:25|MythicDungeonFinished() | merge_boss_trash = true", -- [2]
+		"18/07/23 23:10:23|MergeTrashCleanup started.", -- [3]
+		"18/07/23 23:10:23|BossDefeated | key level: | 16 | Lord Harlan Sweete | Freehold", -- [4]
+		"18/07/23 23:04:09|MergeTrashCleanup started.", -- [5]
+		"18/07/23 23:04:09|BossDefeated | key level: | 16 | Ring of Booty | Freehold", -- [6]
+		"18/07/23 22:57:35|MergeTrashCleanup started.", -- [7]
+		"18/07/23 22:57:35|BossDefeated | key level: | 16 | Council o' Captains | Freehold", -- [8]
+		"18/07/23 22:49:41|MergeTrashCleanup started.", -- [9]
+		"18/07/23 22:49:41|BossDefeated | key level: | 16 | Skycap'n Kragg | Freehold", -- [10]
+		"18/07/23 22:45:14|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 16 | zone: Freehold | zoneId: 1754", -- [11]
+		"18/07/23 22:36:04|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [12]
+		"18/07/23 22:36:04|MythicDungeonFinished() | merge_boss_trash = true", -- [13]
+		"18/07/23 22:36:01|MergeTrashCleanup started.", -- [14]
+		"18/07/23 22:36:01|BossDefeated | key level: | 16 | Asaad | The Vortex Pinnacle", -- [15]
+		"18/07/23 22:29:01|MergeTrashCleanup started.", -- [16]
+		"18/07/23 22:29:01|BossDefeated | key level: | 16 | Altairus | The Vortex Pinnacle", -- [17]
+		"18/07/23 22:22:12|MergeTrashCleanup started.", -- [18]
+		"18/07/23 22:22:12|BossDefeated | key level: | 16 | Grand Vizier Ertan | The Vortex Pinnacle", -- [19]
+		"18/07/23 22:15:53|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 16 | zone: The Vortex Pinnacle | zoneId: 657", -- [20]
+		"18/07/23 21:50:36|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [21]
+		"18/07/23 21:50:36|MythicDungeonFinished() | merge_boss_trash = true", -- [22]
+		"18/07/23 21:50:36|MythicDungeonFinished() | Details was in combat.", -- [23]
+		"18/07/23 21:50:34|MergeTrashCleanup started.", -- [24]
+		"18/07/23 21:50:34|BossDefeated | key level: | 16 | Decatriarch Wratheye | Brackenhide Hollow", -- [25]
+		"18/07/23 21:44:41|MergeTrashCleanup started.", -- [26]
+		"18/07/23 21:44:41|BossDefeated | key level: | 16 | Gutshot | Brackenhide Hollow", -- [27]
+		"18/07/23 21:40:20|MergeTrashCleanup started.", -- [28]
+		"18/07/23 21:40:20|BossDefeated | key level: | 16 | Treemouth | Brackenhide Hollow", -- [29]
+		"18/07/23 21:33:05|MergeTrashCleanup started.", -- [30]
+		"18/07/23 21:33:05|BossDefeated | key level: | 16 | Hackclaw's War-Band | Brackenhide Hollow", -- [31]
+		"18/07/23 21:24:01|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 16 | zone: Brackenhide Hollow | zoneId: 2520", -- [32]
+		"18/07/23 21:11:07|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [33]
+		"18/07/23 21:11:07|MythicDungeonFinished() | merge_boss_trash = true", -- [34]
+		"18/07/23 21:11:04|MergeTrashCleanup started.", -- [35]
+		"18/07/23 21:11:04|BossDefeated | key level: | 13 | Primal Tsunami | Halls of Infusion", -- [36]
+		"18/07/23 21:03:03|MergeTrashCleanup started.", -- [37]
+		"18/07/23 21:03:03|BossDefeated | key level: | 13 | Khajin the Unyielding | Halls of Infusion", -- [38]
+		"18/07/23 20:58:42|MergeTrashCleanup started.", -- [39]
+		"18/07/23 20:58:42|BossDefeated | key level: | 13 | Gulping Goliath | Halls of Infusion", -- [40]
+		"18/07/23 20:52:38|MergeTrashCleanup started.", -- [41]
+		"18/07/23 20:52:38|BossDefeated | key level: | 13 | Watcher Irideus | Halls of Infusion", -- [42]
+		"18/07/23 20:46:28|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 13 | zone: Halls of Infusion | zoneId: 2527", -- [43]
+		"18/07/23 00:14:06|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [44]
+		"18/07/23 00:14:06|MythicDungeonFinished() | merge_boss_trash = true", -- [45]
+		"18/07/23 00:14:04|MergeTrashCleanup started.", -- [46]
+		"18/07/23 00:14:04|BossDefeated | key level: | 15 | Asaad | The Vortex Pinnacle", -- [47]
+		"18/07/23 00:05:28|MergeTrashCleanup started.", -- [48]
+		"18/07/23 00:05:28|BossDefeated | key level: | 15 | Altairus | The Vortex Pinnacle", -- [49]
+	},
+	["character_data"] = {
+		["logons"] = 210,
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["local_instances_config"] = {
 		{
@@ -3710,224 +4037,7 @@ _detalhes_database = {
 			},
 		}, -- [3]
 	},
-	["mythic_plus_log"] = {
-		"18/07/23 23:10:25|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [1]
-		"18/07/23 23:10:25|MythicDungeonFinished() | merge_boss_trash = true", -- [2]
-		"18/07/23 23:10:23|MergeTrashCleanup started.", -- [3]
-		"18/07/23 23:10:23|BossDefeated | key level: | 16 | Lord Harlan Sweete | Freehold", -- [4]
-		"18/07/23 23:04:09|MergeTrashCleanup started.", -- [5]
-		"18/07/23 23:04:09|BossDefeated | key level: | 16 | Ring of Booty | Freehold", -- [6]
-		"18/07/23 22:57:35|MergeTrashCleanup started.", -- [7]
-		"18/07/23 22:57:35|BossDefeated | key level: | 16 | Council o' Captains | Freehold", -- [8]
-		"18/07/23 22:49:41|MergeTrashCleanup started.", -- [9]
-		"18/07/23 22:49:41|BossDefeated | key level: | 16 | Skycap'n Kragg | Freehold", -- [10]
-		"18/07/23 22:45:14|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 16 | zone: Freehold | zoneId: 1754", -- [11]
-		"18/07/23 22:36:04|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [12]
-		"18/07/23 22:36:04|MythicDungeonFinished() | merge_boss_trash = true", -- [13]
-		"18/07/23 22:36:01|MergeTrashCleanup started.", -- [14]
-		"18/07/23 22:36:01|BossDefeated | key level: | 16 | Asaad | The Vortex Pinnacle", -- [15]
-		"18/07/23 22:29:01|MergeTrashCleanup started.", -- [16]
-		"18/07/23 22:29:01|BossDefeated | key level: | 16 | Altairus | The Vortex Pinnacle", -- [17]
-		"18/07/23 22:22:12|MergeTrashCleanup started.", -- [18]
-		"18/07/23 22:22:12|BossDefeated | key level: | 16 | Grand Vizier Ertan | The Vortex Pinnacle", -- [19]
-		"18/07/23 22:15:53|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 16 | zone: The Vortex Pinnacle | zoneId: 657", -- [20]
-		"18/07/23 21:50:36|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [21]
-		"18/07/23 21:50:36|MythicDungeonFinished() | merge_boss_trash = true", -- [22]
-		"18/07/23 21:50:36|MythicDungeonFinished() | Details was in combat.", -- [23]
-		"18/07/23 21:50:34|MergeTrashCleanup started.", -- [24]
-		"18/07/23 21:50:34|BossDefeated | key level: | 16 | Decatriarch Wratheye | Brackenhide Hollow", -- [25]
-		"18/07/23 21:44:41|MergeTrashCleanup started.", -- [26]
-		"18/07/23 21:44:41|BossDefeated | key level: | 16 | Gutshot | Brackenhide Hollow", -- [27]
-		"18/07/23 21:40:20|MergeTrashCleanup started.", -- [28]
-		"18/07/23 21:40:20|BossDefeated | key level: | 16 | Treemouth | Brackenhide Hollow", -- [29]
-		"18/07/23 21:33:05|MergeTrashCleanup started.", -- [30]
-		"18/07/23 21:33:05|BossDefeated | key level: | 16 | Hackclaw's War-Band | Brackenhide Hollow", -- [31]
-		"18/07/23 21:24:01|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 16 | zone: Brackenhide Hollow | zoneId: 2520", -- [32]
-		"18/07/23 21:11:07|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [33]
-		"18/07/23 21:11:07|MythicDungeonFinished() | merge_boss_trash = true", -- [34]
-		"18/07/23 21:11:04|MergeTrashCleanup started.", -- [35]
-		"18/07/23 21:11:04|BossDefeated | key level: | 13 | Primal Tsunami | Halls of Infusion", -- [36]
-		"18/07/23 21:03:03|MergeTrashCleanup started.", -- [37]
-		"18/07/23 21:03:03|BossDefeated | key level: | 13 | Khajin the Unyielding | Halls of Infusion", -- [38]
-		"18/07/23 20:58:42|MergeTrashCleanup started.", -- [39]
-		"18/07/23 20:58:42|BossDefeated | key level: | 13 | Gulping Goliath | Halls of Infusion", -- [40]
-		"18/07/23 20:52:38|MergeTrashCleanup started.", -- [41]
-		"18/07/23 20:52:38|BossDefeated | key level: | 13 | Watcher Irideus | Halls of Infusion", -- [42]
-		"18/07/23 20:46:28|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = false | boss_dedicated_segment = true |  | level: 13 | zone: Halls of Infusion | zoneId: 2527", -- [43]
-		"18/07/23 00:14:06|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [44]
-		"18/07/23 00:14:06|MythicDungeonFinished() | merge_boss_trash = true", -- [45]
-		"18/07/23 00:14:04|MergeTrashCleanup started.", -- [46]
-		"18/07/23 00:14:04|BossDefeated | key level: | 15 | Asaad | The Vortex Pinnacle", -- [47]
-		"18/07/23 00:05:28|MergeTrashCleanup started.", -- [48]
-		"18/07/23 00:05:28|BossDefeated | key level: | 15 | Altairus | The Vortex Pinnacle", -- [49]
-	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["cached_roles"] = {
-	},
-	["last_day"] = "20",
-	["force_font_outline"] = "",
-	["last_realversion"] = 154,
-	["last_instance_time"] = 1689803110,
-	["ignore_nicktag"] = false,
-	["combat_id"] = 108,
-	["savedStyles"] = {
-	},
-	["plugin_database"] = {
-		["DETAILS_PLUGIN_TINY_THREAT"] = {
-			["enabled"] = true,
-			["animate"] = false,
-			["hide_pull_bar"] = false,
-			["author"] = "Terciob",
-			["playercolor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			},
-			["usefocus"] = false,
-			["updatespeed"] = 1,
-			["disable_gouge"] = false,
-			["showamount"] = false,
-			["useplayercolor"] = false,
-			["absolute_mode"] = false,
-			["playSound"] = false,
-			["playSoundFile"] = "Details Threat Warning Volume 3",
-			["useclasscolors"] = false,
-		},
-		["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
-			["enabled"] = true,
-			["author"] = "Terciob",
-		},
-		["DETAILS_PLUGIN_VANGUARD"] = {
-			["tank_block_size_height"] = 50,
-			["show_power_bar"] = false,
-			["first_run"] = false,
-			["aura_timer_text_size"] = 14,
-			["tank_block_castbar_size_height"] = 16,
-			["show_health_bar"] = true,
-			["aura_offset_y"] = 0,
-			["enabled"] = true,
-			["show_cast_bar"] = false,
-			["author"] = "Terciob",
-			["tank_block_size"] = 150,
-			["bar_height"] = 24,
-			["tank_block_texture"] = "Details Serenity",
-			["tank_block_color"] = {
-				0.074509, -- [1]
-				0.035294, -- [2]
-				0.035294, -- [3]
-				0.832845, -- [4]
-			},
-			["tank_block_height"] = 40,
-			["tank_block_powerbar_size_height"] = 10,
-			["show_inc_bars"] = true,
-		},
-		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
-			["enabled"] = true,
-			["encounter_timers_bw"] = {
-			},
-			["max_emote_segments"] = 3,
-			["last_section_selected"] = "main",
-			["author"] = "Terciob",
-			["window_scale"] = 1,
-			["hide_on_combat"] = false,
-			["show_icon"] = 5,
-			["opened"] = 0,
-			["encounter_timers_dbm"] = {
-			},
-		},
-		["DETAILS_PLUGIN_RAIDCHECK"] = {
-			["enabled"] = true,
-			["food_tier1"] = true,
-			["mythic_1_4"] = true,
-			["food_tier2"] = true,
-			["author"] = "Terciob",
-			["use_report_panel"] = true,
-			["pre_pot_healers"] = false,
-			["pre_pot_tanks"] = false,
-			["food_tier3"] = true,
-		},
-		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
-			["use_square_mode"] = false,
-			["is_first_run"] = false,
-			["grow_direction"] = "right",
-			["arrow_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["scale"] = 1,
-			["arrow_anchor_y"] = 0,
-			["minimap"] = {
-				["minimapPos"] = 163.6956331208669,
-				["radius"] = 160,
-				["hide"] = false,
-			},
-			["row_height"] = 20,
-			["arrow_anchor_x"] = 0,
-			["font_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["row_texture"] = "Details Serenity",
-			["square_grow_direction"] = "right",
-			["point"] = "CENTER",
-			["main_frame_strata"] = "LOW",
-			["square_amount"] = 5,
-			["enabled"] = false,
-			["arrow_size"] = 10,
-			["y"] = -1.52587890625e-05,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["per_second"] = {
-				["enabled"] = true,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = 0,
-				["x"] = -0.0101318359375,
-				["size"] = 32,
-				["update_speed"] = 0.05,
-				["attribute_type"] = 1,
-			},
-			["x"] = -0.002197265625,
-			["font_face"] = "Friz Quadrata TT",
-			["square_size"] = 32,
-			["font_size"] = 10,
-			["author"] = "Terciob",
-			["main_frame_locked"] = false,
-			["main_frame_size"] = {
-				300.0000610351563, -- [1]
-				500.0000610351563, -- [2]
-			},
-		},
-	},
-	["data_harvested_for_charts"] = {
-	},
-	["announce_deaths"] = {
-		["enabled"] = false,
-		["last_hits"] = 1,
-		["only_first"] = 5,
-		["where"] = 1,
-	},
+	["combat_counter"] = 3741,
 	["nick_tag_cache"] = {
 		["last_version"] = 15,
 		["Sanà-Mal'Ganis"] = {
@@ -3978,12 +4088,170 @@ _detalhes_database = {
 		},
 		["nextreset"] = 1690176355,
 	},
-	["last_encounter"] = "Xavius",
-	["combat_counter"] = 3734,
-	["announce_cooldowns"] = {
+	["ignore_nicktag"] = false,
+	["combat_id"] = 114,
+	["savedStyles"] = {
+	},
+	["data_harvested_for_charts"] = {
+	},
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["enabled"] = true,
+			["animate"] = false,
+			["hide_pull_bar"] = false,
+			["author"] = "Terciob",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["usefocus"] = false,
+			["updatespeed"] = 1,
+			["useclasscolors"] = false,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["absolute_mode"] = false,
+			["playSound"] = false,
+			["playSoundFile"] = "Details Threat Warning Volume 3",
+			["disable_gouge"] = false,
+		},
+		["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
+			["enabled"] = true,
+			["author"] = "Terciob",
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["tank_block_size_height"] = 50,
+			["show_power_bar"] = false,
+			["first_run"] = false,
+			["aura_timer_text_size"] = 14,
+			["tank_block_castbar_size_height"] = 16,
+			["show_health_bar"] = true,
+			["aura_offset_y"] = 0,
+			["enabled"] = true,
+			["show_cast_bar"] = false,
+			["author"] = "Terciob",
+			["tank_block_size"] = 150,
+			["bar_height"] = 24,
+			["tank_block_texture"] = "Details Serenity",
+			["show_inc_bars"] = true,
+			["tank_block_powerbar_size_height"] = 10,
+			["tank_block_height"] = 40,
+			["tank_block_color"] = {
+				0.074509, -- [1]
+				0.035294, -- [2]
+				0.035294, -- [3]
+				0.832845, -- [4]
+			},
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["last_section_selected"] = "main",
+			["author"] = "Terciob",
+			["window_scale"] = 1,
+			["encounter_timers_dbm"] = {
+			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Terciob",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["use_square_mode"] = false,
+			["is_first_run"] = false,
+			["grow_direction"] = "right",
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300.0000610351563, -- [1]
+				500.0000610351563, -- [2]
+			},
+			["arrow_anchor_y"] = 0,
+			["minimap"] = {
+				["minimapPos"] = 163.6956331208669,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["main_frame_locked"] = false,
+			["arrow_anchor_x"] = 0,
+			["author"] = "Terciob",
+			["row_texture"] = "Details Serenity",
+			["square_grow_direction"] = "right",
+			["font_size"] = 10,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["use_spark"] = true,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["per_second"] = {
+				["enabled"] = true,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 0,
+				["x"] = -0.0101318359375,
+				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+			},
+			["y"] = -1.52587890625e-05,
+			["x"] = -0.002197265625,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
+			["point"] = "CENTER",
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["row_height"] = 20,
+			["scale"] = 1,
+		},
+	},
+	["announce_deaths"] = {
 		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["last_realversion"] = 154,
+	["force_font_outline"] = "",
+	["last_day"] = "20",
+	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},
+		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -3991,9 +4259,7 @@ _detalhes_database = {
 		["last_difficulty"] = 15,
 		["last_raid"] = "",
 	},
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["cached_roles"] = {
 	},
 	["cached_specs"] = {
 		["Player-3661-091C86DD"] = 581,

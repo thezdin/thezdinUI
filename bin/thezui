@@ -32,11 +32,13 @@ let uiCommands = [
   },
   () => {
     console.log("Backing up Interface/Fonts");
-    exec(`tar -zcvf ${DIR}/thezui-wtf.tar.gz ${WOW_PATH}/_retail_/Fonts/`);
+    exec(`tar -zcvf ${DIR}/thezui-fonts.tar.gz ${WOW_PATH}/_retail_/Fonts/`);
   },
   () => {
     console.log("Backing up Interface/Addons");
-    exec(`tar -zcvf ${DIR}/thezui-wtf.tar.gz ${WOW_PATH}/_retail_/Interface/`);
+    exec(
+      `tar -zcvf ${DIR}/thezui-addons.tar.gz ${WOW_PATH}/_retail_/Interface/`
+    );
   },
   () => {
     console.log("Cloning WTF interface settings into git");

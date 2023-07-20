@@ -33,9 +33,28 @@ SexyMap2DB = {
 			},
 			["outline"] = "OUTLINE",
 		},
-		["ping"] = {
-			["showPing"] = true,
-			["showAt"] = "map",
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["scale"] = 1,
+			["dragPositions"] = {
+				["MiniMapInstanceDifficulty"] = 124.077222169933,
+				["MiniMapMailFrame"] = 196.7387971196552,
+				["GameTimeFrame"] = 168.3497356439251,
+			},
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["MinimapZoomOut"] = "never",
+				["AddonCompartmentFrame"] = "never",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["CraftingOrder"] = "always",
+				["TimeManagerClockButton"] = "always",
+				["SexyMapZoneTextButton"] = "hover",
+			},
+			["controlVisibility"] = true,
 		},
 		["movers"] = {
 			["lockTopWidget"] = false,
@@ -48,18 +67,18 @@ SexyMap2DB = {
 		["clock"] = {
 			["bgColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["font"] = "RobotoCondensed Bold",
 			["fontColor"] = {
 			},
 			["borderColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["xOffset"] = 0,
 			["monochrome"] = false,
@@ -72,11 +91,11 @@ SexyMap2DB = {
 				{
 					["rotation"] = 225,
 					["name"] = "Ring",
-					["width"] = 364,
-					["height"] = 182,
-					["scale"] = 1.45,
-					["blendMode"] = "BLEND",
 					["texture"] = "INTERFACE\\ADDONS\\SEXYMAP\\MEDIA\\MAP_OVERLAY.TGA",
+					["height"] = 182,
+					["blendMode"] = "BLEND",
+					["scale"] = 1.45,
+					["width"] = 364,
 				}, -- [1]
 				{
 					["disableRotation"] = true,
@@ -93,8 +112,8 @@ SexyMap2DB = {
 					["disableRotation"] = true,
 					["name"] = "Inner Shadow",
 					["b"] = 0,
-					["drawLayer"] = "OVERLAY",
 					["blendMode"] = "BLEND",
+					["drawLayer"] = "OVERLAY",
 					["texture"] = "INTERFACE\\ADDONS\\SEXYMAP\\MEDIA\\MAP_INNERSHADOW.TGA",
 				}, -- [3]
 				{
@@ -141,47 +160,28 @@ SexyMap2DB = {
 			["yOffset"] = 0,
 			["bgColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["font"] = "Friz Quadrata TT",
 			["useSecureButton"] = false,
 			["borderColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["scale"] = 1,
-			["dragPositions"] = {
-				["MiniMapInstanceDifficulty"] = 124.077222169933,
-				["MiniMapMailFrame"] = 196.7387971196552,
-				["GameTimeFrame"] = 168.3497356439251,
-			},
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["MinimapZoomOut"] = "never",
-				["SexyMapZoneTextButton"] = "hover",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["TimeManagerClockButton"] = "always",
-				["CraftingOrder"] = "always",
-				["AddonCompartmentFrame"] = "never",
-			},
-			["controlVisibility"] = true,
+		["ping"] = {
+			["showPing"] = true,
+			["showAt"] = "map",
 		},
 	},
 	["Thezknight-Hyjal"] = "global",
-	["presets"] = {
-	},
+	["Thezdgar-Hyjal"] = "global",
 	["Thezidari-Hyjal"] = "global",
 	["Thezfu-Hyjal"] = "global",
-	["Thezdgar-Hyjal"] = "global",
+	["presets"] = {
+	},
 }

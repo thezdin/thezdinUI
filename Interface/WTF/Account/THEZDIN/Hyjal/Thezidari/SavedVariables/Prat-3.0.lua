@@ -14,13 +14,13 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
-			},
-			["ChatFrame3EditBox"] = {
+			["ChatFrame9EditBox"] = {
 			},
 			["ChatFrame2EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
 			},
 		},
 	},
@@ -52,7 +52,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame4"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
+			["headIndex"] = 12,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -66,187 +66,191 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:06:41]|h|r You receive loot: |cffa335ee|Hitem:139336::::::::70:581::3:1:9083:2:9:45:28:2662:::::|h[Bough of Corruption]|h|r",
+					["message"] = "|cff979797|Hpratcopy|h[09:46:28]|h|r You receive item: |cff1eff00|Hitem:140560::::::::70:581::14:1:7221:1:28:633:::::|h[Warglaive of the Fel Hammer]|h|r",
+					["serverTime"] = 1689871587,
+					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						19, -- [3]
-						20, -- [4]
+						9, -- [3]
+						10, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689804400,
-					["timestamp"] = 769849.006,
+					["timestamp"] = 770277.268,
 					["g"] = 0.6666666865348816,
-					["r"] = 0,
+					["b"] = 0,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:06:41]|h|r You receive loot: |cffa335ee|Hitem:139336::::::::70:581::3:1:9083:2:9:45:28:2662:::::|h[Bough of Corruption]|h|r",
+					["message"] = "|cff979797|Hpratcopy|h[09:46:40]|h|r You receive item: |cffa335ee|Hitem:139721::::::::70:581::14:2:3385:3384:1:28:633:::::|h[Belt of the Shattered Abyss]|h|r",
+					["serverTime"] = 1689871599,
+					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						19, -- [3]
-						20, -- [4]
+						9, -- [3]
+						10, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689804400,
-					["timestamp"] = 769849.006,
+					["timestamp"] = 770289.534,
 					["g"] = 0.6666666865348816,
-					["r"] = 0,
+					["b"] = 0,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:06:41]|h|r You receive loot: |cffa335ee|Hitem:139232::::::::70:581::3:1:9083:2:9:45:28:2662:::::|h[Midnight Herald's Pauldrons]|h|r",
+					["message"] = "|cff979797|Hpratcopy|h[09:46:45]|h|r You receive item: |cff0070dd|Hitem:139719::::::::70:581::14:2:3385:3382:1:28:633:::::|h[Breeches of the Shattered Abyss]|h|r",
+					["serverTime"] = 1689871604,
+					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						19, -- [3]
-						20, -- [4]
+						9, -- [3]
+						10, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689804400,
-					["timestamp"] = 769849.006,
+					["timestamp"] = 770294.079,
 					["g"] = 0.6666666865348816,
-					["r"] = 0,
+					["b"] = 0,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:06:42]|h|r You loot 26 Gold, 27 Silver, 6 Copper",
+					["message"] = "|cff979797|Hpratcopy|h[09:47:09]|h|r You receive item: |cffa335ee|Hitem:147537::::::::70:581::14::1:28:633:::::|h[A Tiny Set of Warglaives]|h|r",
+					["serverTime"] = 1689871628,
+					["r"] = 0,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						21, -- [3]
-						22, -- [4]
+						9, -- [3]
+						10, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 770318.318,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
-					["serverTime"] = 1689804401,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:10:53]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
+					["message"] = "|cff979797|Hpratcopy|h[10:14:48]|h|r Reputation with The Nightfallen increased by 50.",
+					["serverTime"] = 1689873287,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						34, -- [1]
+						36, -- [1]
 						false, -- [2]
-						29, -- [3]
-						30, -- [4]
+						18, -- [3]
+						19, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 771977.49,
+					["g"] = 0.501960813999176,
 					["b"] = 1,
-					["serverTime"] = 1689804652,
-					["timestamp"] = 769849.006,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:11:42]|h|r You receive item: |cff9d9d9d|Hitem:140305::::::::70:581:::::::::|h[Brimming Essence]|h|r",
+					["message"] = "|cff979797|Hpratcopy|h[10:14:48]|h|r You receive item: |cff9d9d9d|Hitem:142054::::::::70:581:::::::::|h[Enchanted Nightborne Coin]|h|r",
+					["serverTime"] = 1689873287,
+					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						19, -- [3]
-						20, -- [4]
+						9, -- [3]
+						10, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689804701,
-					["timestamp"] = 769849.006,
+					["timestamp"] = 771977.628,
 					["g"] = 0.6666666865348816,
-					["r"] = 0,
+					["b"] = 0,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:11:42]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
+					["message"] = "|cff979797|Hpratcopy|h[10:19:14]|h|r Reputation with The Nightfallen increased by 25.",
+					["serverTime"] = 1689873553,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						34, -- [1]
+						36, -- [1]
 						false, -- [2]
-						29, -- [3]
-						30, -- [4]
+						18, -- [3]
+						19, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772243.544,
+					["g"] = 0.501960813999176,
 					["b"] = 1,
-					["serverTime"] = 1689804701,
-					["timestamp"] = 769849.006,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:17:36]|h|r You receive loot: |cffffffff|Hitem:133968::::::::70:581:::::::::|h[Moon Guard Sigil]|h|r",
+					["message"] = "|cff979797|Hpratcopy|h[10:24:39]|h|r Reputation with The Nightfallen increased by 200.",
+					["serverTime"] = 1689873878,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						28, -- [1]
+						36, -- [1]
 						false, -- [2]
-						19, -- [3]
-						20, -- [4]
+						18, -- [3]
+						19, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689805055,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
+					["timestamp"] = 772567.716,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [8]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:17:36]|h|r You receive item: |cffffffff|Hitem:133675::::::::70:581:::::::::|h[Moon Guard Sigil]|h|r",
+					["message"] = "|cff979797|Hpratcopy|h[10:24:39]|h|r You receive item: |cff9d9d9d|Hitem:141934::::::::70:581:::::::::|h[Partially Enchanted Nightborne Coin]|h|r",
+					["serverTime"] = 1689873878,
+					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						19, -- [3]
-						20, -- [4]
+						9, -- [3]
+						10, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689805055,
-					["timestamp"] = 769849.006,
+					["timestamp"] = 772567.8420000001,
 					["g"] = 0.6666666865348816,
-					["r"] = 0,
+					["b"] = 0,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:17:36]|h|r You receive currency: |cffffffff|Hcurrency:1155:0|h[Ancient Mana]|h|rx1",
+					["message"] = "|cff979797|Hpratcopy|h[10:26:12]|h|r Reputation with The Nightfallen increased by 25.",
+					["serverTime"] = 1689873971,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						59, -- [1]
+						36, -- [1]
 						false, -- [2]
-						31, -- [3]
-						32, -- [4]
+						18, -- [3]
+						19, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689805055,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
+					["timestamp"] = 772660.769,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [10]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:17:37]|h|r You loot 1 Gold, 15 Silver, 40 Copper",
+					["message"] = "|cff979797|Hpratcopy|h[10:26:45]|h|r You receive loot: |cffffffff|Hitem:136600::::::::70:581::::1:28:335:::::|h[Enchanted Party Mask]|h|r",
+					["serverTime"] = 1689874004,
+					["r"] = 0,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						21, -- [3]
-						22, -- [4]
+						9, -- [3]
+						10, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772694.033,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
-					["serverTime"] = 1689805056,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [11]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:17:45]|h|r You loot 99 Silver, 27 Copper",
+					["message"] = "|cff979797|Hpratcopy|h[10:30:11]|h|r Reputation with The Nightfallen increased by 75.",
+					["serverTime"] = 1689874210,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						29, -- [1]
+						36, -- [1]
 						false, -- [2]
-						21, -- [3]
-						22, -- [4]
+						18, -- [3]
+						19, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689805064,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 772900.6140000001,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [12]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:17:50]|h|r You receive loot: |cffffffff|Hitem:133675::::::::70:581:::::::::|h[Moon Guard Sigil]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -254,14 +258,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805069,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [13]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:17:51]|h|r You receive currency: |cffffffff|Hcurrency:1155:0|h[Ancient Mana]|h|rx2",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -269,14 +273,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805070,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [14]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:17:51]|h|r You loot 1 Gold, 45 Silver, 48 Copper",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -284,14 +288,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805070,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [15]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:17:55]|h|r You loot 72 Silver, 37 Copper",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -299,14 +303,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805074,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [16]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:17:58]|h|r You receive loot: |cffffffff|Hitem:133675::::::::70:581:::::::::|h[Moon Guard Sigil]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -314,14 +318,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805077,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [17]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:17:59]|h|r You receive currency: |cffffffff|Hcurrency:1155:0|h[Ancient Mana]|h|rx4",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -329,14 +333,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805078,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [18]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:17:59]|h|r You loot 1 Gold, 53 Silver, 53 Copper",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -344,14 +348,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805078,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [19]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:06]|h|r You receive loot: |cff1eff00|Hitem:121248::::::::70:581:::2:6654:1746:2:9:45:28:335:::::|h[Nightfall Chain of the Quickblade]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -359,14 +363,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805085,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [20]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:07]|h|r You receive currency: |cffffffff|Hcurrency:1155:0|h[Ancient Mana]|h|rx1",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -374,14 +378,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805086,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [21]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:07]|h|r You loot 86 Silver, 96 Copper",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -389,14 +393,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805086,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [22]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:09]|h|r You receive loot: |cffffffff|Hitem:133675::::::::70:581:::::::::|h[Moon Guard Sigil]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -404,14 +408,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805088,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [23]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:13]|h|r You receive loot: |cff9d9d9d|Hitem:121352::::::::70:581:::1:6656:2:9:45:28:335:::::|h[Weatherworn Pants]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -419,14 +423,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805092,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [24]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:14]|h|r You receive currency: |cffffffff|Hcurrency:1155:0|h[Ancient Mana]|h|rx3",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -434,14 +438,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805093,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [25]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:14]|h|r You loot 1 Gold, 63 Silver, 30 Copper",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -449,14 +453,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805093,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [26]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:17]|h|r You receive loot: |cffffffff|Hitem:133675::::::::70:581:::::::::|h[Moon Guard Sigil]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -464,14 +468,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805096,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [27]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:18]|h|r You receive currency: |cffffffff|Hcurrency:1155:0|h[Ancient Mana]|h|rx2",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -479,14 +483,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805097,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [28]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:18]|h|r You loot 25 Silver, 36 Copper",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -494,14 +498,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805097,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [29]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:19]|h|r You receive loot: |cffffffff|Hitem:133675::::::::70:581:::::::::|h[Moon Guard Sigil]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -509,14 +513,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805098,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [30]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:20]|h|r You loot 66 Silver, 89 Copper",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -524,14 +528,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805099,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [31]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:23]|h|r You receive currency: |cffffffff|Hcurrency:1155:0|h[Ancient Mana]|h|rx1",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -539,14 +543,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805102,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [32]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:26]|h|r You receive loot: |cff1eff00|Hitem:121236::::::::70:581:::3:6654:1808:607:2:9:45:28:335:::::|h[Dawnswood Hunter's Fletchings]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -554,14 +558,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805105,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [33]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:27]|h|r You receive currency: |cffffffff|Hcurrency:1155:0|h[Ancient Mana]|h|rx1",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -569,14 +573,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805106,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [34]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:18:30]|h|r You receive loot: |cffffffff|Hitem:133675::::::::70:581:::::::::|h[Moon Guard Sigil]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -584,14 +588,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805109,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [35]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:20:42]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
+					["r"] = 0.4352941513061523,
+					["b"] = 1,
+					["g"] = 0.4352941513061523,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -599,14 +603,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 1,
 					["serverTime"] = 1689805241,
-					["timestamp"] = 769849.006,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
 				}, -- [36]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:20:44]|h|r You receive item: |cff9d9d9d|Hitem:142054::::::::70:581:::::::::|h[Enchanted Nightborne Coin]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -614,14 +618,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805243,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [37]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:20:51]|h|r You receive item: |cff9d9d9d|Hitem:141671::::::::70:581:::::::::|h[Moon Guard Focusing Stone]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -629,14 +633,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805250,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [38]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:20:51]|h|r You receive item: |cffffffff|Hitem:139882::::::::70:581::11::1:28:347:::::|h[Vial of Hippogryph Pheromones]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -644,14 +648,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805250,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [39]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:21:37]|h|r You receive item: |cff9d9d9d|Hitem:142054::::::::70:581:::::::::|h[Enchanted Nightborne Coin]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -659,14 +663,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805296,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [40]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:22:38]|h|r You receive item: |cffffffff|Hitem:133882::::::::70:581::11::1:28:347:::::|h[Trap Rune]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -674,14 +678,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805357,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [41]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:22:49]|h|r Your skill in Legion Skinning has increased to 2.",
+					["r"] = 0.3333333432674408,
+					["b"] = 1,
+					["g"] = 0.3333333432674408,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						27, -- [1]
 						false, -- [2]
@@ -689,14 +693,14 @@ Prat3HighCPUPerCharDB = {
 						36, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 1,
 					["serverTime"] = 1689805368,
-					["timestamp"] = 769849.006,
-					["g"] = 0.3333333432674408,
-					["r"] = 0.3333333432674408,
 				}, -- [42]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:22:50]|h|r You receive loot: |cffffffff|Hitem:124113::::::::70:581:::::::::|h[Stonehide Leather]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -704,14 +708,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805369,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [43]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:22:51]|h|r You receive currency: |cffffffff|Hcurrency:1155:0|h[Ancient Mana]|h|rx6",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -719,14 +723,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805370,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [44]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:23:44]|h|r You receive loot: |cffffffff|Hitem:133899::::::::70:581:::::::::|h[Magical Manifest of the Moon]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -734,14 +738,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805423,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [45]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:24:42]|h|r You receive item: |cff9d9d9d|Hitem:142054::::::::70:581:::::::::|h[Enchanted Nightborne Coin]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -749,14 +753,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805481,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [46]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:24:42]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
+					["r"] = 0.4352941513061523,
+					["b"] = 1,
+					["g"] = 0.4352941513061523,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -764,14 +768,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 1,
 					["serverTime"] = 1689805481,
-					["timestamp"] = 769849.006,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
 				}, -- [47]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:25:04]|h|r You receive loot: |cffffffff|Hitem:133898::::::::70:581:::::::::|h[Anthology of the Guard]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -779,14 +783,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805503,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [48]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:25:48]|h|r You receive loot: |cffffffff|Hitem:133900::::::::70:581:::::::::|h[Aftermath of the Well]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -794,14 +798,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805547,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [49]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:26:13]|h|r You receive item: |cff9d9d9d|Hitem:140241::::::::70:581:::::::::|h[Enchanted Moonfall Text]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -809,14 +813,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805572,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [50]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:27:45]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
+					["r"] = 0.4352941513061523,
+					["b"] = 1,
+					["g"] = 0.4352941513061523,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -824,14 +828,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 1,
 					["serverTime"] = 1689805664,
-					["timestamp"] = 769849.006,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
 				}, -- [51]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:27:51]|h|r You receive item: |cffffffff|Hitem:133999::::::::70:581::11::1:28:347:::::|h[Inert Crystal]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -839,14 +843,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805670,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [52]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:28:48]|h|r You receive loot: |cffffffff|Hitem:133924::::::::70:581:::::::::|h[Astromancer's Keystone]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -854,14 +858,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805727,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [53]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:28:49]|h|r You receive currency: |cffffffff|Hcurrency:1155:0|h[Ancient Mana]|h|rx2",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -869,14 +873,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805728,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [54]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:28:49]|h|r You loot 99 Silver, 86 Copper",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -884,14 +888,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805728,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [55]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:29:07]|h|r You receive item: |cffa335ee|Hitem:140242::::::::70:581:::::::::|h[Astromancer's Compass]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -899,14 +903,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805746,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [56]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:29:08]|h|r You receive item: |cff9d9d9d|Hitem:142054::::::::70:581:::::::::|h[Enchanted Nightborne Coin]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -914,14 +918,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805747,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [57]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:30:30]|h|r Reputation with The Nightfallen increased by 75.",
+					["r"] = 0.501960813999176,
+					["b"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -929,14 +933,14 @@ Prat3HighCPUPerCharDB = {
 						39, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 1,
 					["serverTime"] = 1689805829,
-					["timestamp"] = 769849.006,
-					["g"] = 0.501960813999176,
-					["r"] = 0.501960813999176,
 				}, -- [58]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:30:33]|h|r You receive item: |cff9d9d9d|Hitem:141943::::::::70:581:::::::::|h[Moon Guard Power Gem]|h|r",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -944,14 +948,14 @@ Prat3HighCPUPerCharDB = {
 						20, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805832,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [59]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:30:58]|h|r You receive currency: |cffffffff|Hcurrency:1155:0|h[Ancient Mana]|h|rx191",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -959,14 +963,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
 					["serverTime"] = 1689805857,
-					["timestamp"] = 769849.006,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
 				}, -- [60]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[15:31:13]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
+					["r"] = 0.4352941513061523,
+					["b"] = 1,
+					["g"] = 0.4352941513061523,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -974,19 +978,10 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 1,
 					["serverTime"] = 1689805872,
-					["timestamp"] = 769849.006,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
 				}, -- [61]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:53:56]|h|r You receive item: |cffffffff|Hitem:132883::::::::70:581::11::1:28:347:::::|h[First Arcanist's Token]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832435,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -994,14 +989,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832435,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [62]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:53:57]|h|r You receive item: |cff0070dd|Hitem:141652::::::::70:581::11::1:28:335:::::|h[Mana Divining Stone]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832436,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1009,14 +1004,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832436,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [63]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:55:19]|h|r You receive loot: |cff9d9d9d|Hitem:132204::::::::70:581:::::::::|h[Sticky Volatile Substance]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832518,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1024,14 +1019,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832518,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [64]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:55:19]|h|r You receive loot: |cff1eff00|Hitem:121261::::::::70:581:::2:6654:1707:2:9:45:28:335:::::|h[Warpwind Bracers of the Aurora]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832518,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1039,14 +1034,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832518,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [65]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:55:19]|h|r You receive loot: |cff0070dd|Hitem:140934::::::::70:581::::1:28:373:::::|h[Benax]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832518,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1054,14 +1049,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832518,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [66]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:55:20]|h|r You receive currency: |cffffffff|Hcurrency:1220:0|h[Order Resources]|h|rx70",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832519,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -1069,14 +1064,14 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832519,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [67]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:56:13]|h|r Reputation with The Nightfallen increased by 25.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832572,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1084,14 +1079,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689832572,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [68]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:56:13]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832572,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1099,14 +1094,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689832572,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [69]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:56:28]|h|r You receive loot: |cff0070dd|Hitem:139890::::::::70:581:::::::::|h[Ancient Mana Gem]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832587,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1114,14 +1109,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832587,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [70]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:57:14]|h|r You receive loot: |cff0070dd|Hitem:139786::::::::70:581:::::::::|h[Ancient Mana Crystal]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832633,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1129,14 +1124,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832633,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [71]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:57:50]|h|r You receive loot: |cff9d9d9d|Hitem:132212::::::::70:581:::::::::|h[Frothing Essence]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832669,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1144,14 +1139,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832669,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [72]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:57:51]|h|r You receive currency: |cffffffff|Hcurrency:1220:0|h[Order Resources]|h|rx70",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832670,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -1159,14 +1154,14 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832670,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [73]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[22:57:53]|h|r You receive loot: |cff0070dd|Hitem:139890::::::::70:581:::::::::|h[Ancient Mana Gem]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832672,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1174,14 +1169,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832672,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [74]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:00:21]|h|r You receive loot: |cff9d9d9d|Hitem:132217::::::::70:581:::::::::|h[Elemental Pebbles]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832820,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1189,14 +1184,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832820,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [75]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:00:21]|h|r You receive loot: |cff9d9d9d|Hitem:132212::::::::70:581:::::::::|h[Frothing Essence]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832820,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1204,14 +1199,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832820,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [76]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:00:21]|h|r You receive loot: |cff9d9d9d|Hitem:138839::::::::70:581:::::::::|h[Valiant's Glory]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832820,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1219,14 +1214,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832820,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [77]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:00:21]|h|r You receive loot: |cff9d9d9d|Hitem:140388::::::::70:581:::::::::|h[Falanaar Gemstone]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832820,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1234,14 +1229,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832820,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [78]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:00:21]|h|r You receive currency: |cffffffff|Hcurrency:1220:0|h[Order Resources]|h|rx70",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832820,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -1249,14 +1244,14 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832820,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [79]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:01:14]|h|r You receive loot: |cff9d9d9d|Hitem:132183::::::::70:581:::::::::|h[Razor Tooth]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832873,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1264,14 +1259,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832873,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [80]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:01:14]|h|r You receive loot: |cff9d9d9d|Hitem:132231::::::::70:581:::::::::|h[Worn Hooked Claw]|h|rx2",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832873,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1279,14 +1274,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832873,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [81]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:01:14]|h|r You receive loot: |cff9d9d9d|Hitem:132212::::::::70:581:::::::::|h[Frothing Essence]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832873,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1294,14 +1289,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832873,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [82]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:01:14]|h|r You receive loot: |cff9d9d9d|Hitem:132183::::::::70:581:::::::::|h[Razor Tooth]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832873,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1309,14 +1304,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832873,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [83]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:01:42]|h|r Reputation with The Nightfallen increased by 50.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832901,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1324,14 +1319,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689832901,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [84]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:01:43]|h|r You receive item: |cff9d9d9d|Hitem:140349::::::::70:581:::::::::|h[Spare Arcane Ward]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832902,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1339,14 +1334,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832902,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [85]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:01:43]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832902,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1354,14 +1349,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689832902,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [86]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:02:34]|h|r You loot 1 Gold, 76 Silver, 3 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832953,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -1369,14 +1364,14 @@ Prat3HighCPUPerCharDB = {
 						16, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832953,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [87]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:02:45]|h|r Reputation with The Nightfallen increased by 50.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832964,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1384,14 +1379,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689832964,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [88]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:02:45]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832964,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1399,14 +1394,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689832964,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [89]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:02:58]|h|r You receive loot: |cff9d9d9d|Hitem:132212::::::::70:581:::::::::|h[Frothing Essence]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832977,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1414,14 +1409,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832977,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [90]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:02:58]|h|r You receive loot: |cffffffff|Hitem:136271::::::::70:581:::::::::|h[Spellstone of Kel'danath]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832977,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1429,14 +1424,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832977,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [91]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:03:08]|h|r Reputation with The Nightfallen increased by 50.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832987,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1444,14 +1439,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689832987,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [92]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:03:08]|h|r You receive item: |cff9d9d9d|Hitem:142054::::::::70:581:::::::::|h[Enchanted Nightborne Coin]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832987,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1459,14 +1454,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689832987,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [93]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:03:08]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832987,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1474,14 +1469,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689832987,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [94]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:05:09]|h|r Reputation with The Nightfallen increased by 25.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833108,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1489,14 +1484,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833108,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [95]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:05:09]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833108,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1504,14 +1499,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833108,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [96]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:06:37]|h|r You loot 1 Gold, 42 Silver, 2 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833196,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -1519,14 +1514,14 @@ Prat3HighCPUPerCharDB = {
 						16, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833196,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [97]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:07:04]|h|r You loot 1 Gold, 14 Silver, 55 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833223,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -1534,14 +1529,14 @@ Prat3HighCPUPerCharDB = {
 						16, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833223,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [98]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:08:11]|h|r You loot 92 Silver, 91 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833290,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -1549,14 +1544,14 @@ Prat3HighCPUPerCharDB = {
 						16, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833290,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [99]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:08:18]|h|r You receive loot: |cffffffff|Hitem:132894::::::::70:581:::::::::|h[Cracked Warpsleeve]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833297,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1564,14 +1559,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833297,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [100]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:08:51]|h|r You receive loot: |cff9d9d9d|Hitem:121332::::::::70:581:::1:6657:2:9:45:28:335:::::|h[Over-Sharpened Shank]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833330,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1579,14 +1574,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833330,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [101]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:08:52]|h|r You loot 1 Gold, 29 Silver, 24 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833331,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -1594,14 +1589,14 @@ Prat3HighCPUPerCharDB = {
 						16, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833331,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [102]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:08:53]|h|r You receive loot: |cffffffff|Hitem:132893::::::::70:581:::::::::|h[Weathered Telemancy Beacon]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833332,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1609,14 +1604,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833332,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [103]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:09:46]|h|r Reputation with The Nightfallen increased by 75.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833385,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1624,14 +1619,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833385,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [104]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:09:46]|h|r You receive item: |cff9d9d9d|Hitem:142054::::::::70:581:::::::::|h[Enchanted Nightborne Coin]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833385,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1639,14 +1634,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833385,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [105]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:09:46]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833385,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1654,14 +1649,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833385,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [106]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:10:34]|h|r You loot 1 Gold, 54 Silver, 76 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833433,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -1669,14 +1664,14 @@ Prat3HighCPUPerCharDB = {
 						16, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833433,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [107]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:25]|h|r Reputation with The Nightfallen increased by 50.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833544,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1684,14 +1679,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833544,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [108]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:26]|h|r You receive item: |cff9d9d9d|Hitem:142054::::::::70:581:::::::::|h[Enchanted Nightborne Coin]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833545,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1699,14 +1694,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833545,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [109]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:26]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833545,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1714,14 +1709,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833545,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [110]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:57]|h|r Reputation with The Nightfallen increased by 50.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833576,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1729,14 +1724,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833576,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [111]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:57]|h|r You receive item: |cff9d9d9d|Hitem:141933::::::::70:581:::::::::|h[Citrine Telemancy Index]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833576,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1744,14 +1739,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833576,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [112]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:58]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833577,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1759,14 +1754,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833577,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [113]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:58]|h|r Reputation with The Nightfallen increased by 25.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833577,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1774,14 +1769,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833577,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [114]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:58]|h|r You receive item: |cff9d9d9d|Hitem:141668::::::::70:581:::::::::|h[The Arcanist's Codex]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833577,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1789,14 +1784,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833577,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [115]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:59]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833578,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1804,14 +1799,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833578,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [116]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:59]|h|r Reputation with The Nightfallen increased by 25.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833578,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1819,14 +1814,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833578,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [117]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:59]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833578,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1834,14 +1829,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833578,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [118]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:11]|h|r Reputation with The Nightfallen increased by 75.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833590,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1849,14 +1844,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833590,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [119]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:16]|h|r Reputation with The Nightfallen increased by 50.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833595,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1864,14 +1859,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833595,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [120]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:16]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833595,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1879,14 +1874,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833595,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [121]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:17]|h|r You receive item: |cffffffff|Hitem:133897::::::::70:581::11::1:28:347:::::|h[Telemancy Beacon]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833596,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1894,14 +1889,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833596,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [122]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:16:41]|h|r Reputation with The Nightfallen increased by 50.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833800,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1909,14 +1904,14 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833800,
+					["timestamp"] = 770102.609,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
 				}, -- [123]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:16:41]|h|r |cff1eff00|Hgarrfollower:719:2:45:760:464:608:0:0:0:0:0:0:360|h[Shade of Akama]|h|r has earned 1000 xp.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833800,
 					["extraData"] = {
 						34, -- [1]
 						false, -- [2]
@@ -1924,14 +1919,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 1,
+					["serverTime"] = 1689833800,
+					["timestamp"] = 770102.609,
+					["g"] = 0.4352941513061523,
+					["r"] = 0.4352941513061523,
 				}, -- [124]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:17:04]|h|r You receive loot: |cffffffff|Hitem:124437::::::::70:581:::::::::|h[Shal'dorei Silk]|h|rx2",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833823,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1939,14 +1934,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833823,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [125]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:17:04]|h|r You receive loot: |cff9d9d9d|Hitem:132212::::::::70:581:::::::::|h[Frothing Essence]|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833823,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1954,14 +1949,19 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833823,
+					["timestamp"] = 770102.609,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
 				}, -- [126]
 				{
-					["message"] = "0 |4day:days;, 10 |4hour:hours;, 22 |4minute:minutes;, 16 |4second:seconds;",
-					["timestamp"] = 769849.006,
+					["message"] = "0 |4day:days;, 10 |4hour:hours;, 26 |4minute:minutes;, 31 |4second:seconds;",
+					["timestamp"] = 770102.609,
 				}, -- [127]
 				{
 					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 769849.006,
+					["timestamp"] = 770102.609,
 				}, -- [128]
 			},
 			["maxElements"] = 128,
@@ -1973,7 +1973,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 7,
+			["headIndex"] = 8,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -1988,60 +1988,72 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 1,
+					["b"] = 0,
+					["serverTime"] = 1689785563,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689785563,
-					["r"] = 1,
 				}, -- [1]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["b"] = 0,
-					["r"] = 1,
-					["serverTime"] = 1689802634,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 770102.609,
+					["serverTime"] = 1689802634,
+					["r"] = 1,
 				}, -- [2]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["g"] = 1,
+					["b"] = 0,
 					["r"] = 1,
+					["serverTime"] = 1689832394,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832394,
-					["b"] = 0,
 				}, -- [3]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["g"] = 1,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 770102.609,
 					["serverTime"] = 1689871159,
+					["b"] = 0,
+				}, -- [4]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["serverTime"] = 1689871414,
 					["r"] = 1,
 					["b"] = 0,
-					["timestamp"] = 769849.006,
+					["timestamp"] = 770102.609,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
 					["g"] = 1,
-				}, -- [4]
-				{
-					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
-					["timestamp"] = 769849.006,
 				}, -- [5]
 				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 769849.006,
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 770102.609,
 				}, -- [6]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 770102.609,
+				}, -- [7]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
 					["r"] = 1,
@@ -2049,10 +2061,10 @@ Prat3HighCPUPerCharDB = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 769835.055,
+					["timestamp"] = 770088.321,
 					["g"] = 1,
 					["b"] = 0,
-				}, -- [7]
+				}, -- [8]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -2178,7 +2190,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 127,
+			["headIndex"] = 80,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -2192,1206 +2204,1189 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:29:39]|h|r Syrana Starweaver says: The Moon Guard are no more. There is no saving our beloved Stronghold.",
+					["message"] = "|cff979797|Hpratcopy|h[09:44:51]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - The Great Sea]|h",
+					["serverTime"] = 1689871490,
+					["r"] = 0.9098039865493774,
 					["extraData"] = {
-						13, -- [1]
+						70, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						4, -- [3]
+						5, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1689805778,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 770180.2540000001,
+					["g"] = 0.8862745761871338,
+					["b"] = 0.4666666984558106,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:29:46]|h|r Thalrenus Rivertree says: They will be upon us shortly. I can teleport us somewhere safe.",
+					["message"] = "|cff979797|Hpratcopy|h[09:45:37]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Dalaran]|h",
+					["serverTime"] = 1689871536,
+					["r"] = 0.7568628191947937,
 					["extraData"] = {
-						13, -- [1]
+						68, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1689805785,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 770225.79,
+					["g"] = 0.8980392813682556,
+					["b"] = 0.9098039865493774,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:29:51]|h|r Thalrenus Rivertree says: Here we go!",
+					["message"] = "|cff979797|Hpratcopy|h[09:45:37]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Dalaran]|h",
+					["serverTime"] = 1689871536,
+					["r"] = 0.9098039865493774,
 					["extraData"] = {
-						13, -- [1]
+						70, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						4, -- [3]
+						5, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1689805790,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 770225.79,
+					["g"] = 0.8862745761871338,
+					["b"] = 0.4666666984558106,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:29:55]|h|r Thalrenus Rivertree says: I detected a strange signal coming from this place.",
+					["message"] = "|cff979797|Hpratcopy|h[09:45:43]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - The Fel Hammer]|h",
+					["serverTime"] = 1689871542,
+					["r"] = 0.7568628191947937,
 					["extraData"] = {
-						13, -- [1]
+						68, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1689805794,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 770231.756,
+					["g"] = 0.8980392813682556,
+					["b"] = 0.9098039865493774,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:29:59]|h|r Syrana Starweaver says: It is Nightborne magic... but it called to us.",
+					["message"] = "|cff979797|Hpratcopy|h[09:45:43]|h|r |Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Dalaran]|h",
+					["serverTime"] = 1689871542,
+					["r"] = 0.9098039865493774,
 					["extraData"] = {
-						13, -- [1]
+						70, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						4, -- [3]
+						5, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1689805798,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 770231.756,
+					["g"] = 0.8862745761871338,
+					["b"] = 0.4666666984558106,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:30:06]|h|r Lothrius Mooncaller says: Come. I see an opening in the rock.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1689805805,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[09:46:20]|h|r Repaired for 98 Silver, 91 Copper.",
+					["serverTime"] = 1689871579,
 					["r"] = 1,
+					["extraData"] = {
+						["n"] = 1,
+					},
+					["timestamp"] = 770269.696,
+					["g"] = 0.85,
+					["b"] = 0,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:30:30]|h|r Feed Thalyssra completed.",
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						15, -- [3]
-						16, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0,
-					["serverTime"] = 1689805829,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[09:46:21]|h|r Sold junk for 20 Silver, 82 Copper.",
+					["serverTime"] = 1689871580,
 					["r"] = 1,
+					["extraData"] = {
+						["n"] = 1,
+					},
+					["timestamp"] = 770270.152,
+					["g"] = 0.85,
+					["b"] = 0,
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:30:30]|h|r First Arcanist Thalyssra says: Ah... the fog has lifted, just a bit...",
+					["message"] = "|cff979797|Hpratcopy|h[09:46:21]|h|r Loramus Thalipedes yells: [Demonic] NOTHING CAN PREVENT YOUR WORLD FROM BURNING!",
+					["serverTime"] = 1689871580,
+					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1689805829,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 770270.313,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [8]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:30:33]|h|r Last Stand of the Moon Guard completed.",
+					["message"] = "|cff979797|Hpratcopy|h[09:46:40]|h|r |cffff80ff|Htransmogappearance:80993|h[Belt of the Shattered Abyss]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1689871599,
+					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						15, -- [3]
-						16, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689805832,
-					["timestamp"] = 769849.006,
+					["timestamp"] = 770289.579,
 					["g"] = 1,
-					["r"] = 1,
+					["b"] = 0,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:30:56]|h|r You gained: |cffffffff676|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 43|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 68|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t|r",
+					["message"] = "|cff979797|Hpratcopy|h[09:46:45]|h|r |cffff80ff|Htransmogappearance:80991|h[Breeches of the Shattered Abyss]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1689871604,
+					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689805855,
-					["timestamp"] = 769849.006,
+					["timestamp"] = 770294.079,
 					["g"] = 1,
-					["r"] = 1,
+					["b"] = 0,
 				}, -- [10]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:31:13]|h|r Saving the Guard completed.",
+					["message"] = "|cff979797|Hpratcopy|h[09:47:18]|h|r |cffa335ee|Hitem:147537::::::::70:581:::::::::|h[A Tiny Set of Warglaives]|h|r has been added to your Toy Box.",
+					["serverTime"] = 1689871637,
+					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						15, -- [3]
-						16, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689805872,
-					["timestamp"] = 769849.006,
+					["timestamp"] = 770326.903,
 					["g"] = 1,
-					["r"] = 1,
+					["b"] = 0,
 				}, -- [11]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:31:13]|h|r Received 2 Gold, 2 Silver, 20 Copper.",
+					["message"] = "|cff979797|Hpratcopy|h[09:49:01]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Dalaran]|h",
+					["serverTime"] = 1689871740,
+					["r"] = 0.7568628191947937,
 					["extraData"] = {
-						1, -- [1]
+						68, -- [1]
 						false, -- [2]
-						15, -- [3]
-						16, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1689805872,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 770430.444,
+					["g"] = 0.8980392813682556,
+					["b"] = 0.9098039865493774,
 				}, -- [12]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:31:13]|h|r Thalrenus Rivertree says: We still owe you a great debt for your help in evacuating our stronghold. How can we repay you?",
+					["message"] = "|cff979797|Hpratcopy|h[09:49:01]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Dalaran]|h",
+					["serverTime"] = 1689871740,
+					["r"] = 0.9098039865493774,
 					["extraData"] = {
-						13, -- [1]
+						70, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						4, -- [3]
+						5, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1689805872,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 770430.444,
+					["g"] = 0.8862745761871338,
+					["b"] = 0.4666666984558106,
 				}, -- [13]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:31:20]|h|r Quest accepted: Lost Knowledge",
+					["message"] = "|cff979797|Hpratcopy|h[09:49:48]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - The Great Sea]|h",
+					["serverTime"] = 1689871787,
+					["r"] = 0.7568628191947937,
 					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						15, -- [3]
-						16, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0,
-					["serverTime"] = 1689805879,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [14]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[15:31:20]|h|r Thalrenus Rivertree says: Be wary, friend. It may take some time to earn the Nightfallen's trust.",
-					["extraData"] = {
-						13, -- [1]
+						68, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1689805879,
-					["timestamp"] = 769849.006,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 770477.29,
+					["g"] = 0.8980392813682556,
+					["b"] = 0.9098039865493774,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:49:48]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - The Great Sea]|h",
+					["serverTime"] = 1689871787,
+					["r"] = 0.9098039865493774,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 770477.29,
+					["g"] = 0.8862745761871338,
+					["b"] = 0.4666666984558106,
 				}, -- [15]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:53:56]|h|r Quest accepted: Oculeth's Workshop",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[09:49:48]|h|r |Hchannel:channel:4|h[4] |h Left Channel: |Hchannel:CHANNEL:4|h[4. Trade (Services) - City]|h",
+					["serverTime"] = 1689871787,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832435,
 					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:53:56]|h|r Quest accepted: An Old Ally",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832435,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [17]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:53:57]|h|r Quest accepted: Ancient Mana",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832436,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:55:16]|h|r Shade of Akama says: My soul... consumed by hate!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832515,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-				}, -- [19]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:55:18]|h|r Interface action failed because of an AddOn",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832517,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-				}, -- [20]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:55:23]|h|r |cff0070dd|Hbattlepet:1934:1:3:161:12:10:BattlePet-0-00000A8DD830:72658|h[Benax]|h|r has been added to your pet journal!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832522,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [21]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:56:13]|h|r An Old Ally completed.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832572,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [22]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:56:13]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832572,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:56:14]|h|r Quest accepted: Scattered Memories",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832573,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:56:14]|h|r Arcanist Kel'danath says: Day 5: Wards prove effective at deterring the withered, but do nothing for the cacophony of critters and beasts outside. The nights are so loud out here.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832573,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:56:22]|h|r Quest accepted: A Re-Warding Effort",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832581,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:56:32]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:<BNET REMOVED>:24:0:BN_INLINE_TOAST_ALERT:0|h[<BNET REMOVED>]|h has gone offline.",
-					["b"] = 1,
-					["r"] = 0.5098039507865906,
-					["g"] = 0.7725490927696228,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832591,
-					["extraData"] = {
-						54, -- [1]
+						71, -- [1]
 						false, -- [2]
 						13, -- [3]
 						14, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 770477.29,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:50:09]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Suramar]|h",
+					["serverTime"] = 1689871808,
+					["r"] = 0.7568628191947937,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 770498.3,
+					["g"] = 0.8980392813682556,
+					["b"] = 0.9098039865493774,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:50:09]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Suramar]|h",
+					["serverTime"] = 1689871808,
+					["r"] = 0.9098039865493774,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 770498.3,
+					["g"] = 0.8862745761871338,
+					["b"] = 0.4666666984558106,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:08:33]|h|r Thunder Warrior says: Grandmaster, I've got your back!",
+					["serverTime"] = 1689872912,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 771602.286,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:13:53]|h|r Interface action failed because of an AddOn",
+					["serverTime"] = 1689873232,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 771922.193,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:48]|h|r Kel'danath's Legacy completed.",
+					["serverTime"] = 1689873287,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 771977.628,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:48]|h|r Received 20 Gold, 22 Silver.",
+					["serverTime"] = 1689873287,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 771977.628,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:49]|h|r Quest accepted: Tapping the Leylines",
+					["serverTime"] = 1689873288,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 771978.261,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:49]|h|r First Arcanist Thalyssra says: Remember, you can use the new teleporter to reach the surface quickly. Anora Hollow is somewhere north of here.",
+					["serverTime"] = 1689873288,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 771978.385,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:50]|h|r Quest accepted: Sympathizers Among the Shal'dorei",
+					["serverTime"] = 1689873289,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 771979.125,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:56]|h|r Sold junk for 25 Gold.",
+					["serverTime"] = 1689873295,
+					["r"] = 1,
+					["extraData"] = {
+						["n"] = 1,
+					},
+					["timestamp"] = 771985.337,
+					["g"] = 0.85,
+					["b"] = 0,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:58]|h|r You gained: |cffffffff25|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t|r",
+					["serverTime"] = 1689873297,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 771987.655,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [27]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:56:56]|h|r Arcanist Kel'danath says: Day 9: Still no luck in communicating with the withered. I must regard this failure not as a measure of ability, but a measure of progress.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:15:49]|h|r Arcanist Valtrois says: You there! Outlander! Be a dear and step on that other switch, will you?",
+					["serverTime"] = 1689873348,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832615,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772038.522,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [28]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:57:27]|h|r Arcanist Kel'danath says: Day 14: The new subject, number 16, is special. His arcane essence is touched by some mysterious power. I have named him Theryn.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:15:57]|h|r Arcanist Valtrois says: There we are. Open at last.",
+					["serverTime"] = 1689873356,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832646,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772045.9500000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [29]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:58:25]|h|r Arcanist Kel'danath says: Day 16: Breakthrough! Using Theryn's essence as the base, I have crafted a spell that calms the withered. At least, it works sometimes...",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:16:01]|h|r Arcanist Valtrois says: Well, I will be killing you now. Any last words?",
+					["serverTime"] = 1689873360,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832704,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772049.801,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [30]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:00:18]|h|r Oreth the Vile says: Hunger.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:16:08]|h|r Arcanist Valtrois says: Ahhh, I recognize that symbol. So Thalyssra has recruited an outlander to our cause... Are we truly so desperate?",
+					["serverTime"] = 1689873367,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832817,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772057.181,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [31]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:01:02]|h|r Arcanist Kel'danath says: Day 24: Awoke to a night elf's blade at my neck. He asked what I was doing to the withered. \"Searching for a cure,\" I replied. He merely grunted, and disappeared into the woods.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:16:17]|h|r Arcanist Valtrois says: <Sigh.> Very well. I am Valtrois.",
+					["serverTime"] = 1689873376,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832861,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772065.76,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [32]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:01:26]|h|r Arcanist Kel'danath says: Day 33:  Low on arc-wine. Theryn making excellent progress. Shal'an remains stubborn. Crystals becoming harder to find.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:16:25]|h|r Arcanist Valtrois says: Out here, so far from the Nightwell, we must settle for any source of magic we can find.",
+					["serverTime"] = 1689873384,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832885,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772073.894,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [33]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:01:43]|h|r A Re-Warding Effort completed.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:16:36]|h|r Arcanist Valtrois says: It seems Thalyssra and I had the same idea - the old leyline feeds might keep us alive, if barely.",
+					["serverTime"] = 1689873395,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832902,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772084.909,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [34]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:01:43]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:16:47]|h|r Arcanist Valtrois says: We just have to wake them up.",
+					["serverTime"] = 1689873406,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832902,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772095.873,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [35]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:02:32]|h|r Arcanist Kel'danath says: Day 40: A massive ettin trampled through my workshop at Koralune Manor. Scared him away with magic. Have a feeling he will be back...",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:19:14]|h|r You are now Friendly with The Nightfallen.",
+					["serverTime"] = 1689873553,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832951,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772243.544,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [36]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:02:45]|h|r Scattered Memories completed.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:19:14]|h|r Tapping the Leylines completed.",
+					["serverTime"] = 1689873553,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832964,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772243.568,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [37]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:02:45]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:19:14]|h|r Received 20 Gold, 22 Silver.",
+					["serverTime"] = 1689873553,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832964,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772243.568,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [38]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:02:45]|h|r Quest accepted: Written in Stone",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:19:15]|h|r Quest accepted: Power Grid",
+					["serverTime"] = 1689873554,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832964,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772243.9,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [39]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:02:45]|h|r Arcanist Kel'danath says: Day 50: The sky... has turned black. Demons... everywhere. And this hunger... this endless hunger...",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:19:15]|h|r Arcanist Valtrois says: This coil projects a high-potency current. You will find a low-potency coil at the far end of the facility.",
+					["serverTime"] = 1689873554,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832964,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772244.468,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [40]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:02:56]|h|r Shade of Akama says: My anger is... uncontrollable!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:19:22]|h|r Arcanist Valtrois says: Both currents feed into the central chamber. Use the coils and switches to direct the currents and power all four seals in the central chamber!",
+					["serverTime"] = 1689873561,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832975,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772251.0210000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [41]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:02:56]|h|r Arcanist Kel'danath says: Subjects released... I can no longer protect them...",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:20:05]|h|r Arcanist Valtrois says: The currents are aligned - now engage the seal!",
+					["serverTime"] = 1689873604,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832975,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772294.644,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [42]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:03:02]|h|r Arcanist Kel'danath says: My spellstone... someone please... use it to carry on my work...",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:20:19]|h|r Arcanist Valtrois says: Fine work. Three more to go.",
+					["serverTime"] = 1689873618,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832981,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772308.443,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [43]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:03:08]|h|r Written in Stone completed.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:24:27]|h|r Arcanist Valtrois says: It is done! The station is back online.",
+					["serverTime"] = 1689873866,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832987,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772555.809,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [44]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:03:08]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:24:39]|h|r Power Grid completed.",
+					["serverTime"] = 1689873878,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832987,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772567.8030000001,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [45]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:03:08]|h|r Quest accepted: Subject 16",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:24:39]|h|r Received 20 Gold, 22 Silver.",
+					["serverTime"] = 1689873878,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689832987,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772567.8030000001,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [46]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:04:14]|h|r Chief Telemancer Oculeth says: That is far enough.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:24:40]|h|r Arcanist Valtrois says: You are dismissed. I will make my own way to Shal'Aran.",
+					["serverTime"] = 1689873879,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833053,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772569.0040000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [47]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:04:21]|h|r Chief Telemancer Oculeth says: Well, you are not from the palace... and you are no demon, at least not entirely.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:25:55]|h|r Silgryn says: Thalyssra lives? Come, let us talk in private.",
+					["serverTime"] = 1689873954,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833060,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772644.665,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [48]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:04:28]|h|r Chief Telemancer Oculeth says: Identify yourself, before I teleport you to the depths of the Great Sea.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:26:12]|h|r Sympathizers Among the Shal'dorei completed.",
+					["serverTime"] = 1689873971,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833067,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772660.769,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [49]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:04:43]|h|r Chief Telemancer Oculeth says: I did warn you. Tel'vasha!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:26:12]|h|r Received 20 Gold, 22 Silver.",
+					["serverTime"] = 1689873971,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833082,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772660.769,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [50]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:04:44]|h|r Chief Telemancer Oculeth says: What is this? A coin...",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:26:15]|h|r Quest accepted: The Masks We Wear",
+					["serverTime"] = 1689873974,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833083,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772663.716,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [51]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:04:48]|h|r Chief Telemancer Oculeth says: The sign of the dusk lily... This is the First Arcanist's seal! Is she alive?!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:26:16]|h|r Silgryn says: We shall use the garden entrance.",
+					["serverTime"] = 1689873975,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833087,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772665.242,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [52]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:04:54]|h|r Chief Telemancer Oculeth says: Then there is still a chance... Come quickly! I need your help.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:26:23]|h|r Silgryn says: Enchanted masks. Simply don the mask, and a magical costume will envelop your body.",
+					["serverTime"] = 1689873982,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833093,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772671.742,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [53]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:05:02]|h|r Chief Telemancer Oculeth says: Right. The trap.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:26:29]|h|r Silgryn says: It should be enough to fool the other guests, but stay clear of the guards.",
+					["serverTime"] = 1689873988,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833101,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772678.6510000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [54]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:05:05]|h|r Chief Telemancer Oculeth says: N'eth ana!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:26:37]|h|r Silgryn says: I will find Ly'leth. You stay out of trouble.",
+					["serverTime"] = 1689873996,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833104,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772686.326,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [55]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:05:09]|h|r Oculeth's Workshop completed.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:26:42]|h|r Silgryn says: Just enjoy the party for a bit. You know... mingle.",
+					["serverTime"] = 1689874001,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833108,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772691.634,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [56]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:05:09]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:27:08]|h|r Masqued Reveler says: You know, the Magistrix has spies everywhere.",
+					["serverTime"] = 1689874027,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833108,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772717.24,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [57]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:05:10]|h|r Quest accepted: The Delicate Art of Telemancy",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:27:12]|h|r Masqued Reveler says: Curious...",
+					["serverTime"] = 1689874031,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833109,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772721.221,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [58]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:05:10]|h|r Chief Telemancer Oculeth says: The teleporter is just outside. Activate it first, then step on the pad.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:27:15]|h|r Masqued Reveler says: Hm. Yes. Fascinating.",
+					["serverTime"] = 1689874034,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833109,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772723.949,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [59]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:05:32]|h|r Chief Telemancer Oculeth says: All of the teleporters work the same way. Use them to find that equipment!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:27:25]|h|r High Mage of the Duskwatch says: Who goes there?!",
+					["serverTime"] = 1689874044,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833131,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772734.2440000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [60]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:05:52]|h|r Chief Telemancer Oculeth says: Something is wrong... I have lost your position...",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:27:46]|h|r High Mage of the Duskwatch says: Who goes there?!",
+					["serverTime"] = 1689874065,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833151,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772755.2220000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [61]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:05:57]|h|r Chief Telemancer Oculeth says: Wherever you are, it is unstable. The telemancy will not hold long.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:27:53]|h|r Masqued Reveler says: Excuse me while I pretend we never met.",
+					["serverTime"] = 1689874072,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833156,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772762.533,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [62]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:06:09]|h|r Chief Telemancer Oculeth says: A curious discovery, but you will not find the equipment we need in there.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:28:01]|h|r High Mage of the Duskwatch says: An illusion! What are you hiding?",
+					["serverTime"] = 1689874080,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833168,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772770.226,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [63]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:06:34]|h|r Nightborne Warpcaster says: Our magic will break you!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:28:06]|h|r Masqued Reveler says: Curious...",
+					["serverTime"] = 1689874085,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833193,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772775.009,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [64]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:06:34]|h|r Nightborne Warpcaster says: Arash-falas...",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:28:21]|h|r High Mage of the Duskwatch says: Who goes there?!",
+					["serverTime"] = 1689874100,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833193,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772790.228,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [65]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:08:53]|h|r Chief Telemancer Oculeth says: Good work. Bring them back to me at the workshop!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:28:25]|h|r Masqued Reveler says: This conversation is boring me.",
+					["serverTime"] = 1689874104,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833332,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772794.001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [66]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:09:04]|h|r Shade of Akama says: My anger is... uncontrollable!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:28:30]|h|r Masqued Reveler says: This conversation is boring me.",
+					["serverTime"] = 1689874109,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833343,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772799.165,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [67]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:09:46]|h|r The Delicate Art of Telemancy completed.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:28:42]|h|r Quest accepted: Lunastre Estate Teleporter Online!",
+					["serverTime"] = 1689874121,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833385,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772811.502,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [68]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:09:46]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:28:43]|h|r Lunastre Estate Teleporter Online! completed.",
+					["serverTime"] = 1689874122,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833385,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772812.061,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [69]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:09:46]|h|r Quest accepted: Network Security",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[10:28:43]|h|r Received 4 Silver.",
+					["serverTime"] = 1689874122,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833385,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772812.061,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [70]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:09:46]|h|r Chief Telemancer Oculeth says: Go ahead, I am right behind you.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:29:10]|h|r High Mage of the Duskwatch says: An illusion! What are you hiding?",
+					["serverTime"] = 1689874149,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833385,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772839.2270000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [71]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:09:55]|h|r Chief Telemancer Oculeth says: Here we are - my old sanctuary!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:29:17]|h|r High Mage of the Duskwatch says: Something's not quite right...",
+					["serverTime"] = 1689874156,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833394,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772846.251,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [72]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:10:01]|h|r Chief Telemancer Oculeth says: Strange... the defenses are offline...",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:29:39]|h|r Masqued Reveler says: Psst. Table behind the house. Lady Ly'leth is waiting for you.",
+					["serverTime"] = 1689874178,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833400,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772868.65,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [73]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:10:14]|h|r Nightborne Enforcer says: Anath'ashar!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:29:58]|h|r Ly'leth Lunastre says: This is not up for debate, Anarys. You are either with us, or against us. Choose wisely.",
+					["serverTime"] = 1689874197,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833413,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772887.058,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [74]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:10:14]|h|r Chief Telemancer Oculeth says: Intruders! How did they get in here?!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:30:06]|h|r Anarys Lunastre says: I will hear no more of your scheming! You endanger everything our father worked for!",
+					["serverTime"] = 1689874205,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833413,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772894.861,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [75]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:10:16]|h|r Chief Telemancer Oculeth says: This coil taps into the ancient leylines. Crank it up to full power!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:30:10]|h|r Ly'leth Lunastre says: <sigh> Dear child... Do you not realize what he died for?",
+					["serverTime"] = 1689874209,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833415,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772898.975,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [76]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:10:18]|h|r Chief Telemancer Oculeth says: Good. If we overcharge enough coils, the entire system will failsafe into a lockdown.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:30:11]|h|r The Masks We Wear completed.",
+					["serverTime"] = 1689874210,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833417,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772900.6140000001,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [77]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:10:24]|h|r Chief Telemancer Oculeth says: There are more coils in the chamber below - and more intruders, I imagine.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:30:11]|h|r Received 20 Gold, 22 Silver.",
+					["serverTime"] = 1689874210,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833423,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772900.6140000001,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [78]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:10:44]|h|r Chief Telemancer Oculeth says: Thwen... I should have recognized your uniquely oafish meddling on my network.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:30:14]|h|r Quest accepted: Blood of My Blood",
+					["serverTime"] = 1689874213,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833443,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772903.362,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [79]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:10:49]|h|r Warpcaster Thwen says: My, my. You look rather gaunt, honored teacher. Are you eating enough? Ahahaha!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:30:14]|h|r Ly'leth Lunastre says: Our father's memorial is just around the corner. I am sure you will find Anarys nearby.",
+					["serverTime"] = 1689874213,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833448,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 772903.362,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [80]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:11:02]|h|r Warpcaster Thwen says: You should be proud! Your handiwork is going to help us reclaim every corner of our ancient lands.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833461,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3399,14 +3394,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833461,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [81]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:11:10]|h|r Chief Telemancer Oculeth says: Urgh!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833469,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3414,14 +3409,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833469,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [82]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:11:13]|h|r Chief Telemancer Oculeth says: I can deal with Thwen. You overload the coils!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833472,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3429,14 +3424,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833472,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [83]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:11:17]|h|r Chief Telemancer Oculeth says: Good trick... <cough> Warping the space around your body like that.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833476,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3444,14 +3439,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833476,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [84]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:11:23]|h|r Chief Telemancer Oculeth says: But what if that space is already unstable?",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833482,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3459,14 +3454,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833482,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [85]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:11:30]|h|r Warpcaster Thwen says: My warp field is not working! Where have you taken us?!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833489,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3474,14 +3469,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833489,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [86]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:11:35]|h|r Chief Telemancer Oculeth says: <cough> Unstable... space...",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833494,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3489,14 +3484,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833494,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [87]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:11:35]|h|r Warpcaster Thwen says: No! This place... it must bend to my will!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833494,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3504,14 +3499,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833494,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [88]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:11:44]|h|r Warpcaster Thwen says: An'ratha... an'tal-thandros!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833503,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3519,14 +3514,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833503,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [89]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:11:48]|h|r Chief Telemancer Oculeth says: Thwen always took magic too lightly... She was a terrible student... <cough>",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833507,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3534,14 +3529,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833507,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [90]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:11]|h|r Chief Telemancer Oculeth says: I haven't much left... <cough> I will get us as close as I can... Come close.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833530,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3549,14 +3544,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833530,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [91]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:26]|h|r Network Security completed.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833545,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3564,14 +3559,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833545,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [92]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:26]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833545,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3579,14 +3574,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833545,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [93]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:26]|h|r Quest accepted: Close Enough",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833545,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3594,14 +3589,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833545,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [94]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:28]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Seyka-Hyjal:1647:GUILD|h|cffd8bc3f70|r:|cfff48cbaSeyka|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:208138::::::::70:65::::1:28:373:::::|h[N'Ruby]|h|r|cff0070dd|Hitem:206781::::::::70:65::9::1:28:2684:::::|h[Demonic Bone-Crusher]|h|r",
-					["b"] = 0.250980406999588,
-					["r"] = 0.250980406999588,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833547,
 					["extraData"] = {
 						5, -- [1]
 						false, -- [2]
@@ -3609,14 +3604,14 @@ Prat3HighCPUPerCharDB = {
 						18, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1689833547,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 0.250980406999588,
 				}, -- [95]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:48]|h|r First Arcanist Thalyssra says: Oculeth!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833567,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3624,14 +3619,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833567,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [96]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:52]|h|r First Arcanist Thalyssra says: He is withering...",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833571,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3639,14 +3634,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833571,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [97]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:57]|h|r Close Enough completed.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833576,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3654,14 +3649,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833576,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [98]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:57]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833576,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3669,14 +3664,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833576,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [99]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:58]|h|r Quest accepted: Hungry Work",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833577,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3684,14 +3679,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833577,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [100]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:58]|h|r Subject 16 completed.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833577,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3699,14 +3694,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833577,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [101]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:58]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833577,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3714,14 +3709,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833577,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [102]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:59]|h|r Quest accepted: Kel'danath's Legacy",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833578,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3729,14 +3724,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833578,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [103]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:59]|h|r First Arcanist Thalyssra says: I shall prepare a holding area for the subjects while you are away.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833578,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3744,14 +3739,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833578,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [104]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:59]|h|r Ancient Mana completed.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833578,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3759,14 +3754,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833578,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [105]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:12:59]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833578,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3774,26 +3769,26 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833578,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [106]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:06]|h|r You gained: |cffffffff13|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 75|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t|r",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833585,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833585,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [107]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:11]|h|r Feed Oculeth completed.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833590,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3801,14 +3796,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833590,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [108]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:11]|h|r Chief Telemancer Oculeth says: Not withering today, it seems.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833590,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3816,14 +3811,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833590,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [109]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:16]|h|r Hungry Work completed.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833595,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3831,14 +3826,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833595,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [110]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:16]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833595,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3846,14 +3841,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833595,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [111]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:17]|h|r Quest accepted: Survey Says...",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833596,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3861,14 +3856,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833596,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [112]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:17]|h|r First Arcanist Thalyssra says: Oculeth, can you restore the teleporters in this chamber?",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833596,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3876,14 +3871,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833596,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [113]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:24]|h|r Chief Telemancer Oculeth says: Already on it! Once our friend completes the survey, we will have our first connection.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833603,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3891,26 +3886,26 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833603,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [114]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:29]|h|r You gained: |cffffffff2|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 87|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 8|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t|r",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833608,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833608,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [115]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:13:36]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Seyka-Hyjal:1678:GUILD|h|cffd8bc3f70|r:|cfff48cbaSeyka|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:208009::::::::70:65::14::1:28:373:::::|h[Gill'dan]|h|r",
-					["b"] = 0.250980406999588,
-					["r"] = 0.250980406999588,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833615,
 					["extraData"] = {
 						5, -- [1]
 						false, -- [2]
@@ -3918,14 +3913,14 @@ Prat3HighCPUPerCharDB = {
 						18, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1689833615,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 0.250980406999588,
 				}, -- [116]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:15:04]|h|r Chief Telemancer Oculeth says: I should mention... the survey may reveal a few tele-spatial anomalies. Maybe a warptime ripple or two...",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833703,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3933,14 +3928,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833703,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [117]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:16:33]|h|r Chief Telemancer Oculeth says: Survey complete. Now place the beacon!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833792,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3948,14 +3943,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833792,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [118]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:16:41]|h|r Survey Says... completed.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833800,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3963,14 +3958,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833800,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [119]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:16:41]|h|r Received 20 Gold, 22 Silver.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833800,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3978,14 +3973,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1689833800,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [120]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:16:42]|h|r Chief Telemancer Oculeth says: Two-way connection established. Use it freely - the distance is short, so it requires very little power.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833801,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -3993,14 +3988,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833801,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [121]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:16:49]|h|r Chief Telemancer Oculeth says: Now we can begin to restore the ancient network. If you find any of my old beacons out there, be sure to activate them!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833808,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -4008,14 +4003,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833808,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [122]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:17:00]|h|r Shade of Akama says: My hatred burns!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833819,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -4023,14 +4018,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833819,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [123]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[23:17:28]|h|r Shade of Akama says: I bring death!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 769849.006,
-					["serverTime"] = 1689833847,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -4038,19 +4033,39 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1689833847,
+					["timestamp"] = 770102.609,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [124]
 				{
-					["message"] = "0 |4day:days;, 10 |4hour:hours;, 21 |4minute:minutes;, 52 |4second:seconds;",
-					["timestamp"] = 769849.006,
+					["message"] = "0 |4day:days;, 10 |4hour:hours;, 26 |4minute:minutes;, 7 |4second:seconds;",
+					["timestamp"] = 770102.609,
 				}, -- [125]
 				{
 					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 769849.006,
+					["timestamp"] = 770102.609,
 				}, -- [126]
 				{
 					["message"] = "oRA3: Invalid spell id 152262",
-					["timestamp"] = 769835.055,
+					["timestamp"] = 770088.321,
 				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:44:51]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - The Great Sea]|h",
+					["serverTime"] = 1689871490,
+					["r"] = 0.7568628191947937,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 770180.2540000001,
+					["g"] = 0.8980392813682556,
+					["b"] = 0.9098039865493774,
+				}, -- [128]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],

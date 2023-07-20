@@ -4,6 +4,9 @@ EnhancedRaidFramesDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["global"] = {
+		["DB_VERSION"] = 2,
+	},
 	["profileKeys"] = {
 		["Thezknight - Hyjal"] = "Thezknight - Hyjal",
 		["Thezidari - Hyjal"] = "Thezdin - Hyjal",
@@ -13,17 +16,14 @@ EnhancedRaidFramesDB = {
 		["Thezfu - Hyjal"] = "Thezfu - Hyjal",
 		["Thez - Hyjal"] = "Thez - Hyjal",
 	},
-	["global"] = {
-		["DB_VERSION"] = 2,
-	},
 	["profiles"] = {
-		["Thezdgar - Hyjal"] = {
+		["Thezadin - Hyjal"] = {
 		},
 		["Thezknight - Hyjal"] = {
 		},
 		["Thezidari - Hyjal"] = {
 		},
-		["Thezadin - Hyjal"] = {
+		["Thezdgar - Hyjal"] = {
 		},
 		["Thezdin - Hyjal"] = {
 			{
@@ -32,9 +32,9 @@ EnhancedRaidFramesDB = {
 			["rangeAlpha"] = 0.6000000000000001,
 			["indicatorFont"] = "RobotoCondensed Bold",
 		},
-		["Thezfu - Hyjal"] = {
-		},
 		["Default"] = {
+		},
+		["Thezfu - Hyjal"] = {
 		},
 		["Thez - Hyjal"] = {
 		},

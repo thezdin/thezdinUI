@@ -56,13 +56,13 @@ Bagnon_Sets = {
 				0, -- [3]
 				0.5, -- [4]
 			},
-			["scale"] = 1.25,
+			["reverseBags"] = false,
 			["hiddenRules"] = {
 			},
-			["itemScale"] = 1,
-			["y"] = -113.2893310546875,
+			["bagBreak"] = false,
+			["y"] = -113.2880493164063,
 			["x"] = -212.1525390625002,
-			["columns"] = 15,
+			["spacing"] = 4,
 			["borderColor"] = {
 				0.2784313857555389, -- [1]
 				0.2784313857555389, -- [2]
@@ -70,9 +70,9 @@ Bagnon_Sets = {
 				1, -- [4]
 			},
 			["reverseSlots"] = false,
-			["spacing"] = 4,
-			["bagBreak"] = false,
-			["reverseBags"] = false,
+			["columns"] = 15,
+			["itemScale"] = 1,
+			["scale"] = 1.25,
 		},
 		["vault"] = {
 			["rules"] = {
@@ -170,13 +170,13 @@ Bagnon_Sets = {
 			},
 			["y"] = -99.45654296875,
 			["x"] = 81.66667938232422,
-			["itemScale"] = 1.27,
-			["showBags"] = true,
-			["spacing"] = 5,
-			["point"] = "TOPLEFT",
-			["brokerObject"] = "BigWigs",
 			["borderColor"] = {
 			},
+			["showBags"] = true,
+			["brokerObject"] = "BigWigs",
+			["point"] = "TOPLEFT",
+			["spacing"] = 5,
+			["itemScale"] = 1.27,
 		},
 	},
 	["glowAlpha"] = 0.7,
@@ -253,16 +253,16 @@ Bagnon_Sets = {
 					},
 					["hiddenRules"] = {
 					},
-					["scale"] = 1.21,
+					["columns"] = 15,
 					["y"] = -168.1566696880938,
 					["x"] = -147.0791459155817,
-					["bagBreak"] = false,
+					["itemScale"] = 1,
 					["borderColor"] = {
 					},
 					["reverseSlots"] = false,
 					["spacing"] = 6,
-					["itemScale"] = 1,
-					["columns"] = 15,
+					["bagBreak"] = false,
+					["scale"] = 1.21,
 				},
 				["guild"] = {
 					["rules"] = {
@@ -334,16 +334,16 @@ Bagnon_Sets = {
 	["mineColor"] = {
 	},
 	["version"] = "10.1.1",
-	["enchantColor"] = {
-	},
+	["glowPoor"] = true,
 	["display"] = {
-		["playerFrame"] = false,
+		["mapFrame"] = true,
 		["vehicle"] = false,
 		["combat"] = true,
-		["mapFrame"] = true,
-	},
-	["fridgeColor"] = {
+		["playerFrame"] = false,
 	},
 	["slotBackground"] = 1,
-	["glowPoor"] = true,
+	["fridgeColor"] = {
+	},
+	["enchantColor"] = {
+	},
 }

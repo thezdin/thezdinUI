@@ -24,10 +24,10 @@ BigWigs3DB = {
 		["BigWigs_Bosses_Rokmora"] = {
 			["profiles"] = {
 				["Default"] = {
-					[188169] = 4178679,
-					[198024] = 0,
-					[192800] = 0,
 					[188114] = 3064567,
+					[188169] = 4178679,
+					[192800] = 0,
+					[198024] = 0,
 				},
 			},
 		},
@@ -76,41 +76,14 @@ BigWigs3DB = {
 					["fontName"] = "ElvUI D",
 					["BigWigsAnchor_height"] = 30.00003814697266,
 					["visibleBarLimitEmph"] = 3,
-					["BigWigsEmphasizeAnchor_x"] = 1436.800984827714,
 					["BigWigsEmphasizeAnchor_width"] = 300.0000915527344,
+					["BigWigsEmphasizeAnchor_x"] = 1436.800984827714,
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_Victory"] = {
 		},
 		["LibDualSpec-1.0"] = {
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Bosses_Neltharions Lair Trash"] = {
-			["profiles"] = {
-				["Default"] = {
-					[193505] = 3133687,
-				},
-			},
-		},
-		["BigWigs_Plugins_Proximity"] = {
-			["profiles"] = {
-				["Default"] = {
-					["height"] = 187.5555725097656,
-					["posy"] = 434.1330494774593,
-					["posx"] = 346.3994156201443,
-					["width"] = 210.2221374511719,
-				},
-			},
-		},
-		["BigWigs_Bosses_Freehold Trash"] = {
-			["profiles"] = {
-				["Default"] = {
-					[257908] = 4186359,
-					[258323] = 4186359,
-				},
-			},
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -133,21 +106,48 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Neltharions Lair Trash"] = {
+			["profiles"] = {
+				["Default"] = {
+					[193505] = 3133687,
+				},
+			},
+		},
+		["BigWigs_Bosses_Freehold Trash"] = {
+			["profiles"] = {
+				["Default"] = {
+					[257908] = 4186359,
+					[258323] = 4186359,
+				},
+			},
+		},
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["height"] = 187.5555725097656,
+					["posy"] = 434.1330494774593,
+					["posx"] = 346.3994156201443,
+					["width"] = 210.2221374511719,
+				},
+			},
+		},
+		["BigWigs_Plugins_Statistics"] = {
+		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_Victory"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
+	},
+	["profileKeys"] = {
+		["Thezdin - Hyjal"] = "Default",
+		["Thez - Hyjal"] = "Default",
+		["Thezidari - Hyjal"] = "Default",
+		["Thezadin - Hyjal"] = "Default",
 	},
 	["global"] = {
 		["watchedMovies"] = {
 			[-2170] = true,
 		},
-	},
-	["profileKeys"] = {
-		["Thezdin - Hyjal"] = "Default",
-		["Thezadin - Hyjal"] = "Default",
-		["Thezidari - Hyjal"] = "Default",
-		["Thez - Hyjal"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
