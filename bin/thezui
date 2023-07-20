@@ -60,11 +60,6 @@ let uiCommands = [
     console.log("Purging Logs");
     exec(`rm -rf ${WOW_PATH}/_retail_/Logs/*`);
   },
-  () => {
-    console.log("Update github.com/thezdin/thezui");
-    let message = "AUTO_UPDATE from [thezui] script: " + new Date();
-    exec(`git add . && git commit -am "${message}" && git push`);
-  },
   async () =>
     new Promise((resolve) => {
       setTimeout(() => {
