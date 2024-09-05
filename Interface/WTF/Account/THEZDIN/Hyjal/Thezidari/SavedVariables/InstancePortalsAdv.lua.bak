@@ -1,3 +1,0 @@
-
-IPAUITrackInstancePortals = true
-IPAUITrackInstancePortalsOnContinents = true

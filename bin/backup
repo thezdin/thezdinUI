@@ -1,0 +1,87 @@
+#!/usr/bin/env node
+
+const { exit } = require("process");
+var exec = require("child_process").exec;
+require("dotenv").config();
+
+const WOW_PATH = process.env.WOW_PATH;
+const DIR = process.env.PWD;
+
+if (!WOW_PATH) {
+  console.error(
+    "------------------------------------------------\nERROR: You need to define WOW_PATH in .env\n------------------------------------------------"
+  );
+  process.exit();
+}
+
+if (!DIR) {
+  console.error(
+    "------------------------------------------------\nERROR: Unable to determine path of current working directory: https://www.ibm.com/docs/en/aix/7.1?topic=p-pwd-command \n------------------------------------------------"
+  );
+  process.exit();
+}
+
+// this is our list of functions
+let uiCommands = [
+  () => {
+    console.log(DIR);
+  },
+  () => {
+    console.log("Backing up Interface/WTF");
+    exec(`tar -zcvf ${DIR}/thezui-wtf.tar.gz ${WOW_PATH}/_retail_/WTF/`);
+  },
+  () => {
+    console.log("Backing up Interface/Fonts");
+    exec(`tar -zcvf ${DIR}/thezui-fonts.tar.gz ${WOW_PATH}/_retail_/Fonts/`);
+  },
+  () => {
+    console.log("Backing up Interface/Addons");
+    exec(
+      `tar -zcvf ${DIR}/thezui-addons.tar.gz ${WOW_PATH}/_retail_/Interface/`
+    );
+  },
+  () => {
+    console.log("Cloning WTF interface settings into git");
+    exec(`cp -R ${WOW_PATH}/_retail_/WTF/* Interface/WTF`);
+  },
+  () => {
+    console.log("Removing all chat history");
+    exec('find . -name "*Prat*" && find . -name "*Prat*" -exec /bin/rm {} ;');
+  },
+  () => {
+    console.log("Purging `Errors`");
+    exec(`rm -rf ${WOW_PATH}/_retail_/Errors/*`);
+  },
+  () => {
+    console.log("Purging Cache");
+    exec(`rm -rf ${WOW_PATH}/_retail_/Cache/*`);
+  },
+  () => {
+    console.log("Purging Logs");
+    exec(`rm -rf ${WOW_PATH}/_retail_/Logs/*`);
+  },
+  async () =>
+    new Promise((resolve) => {
+      setTimeout(() => {
+        console.log("Asynchronous Function Called");
+
+        // // -------------------------------
+        // // Fetch latest version of addons
+        // // -------------------------------
+
+        resolve(true);
+      }, 100);
+    }),
+  () => {
+    console.log("... done");
+  },
+];
+
+// this function will be responsible
+// for executing all functions of list
+let updateWoWInterface = async (uiCommands) => {
+  return Promise.all(uiCommands.map((func) => func()));
+};
+
+// calling main function
+updateWoWInterface(uiCommands);
