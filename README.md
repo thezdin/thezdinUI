@@ -17,7 +17,7 @@ These tools require [NodeJS be installed](https://nodejs.org/en/learn/getting-st
 
 Open `.env` and set values
 
-**If you're using WSL, specify the `/mnt/...` path**
+**IMPORTANT:** If you're using WSL, specify the `/mnt/...` path
 
 - WOW_PATH=/path/to/WoW
 - SERVER={SERVER}-US
@@ -26,7 +26,6 @@ Open `.env` and set values
 ### Run
 
     node bin/backup
-
 
 ## World of WarCraft Addon
 
