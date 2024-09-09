@@ -9,7 +9,28 @@ mainFrame.TitleBg:SetHeight(30)
 mainFrame.title = mainFrame:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
 mainFrame.title:SetPoint("TOPLEFT", mainFrame.TitleBg, "TOPLEFT", 5, -3)
 mainFrame.title:SetText("MyAddon")
+
+--------------------------------- 
+-- Buttons 
+--------------------------------- 
+-- Save Button: 
+mainFrame.saveBtn = CreateFrame("Button", nil, mainFrame, "GameMenuButtonTemplate"); mainFrame.saveBtn:SetPoint("CENTER", mainFrame, "TOP", 0, -70); mainFrame.saveBtn:SetSize(140, 40); mainFrame.saveBtn:SetText("Save"); mainFrame.saveBtn:SetNormalFontObject("GameFontNormalLarge"); mainFrame.saveBtn:SetHighlightFontObject("GameFontHighlightLarge");  
+
+-- Reset Button: mainFrame.resetBtn = CreateFrame("Button", nil, mainFrame, "GameMenuButtonTemplate"); 
+mainFrame.resetBtn:SetPoint("TOP", mainFrame.saveBtn, "BOTTOM", 0, -10); mainFrame.resetBtn:SetSize(140, 40); mainFrame.resetBtn:SetText("Reset"); mainFrame.resetBtn:SetNormalFontObject("GameFontNormalLarge"); mainFrame.resetBtn:SetHighlightFontObject("GameFontHighlightLarge");  
+
+-- Load Button: mainFrame.loadBtn = CreateFrame("Button", nil, mainFrame, "GameMenuButtonTemplate"); 
+mainFrame.loadBtn:SetPoint("TOP", mainFrame.resetBtn, "BOTTOM", 0, -10); mainFrame.loadBtn:SetSize(140, 40); mainFrame.loadBtn:SetText("Load"); mainFrame.loadBtn:SetNormalFontObject("GameFontNormalLarge"); mainFrame.loadBtn:SetHighlightFontObject("GameFontHighlightLarge");  --------------------------------- 
+
+--------------------------------- 
+-- Check Buttons 
+--------------------------------- 
+-- Check Button 1: 
+mainFrame.checkBtn1 = CreateFrame("CheckButton", nil, mainFrame, "UICheckButtonTemplate"); mainFrame.checkBtn1:SetPoint("TOPLEFT", mainFrame.slider1, "BOTTOMLEFT", -10, -40); mainFrame.checkBtn1.text:SetText("My Check Button!");
+
 mainFrame:Hide()
+
+-- Make it moveable and stuff
 mainFrame:EnableMouse(true)
 mainFrame:SetMovable(true)
 mainFrame:RegisterForDrag("LeftButton")
